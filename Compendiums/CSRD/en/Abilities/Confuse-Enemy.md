@@ -2,13 +2,13 @@
 aliases:
   - Confuse Enemy
 tags:
-  - Compendium_CSRD_en_Abilities
+  - Compendium/CSRD/en/Abilities
   - Ability
-  - Ability_Enabler
-  - Ability_Cost_4
-  - Ability_Tier_Mid
-  - Ability_Pool_Intellect
-  - Ability_Categories_Protection
+  - Ability/Enabler
+  - Ability/Cost/4
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Protection
 ---
   
     
