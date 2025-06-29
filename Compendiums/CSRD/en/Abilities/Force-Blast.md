@@ -2,12 +2,12 @@
 aliases:
   - Force Blast
 tags:
-  - Compendium/CSRD/en/Abilities
+  - Compendium_CSRD_en_Abilities
   - Ability
-  - Ability/Action
-  - Ability/Cost/NA
-  - Ability/Tier/Mid
-  - Ability/Categories/Special-Attack
+  - Ability_Action
+  - Ability_Cost_NA
+  - Ability_Tier_Mid
+  - Ability_Categories_Special-Attack
 ---
   
     
