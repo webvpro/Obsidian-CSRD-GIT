@@ -2,14 +2,14 @@
 aliases:
   - Disarming Attack
 tags:
-  - Compendium/CSRD/en/Abilities
+  - Compendium_CSRD_en_Abilities
   - Ability
-  - Ability/Action
-  - Ability/Cost/5
-  - Ability/Tier/High
-  - Ability/Pool/Speed
-  - Ability/Categories/Meta
-  - Ability/Categories/Special-Attack
+  - Ability_Action
+  - Ability_Cost_5
+  - Ability_Tier_High
+  - Ability_Pool_Speed
+  - Ability_Categories_Meta
+  - Ability_Categories_Special-Attack
 ---
   
     
