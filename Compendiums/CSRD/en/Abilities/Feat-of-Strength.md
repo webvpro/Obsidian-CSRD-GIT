@@ -2,13 +2,13 @@
 aliases:
   - Feat of Strength
 tags:
-  - Compendium/CSRD/en/Abilities
+  - Compendium_CSRD_en_Abilities
   - Ability
-  - Ability/Enabler
-  - Ability/Cost/1
-  - Ability/Tier/Low
-  - Ability/Pool/Might
-  - Ability/Categories/Task
+  - Ability_Enabler
+  - Ability_Cost_1
+  - Ability_Tier_Low
+  - Ability_Pool_Might
+  - Ability_Categories_Task
 ---
   
     
