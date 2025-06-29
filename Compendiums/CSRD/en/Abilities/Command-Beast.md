@@ -2,13 +2,13 @@
 aliases:
   - Command Beast
 tags:
-  - Compendium_CSRD_en_Abilities
+  - Compendium/CSRD/en/Abilities
   - Ability
-  - Ability_Action
-  - Ability_Cost_3
-  - Ability_Tier_NA
-  - Ability_Pool_Intellect
-  - Ability_Categories_NA
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/NA
+  - Ability/Pool/Intellect
+  - Ability/Categories/NA
 ---
   
     
