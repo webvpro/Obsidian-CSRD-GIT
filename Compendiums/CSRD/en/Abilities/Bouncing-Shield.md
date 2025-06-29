@@ -2,12 +2,12 @@
 aliases:
   - Bouncing Shield
 tags:
-  - Compendium_CSRD_en_Abilities
+  - Compendium/CSRD/en/Abilities
   - Ability
-  - Ability_Action
-  - Ability_Cost_NA
-  - Ability_Tier_High
-  - Ability_Categories_Special-Attack
+  - Ability/Action
+  - Ability/Cost/NA
+  - Ability/Tier/High
+  - Ability/Categories/Special-Attack
 ---
   
     
