@@ -2,13 +2,13 @@
 aliases:
   - Assisted Sight
 tags:
-  - Compendium/CSRD/en/Abilities
+  - Compendium_CSRD_en_Abilities
   - Ability
-  - Ability/Enabler
-  - Ability/Cost/3
-  - Ability/Tier/NA
-  - Ability/Pool/Intellect
-  - Ability/Categories/NA
+  - Ability_Enabler
+  - Ability_Cost_3
+  - Ability_Tier_NA
+  - Ability_Pool_Intellect
+  - Ability_Categories_NA
 ---
   
     
