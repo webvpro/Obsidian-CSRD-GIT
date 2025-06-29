@@ -2,13 +2,13 @@
 aliases:
   - Enlarge
 tags:
-  - Compendium_CSRD_en_Abilities
+  - Compendium/CSRD/en/Abilities
   - Ability
-  - Ability_Action
-  - Ability_Cost_1
-  - Ability_Tier_Low
-  - Ability_Pool_Might
-  - Ability_Categories_Transform
+  - Ability/Action
+  - Ability/Cost/1
+  - Ability/Tier/Low
+  - Ability/Pool/Might
+  - Ability/Categories/Transform
 ---
   
     
