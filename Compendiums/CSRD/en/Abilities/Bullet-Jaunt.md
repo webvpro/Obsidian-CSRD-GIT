@@ -2,12 +2,12 @@
 aliases:
   - Bullet Jaunt
 tags:
-  - Compendium_CSRD_en_Abilities_Bullet-Jaunt
+  - Compendium/CSRD/en/Abilities/Bullet-Jaunt
   - Ability
-  - Ability_Action
-  - Ability_Cost_NA
-  - Ability_Tier_NA
-  - Ability_Categories_NA
+  - Ability/Action
+  - Ability/Cost/NA
+  - Ability/Tier/NA
+  - Ability/Categories/NA
 ---
   
     
