@@ -2,13 +2,13 @@
 aliases:
   - Elusive
 tags:
-  - Compendium/CSRD/en/Abilities
+  - Compendium_CSRD_en_Abilities
   - Ability
-  - Ability/Enabler
-  - Ability/Cost/2
-  - Ability/Tier/Low
-  - Ability/Pool/Speed
-  - Ability/Categories/Meta
+  - Ability_Enabler
+  - Ability_Cost_2
+  - Ability_Tier_Low
+  - Ability_Pool_Speed
+  - Ability_Categories_Meta
 ---
   
     
