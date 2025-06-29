@@ -2,13 +2,13 @@
 aliases:
   - Energy Protection
 tags:
-  - Compendium_CSRD_en_Abilities
+  - Compendium/CSRD/en/Abilities
   - Ability
-  - Ability_Action
-  - Ability_Cost_3
-  - Ability_Tier_Mid
-  - Ability_Pool_Intellect
-  - Ability_Categories_Protection
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Protection
 ---
   
     
