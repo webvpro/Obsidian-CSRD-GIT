@@ -2,12 +2,12 @@
 aliases:
   - Absorb Kinetic Energy
 tags:
-  - Compendium/CSRD/en/Abilities
+  - Compendium_CSRD_en_Abilities
   - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Low
-  - Ability/Categories/Protection
+  - Ability_Enabler
+  - Ability_Cost_NA
+  - Ability_Tier_Low
+  - Ability_Categories_Protection
 ---
   
     
