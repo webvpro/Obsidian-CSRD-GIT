@@ -2,8 +2,8 @@
 aliases:
   - Doesn't Do Much
 tags:
-  - Compendium_CSRD_en_Foci_Doesnt-Do-Much
-  - Focus_Category_Basic
+  - Compendium/CSRD/en/Foci/Doesnt-Do-Much
+  - Focus/Category/Basic
 ---
   
     
