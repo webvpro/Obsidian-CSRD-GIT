@@ -2,8 +2,8 @@
 aliases:
   - Drives Like a Maniac
 tags:
-  - Compendium_CSRD_en_Foci
-  - Focus_Category_
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/
 ---
   
     
