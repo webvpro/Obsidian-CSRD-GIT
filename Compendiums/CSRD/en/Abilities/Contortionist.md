@@ -2,14 +2,14 @@
 aliases:
   - Contortionist
 tags:
-  - Compendium_CSRD_en_Abilities
+  - Compendium/CSRD/en/Abilities
   - Ability
-  - Ability_Enabler
-  - Ability_Cost_2
-  - Ability_Tier_Low
-  - Ability_Pool_Speed
-  - Ability_Categories_Movement
-  - Ability_Categories_Task
+  - Ability/Enabler
+  - Ability/Cost/2
+  - Ability/Tier/Low
+  - Ability/Pool/Speed
+  - Ability/Categories/Movement
+  - Ability/Categories/Task
 ---
   
     
