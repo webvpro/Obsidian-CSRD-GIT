@@ -2,13 +2,13 @@
 aliases:
   - Biomorphic Healing
 tags:
-  - Compendium_CSRD_en_Abilities
+  - Compendium/CSRD/en/Abilities
   - Ability
-  - Ability_Action
-  - Ability_Cost_4
-  - Ability_Tier_Mid
-  - Ability_Pool_Might
-  - Ability_Categories_Cure
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/Mid
+  - Ability/Pool/Might
+  - Ability/Categories/Cure
 ---
   
     
