@@ -2,13 +2,13 @@
 aliases:
   - Brainwashing
 tags:
-  - Compendium/CSRD/en/Abilities
+  - Compendium_CSRD_en_Abilities
   - Ability
-  - Ability/Action
-  - Ability/Cost/6
-  - Ability/Tier/High
-  - Ability/Pool/Intellect
-  - Ability/Categories/Control
+  - Ability_Action
+  - Ability_Cost_6
+  - Ability_Tier_High
+  - Ability_Pool_Intellect
+  - Ability_Categories_Control
 ---
   
     
