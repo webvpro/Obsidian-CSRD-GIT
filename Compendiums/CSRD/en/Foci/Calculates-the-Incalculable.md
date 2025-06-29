@@ -2,8 +2,8 @@
 aliases:
   - Calculates the Incalculable
 tags:
-  - Compendium_CSRD_en_Foci
-  - Focus_Category_Environment-Manipulation
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Environment-Manipulation
 ---
   
     
