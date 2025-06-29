@@ -2,12 +2,12 @@
 aliases:
   - Dual Medium Wield
 tags:
-  - Compendium_CSRD_en_Abilities
+  - Compendium/CSRD/en/Abilities
   - Ability
-  - Ability_Enabler
-  - Ability_Cost_NA
-  - Ability_Tier_Mid
-  - Ability_Categories_Special-Attack
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Special-Attack
 ---
   
     
