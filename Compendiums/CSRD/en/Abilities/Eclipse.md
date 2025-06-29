@@ -2,13 +2,13 @@
 aliases:
   - Eclipse
 tags:
-  - Compendium_CSRD_en_Abilities_Eclipse
+  - Compendium/CSRD/en/Abilities/Eclipse
   - Ability
-  - Ability_Action
-  - Ability_Cost_2
-  - Ability_Tier_Low
-  - Ability_Pool_Intellect
-  - Ability_Categories_
+  - Ability/Action
+  - Ability/Cost/2
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/
 ---
   
     
