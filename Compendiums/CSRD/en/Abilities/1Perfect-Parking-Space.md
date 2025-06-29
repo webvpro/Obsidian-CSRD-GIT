@@ -2,13 +2,13 @@
 aliases:
   - 1Perfect Parking Space
 tags:
-  - Compendium_CSRD_en_Abilities_1Perfect-Parking-Space
+  - Compendium/CSRD/en/Abilities/1Perfect-Parking-Space
   - Ability
-  - Ability_Action
-  - Ability_Cost_3
-  - Ability_Tier_Mid
-  - Ability_Pool_Intellect
-  - Ability_Categories_Magic_Modern
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Magic/Modern
 ---
   
     
