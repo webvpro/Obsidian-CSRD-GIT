@@ -2,13 +2,13 @@
 aliases:
   - Brute Strike
 tags:
-  - Compendium_CSRD_en_Abilities
+  - Compendium/CSRD/en/Abilities
   - Ability
-  - Ability_Enabler
-  - Ability_Cost_4
-  - Ability_Tier_NA
-  - Ability_Pool_Might
-  - Ability_Categories_NA
+  - Ability/Enabler
+  - Ability/Cost/4
+  - Ability/Tier/NA
+  - Ability/Pool/Might
+  - Ability/Categories/NA
 ---
   
     
