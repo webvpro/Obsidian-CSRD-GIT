@@ -2,13 +2,13 @@
 aliases:
   - Advantage to Disadvantage
 tags:
-  - Compendium/CSRD/en/Abilities
+  - Compendium_CSRD_en_Abilities
   - Ability
-  - Ability/Action
-  - Ability/Cost/3
-  - Ability/Tier/Low
-  - Ability/Pool/Speed
-  - Ability/Categories/Special-Attack
+  - Ability_Action
+  - Ability_Cost_3
+  - Ability_Tier_Low
+  - Ability_Pool_Speed
+  - Ability_Categories_Special-Attack
 ---
   
     
