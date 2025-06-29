@@ -2,13 +2,13 @@
 aliases:
   - Blinding Attack
 tags:
-  - Compendium_CSRD_en_Abilities
+  - Compendium/CSRD/en/Abilities
   - Ability
-  - Ability_Action
-  - Ability_Cost_3
-  - Ability_Tier_High
-  - Ability_Pool_Speed
-  - Ability_Categories_Special-Attack
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/High
+  - Ability/Pool/Speed
+  - Ability/Categories/Special-Attack
 ---
   
     
