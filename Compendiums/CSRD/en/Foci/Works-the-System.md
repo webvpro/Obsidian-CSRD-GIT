@@ -2,8 +2,8 @@
 aliases:
   - Works the System
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/Influence
+  - Compendium_CSRD_en_Foci
+  - Focus_Category_Influence
 ---
   
     
