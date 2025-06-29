@@ -2,14 +2,14 @@
 aliases:
   - Blackout
 tags:
-  - Compendium_CSRD_en_Abilities_Blackout
+  - Compendium/CSRD/en/Abilities/Blackout
   - Ability
-  - Ability_Action
-  - Ability_Cost_3
-  - Ability_Tier_Mid
-  - Ability_Pool_Intellect
-  - Ability_Categories_Magic
-  - Ability_Categories_Fantasy_Modern
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Magic
+  - Ability/Categories/Fantasy/Modern
 ---
   
     
