@@ -2,14 +2,14 @@
 aliases:
   - Duel to the Death
 tags:
-  - Compendium/CSRD/en/Abilities
+  - Compendium_CSRD_en_Abilities
   - Ability
-  - Ability/Action
-  - Ability/Cost/5
-  - Ability/Tier/High
-  - Ability/Pool/Speed
-  - Ability/Categories/Attack-Skill
-  - Ability/Categories/Meta
+  - Ability_Action
+  - Ability_Cost_5
+  - Ability_Tier_High
+  - Ability_Pool_Speed
+  - Ability_Categories_Attack-Skill
+  - Ability_Categories_Meta
 ---
   
     
