@@ -2,8 +2,8 @@
 aliases:
   - Entertains
 tags:
-  - Compendium_CSRD_en_Foci
-  - Focus_Category_Support
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Support
 ---
   
     
