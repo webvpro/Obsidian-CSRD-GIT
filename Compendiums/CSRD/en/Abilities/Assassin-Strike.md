@@ -2,13 +2,13 @@
 aliases:
   - Assassin Strike
 tags:
-  - Compendium/CSRD/en/Abilities
+  - Compendium_CSRD_en_Abilities
   - Ability
-  - Ability/Enabler
-  - Ability/Cost/5
-  - Ability/Tier/High
-  - Ability/Pool/Intellect
-  - Ability/Categories/Special-Attack
+  - Ability_Enabler
+  - Ability_Cost_5
+  - Ability_Tier_High
+  - Ability_Pool_Intellect
+  - Ability_Categories_Special-Attack
 ---
   
     
