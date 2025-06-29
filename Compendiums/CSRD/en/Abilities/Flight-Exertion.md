@@ -2,14 +2,14 @@
 aliases:
   - Flight Exertion
 tags:
-  - Compendium/CSRD/en/Abilities
+  - Compendium_CSRD_en_Abilities
   - Ability
-  - Ability/Enabler
-  - Ability/Cost/3
-  - Ability/Tier/NA
-  - Ability/Pool/Might
-  - Ability/Pool/Speed
-  - Ability/Categories/NA
+  - Ability_Enabler
+  - Ability_Cost_3
+  - Ability_Tier_NA
+  - Ability_Pool_Might
+  - Ability_Pool_Speed
+  - Ability_Categories_NA
 ---
   
     
