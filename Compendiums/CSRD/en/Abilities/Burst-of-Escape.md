@@ -2,13 +2,13 @@
 aliases:
   - Burst of Escape
 tags:
-  - Compendium_CSRD_en_Abilities
+  - Compendium/CSRD/en/Abilities
   - Ability
-  - Ability_Enabler
-  - Ability_Cost_5
-  - Ability_Tier_High
-  - Ability_Pool_Speed
-  - Ability_Categories_Meta
+  - Ability/Enabler
+  - Ability/Cost/5
+  - Ability/Tier/High
+  - Ability/Pool/Speed
+  - Ability/Categories/Meta
 ---
   
     
