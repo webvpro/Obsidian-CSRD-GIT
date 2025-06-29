@@ -2,13 +2,13 @@
 aliases:
   - Danger Instinct
 tags:
-  - Compendium/CSRD/en/Abilities
+  - Compendium_CSRD_en_Abilities
   - Ability
-  - Ability/Enabler
-  - Ability/Cost/3
-  - Ability/Tier/Low
-  - Ability/Pool/Speed
-  - Ability/Categories/Movement
+  - Ability_Enabler
+  - Ability_Cost_3
+  - Ability_Tier_Low
+  - Ability_Pool_Speed
+  - Ability_Categories_Movement
 ---
   
     
