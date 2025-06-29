@@ -2,13 +2,13 @@
 aliases:
   - Answering Attack
 tags:
-  - Compendium_CSRD_en_Abilities
+  - Compendium/CSRD/en/Abilities
   - Ability
-  - Ability_Enabler
-  - Ability_Cost_3
-  - Ability_Tier_Mid
-  - Ability_Pool_Speed
-  - Ability_Categories_Special-Attack
+  - Ability/Enabler
+  - Ability/Cost/3
+  - Ability/Tier/Mid
+  - Ability/Pool/Speed
+  - Ability/Categories/Special-Attack
 ---
   
     
