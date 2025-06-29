@@ -2,13 +2,13 @@
 aliases:
   - Field of Destruction
 tags:
-  - Compendium/CSRD/en/Abilities
+  - Compendium_CSRD_en_Abilities
   - Ability
-  - Ability/Enabler
-  - Ability/Cost/4
-  - Ability/Tier/Low
-  - Ability/Pool/Might
-  - Ability/Categories/Protection
+  - Ability_Enabler
+  - Ability_Cost_4
+  - Ability_Tier_Low
+  - Ability_Pool_Might
+  - Ability_Categories_Protection
 ---
   
     
