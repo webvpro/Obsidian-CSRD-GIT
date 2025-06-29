@@ -2,13 +2,13 @@
 aliases:
   - Do You Know Who I Am?
 tags:
-  - Compendium_CSRD_en_Abilities_Do-You-Know-Who-I-Am
+  - Compendium/CSRD/en/Abilities/Do-You-Know-Who-I-Am
   - Ability
-  - Ability_Action
-  - Ability_Cost_3
-  - Ability_Tier_High
-  - Ability_Pool_Intellect
-  - Ability_Categories_Special-Attack
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Special-Attack
 ---
   
     
