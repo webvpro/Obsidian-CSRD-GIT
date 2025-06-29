@@ -2,11 +2,11 @@
 aliases:
   - Blessing of the Gods
 tags:
-  - Compendium_CSRD_en_Rules_Abilities
+  - Compendium/CSRD/en/Rules/Abilities
   - Ability
-  - Ability_Action
-  - Ability_Cost_0
-  - Ability_Tier_NA
+  - Ability/Action
+  - Ability/Cost/0
+  - Ability/Tier/NA
 ---
   
     
