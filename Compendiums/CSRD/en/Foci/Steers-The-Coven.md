@@ -2,8 +2,8 @@
 aliases:
   - Steers The Coven
 tags:
-  - Compendium/CSRD/en/Foci/Steers-The-Coven
-  - Focus/Category/Fantasy/Modern
+  - Compendium_CSRD_en_Foci_Steers-The-Coven
+  - Focus_Category_Fantasy_Modern
 ---
   
     
