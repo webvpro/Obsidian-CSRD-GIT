@@ -2,13 +2,13 @@
 aliases:
   - Center of Attention
 tags:
-  - Compendium_CSRD_en_Abilities
+  - Compendium/CSRD/en/Abilities
   - Ability
-  - Ability_Action
-  - Ability_Cost_5
-  - Ability_Tier_Mid
-  - Ability_Pool_Intellect
-  - Ability_Categories_Special-Attack
+  - Ability/Action
+  - Ability/Cost/5
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Special-Attack
 ---
   
     
