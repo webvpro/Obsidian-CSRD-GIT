@@ -2,13 +2,13 @@
 aliases:
   - As Foretold in Prophecy
 tags:
-  - Compendium/CSRD/en/Abilities
+  - Compendium_CSRD_en_Abilities
   - Ability
-  - Ability/Action
-  - Ability/Cost/NA
-  - Ability/Tier/High
-  - Ability/Categories/Attack-Skill
-  - Ability/Categories/Task
+  - Ability_Action
+  - Ability_Cost_NA
+  - Ability_Tier_High
+  - Ability_Categories_Attack-Skill
+  - Ability_Categories_Task
 ---
   
     
