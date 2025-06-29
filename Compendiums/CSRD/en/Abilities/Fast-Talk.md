@@ -2,13 +2,13 @@
 aliases:
   - Fast Talk
 tags:
-  - Compendium_CSRD_en_Abilities
+  - Compendium/CSRD/en/Abilities
   - Ability
-  - Ability_Action
-  - Ability_Cost_1
-  - Ability_Tier_Low
-  - Ability_Pool_Intellect
-  - Ability_Categories_Control
+  - Ability/Action
+  - Ability/Cost/1
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Control
 ---
   
     

@@ -2,13 +2,13 @@
 aliases:
   - Amazing Leap
 tags:
-  - Compendium_CSRD_en_Abilities
+  - Compendium/CSRD/en/Abilities
   - Ability
-  - Ability_Action
-  - Ability_Cost_2
-  - Ability_Tier_NA
-  - Ability_Pool_Might
-  - Ability_Categories_NA
+  - Ability/Action
+  - Ability/Cost/2
+  - Ability/Tier/NA
+  - Ability/Pool/Might
+  - Ability/Categories/NA
 ---
   
     

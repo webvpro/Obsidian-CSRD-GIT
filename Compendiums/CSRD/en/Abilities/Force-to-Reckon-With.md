@@ -2,12 +2,12 @@
 aliases:
   - Force to Reckon With
 tags:
-  - Compendium_CSRD_en_Abilities
+  - Compendium/CSRD/en/Abilities
   - Ability
-  - Ability_Enabler
-  - Ability_Cost_NA
-  - Ability_Tier_Mid
-  - Ability_Categories_Environment
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Environment
 ---
   
     

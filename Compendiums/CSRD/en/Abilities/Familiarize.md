@@ -2,12 +2,12 @@
 aliases:
   - Familiarize
 tags:
-  - Compendium_CSRD_en_Abilities
+  - Compendium/CSRD/en/Abilities
   - Ability
-  - Ability_Action
-  - Ability_Cost_NA
-  - Ability_Tier_Low
-  - Ability_Categories_Senses
+  - Ability/Action
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Senses
 ---
   
     

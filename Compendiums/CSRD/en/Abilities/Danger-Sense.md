@@ -2,13 +2,13 @@
 aliases:
   - Danger Sense
 tags:
-  - Compendium_CSRD_en_Abilities
+  - Compendium/CSRD/en/Abilities
   - Ability
-  - Ability_Enabler
-  - Ability_Cost_1
-  - Ability_Tier_Low
-  - Ability_Pool_Speed
-  - Ability_Categories_Task
+  - Ability/Enabler
+  - Ability/Cost/1
+  - Ability/Tier/Low
+  - Ability/Pool/Speed
+  - Ability/Categories/Task
 ---
   
     

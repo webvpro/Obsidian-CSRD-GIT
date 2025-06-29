@@ -2,12 +2,12 @@
 aliases:
   - Closed Mind
 tags:
-  - Compendium_CSRD_en_Abilities
+  - Compendium/CSRD/en/Abilities
   - Ability
-  - Ability_Enabler
-  - Ability_Cost_NA
-  - Ability_Tier_Low
-  - Ability_Categories_Protection
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Protection
 ---
   
     

@@ -2,14 +2,14 @@
 aliases:
   - Arcane Flare
 tags:
-  - Compendium_CSRD_en_Abilities
+  - Compendium/CSRD/en/Abilities
   - Ability
-  - Ability_Action
-  - Ability_Cost_1
-  - Ability_Tier_Low
-  - Ability_Pool_Intellect
-  - Ability_Categories_Meta
-  - Ability_Categories_Special-Attack
+  - Ability/Action
+  - Ability/Cost/1
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Meta
+  - Ability/Categories/Special-Attack
 ---
   
     
