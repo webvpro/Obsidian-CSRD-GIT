@@ -2,14 +2,14 @@
 aliases:
   - Dodge and Respond
 tags:
-  - Compendium/CSRD/en/Abilities
+  - Compendium_CSRD_en_Abilities
   - Ability
-  - Ability/Enabler
-  - Ability/Cost/3
-  - Ability/Tier/Mid
-  - Ability/Pool/Might
-  - Ability/Categories/Protection
-  - Ability/Categories/Special-Attack
+  - Ability_Enabler
+  - Ability_Cost_3
+  - Ability_Tier_Mid
+  - Ability_Pool_Might
+  - Ability_Categories_Protection
+  - Ability_Categories_Special-Attack
 ---
   
     
