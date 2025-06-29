@@ -2,13 +2,13 @@
 aliases:
   - Flamboyant Boast
 tags:
-  - Compendium_CSRD_en_Abilities
+  - Compendium/CSRD/en/Abilities
   - Ability
-  - Ability_Enabler
-  - Ability_Cost_1
-  - Ability_Tier_Mid
-  - Ability_Pool_Intellect
-  - Ability_Categories_Social
+  - Ability/Enabler
+  - Ability/Cost/1
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Social
 ---
   
     
