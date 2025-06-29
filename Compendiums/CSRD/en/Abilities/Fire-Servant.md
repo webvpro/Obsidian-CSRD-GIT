@@ -2,13 +2,13 @@
 aliases:
   - Fire Servant
 tags:
-  - Compendium_CSRD_en_Abilities
+  - Compendium/CSRD/en/Abilities
   - Ability
-  - Ability_Action
-  - Ability_Cost_6
-  - Ability_Tier_High
-  - Ability_Pool_Intellect
-  - Ability_Categories_Companion
+  - Ability/Action
+  - Ability/Cost/6
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Companion
 ---
   
     
