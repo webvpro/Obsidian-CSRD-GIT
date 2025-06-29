@@ -2,14 +2,14 @@
 aliases:
   - Extreme Mastery
 tags:
-  - Compendium/CSRD/en/Abilities
+  - Compendium_CSRD_en_Abilities
   - Ability
-  - Ability/Enabler
-  - Ability/Cost/6
-  - Ability/Tier/High
-  - Ability/Pool/Might
-  - Ability/Pool/Speed
-  - Ability/Categories/Meta
+  - Ability_Enabler
+  - Ability_Cost_6
+  - Ability_Tier_High
+  - Ability_Pool_Might
+  - Ability_Pool_Speed
+  - Ability_Categories_Meta
 ---
   
     
