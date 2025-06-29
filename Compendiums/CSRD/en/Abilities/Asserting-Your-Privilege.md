@@ -2,13 +2,13 @@
 aliases:
   - Asserting Your Privilege
 tags:
-  - Compendium/CSRD/en/Abilities
+  - Compendium_CSRD_en_Abilities
   - Ability
-  - Ability/Action
-  - Ability/Cost/3
-  - Ability/Tier/High
-  - Ability/Pool/Intellect
-  - Ability/Categories/Special-Attack
+  - Ability_Action
+  - Ability_Cost_3
+  - Ability_Tier_High
+  - Ability_Pool_Intellect
+  - Ability_Categories_Special-Attack
 ---
   
     
