@@ -2,8 +2,8 @@
 aliases:
   - Transmits Energy
 tags:
-  - Compendium/CSRD/en/Foci/Transmits-Energy
-  - Focus/Category/Fantasy/Modern
+  - Compendium_CSRD_en_Foci_Transmits-Energy
+  - Focus_Category_Fantasy_Modern
 ---
   
     

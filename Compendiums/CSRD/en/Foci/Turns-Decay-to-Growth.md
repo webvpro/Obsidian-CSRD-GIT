@@ -2,8 +2,8 @@
 aliases:
   - Turns Decay to Growth
 tags:
-  - Compendium/CSRD/en/Foci/Turns-Decay-to-Growth
-  - Focus/Category/Fantasy/Modern
+  - Compendium_CSRD_en_Foci_Turns-Decay-to-Growth
+  - Focus_Category_Fantasy_Modern
 ---
   
     

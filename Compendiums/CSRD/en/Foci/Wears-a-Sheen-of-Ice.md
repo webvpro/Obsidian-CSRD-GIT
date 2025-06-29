@@ -2,8 +2,8 @@
 aliases:
   - Wears a Sheen of Ice
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/Energy-Manipulation
+  - Compendium_CSRD_en_Foci
+  - Focus_Category_Energy-Manipulation
 ---
   
     

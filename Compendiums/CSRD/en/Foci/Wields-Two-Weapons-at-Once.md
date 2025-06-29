@@ -2,8 +2,8 @@
 aliases:
   - Wields Two Weapons at Once
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/Striker-Combat
+  - Compendium_CSRD_en_Foci
+  - Focus_Category_Striker-Combat
 ---
   
     
