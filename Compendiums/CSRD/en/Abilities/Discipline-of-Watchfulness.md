@@ -2,13 +2,13 @@
 aliases:
   - Discipline of Watchfulness
 tags:
-  - Compendium_CSRD_en_Abilities
+  - Compendium/CSRD/en/Abilities
   - Ability
-  - Ability_Enabler
-  - Ability_Cost_7
-  - Ability_Tier_High
-  - Ability_Pool_Intellect
-  - Ability_Categories_Meta
+  - Ability/Enabler
+  - Ability/Cost/7
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Meta
 ---
   
     
