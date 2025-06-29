@@ -2,12 +2,14 @@
 aliases:
   - Golem Healing
 tags:
-  - Compendium/CSRD/en/Abilities
+  - Compendium_CSRD_en_Abilities
   - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Low
-  - Ability/Categories/Transform
+  - Ability_Enabler
+  - Ability_Cost_NA
+  - Ability_Tier_Low
+  - Ability_Categories_Transform
+  - Compendium_CSRD_en_Foci
+  - Focus_Category_Tank-Combat
 ---
   
     

@@ -2,12 +2,14 @@
 aliases:
   - Trained Basher
 tags:
-  - Compendium/CSRD/en/Abilities
+  - Compendium_CSRD_en_Abilities
   - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Mid
-  - Ability/Categories/Task
+  - Ability_Enabler
+  - Ability_Cost_NA
+  - Ability_Tier_Mid
+  - Ability_Categories_Task
+  - Compendium_CSRD_en_Foci
+  - Focus_Category_Tank-Combat
 ---
   
     
