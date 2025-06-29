@@ -2,12 +2,12 @@
 aliases:
   - Endurance
 tags:
-  - Compendium_CSRD_en_Abilities
+  - Compendium/CSRD/en/Abilities
   - Ability
-  - Ability_Enabler
-  - Ability_Cost_NA
-  - Ability_Tier_Low
-  - Ability_Categories_Cure
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Cure
 ---
   
     
