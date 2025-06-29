@@ -2,8 +2,8 @@
 aliases:
   - Channels Divine Blessings
 tags:
-  - Compendium_CSRD_en_Foci
-  - Focus_Category_Irregular
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Irregular
 ---
   
     
