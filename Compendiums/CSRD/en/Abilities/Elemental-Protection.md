@@ -2,14 +2,14 @@
 aliases:
   - Elemental Protection
 tags:
-  - Compendium/CSRD/en/Abilities
+  - Compendium_CSRD_en_Abilities
   - Ability
-  - Ability/Action
-  - Ability/Cost/4
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Protection
-  - Ability/Categories/Support
+  - Ability_Action
+  - Ability_Cost_4
+  - Ability_Tier_Mid
+  - Ability_Pool_Intellect
+  - Ability_Categories_Protection
+  - Ability_Categories_Support
 ---
   
     
