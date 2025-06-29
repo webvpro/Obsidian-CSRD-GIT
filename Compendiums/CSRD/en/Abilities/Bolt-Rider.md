@@ -2,13 +2,13 @@
 aliases:
   - Bolt Rider
 tags:
-  - Compendium/CSRD/en/Abilities
+  - Compendium_CSRD_en_Abilities
   - Ability
-  - Ability/Action
-  - Ability/Cost/4
-  - Ability/Tier/Low
-  - Ability/Pool/Intellect
-  - Ability/Categories/Movement
+  - Ability_Action
+  - Ability_Cost_4
+  - Ability_Tier_Low
+  - Ability_Pool_Intellect
+  - Ability_Categories_Movement
 ---
   
     
