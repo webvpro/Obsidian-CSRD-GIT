@@ -2,13 +2,13 @@
 aliases:
   - Detect Life
 tags:
-  - Compendium/CSRD/en/Abilities
+  - Compendium_CSRD_en_Abilities
   - Ability
-  - Ability/Action
-  - Ability/Cost/3
-  - Ability/Tier/Mid
-  - Ability/Pool/Might
-  - Ability/Categories/Senses
+  - Ability_Action
+  - Ability_Cost_3
+  - Ability_Tier_Mid
+  - Ability_Pool_Might
+  - Ability_Categories_Senses
 ---
   
     
