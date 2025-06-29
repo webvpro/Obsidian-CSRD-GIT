@@ -2,8 +2,8 @@
 aliases:
   - Dances with Dark Matter
 tags:
-  - Compendium_CSRD_en_Foci
-  - Focus_Category_Energy-Manipulation
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Energy-Manipulation
 ---
   
     
