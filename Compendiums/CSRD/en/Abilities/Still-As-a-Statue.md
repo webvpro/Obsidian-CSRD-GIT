@@ -2,13 +2,15 @@
 aliases:
   - Still As a Statue
 tags:
-  - Compendium/CSRD/en/Abilities
+  - Compendium_CSRD_en_Abilities
   - Ability
-  - Ability/Action
-  - Ability/Cost/5
-  - Ability/Tier/High
-  - Ability/Pool/Might
-  - Ability/Categories/Protection
+  - Ability_Action
+  - Ability_Cost_5
+  - Ability_Tier_High
+  - Ability_Pool_Might
+  - Ability_Categories_Protection
+  - Compendium_CSRD_en_Foci
+  - Focus_Category_Tank-Combat
 ---
   
     
