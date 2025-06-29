@@ -2,13 +2,13 @@
 aliases:
   - Divine Radiance
 tags:
-  - Compendium_CSRD_en_Abilities
+  - Compendium/CSRD/en/Abilities
   - Ability
-  - Ability_Action
-  - Ability_Cost_2
-  - Ability_Tier_Mid
-  - Ability_Pool_Intellect
-  - Ability_Categories_Special-Attack
+  - Ability/Action
+  - Ability/Cost/2
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Special-Attack
 ---
   
     
