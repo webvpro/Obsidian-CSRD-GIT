@@ -2,15 +2,13 @@
 aliases:
   - Deep Reserves
 tags:
-  - Compendium_CSRD_en_Abilities
+  - Compendium/CSRD/en/Abilities
   - Ability
-  - Ability_Action
-  - Ability_Cost_NA
-  - Ability_Tier_High
-  - Ability_Categories_Cure
-  - Ability_Categories_Meta
-  - Compendium_CSRD_en_Foci
-  - Focus_Category_Tank-Combat
+  - Ability/Action
+  - Ability/Cost/NA
+  - Ability/Tier/High
+  - Ability/Categories/Cure
+  - Ability/Categories/Meta
 ---
   
     

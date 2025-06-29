@@ -2,13 +2,13 @@
 aliases:
   - Biomorphic Detonation
 tags:
-  - Compendium/CSRD/en/Abilities
+  - Compendium_CSRD_en_Abilities
   - Ability
-  - Ability/Action
-  - Ability/Cost/7
-  - Ability/Tier/High
-  - Ability/Pool/Might
-  - Ability/Categories/Special-Attack
+  - Ability_Action
+  - Ability_Cost_7
+  - Ability_Tier_High
+  - Ability_Pool_Might
+  - Ability_Categories_Special-Attack
 ---
   
     

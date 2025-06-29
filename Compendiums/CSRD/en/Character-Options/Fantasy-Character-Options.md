@@ -152,6 +152,6 @@ If a player wants to play a nearly human species without any exceptional or uniq
 >[Halfling](Halfling.md)  
 >[Lizardfolk](Lizardfolk.md)    
   
-### ![Optional-Rule-Spellcasting > Optional Rule Spellcasting](Optional-Rule-Spellcasting.md#optional-rule-spellcasting)  
+### ![Optional-Rule-Spellcasting > Optional Rule Spellcasting](Optional-Rule-Spellcasting.md#Optional%20Rule%20Spellcasting)  
   
   

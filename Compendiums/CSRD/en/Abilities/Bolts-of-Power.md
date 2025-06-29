@@ -2,13 +2,13 @@
 aliases:
   - Bolts of Power
 tags:
-  - Compendium/CSRD/en/Abilities
+  - Compendium_CSRD_en_Abilities
   - Ability
-  - Ability/Action
-  - Ability/Cost/5
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Special-Attack
+  - Ability_Action
+  - Ability_Cost_5
+  - Ability_Tier_Mid
+  - Ability_Pool_Intellect
+  - Ability_Categories_Special-Attack
 ---
   
     

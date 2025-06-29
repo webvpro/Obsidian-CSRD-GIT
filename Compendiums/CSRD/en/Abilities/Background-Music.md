@@ -2,14 +2,14 @@
 aliases:
   - Background Music
 tags:
-  - Compendium/CSRD/en/Abilities/Background-Music
+  - Compendium_CSRD_en_Abilities_Background-Music
   - Ability
-  - Ability/Action
-  - Ability/Cost/1
-  - Ability/Tier/Low
-  - Ability/Pool/Intellect
-  - Ability/Categories/Magic
-  - Ability/Categories/Fantasy/Modern
+  - Ability_Action
+  - Ability_Cost_1
+  - Ability_Tier_Low
+  - Ability_Pool_Intellect
+  - Ability_Categories_Magic
+  - Ability_Categories_Fantasy_Modern
 ---
   
     

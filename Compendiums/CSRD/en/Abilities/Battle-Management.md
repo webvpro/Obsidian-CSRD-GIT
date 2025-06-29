@@ -2,13 +2,13 @@
 aliases:
   - Battle Management
 tags:
-  - Compendium/CSRD/en/Abilities
+  - Compendium_CSRD_en_Abilities
   - Ability
-  - Ability/Action
-  - Ability/Cost/4
-  - Ability/Tier/High
-  - Ability/Pool/Intellect
-  - Ability/Categories/Support
+  - Ability_Action
+  - Ability_Cost_4
+  - Ability_Tier_High
+  - Ability_Pool_Intellect
+  - Ability_Categories_Support
 ---
   
     

@@ -2,15 +2,13 @@
 aliases:
   - Golem Stomp
 tags:
-  - Compendium_CSRD_en_Abilities
+  - Compendium/CSRD/en/Abilities
   - Ability
-  - Ability_Action
-  - Ability_Cost_4
-  - Ability_Tier_Mid
-  - Ability_Pool_Might
-  - Ability_Categories_Special-Attack
-  - Compendium_CSRD_en_Foci
-  - Focus_Category_Tank-Combat
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/Mid
+  - Ability/Pool/Might
+  - Ability/Categories/Special-Attack
 ---
   
     

@@ -2,13 +2,13 @@
 aliases:
   - Experienced Finder
 tags:
-  - Compendium/CSRD/en/Abilities
+  - Compendium_CSRD_en_Abilities
   - Ability
-  - Ability/Action
-  - Ability/Cost/6
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Senses
+  - Ability_Action
+  - Ability_Cost_6
+  - Ability_Tier_Mid
+  - Ability_Pool_Intellect
+  - Ability_Categories_Senses
 ---
   
     

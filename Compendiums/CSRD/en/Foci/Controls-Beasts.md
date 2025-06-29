@@ -2,8 +2,8 @@
 aliases:
   - Controls Beasts
 tags:
-  - Compendium_CSRD_en_Foci
-  - Focus_Category_Ally-Use
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Ally-Use
 ---
   
     

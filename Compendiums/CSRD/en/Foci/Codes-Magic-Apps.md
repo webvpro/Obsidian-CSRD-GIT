@@ -2,8 +2,8 @@
 aliases:
   - Codes Magic Apps
 tags:
-  - Compendium_CSRD_en_Foci_Codes-Magic-Apps
-  - Focus_Category_Magic-Tech
+  - Compendium/CSRD/en/Foci/Codes-Magic-Apps
+  - Focus/Category/Magic-Tech
 ---
   
     

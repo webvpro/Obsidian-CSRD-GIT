@@ -2,8 +2,8 @@
 aliases:
   - Murders
 tags:
-  - Compendium_CSRD_en_Foci
-  - Focus_Category_Striker-Combat
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Striker-Combat
 ---
   
     

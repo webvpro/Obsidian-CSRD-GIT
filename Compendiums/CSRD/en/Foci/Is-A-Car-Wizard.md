@@ -2,8 +2,8 @@
 aliases:
   - Is A Car Wizard
 tags:
-  - Compendium_CSRD_en_Foci_Is-A-Car-Wizard
-  - Focus_Category_Fantasy_Modern
+  - Compendium/CSRD/en/Foci/Is-A-Car-Wizard
+  - Focus/Category/Fantasy/Modern
 ---
   
     

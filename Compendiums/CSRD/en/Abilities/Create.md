@@ -2,13 +2,13 @@
 aliases:
   - Create
 tags:
-  - Compendium/CSRD/en/Abilities
+  - Compendium_CSRD_en_Abilities
   - Ability
-  - Ability/Action
-  - Ability/Cost/7
-  - Ability/Tier/High
-  - Ability/Pool/Intellect
-  - Ability/Categories/Craft
+  - Ability_Action
+  - Ability_Cost_7
+  - Ability_Tier_High
+  - Ability_Pool_Intellect
+  - Ability_Categories_Craft
 ---
   
     

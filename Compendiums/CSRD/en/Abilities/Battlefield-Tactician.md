@@ -2,13 +2,13 @@
 aliases:
   - Battlefield Tactician
 tags:
-  - Compendium/CSRD/en/Abilities
+  - Compendium_CSRD_en_Abilities
   - Ability
-  - Ability/Enabler
-  - Ability/Cost/2
-  - Ability/Tier/High
-  - Ability/Pool/Intellect
-  - Ability/Categories/Senses
+  - Ability_Enabler
+  - Ability_Cost_2
+  - Ability_Tier_High
+  - Ability_Pool_Intellect
+  - Ability_Categories_Senses
 ---
   
     

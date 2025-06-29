@@ -2,8 +2,8 @@
 aliases:
   - Exists Partially Out of Phase
 tags:
-  - Compendium_CSRD_en_Foci
-  - Focus_Category_Movement-Expertise
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Movement-Expertise
 ---
   
     

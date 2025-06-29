@@ -2,13 +2,13 @@
 aliases:
   - Chamber of Dreams
 tags:
-  - Compendium/CSRD/en/Abilities
+  - Compendium_CSRD_en_Abilities
   - Ability
-  - Ability/Action
-  - Ability/Cost/8
-  - Ability/Tier/High
-  - Ability/Pool/Intellect
-  - Ability/Categories/Movement
+  - Ability_Action
+  - Ability_Cost_8
+  - Ability_Tier_High
+  - Ability_Pool_Intellect
+  - Ability_Categories_Movement
 ---
   
     
