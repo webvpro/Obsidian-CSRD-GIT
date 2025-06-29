@@ -2,13 +2,13 @@
 aliases:
   - Dodge and Resist
 tags:
-  - Compendium_CSRD_en_Abilities
+  - Compendium/CSRD/en/Abilities
   - Ability
-  - Ability_Enabler
-  - Ability_Cost_3
-  - Ability_Tier_Mid
-  - Ability_Pool_Speed
-  - Ability_Categories_Meta
+  - Ability/Enabler
+  - Ability/Cost/3
+  - Ability/Tier/Mid
+  - Ability/Pool/Speed
+  - Ability/Categories/Meta
 ---
   
     
