@@ -2,13 +2,13 @@
 aliases:
   - Car Magic
 tags:
-  - Compendium_CSRD_en_Abilities_Car-Magic
+  - Compendium/CSRD/en/Abilities/Car-Magic
   - Ability
-  - Ability_Action
-  - Ability_Cost_3
-  - Ability_Tier_Low
-  - Ability_Pool_Intellect
-  - Ability_Categories_Magic_Modern
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Magic/Modern
 ---
   
     
