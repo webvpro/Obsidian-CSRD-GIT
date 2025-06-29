@@ -2,12 +2,12 @@
 aliases:
   - App Tinkerer
 tags:
-  - Compendium/CSRD/en/Abilities/App-Tinkerer
+  - Compendium_CSRD_en_Abilities_App-Tinkerer
   - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/NA
-  - Ability/Categories/NA
+  - Ability_Enabler
+  - Ability_Cost_NA
+  - Ability_Tier_NA
+  - Ability_Categories_NA
 ---
   
     
