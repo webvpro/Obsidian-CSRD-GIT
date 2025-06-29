@@ -2,8 +2,8 @@
 aliases:
   - Fuses Mind and Machine
 tags:
-  - Compendium_CSRD_en_Foci
-  - Focus_Category_Influence
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Influence
 ---
   
     
