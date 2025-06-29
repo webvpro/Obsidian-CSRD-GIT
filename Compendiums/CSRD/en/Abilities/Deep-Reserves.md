@@ -9,8 +9,6 @@ tags:
   - Ability_Tier_High
   - Ability_Categories_Cure
   - Ability_Categories_Meta
-  - Compendium_CSRD_en_Foci
-  - Focus_Category_Tank-Combat
 ---
   
     
