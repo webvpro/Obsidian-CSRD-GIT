@@ -2,14 +2,14 @@
 aliases:
   - Blurring Speed
 tags:
-  - Compendium_CSRD_en_Abilities
+  - Compendium/CSRD/en/Abilities
   - Ability
-  - Ability_Enabler
-  - Ability_Cost_7
-  - Ability_Tier_High
-  - Ability_Pool_Speed
-  - Ability_Categories_Meta
-  - Ability_Categories_Movement
+  - Ability/Enabler
+  - Ability/Cost/7
+  - Ability/Tier/High
+  - Ability/Pool/Speed
+  - Ability/Categories/Meta
+  - Ability/Categories/Movement
 ---
   
     
