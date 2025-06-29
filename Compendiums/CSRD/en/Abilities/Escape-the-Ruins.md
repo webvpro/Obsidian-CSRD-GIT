@@ -2,13 +2,13 @@
 aliases:
   - Escape the Ruins
 tags:
-  - Compendium/CSRD/en/Abilities
+  - Compendium_CSRD_en_Abilities
   - Ability
-  - Ability/Action
-  - Ability/Cost/6
-  - Ability/Tier/NA
-  - Ability/Pool/Intellect
-  - Ability/Categories/NA
+  - Ability_Action
+  - Ability_Cost_6
+  - Ability_Tier_NA
+  - Ability_Pool_Intellect
+  - Ability_Categories_NA
 ---
   
     
