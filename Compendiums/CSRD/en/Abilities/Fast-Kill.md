@@ -2,13 +2,13 @@
 aliases:
   - Fast Kill
 tags:
-  - Compendium/CSRD/en/Abilities
+  - Compendium_CSRD_en_Abilities
   - Ability
-  - Ability/Action
-  - Ability/Cost/2
-  - Ability/Tier/Mid
-  - Ability/Pool/Speed
-  - Ability/Categories/Meta
+  - Ability_Action
+  - Ability_Cost_2
+  - Ability_Tier_Mid
+  - Ability_Pool_Speed
+  - Ability_Categories_Meta
 ---
   
     
