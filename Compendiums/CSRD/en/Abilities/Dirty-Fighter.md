@@ -2,13 +2,13 @@
 aliases:
   - Dirty Fighter
 tags:
-  - Compendium/CSRD/en/Abilities
+  - Compendium_CSRD_en_Abilities
   - Ability
-  - Ability/Action
-  - Ability/Cost/2
-  - Ability/Tier/High
-  - Ability/Pool/Speed
-  - Ability/Categories/Special-Attack
+  - Ability_Action
+  - Ability_Cost_2
+  - Ability_Tier_High
+  - Ability_Pool_Speed
+  - Ability_Categories_Special-Attack
 ---
   
     
