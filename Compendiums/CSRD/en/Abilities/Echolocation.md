@@ -2,12 +2,12 @@
 aliases:
   - Echolocation
 tags:
-  - Compendium/CSRD/en/Abilities
+  - Compendium_CSRD_en_Abilities
   - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Mid
-  - Ability/Categories/Senses
+  - Ability_Enabler
+  - Ability_Cost_NA
+  - Ability_Tier_Mid
+  - Ability_Categories_Senses
 ---
   
     
