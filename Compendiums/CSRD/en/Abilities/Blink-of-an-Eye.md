@@ -2,13 +2,13 @@
 aliases:
   - Blink of an Eye
 tags:
-  - Compendium_CSRD_en_Abilities
+  - Compendium/CSRD/en/Abilities
   - Ability
-  - Ability_Action
-  - Ability_Cost_4
-  - Ability_Tier_Mid
-  - Ability_Pool_Speed
-  - Ability_Categories_Movement
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/Mid
+  - Ability/Pool/Speed
+  - Ability/Categories/Movement
 ---
   
     
