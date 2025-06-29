@@ -2,8 +2,8 @@
 aliases:
   - Flies Faster than a Bullet
 tags:
-  - Compendium_CSRD_en_Foci
-  - Focus_Category_Irregular
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Irregular
 ---
   
     
