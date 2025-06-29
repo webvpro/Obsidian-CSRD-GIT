@@ -2,13 +2,13 @@
 aliases:
   - Bloodlust
 tags:
-  - Compendium_CSRD_en_Abilities
+  - Compendium/CSRD/en/Abilities
   - Ability
-  - Ability_Enabler
-  - Ability_Cost_3
-  - Ability_Tier_Low
-  - Ability_Pool_Might
-  - Ability_Categories_Special-Attack
+  - Ability/Enabler
+  - Ability/Cost/3
+  - Ability/Tier/Low
+  - Ability/Pool/Might
+  - Ability/Categories/Special-Attack
 ---
   
     
