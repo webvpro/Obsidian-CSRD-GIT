@@ -2,13 +2,13 @@
 aliases:
   - Continuous Transfer
 tags:
-  - Compendium_CSRD_en_Abilities_Continuous-Transfer
+  - Compendium/CSRD/en/Abilities/Continuous-Transfer
   - Ability
-  - Ability_Enabler
-  - Ability_Cost_
-  - Ability_Tier_High
-  - Ability_Pool_Intellect
-  - Ability_Categories_Magic_Modern
+  - Ability/Enabler
+  - Ability/Cost/
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Magic/Modern
 ---
   
     
