@@ -2,14 +2,14 @@
 aliases:
   - Energize Crowd
 tags:
-  - Compendium/CSRD/en/Abilities
+  - Compendium_CSRD_en_Abilities
   - Ability
-  - Ability/Action
-  - Ability/Cost/9
-  - Ability/Tier/High
-  - Ability/Pool/Might
-  - Ability/Categories/Protection
-  - Ability/Categories/Support
+  - Ability_Action
+  - Ability_Cost_9
+  - Ability_Tier_High
+  - Ability_Pool_Might
+  - Ability_Categories_Protection
+  - Ability_Categories_Support
 ---
   
     
