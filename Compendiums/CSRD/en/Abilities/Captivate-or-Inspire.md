@@ -2,12 +2,12 @@
 aliases:
   - Captivate or Inspire
 tags:
-  - Compendium/CSRD/en/Abilities
+  - Compendium_CSRD_en_Abilities
   - Ability
-  - Ability/Action
-  - Ability/Cost/NA
-  - Ability/Tier/Mid
-  - Ability/Categories/Control
+  - Ability_Action
+  - Ability_Cost_NA
+  - Ability_Tier_Mid
+  - Ability_Categories_Control
 ---
   
     
