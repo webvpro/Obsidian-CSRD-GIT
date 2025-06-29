@@ -2,8 +2,8 @@
 aliases:
   - Would Rather Be Reading
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/Basic
+  - Compendium_CSRD_en_Foci
+  - Focus_Category_Basic
 ---
   
     
