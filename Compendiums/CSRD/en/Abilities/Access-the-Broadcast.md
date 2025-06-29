@@ -2,14 +2,14 @@
 aliases:
   - Access the Broadcast
 tags:
-  - Compendium/CSRD/en/Abilities/Access-the-Broadcast
+  - Compendium_CSRD_en_Abilities_Access-the-Broadcast
   - Ability
-  - Ability/Action
-  - Ability/Cost/2
-  - Ability/Tier/Low
-  - Ability/Pool/Intellect
-  - Ability/Categories/Magic
-  - Ability/Categories/Fantasy/Modern
+  - Ability_Action
+  - Ability_Cost_2
+  - Ability_Tier_Low
+  - Ability_Pool_Intellect
+  - Ability_Categories_Magic
+  - Ability_Categories_Fantasy_Modern
 ---
   
     
