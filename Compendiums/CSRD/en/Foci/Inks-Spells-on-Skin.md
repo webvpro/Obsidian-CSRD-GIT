@@ -2,8 +2,8 @@
 aliases:
   - Inks Spells on Skin
 tags:
-  - Compendium_CSRD_en_Foci_nks-Spells-on-Skin
-  - Focus_Category_
+  - Compendium/CSRD/en/Foci/nks-Spells-on-Skin
+  - Focus/Category/
 ---
   
     
