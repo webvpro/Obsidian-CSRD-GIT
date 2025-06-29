@@ -2,13 +2,13 @@
 aliases:
   - Betrayal
 tags:
-  - Compendium/CSRD/en/Abilities
+  - Compendium_CSRD_en_Abilities
   - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Mid
-  - Ability/Categories/Meta
-  - Ability/Categories/Social
+  - Ability_Enabler
+  - Ability_Cost_NA
+  - Ability_Tier_Mid
+  - Ability_Categories_Meta
+  - Ability_Categories_Social
 ---
   
     
