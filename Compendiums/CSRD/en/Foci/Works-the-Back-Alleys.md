@@ -2,8 +2,8 @@
 aliases:
   - Works the Back Alleys
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/Movement-Expertise
+  - Compendium_CSRD_en_Foci
+  - Focus_Category_Movement-Expertise
 ---
   
     
