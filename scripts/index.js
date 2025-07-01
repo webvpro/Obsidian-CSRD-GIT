@@ -12,6 +12,46 @@ const writeFile = util.promisify(fs.writeFile);
 const COMPENDIUMS_DIR = path.join(__dirname, '../Compendiums/CSRD/en/');
 
 // Function to recursively find all files in a directory
+async function parseTags(fm) {
+    const newFm = {};
+    newFm.title = fm.aliases[0].trim();
+    newFm.collection = fm.tags[0].split('/')[3].trim() ?? null;
+    newFm.kind = fm.tags[0].split('/')[0].trim();
+    let collectionProperties = {};
+    switch (newFm.collection.toUpperCase()) {
+        case 'ABILITIES':
+            // Handle ability kind
+            collectionProperties.action = fm.tags[2].split('/')[1].toUpperCase().trim() === 'ACTION' ? true : false;
+            collectionProperties.enabler = fm.tags[2].split('/')[1].toUpperCase().trim() === 'ENABLER' ? true : false;
+            //cost 
+            const costIdx = fm.tags.findIndex(tag => tag.toUpperCase().includes('/COST/'));
+            const costPropertyIdx = fm.tags[costIdx].split('/').findIndex(tag => tag.toUpperCase().includes('COST'));
+            collectionProperties.cost = (costPropertyIdx + costIdx) >= 0 ? fm.tags[costIdx].split('/')[costPropertyIdx + 1] : 'NA';
+
+            // Tier
+            const tierIdx = fm.tags.findIndex(tag => tag.toUpperCase().includes('/TIER/'));
+            const tierPropertyIdx = fm.tags[tierIdx].split('/').findIndex(tag => tag.toUpperCase().includes('TIER'));
+        //console.log(`TierPropertyIdx: ${tierPropertyIdx}, TierIdx: ${tierIdx}, Tags: ${fm.tags[tierIdx].split('/')[tierPropertyIdx +1]}`);
+            collectionProperties.tier = tierPropertyIdx >= 0 ? fm.tags[tierIdx].split('/')[tierPropertyIdx +1] : 'NA';
+            // Pool
+            const poolAry = fm.tags.filter(tag => tag.toUpperCase().includes('/POOL/'));
+            const cleanPoolAry = poolAry.map(tag => tag.split('/')[2]);
+            collectionProperties.pools = cleanPoolAry;
+            //category
+            const categoryAry = fm.tags.filter(tag => tag.toUpperCase().includes('/CATEGORIES/'));
+            const cleanCategory = categoryAry.map(tag => tag.split('/')[2]);
+            collectionProperties.categories = cleanCategory;
+            break  ;
+        case 'reference':
+            // Handle reference kind
+            break;
+        default:
+            // Silently handle unknown collection or use a custom logger
+            // that can be disabled in production
+            break;
+    }
+    return { ...newFm, ...collectionProperties };
+};
 async function getAllFiles(dirPath, arrayOfFiles) {
     const files = await readdir(dirPath, { withFileTypes: true });
 
@@ -35,7 +75,7 @@ async function processFrontmatter(filePath) {
         console.log(`Processing: ${filePath}`);
         
         const content = await readFile(filePath, 'utf8');
-        
+         
         // Regular expression to match frontmatter between --- markers
         const frontmatterRegex = /^---\s*\n([\s\S]*?)\n---\s*\n/;
         const match = content.match(frontmatterRegex);
@@ -48,13 +88,13 @@ async function processFrontmatter(filePath) {
         // Extract and parse the frontmatter
         const frontmatter = match[1];
         const frontmatterObj = yaml.load(frontmatter);
-
-        console.log(`Aliases for ${filePath}:`, frontmatterObj.aliases || 'None');
-        console.log(`Tags for ${filePath}:`, frontmatterObj.tags || 'None');
+        const obsidianConvertedFrontmatter = await parseTags(frontmatterObj);
+        //console.log(`Aliases for ${filePath}:`, frontmatterObj.aliases || 'None');
+        //console.log(`Tags for ${filePath}:`, frontmatterObj.tags || 'None');
         
         // Convert the modified frontmatter back to YAML format
-        const newFrontmatter = yaml.dump(frontmatterObj);
-        
+        const newFrontmatter = yaml.dump(obsidianConvertedFrontmatter);
+
         // Replace the old frontmatter with the new one
         const newContent = content.replace(
             frontmatterRegex, 
@@ -62,8 +102,8 @@ async function processFrontmatter(filePath) {
         );
         
         // Write the modified content back to the file
-        //await writeFile(filePath, newContent, 'utf8');
-        console.log(`Updated frontmatter in ${filePath}`);
+        await writeFile(filePath, newContent, 'utf8');
+        console.log(`Updated frontmatter in ${newFrontmatter} \n`);
         
     } catch (err) {
         console.error(`Error processing ${filePath}:`, err);
