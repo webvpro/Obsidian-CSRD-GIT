@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Impressive Display"
+  - Impressive Display
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/2
-- Ability/Tier/Low
-- Ability/Pool/Might
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/2
+  - Ability/Tier/Low
+  - Ability/Pool/Might
+  - Ability/Categories/Task
+title: Impressive Display
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Impressive Display  
 >**Action**  
 >2 Might points

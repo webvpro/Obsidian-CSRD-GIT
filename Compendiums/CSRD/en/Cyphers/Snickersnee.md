@@ -1,13 +1,14 @@
 ---
 aliases:
-- Snickersnee
+  - Snickersnee
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+title: Snickersnee
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Snickersnee  
 >[!info] Stats  
 > **Level:** 1d6+4  

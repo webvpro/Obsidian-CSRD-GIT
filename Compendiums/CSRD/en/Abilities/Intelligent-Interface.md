@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Intelligent Interface"
+  - Intelligent Interface
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/3
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/3
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Task
+title: Intelligent Interface
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Intelligent Interface  
 >**Enabler**  
 >3 Intellect points

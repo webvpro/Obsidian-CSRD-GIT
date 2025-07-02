@@ -1,13 +1,14 @@
 ---
 aliases:
-- Belt of Strength
+  - Belt of Strength
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Belt of Strength
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Belt of Strength  
 >[!info] Stats  
 > **Level:** 1d6  

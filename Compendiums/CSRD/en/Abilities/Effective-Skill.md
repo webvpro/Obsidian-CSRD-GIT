@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Effective Skill"
+  - Effective Skill
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/High
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/High
+  - Ability/Categories/Meta
+title: Effective Skill
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Effective Skill  
 >**Enabler**
   

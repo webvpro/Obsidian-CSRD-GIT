@@ -1,13 +1,14 @@
 ---
 aliases:
-- Spatial Warp
+  - Spatial Warp
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Spatial Warp
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Spatial Warp  
 >[!info] Stats  
 > **Level:** 1d6+4  

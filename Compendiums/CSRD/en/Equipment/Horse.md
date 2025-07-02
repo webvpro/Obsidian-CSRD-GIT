@@ -1,14 +1,15 @@
 ---
 aliases:
-- "Horse"
+  - Horse
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Post-Apocalyptic
-- Equipment/Utility-Gear
-- Equipment/Value/Very-Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Post-Apocalyptic
+  - Equipment/Utility-Gear
+  - Equipment/Value/Very-Expensive
+title: Horse
+collection: Equipment
+kind: Compendium
 ---
-
-  
 ## Horse  
   
 >Trained for riding (typically found with a few days of feed)  

@@ -1,13 +1,14 @@
 ---
 aliases:
-- Living Water
+  - Living Water
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+title: Living Water
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Living Water  
 >[!info] Stats  
 > **Level:** 1d6+3  

@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Release Energy"
+  - Release Energy
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Special-Attack
+title: Release Energy
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Release Energy  
 >**Action**
   

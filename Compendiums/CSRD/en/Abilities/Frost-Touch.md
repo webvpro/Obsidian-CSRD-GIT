@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Frost Touch"
+  - Frost Touch
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/1
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/1
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Special-Attack
+title: Frost Touch
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Frost Touch  
 >**Action**  
 >1 Intellect point

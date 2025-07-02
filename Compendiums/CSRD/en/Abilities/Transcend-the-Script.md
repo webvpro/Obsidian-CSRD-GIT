@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Transcend the Script"
+  - Transcend the Script
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/5
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Support
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/5
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Support
+title: Transcend the Script
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Transcend the Script  
 >**Action**  
 >5 Intellect points

@@ -1,16 +1,17 @@
 ---
 aliases:
-- Deep One
+  - Deep One
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/4
-- Creature/Armor/2
-- Creature/Health/15
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/4
+  - Creature/Armor/2
+  - Creature/Health/15
+title: Deep One
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Deep One  
 Some deep ones dwell in coastal regions on land, usually in isolated villages where they might attempt to pass for human. They are able to breathe both air and water. Most, however, thrive in the ocean depths, in ancient underwater cities like "Cyclopean and many-columned Y'ha-nthlei." Deep ones sometimes breed with insane humans to produce squamous offspring that eventually develop fully into deep ones well after maturity (or even middle age).  
 

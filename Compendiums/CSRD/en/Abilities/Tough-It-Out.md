@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Tough It Out"
+  - Tough It Out
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Protection
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Protection
+title: Tough It Out
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Tough It Out  
 >**Enabler**
   

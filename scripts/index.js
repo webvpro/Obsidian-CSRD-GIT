@@ -10,11 +10,14 @@ const readFile = util.promisify(fs.readFile);
 const writeFile = util.promisify(fs.writeFile);
 
 const COMPENDIUMS_DIR = path.join(__dirname, '../Compendiums/CSRD/en/');
+const FRONTMATTERED_DIR = path.join(__dirname, '../Frontmattered/Compendiums/CSRD/en/');
 
 // Function to recursively find all files in a directory
 async function parseTags(fm) {
     const newFm = {};
     newFm.title = fm.aliases[0].trim();
+    // Ensure each alias is wrapped in double quotes only, not single quotes
+    newFm.aliases = fm.aliases;
     newFm.collection = fm.tags[0].split('/')[3].trim() ?? null;
     newFm.kind = fm.tags[0].split('/')[0].trim();
     let collectionProperties = {};
@@ -50,7 +53,7 @@ async function parseTags(fm) {
             // that can be disabled in production
             break;
     }
-    return { ...newFm, ...collectionProperties };
+    return { ...fm, ...newFm  };
 };
 async function getAllFiles(dirPath, arrayOfFiles) {
     const files = await readdir(dirPath, { withFileTypes: true });
@@ -82,28 +85,26 @@ async function processFrontmatter(filePath) {
         
         if (!match) {
             console.log(`No frontmatter found in ${filePath}`);
-            return;
+            return; 
         }
 
         // Extract and parse the frontmatter
         const frontmatter = match[1];
         const frontmatterObj = yaml.load(frontmatter);
-        const obsidianConvertedFrontmatter = await parseTags(frontmatterObj);
-        //console.log(`Aliases for ${filePath}:`, frontmatterObj.aliases || 'None');
-        //console.log(`Tags for ${filePath}:`, frontmatterObj.tags || 'None');
-        
-        // Convert the modified frontmatter back to YAML format
-        const newFrontmatter = yaml.dump(obsidianConvertedFrontmatter);
 
-        // Replace the old frontmatter with the new one
-        const newContent = content.replace(
-            frontmatterRegex, 
-            `---\n${newFrontmatter}---\n`
-        );
+        // Append or update fields in the frontmatter
+        // You can add more fields as needed
+
+        // Convert the modified frontmatter back to YAML format
+        const newFm = await parseTags(frontmatterObj);
+        const newFrontmatter = yaml.dump(newFm);
+
+        // Replace the old frontmatter with the new one, preserving the rest of the file
+        const newContent = content.replace(frontmatterRegex, `---\n${newFrontmatter}---\n`);
         
         // Write the modified content back to the file
         await writeFile(filePath, newContent, 'utf8');
-        console.log(`Updated frontmatter in ${newFrontmatter} \n`);
+        console.log(`Updated frontmatter in ${filePath}`);
         
     } catch (err) {
         console.error(`Error processing ${filePath}:`, err);

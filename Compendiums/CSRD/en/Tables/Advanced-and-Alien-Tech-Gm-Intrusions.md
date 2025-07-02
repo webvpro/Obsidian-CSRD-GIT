@@ -1,11 +1,13 @@
 ---
 aliases:
-- Advanced and Alien Tech Gm Intrusions
+  - Advanced and Alien Tech Gm Intrusions
 tags:
-- Compendiums/CSRD/en/Tables
-- Table/Intrusion/Advanced-and-Alien-Tech-Gm-Intrusions
+  - Compendiums/CSRD/en/Tables
+  - Table/Intrusion/Advanced-and-Alien-Tech-Gm-Intrusions
+title: Advanced and Alien Tech Gm Intrusions
+collection: Tables
+kind: Compendiums
 ---
-
 ## Advanced and Alien Tech Gm Intrusions Table
 |  Roll &nbsp; &nbsp; | Advanced and Alien Tech Gm Intrusions  |
 | ------------- | :----------- |

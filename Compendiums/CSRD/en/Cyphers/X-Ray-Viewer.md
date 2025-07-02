@@ -1,13 +1,14 @@
 ---
 aliases:
-- X-Ray Viewer
+  - X-Ray Viewer
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Manifest
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Manifest
+title: X-Ray Viewer
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## X-Ray Viewer  
 >[!info] Stats  
 > **Level:** 1d6+4  

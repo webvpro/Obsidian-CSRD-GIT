@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Crushing Blow"
+  - Crushing Blow
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/2
-- Ability/Tier/Low
-- Ability/Pool/Might
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/2
+  - Ability/Tier/Low
+  - Ability/Pool/Might
+  - Ability/Categories/Meta
+title: Crushing Blow
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Crushing Blow  
 >**Action**  
 >2 Might points

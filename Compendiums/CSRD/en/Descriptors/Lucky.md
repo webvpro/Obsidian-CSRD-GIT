@@ -1,11 +1,13 @@
 ---
 aliases:
-- Lucky
+  - Lucky
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Lucky
+collection: Descriptors
+kind: Compendiums
 ---
-
 ## Lucky  
 You rely on chance and timely good luck to get you through many situations. When people say that someone was born under a lucky star, they mean you. When you try your hand at something new, no matter how unfamiliar the task is, as often as not you find a measure of success. Even when disaster strikes, it's rarely as bad as it could be. More often, small things seem to go your way, you win contests, and you're often in the right place at the right time.
 ### You gain the following characteristics  

@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Enhanced Phased Attack"
+  - Enhanced Phased Attack
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/5
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/5
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Meta
+title: Enhanced Phased Attack
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Enhanced Phased Attack  
 >**Enabler**  
 >5 Intellect points

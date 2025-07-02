@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Draw Conclusion"
+  - Draw Conclusion
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Information
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Information
+title: Draw Conclusion
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Draw Conclusion  
 >**Action**  
 >3 Intellect points

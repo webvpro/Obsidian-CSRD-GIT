@@ -1,12 +1,13 @@
 ---
 aliases:
-- "Consorts with the Dead"
+  - Consorts with the Dead
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Ally-Use
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Ally-Use
+title: Consorts with the Dead
+collection: Foci
+kind: Compendium
 ---
-
-  
 ## Consorts with the Dead  
 The dead answer your questions, and their reanimated corpses serve you.  
 

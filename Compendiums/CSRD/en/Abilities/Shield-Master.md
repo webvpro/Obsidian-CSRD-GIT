@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Shield Master"
+  - Shield Master
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Protection
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Protection
+title: Shield Master
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Shield Master  
 >**Enabler**
   

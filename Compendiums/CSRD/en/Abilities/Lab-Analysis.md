@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Lab Analysis"
+  - Lab Analysis
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Information
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Information
+title: Lab Analysis
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Lab Analysis  
 >**Action**  
 >3 Intellect points

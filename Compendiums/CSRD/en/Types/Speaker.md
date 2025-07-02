@@ -12,8 +12,10 @@ tags:
   - Type/Speaker/Weapon/Practiced/Light
   - Type/Speaker/Weapon/Inability/Medium
   - Type/Speaker/Weapon/Inability/Heavy
+title: Speaker
+collection: Types
+kind: Compendium
 ---
-
 ## Speaker
 
 |Fantasy/Fairy Tale|Modern/Horror/Romance|Science Fiction|Superhero/Post-Apocalyptic|

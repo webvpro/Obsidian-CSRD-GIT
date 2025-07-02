@@ -1,9 +1,12 @@
 ---
-aliases: 
-- "Uncover a Secret"
-tags: 
-- Compendium/CSRD/en/Character-Arcs/Uncover-a-Secret
-- Character-Arc
+aliases:
+  - Uncover a Secret
+tags:
+  - Compendium/CSRD/en/Character-Arcs/Uncover-a-Secret
+  - Character-Arc
+title: Uncover a Secret
+collection: Character-Arcs
+kind: Compendium
 ---
 ## Uncover a Secret
 >There is knowledge out there that you want. It could be an attempt to find and learn a specific special ability. This could also be a hunt for a lost password or a key that will open a sealed door, the true name of a devil, the secret background of an important person, or how the ancients constructed that strange monolith.

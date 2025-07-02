@@ -1,13 +1,14 @@
 ---
 aliases:
-- Galoshes of Fortune
+  - Galoshes of Fortune
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fairy-Tale
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fairy-Tale
+title: Galoshes of Fortune
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Galoshes of Fortune  
 >[!info] Stats  
 > **Level:** 1d6+4  

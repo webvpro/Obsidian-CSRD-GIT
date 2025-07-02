@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Hidden Closet"
+  - Hidden Closet
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Environment
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Environment
+title: Hidden Closet
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Hidden Closet  
 >**Enabler**
   

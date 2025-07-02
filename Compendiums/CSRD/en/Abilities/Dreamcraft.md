@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Dreamcraft"
+  - Dreamcraft
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/1
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Environment
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/1
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Environment
+title: Dreamcraft
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Dreamcraft  
 >**Action**  
 >1 Intellect point

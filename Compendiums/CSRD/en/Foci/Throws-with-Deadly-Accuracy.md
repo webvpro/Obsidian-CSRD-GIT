@@ -1,12 +1,13 @@
 ---
 aliases:
-- "Throws with Deadly Accuracy"
+  - Throws with Deadly Accuracy
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Striker-Combat 
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Striker-Combat
+title: Throws with Deadly Accuracy
+collection: Foci
+kind: Compendium
 ---
-
-  
 ## Throws with Deadly Accuracy  
 Everything that leaves your hand goes exactly where you'd like it to go and at the range and speed to make the perfect impact.  
 

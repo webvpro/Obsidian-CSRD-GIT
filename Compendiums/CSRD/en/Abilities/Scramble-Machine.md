@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Scramble Machine"
+  - Scramble Machine
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/2
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/2
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Special-Attack
+title: Scramble Machine
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Scramble Machine  
 >**Action**  
 >2 Intellect points

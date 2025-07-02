@@ -1,13 +1,14 @@
 ---
 aliases:
-- Force Screen Projector
+  - Force Screen Projector
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Force Screen Projector
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Force Screen Projector  
 >[!info] Stats  
 > **Level:** 1d6+3  

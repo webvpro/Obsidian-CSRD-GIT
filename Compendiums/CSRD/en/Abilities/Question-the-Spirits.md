@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Question the Spirits"
+  - Question the Spirits
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/2
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Information
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/2
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Information
+title: Question the Spirits
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Question the Spirits  
 >**Action**  
 >2 Intellect points

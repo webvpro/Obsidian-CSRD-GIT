@@ -1,16 +1,17 @@
 ---
 aliases:
-- Aristocrat
+  - Aristocrat
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/NPC
-- Creature/Level/4
-- Creature/Armor/2
-- Creature/Health/12
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/NPC
+  - Creature/Level/4
+  - Creature/Armor/2
+  - Creature/Health/12
+title: Aristocrat
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Aristocrat  
 Aristocrats are not quite high royalty--they are not kings or queens, nor even princes and princesses--but they are those with money and power enough to wield in dangerous or glorious ways. Knights and barons are typically aristocrats, as are characters like Bluebeard and Mr. Fox. Some aristocrats, such as knights, may only want to do good and protect the things that matter to them. Others, of course, prefer to use the darker side of their privileged position.  
 

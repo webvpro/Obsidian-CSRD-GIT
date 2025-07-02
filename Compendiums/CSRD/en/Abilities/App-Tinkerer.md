@@ -1,16 +1,17 @@
 ---
 aliases:
-- "App Tinkerer"
+  - App Tinkerer
 tags:
-- Compendium/CSRD/en/Abilities/App-Tinkerer
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/NA
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities/App-Tinkerer
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/NA
+  - Ability/Categories/NA
+title: App Tinkerer
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## App Tinkerer  
 >**Enabler**
   

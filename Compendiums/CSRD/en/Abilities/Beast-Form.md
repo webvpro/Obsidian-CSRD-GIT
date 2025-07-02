@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Beast Form"
+  - Beast Form
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Transform
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Transform
+title: Beast Form
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Beast Form  
 >**Action**
   

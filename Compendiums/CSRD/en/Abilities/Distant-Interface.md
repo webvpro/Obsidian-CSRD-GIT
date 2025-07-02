@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Distant Interface"
+  - Distant Interface
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/2
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/2
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Meta
+title: Distant Interface
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Distant Interface  
 >**Action**  
 >2 Intellect points

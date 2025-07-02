@@ -2,7 +2,7 @@
 aliases:
   - Adept
   - Wizard
-  - "Fringe Scientist"
+  - Fringe Scientist
 tags:
   - Compendium/CSRD/en/Types
   - Type/Adept
@@ -13,8 +13,10 @@ tags:
   - Type/Adept/Weapon/Practiced/Light
   - Type/Adept/Weapon/Inability/Medium
   - Type/Adept/Weapon/Inability/Heavy
+title: Adept
+collection: Types
+kind: Compendium
 ---
-
 ### Adept  
 
 | Fantasy/Fairy Tale   | Modern/Horror/Romance | Science Fiction          | Superhero/Post-Apocalyptic |

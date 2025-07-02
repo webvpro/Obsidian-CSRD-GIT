@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Hard-Won Resilience"
+  - Hard-Won Resilience
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Protection
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Protection
+title: Hard-Won Resilience
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Hard-Won Resilience  
 >**Enabler**
   

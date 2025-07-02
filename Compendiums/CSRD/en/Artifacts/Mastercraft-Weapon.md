@@ -1,13 +1,14 @@
 ---
 aliases:
-- Mastercraft Weapon
+  - Mastercraft Weapon
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Mastercraft Weapon
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Mastercraft Weapon  
 >[!info] Stats  
 > **Level:** 1d6  

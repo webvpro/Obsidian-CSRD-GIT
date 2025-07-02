@@ -1,13 +1,14 @@
 ---
 aliases:
-- Useful Clothing
+  - Useful Clothing
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Scavenger-Subtle
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Scavenger-Subtle
+title: Useful Clothing
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Useful Clothing  
 >[!info] Stats  
 > **Level:** 1d6+1  

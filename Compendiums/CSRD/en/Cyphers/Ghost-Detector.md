@@ -1,12 +1,13 @@
 ---
 aliases:
-- Ghost Detector
+  - Ghost Detector
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+title: Ghost Detector
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Ghost Detector  
 >[!info] Stats  
 > **Level:** 1d6+1  

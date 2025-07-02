@@ -1,16 +1,17 @@
 ---
 aliases:
-- Paladin
+  - Paladin
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/NPC
-- Creature/Level/4
-- Creature/Armor/2
-- Creature/Health/15
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/NPC
+  - Creature/Level/4
+  - Creature/Armor/2
+  - Creature/Health/15
+title: Paladin
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Paladin  
 Paladins are heroes who swear a holy oath to vanquish evil. Their power and righteousness are a gift and a heavy burden, and most of them expect to die in battle against an evil foe.  
 

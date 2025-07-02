@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Control the Field"
+  - Control the Field
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/1
-- Ability/Tier/Low
-- Ability/Pool/Might
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/1
+  - Ability/Tier/Low
+  - Ability/Pool/Might
+  - Ability/Categories/Special-Attack
+title: Control the Field
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Control the Field  
 >**Action**  
 >1 Might point

@@ -1,13 +1,14 @@
 ---
 aliases:
-- "Book of the Baker"
+  - Book of the Baker
 tags:
-- Compendium/CSRD/en/Artifacts/Book-of-the-Baker
-- Artifact
-- Artifact/Modern-Fantasy
+  - Compendium/CSRD/en/Artifacts/Book-of-the-Baker
+  - Artifact
+  - Artifact/Modern-Fantasy
+title: Book of the Baker
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Book of the Baker
 #### Level 
 >1d6

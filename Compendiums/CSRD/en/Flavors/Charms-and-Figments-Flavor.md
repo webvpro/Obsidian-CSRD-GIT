@@ -1,13 +1,13 @@
 ---
 aliases:
-- "Charms and Figments Flavor "
+  - 'Charms and Figments Flavor '
 tags:
-- Compendium/CSRD/en/Flavors
-- Flavor/Modern-Magic/Charms-and-Figments-Flavor
-
+  - Compendium/CSRD/en/Flavors
+  - Flavor/Modern-Magic/Charms-and-Figments-Flavor
+title: Charms and Figments Flavor
+collection: Flavors
+kind: Compendium
 ---
-
-  
 ## Charms and Figments Flavor 
 Characters with a flavor of technology typically are from science fiction or at least modern-day settings (although anything is possible). They excel at using, dealing with, and building machines. An Explorer with technology flavor might be a starship pilot, and a Speaker flavored with technology could be a techno-priest. Some of the less computer-oriented abilities might be appropriate for a steampunk character, while a modern-day character could use some of the abilities that don't involve starships or ultratech.  
 

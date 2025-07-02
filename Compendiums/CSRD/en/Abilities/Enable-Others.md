@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Enable Others"
+  - Enable Others
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Support
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Support
+title: Enable Others
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Enable Others  
 >**Enabler**
   

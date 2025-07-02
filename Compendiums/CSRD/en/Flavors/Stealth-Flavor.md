@@ -1,12 +1,13 @@
 ---
 aliases:
-- Stealth Flavor
+  - Stealth Flavor
 tags:
-- Compendium/CSRD/en/Flavors
-- Flavor/Stealth-Flavor
+  - Compendium/CSRD/en/Flavors
+  - Flavor/Stealth-Flavor
+title: Stealth Flavor
+collection: Flavors
+kind: Compendium
 ---
-
-  
 ## Stealth Flavor  
 Characters with the stealth flavor are good at sneaking around, infiltrating places they don't belong, and deceiving others. They use these abilities in a variety of ways, including combat. An Explorer with stealth flavor might be a thief, while a Warrior with stealth flavor might be an assassin. An Explorer with stealth flavor in a superhero setting might be a crimefighter who stalks the streets at night.  
 

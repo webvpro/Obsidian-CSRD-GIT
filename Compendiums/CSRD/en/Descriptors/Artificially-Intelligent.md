@@ -1,12 +1,14 @@
 ---
 aliases:
-- Artificially Intelligent
+  - Artificially Intelligent
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor/Sci-Fi
-- Descriptor/Species
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor/Sci-Fi
+  - Descriptor/Species
+title: Artificially Intelligent
+collection: Descriptors
+kind: Compendiums
 ---
-
 ## Artificially Intelligent  
 You are a machine-not just a sentient machine, but a sapient one. Your awareness might make you an exception, or there may be many like you, depending on the setting. Artificially intelligent characters have machine minds of one type or another. This can involve an advanced computer brain, but it could also be a liquid computer, a quantum computer, or a network of smart dust particles creating an ambient intelligence. You might even have been an organic creature whose mind was uploaded into a machine. Your body, of course, is also a machine. Most people refer to you as a robot or an android, although you know neither term describes you very well, as you are as free-willed and free-thinking as they are.
 ### You gain the following characteristics  

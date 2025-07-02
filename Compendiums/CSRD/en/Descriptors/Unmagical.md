@@ -1,11 +1,13 @@
 ---
 aliases:
-- "Unmagical"
+  - Unmagical
 tags:
-- Compendiums/CSRD/en/Descriptors/Unmagical
-- Descriptor/Species
+  - Compendiums/CSRD/en/Descriptors/Unmagical
+  - Descriptor/Species
+title: Unmagical
+collection: Descriptors
+kind: Compendiums
 ---
-
 ## Unmagical  
 You’re not good at using magic. In fact, it’s clear that you’re inherently unmagical magic is as confusing, difficult, and awkward for you as learning lava spells would be for a frost giant. It’s not that you don’t believe in magic (though maybe you don’t) or that you don’t like magic (though maybe you don’t). It’s just that you and magic are incompatible. You’ve learned to compensate for this problem and even turn it into an advantage in some cases.
 An Unmagical character shouldn’t be able to overcome their inability by becoming trained in magic. The GM might allow them to train away part of the inability with training in specific skills, such as “Onslaught” or “magical weapons.”

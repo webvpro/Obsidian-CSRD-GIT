@@ -1,13 +1,14 @@
 ---
 aliases:
-- Golden Bridle
+  - Golden Bridle
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fairy-Tale
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fairy-Tale
+title: Golden Bridle
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Golden Bridle  
 >[!info] Stats  
 > **Level:** 1d6+2  

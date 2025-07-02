@@ -1,13 +1,14 @@
 ---
 aliases:
-- Nanorifle
+  - Nanorifle
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Post-Apocalyptic
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Post-Apocalyptic
+title: Nanorifle
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Nanorifle  
 >[!info] Stats  
 > **Level:** 1d6+2  

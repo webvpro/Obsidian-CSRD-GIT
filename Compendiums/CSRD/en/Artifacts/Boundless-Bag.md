@@ -1,13 +1,14 @@
 ---
 aliases:
-- Boundless Bag
+  - Boundless Bag
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fairy-Tale
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fairy-Tale
+title: Boundless Bag
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Boundless Bag  
 >[!info] Stats  
 > **Level:** 1d6+2  

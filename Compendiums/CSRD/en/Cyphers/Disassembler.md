@@ -1,12 +1,13 @@
 ---
 aliases:
-- Disassembler
+  - Disassembler
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+title: Disassembler
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Disassembler  
 >[!info] Stats  
 > **Level:** 1d6+1

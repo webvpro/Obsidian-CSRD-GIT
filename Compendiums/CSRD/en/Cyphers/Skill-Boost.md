@@ -1,13 +1,14 @@
 ---
 aliases:
-- Skill Boost
+  - Skill Boost
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Subtle
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Subtle
+title: Skill Boost
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Skill Boost  
 >[!info] Stats  
 > **Level:** 1d6  

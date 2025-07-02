@@ -1,8 +1,11 @@
 ---
-aliases: "Modern Magic Character Options"
+aliases: Modern Magic Character Options
 tags:
   - Compendium/CSRD/en/Character-Options/Modern-Magic-Character-Options
   - Character/Options/Modern-Magic
+title: M
+collection: Character-Options
+kind: Compendium
 ---
 ## Modern Magic Character Options
 ### Descriptors

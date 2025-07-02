@@ -1,13 +1,14 @@
 ---
 aliases:
-- "Ask Me Anything"
+  - Ask Me Anything
 tags:
-- Compendium/CSRD/en/Artifacts/Ask-Me-Anything
-- Artifact
-- Artifact/Modern-Fantasy
+  - Compendium/CSRD/en/Artifacts/Ask-Me-Anything
+  - Artifact
+  - Artifact/Modern-Fantasy
+title: Ask Me Anything
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Ask Me Anything 
 #### Level 
 >1d6 

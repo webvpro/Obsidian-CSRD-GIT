@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Find the Guilty"
+  - Find the Guilty
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Task
+title: Find the Guilty
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Find the Guilty  
 >**Enabler**
   

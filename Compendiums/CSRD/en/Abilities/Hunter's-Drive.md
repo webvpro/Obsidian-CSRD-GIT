@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Hunter's Drive"
+  - Hunter's Drive
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/5
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Attack-Skill
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/5
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Attack-Skill
+title: Hunter's Drive
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Hunter's Drive  
 >**Enabler**  
 >5 Intellect points

@@ -1,16 +1,17 @@
 ---
 aliases:
-- Assassin
+  - Assassin
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/NPC
-- Creature/Level/6
-- Creature/Armor/1
-- Creature/Health/18
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/NPC
+  - Creature/Level/6
+  - Creature/Armor/1
+  - Creature/Health/18
+title: Assassin
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Assassin  
 An assassin kills with poison, with high-velocity bullets from a distance, or by arranging for an unfortunate accident. Assassins accept contracts from governments, corporations, crime bosses, and aggrieved former partners, though some assassins pay themselves by tracking criminals anywhere to collect on "dead or alive" bounties.  
 

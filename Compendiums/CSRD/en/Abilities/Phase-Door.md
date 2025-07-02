@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Phase Door"
+  - Phase Door
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/4
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Movement
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Movement
+title: Phase Door
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Phase Door  
 >**Action**  
 >4 Intellect points

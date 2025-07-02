@@ -1,18 +1,19 @@
 ---
 aliases:
-- "Trick Driver"
+  - Trick Driver
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/High
-- Ability/Categories/Cure
-- Ability/Categories/Meta
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/High
+  - Ability/Categories/Cure
+  - Ability/Categories/Meta
+  - Ability/Categories/Task
+title: Trick Driver
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Trick Driver  
 >**Enabler**
   

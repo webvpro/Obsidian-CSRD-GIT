@@ -1,16 +1,17 @@
 ---
 aliases:
-- Shadow
+  - Shadow
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/1
-- Creature/Armor/1
-- Creature/Health/3
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/1
+  - Creature/Armor/1
+  - Creature/Health/3
+title: Shadow
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Shadow  
 Shadows are semi-intelligent patches of darkness roughly in the shape of a humanoid creature's silhouette. They creep along walls, floors, and ceilings, blending in with actual shadows, peeling themselves free only when they're ready to clutch at a victim with their cold claws.  
 

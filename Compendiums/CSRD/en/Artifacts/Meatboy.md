@@ -1,13 +1,14 @@
 ---
 aliases:
-- "Meatboy"
+  - Meatboy
 tags:
-- Compendium/CSRD/en/Artifacts/Meatboy
-- Artifact
-- Artifact/Modern-Fantasy
+  - Compendium/CSRD/en/Artifacts/Meatboy
+  - Artifact
+  - Artifact/Modern-Fantasy
+title: Meatboy
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Meatboy
 >1d6
 #### Form

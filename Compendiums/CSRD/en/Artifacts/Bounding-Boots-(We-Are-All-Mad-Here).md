@@ -1,13 +1,14 @@
 ---
 aliases:
-- Bounding Boots (We Are All Mad Here)
+  - Bounding Boots (We Are All Mad Here)
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fairy-Tale
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fairy-Tale
+title: Bounding Boots (We Are All Mad Here)
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Bounding Boots (We Are All Mad Here)  
 >[!info] Stats  
 > **Level:** 1d6+1  

@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Psychosis"
+  - Psychosis
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/4
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Special-Attack
+title: Psychosis
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Psychosis  
 >**Action**  
 >4 Intellect points

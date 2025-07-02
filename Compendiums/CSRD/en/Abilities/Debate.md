@@ -1,18 +1,19 @@
 ---
 aliases:
-- "Debate"
+  - Debate
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Social
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Social
+  - Ability/Categories/Task
+title: Debate
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Debate  
 >**Action**  
 >3 Intellect points

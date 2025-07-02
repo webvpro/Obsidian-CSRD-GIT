@@ -2,7 +2,10 @@
 aliases:
   - Abilities
 tags:
--  Compendium/CSRD/en/Rules/Abilities
+  - Compendium/CSRD/en/Rules/Abilities
+title: Abilities
+collection: Rules
+kind: Compendium
 ---
 # Abilities
 

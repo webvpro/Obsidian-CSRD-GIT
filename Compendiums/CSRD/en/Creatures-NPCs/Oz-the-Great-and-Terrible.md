@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Oz, the Great and Terrible"
+  - Oz, the Great and Terrible
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/5
-- Creature/Armor/0
-- Creature/Health/null
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/5
+  - Creature/Armor/0
+  - Creature/Health/null
+title: Oz, the Great and Terrible
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Oz, the Great and Terrible  
 It is perhaps the greatest feat the Wizard of Oz ever pulled off to make everyone believe that he was not a sorcerer at all, but merely a ventriloquist and balloonist from some faraway land. He is, in fact, far more powerful than that, but prefers that no one were ever to know. For if they did, they would expect things of him, and that makes him anxious.  
 

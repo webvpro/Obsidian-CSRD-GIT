@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Biomorphic Detonation"
+  - Biomorphic Detonation
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/7
-- Ability/Tier/High
-- Ability/Pool/Might
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/7
+  - Ability/Tier/High
+  - Ability/Pool/Might
+  - Ability/Categories/Special-Attack
+title: Biomorphic Detonation
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Biomorphic Detonation  
 >**Action**  
 >7+ Might points

@@ -1,9 +1,12 @@
 ---
-aliases: 
-- "Romance"
-tags: 
-- Compendium/CSRD/en/Character-Arcs/Romance
-- Character-Arc
+aliases:
+  - Romance
+tags:
+  - Compendium/CSRD/en/Character-Arcs/Romance
+  - Character-Arc
+title: Romance
+collection: Character-Arcs
+kind: Compendium
 ---
 ## Romance
 >You want to strike up a relationship with a romantic partner. Perhaps you have a specific person in mind, or maybe you’re just interested in a relationship in general.

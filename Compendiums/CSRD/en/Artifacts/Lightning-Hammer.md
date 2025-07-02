@@ -1,13 +1,14 @@
 ---
 aliases:
-- Lightning Hammer
+  - Lightning Hammer
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Lightning Hammer
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Lightning Hammer  
 >[!info] Stats  
 > **Level:** 1d6+2  

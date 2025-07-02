@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Telepathic Network"
+  - Telepathic Network
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Information
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Information
+title: Telepathic Network
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Telepathic Network  
 >**Enabler**  
 >0+ Intellect points

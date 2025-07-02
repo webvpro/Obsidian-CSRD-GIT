@@ -1,13 +1,14 @@
 ---
 aliases:
-- Burst of Speed
+  - Burst of Speed
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Subtle
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Subtle
+title: Burst of Speed
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Burst of Speed  
 >[!info] Stats  
 > **Level:** 1d6  

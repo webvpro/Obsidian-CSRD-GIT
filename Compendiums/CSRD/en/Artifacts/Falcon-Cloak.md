@@ -1,13 +1,14 @@
 ---
 aliases:
-- Falcon Cloak
+  - Falcon Cloak
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Falcon Cloak
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Falcon Cloak  
 >[!info] Stats  
 > **Level:** 1d6  

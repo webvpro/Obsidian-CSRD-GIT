@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Expanded Repertoire"
+  - Expanded Repertoire
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/NA
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/NA
+  - Ability/Categories/NA
+title: Expanded Repertoire
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Expanded Repertoire  
 >**Enabler**
   

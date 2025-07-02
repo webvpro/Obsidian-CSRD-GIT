@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Artifact Scavenger"
+  - Artifact Scavenger
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/6
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/6
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Meta
+title: Artifact Scavenger
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Artifact Scavenger  
 >**Action**  
 >6 Intellect points + 2 XP

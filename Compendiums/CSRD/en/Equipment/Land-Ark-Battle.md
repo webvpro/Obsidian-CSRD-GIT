@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Land Ark, Battle"
+  - Land Ark, Battle
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Planetary-Vehicle
-- Equipment/Science-Fiction
-- Equipment/Level/5
-- Equipment/Value/Exorbitant-X2
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Planetary-Vehicle
+  - Equipment/Science-Fiction
+  - Equipment/Level/5
+  - Equipment/Value/Exorbitant-X2
+title: Land Ark, Battle
+collection: Equipment
+kind: Compendium
 ---
-
-  
 ## Land Ark, Battle  
   
 >As land ark (and sometimes called a "battle ark"), but sports superior weapons, though half the interior space.  

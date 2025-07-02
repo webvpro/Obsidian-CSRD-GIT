@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Lead by Inquiry"
+  - Lead by Inquiry
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Support
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Support
+title: Lead by Inquiry
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Lead by Inquiry  
 >**Enabler**
   

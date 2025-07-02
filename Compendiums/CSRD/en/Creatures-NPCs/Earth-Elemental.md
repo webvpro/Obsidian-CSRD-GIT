@@ -1,16 +1,17 @@
 ---
 aliases:
-- Earth Elemental
+  - Earth Elemental
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/5
-- Creature/Armor/3
-- Creature/Health/30
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/5
+  - Creature/Armor/3
+  - Creature/Health/30
+title: Earth Elemental
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Earth Elemental  
 An excavation, a meteor fall, a still-shuddering earthquake-all these events can summon an earth elemental to take shape and expand the destruction further.  
 

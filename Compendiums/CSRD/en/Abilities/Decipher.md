@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Decipher"
+  - Decipher
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/1
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Information
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/1
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Information
+title: Decipher
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Decipher  
 >**Action**  
 >1 Intellect point

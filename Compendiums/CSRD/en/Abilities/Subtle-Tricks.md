@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Subtle Tricks"
+  - Subtle Tricks
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/High
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/High
+  - Ability/Categories/Meta
+title: Subtle Tricks
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Subtle Tricks  
 >**Enabler**
   

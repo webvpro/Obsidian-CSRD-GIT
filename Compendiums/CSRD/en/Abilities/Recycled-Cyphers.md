@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Recycled Cyphers"
+  - Recycled Cyphers
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/High
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/High
+  - Ability/Categories/Meta
+title: Recycled Cyphers
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Recycled Cyphers  
 >**Enabler**
   

@@ -1,13 +1,14 @@
 ---
 aliases:
-- Personal Environment Field
+  - Personal Environment Field
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Personal Environment Field
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Personal Environment Field  
 >[!info] Stats  
 > **Level:** 1d6+2  

@@ -1,13 +1,14 @@
 ---
 aliases:
-- Detonation Massive
+  - Detonation Massive
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Manifest
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Manifest
+title: Detonation Massive
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Detonation Massive  
 >[!info] Stats  
 > **Level:** 1d6+2  

@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Counter Danger"
+  - Counter Danger
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/4
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Protection
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Protection
+title: Counter Danger
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Counter Danger  
 >**Action**  
 >4 Intellect points

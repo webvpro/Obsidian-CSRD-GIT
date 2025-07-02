@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Trained Without Armor"
+  - Trained Without Armor
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Protection
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Protection
+title: Trained Without Armor
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Trained Without Armor  
 >**Enabler**
   

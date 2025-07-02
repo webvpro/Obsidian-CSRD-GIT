@@ -1,13 +1,14 @@
 ---
 aliases:
-- Gruelmaker
+  - Gruelmaker
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Gruelmaker
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Gruelmaker  
 >[!info] Stats  
 > **Level:** 1d6  

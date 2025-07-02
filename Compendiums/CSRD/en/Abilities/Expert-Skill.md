@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Expert Skill"
+  - Expert Skill
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Meta
+title: Expert Skill
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Expert Skill  
 >**Action**
   

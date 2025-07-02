@@ -1,18 +1,19 @@
 ---
 aliases:
-- "Powerful Rhetoric"
+  - Powerful Rhetoric
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/1
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Social
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/1
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Social
+  - Ability/Categories/Task
+title: Powerful Rhetoric
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Powerful Rhetoric  
 >**Action**  
 >1 Intellect point

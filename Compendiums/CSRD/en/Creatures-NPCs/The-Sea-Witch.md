@@ -1,16 +1,17 @@
 ---
 aliases:
-- The Sea Witch
+  - The Sea Witch
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/6
-- Creature/Armor/0
-- Creature/Health/null
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/6
+  - Creature/Armor/0
+  - Creature/Health/null
+title: The Sea Witch
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## The Sea Witch  
 Living in the darkest depths of the sea, the Sea Witch is dangerous, wily, persuasive, and scheming. She is best known for brewing up life options--for a price. If you want what she's got (and she's got everything), you bring her what she wants. It might be your voice, your hair, or your firstborn. Or all three. Surely you won't miss them . . .  
 

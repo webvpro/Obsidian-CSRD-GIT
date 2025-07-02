@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Biomorphic Healing"
+  - Biomorphic Healing
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/4
-- Ability/Tier/Mid
-- Ability/Pool/Might
-- Ability/Categories/Cure
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/Mid
+  - Ability/Pool/Might
+  - Ability/Categories/Cure
+title: Biomorphic Healing
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Biomorphic Healing  
 >**Action**  
 >4+ Might points

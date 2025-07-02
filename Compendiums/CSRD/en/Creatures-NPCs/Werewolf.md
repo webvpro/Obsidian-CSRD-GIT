@@ -1,16 +1,17 @@
 ---
 aliases:
-- Werewolf
+  - Werewolf
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/4
-- Creature/Armor/0
-- Creature/Health/24
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/4
+  - Creature/Armor/0
+  - Creature/Health/24
+title: Werewolf
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Werewolf  
 The curse of lycanthropy begins as nightmares about being chased or, somehow more terrifying, chasing someone else. As the dreams grow more fierce and each night's sleep provides less rest, victims begin to wonder about the bloodstains on their clothing, the strange claw marks in their homes, and eventually, the mutilated bodies they find buried in their backyards.
 When not transformed, many who suffer the curse seem like completely normal people, if emotionally traumatized by the fact that most of their friends and family have been brutally slaughtered over the preceding months. Some few, however, realize the truth of their condition, and depending on their natures, they either kill themselves before their next transformation or learn to revel in the butchery.  

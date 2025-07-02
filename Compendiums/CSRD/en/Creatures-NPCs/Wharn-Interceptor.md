@@ -1,16 +1,17 @@
 ---
 aliases:
-- Wharn Interceptor
+  - Wharn Interceptor
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/8
-- Creature/Armor/5
-- Creature/Health/53
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/8
+  - Creature/Armor/5
+  - Creature/Health/53
+title: Wharn Interceptor
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Wharn Interceptor  
 Wharn interceptors are void-adapted behemoths, several hundred meters in length. It's hypothesized that they are living battle automatons devised by ancient ultras, though against what long-vanished enemy isn't clear. Now, a handful (hopefully no more) glide through the depths of space like dormant seeds, seeming for all the galaxy like some strangely whorled asteroid or planetesimal. Who knows how many millennia they passed in this apparently hibernating state? But when that hibernation ends, maybe because some ancient countdown is nearing its end, or because an asteroid miner tried to extract a sample, they open eyes burning with deadly energy, and flex claws of particle-beam fury. Wharn interceptors may be related in some fashion omworwars, so much so that humans sometimes call the latter "wharn cogitators." However, it's impossible that omworwars simply "appropriate" any wharn interceptors they encounter.  
 

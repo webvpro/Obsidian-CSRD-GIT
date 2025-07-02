@@ -1,18 +1,19 @@
 ---
 aliases:
-- "Energize Crowd"
+  - Energize Crowd
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/9
-- Ability/Tier/High
-- Ability/Pool/Might
-- Ability/Categories/Protection
-- Ability/Categories/Support
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/9
+  - Ability/Tier/High
+  - Ability/Pool/Might
+  - Ability/Categories/Protection
+  - Ability/Categories/Support
+title: Energize Crowd
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Energize Crowd  
 >**Action**  
 >9 Might points

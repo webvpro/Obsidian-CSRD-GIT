@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Improved Sculpt Light"
+  - Improved Sculpt Light
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/7
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Craft
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/7
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Craft
+title: Improved Sculpt Light
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Improved Sculpt Light  
 >**Action**  
 >7+ Intellect points

@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Grandiose Illusion"
+  - Grandiose Illusion
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/8
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Environment
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/8
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Environment
+title: Grandiose Illusion
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Grandiose Illusion  
 >**Action**  
 >8 Intellect points

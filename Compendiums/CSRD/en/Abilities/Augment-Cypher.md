@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Augment Cypher"
+  - Augment Cypher
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/2
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/2
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Meta
+title: Augment Cypher
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Augment Cypher  
 >**Enabler**  
 >2+ Intellect points

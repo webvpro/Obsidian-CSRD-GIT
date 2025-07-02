@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Unraveling Consumption"
+  - Unraveling Consumption
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Cure
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Cure
+title: Unraveling Consumption
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Unraveling Consumption  
 >**Action**
   

@@ -1,13 +1,14 @@
 ---
 aliases:
-- "Combat Glasses"
+  - Combat Glasses
 tags:
-- Compendium/CSRD/en/Artifacts/Combat-Glasses
-- Artifact
-- Artifact/Modern-Fantasy
+  - Compendium/CSRD/en/Artifacts/Combat-Glasses
+  - Artifact
+  - Artifact/Modern-Fantasy
+title: Combat Glasses
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Combat Glasses
 >1d6
 #### Form

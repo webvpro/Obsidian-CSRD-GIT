@@ -1,13 +1,14 @@
 ---
 aliases:
-- Poppet Damage
+  - Poppet Damage
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+title: Poppet Damage
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Poppet Damage  
 >[!info] Stats  
 > **Level:** 1d6+4  

@@ -1,18 +1,19 @@
 ---
 aliases:
-- "Share Memory"
+  - Share Memory
 tags:
-- Compendium/CSRD/en/Abilities/Share-Memory
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Magic
-- Ability/Categories/Fantasy/Modern
+  - Compendium/CSRD/en/Abilities/Share-Memory
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Magic
+  - Ability/Categories/Fantasy/Modern
+title: Share Memory
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Share Memory
 >**Action**  
 >3 Intellect point

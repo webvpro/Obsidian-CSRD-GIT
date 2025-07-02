@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Illusory Disguise"
+  - Illusory Disguise
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/2
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Transform
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/2
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Transform
+title: Illusory Disguise
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Illusory Disguise  
 >**Action**  
 >2+ Intellect points

@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Incredible Health"
+  - Incredible Health
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Cure
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Cure
+title: Incredible Health
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Incredible Health  
 >**Enabler**
   

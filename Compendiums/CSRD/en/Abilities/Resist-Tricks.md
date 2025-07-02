@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Resist Tricks"
+  - Resist Tricks
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Task
+title: Resist Tricks
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Resist Tricks  
 >**Enabler**
   

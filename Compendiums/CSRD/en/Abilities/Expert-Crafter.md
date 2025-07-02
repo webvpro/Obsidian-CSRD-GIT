@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Expert Crafter"
+  - Expert Crafter
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Craft
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Craft
+title: Expert Crafter
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Expert Crafter  
 >**Enabler**
   

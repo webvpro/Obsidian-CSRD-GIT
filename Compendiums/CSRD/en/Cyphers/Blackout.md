@@ -1,13 +1,14 @@
 ---
 aliases:
-- Blackout
+  - Blackout
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Manifest
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Manifest
+title: Blackout
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Blackout  
 >[!info] Stats  
 > **Level:** 1d6+2  

@@ -1,9 +1,12 @@
 ---
-aliases: 
-- "Defense"
-tags: 
-- Compendium/CSRD/en/Character-Arcs/Defense
-- Character-Arc
+aliases:
+  - Defense
+tags:
+  - Compendium/CSRD/en/Character-Arcs/Defense
+  - Character-Arc
+title: Defense
+collection: Character-Arcs
+kind: Compendium
 ---
 ## Defense
 >A person, place, or thing is threatened, and you want to protect it.

@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Find the Way"
+  - Find the Way
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Meta
+title: Find the Way
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Find the Way  
 >**Enabler**
   

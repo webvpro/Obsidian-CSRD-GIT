@@ -1,13 +1,15 @@
 ---
 aliases:
-- "Four Horsemen of the Apocalypse Famine"
+  - Four Horsemen of the Apocalypse Famine
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/level/6
-- Creature/Heath/24
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/level/6
+  - Creature/Heath/24
+title: Four Horsemen of the Apocalypse Famine
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
 ## Four Horsemen of the Apocalypse Famine   
 Famine delighted in economic collapse and starvation before the apocalypse. They still spend time destabilizing survivor groups’ livelihoods by direct and indirect means. Famine is rail thin, and carries a chain weapon with weighted, disc shaped ends that can also be used as an improvised scale.
 >**Motive:** Starve the living; destabilize organized groups  

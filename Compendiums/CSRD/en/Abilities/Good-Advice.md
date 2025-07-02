@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Good Advice"
+  - Good Advice
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Support
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Support
+  - Ability/Categories/Task
+title: Good Advice
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Good Advice  
 >**Enabler**
   

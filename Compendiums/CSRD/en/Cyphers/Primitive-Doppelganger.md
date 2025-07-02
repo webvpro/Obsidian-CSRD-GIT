@@ -1,12 +1,13 @@
 ---
 aliases:
-- Primitive Doppelganger
+  - Primitive Doppelganger
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+title: Primitive Doppelganger
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Primitive Doppelganger  
 >[!info] Stats  
 > **Level:** 1d6+1  

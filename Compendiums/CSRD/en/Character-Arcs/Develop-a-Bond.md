@@ -1,9 +1,12 @@
 ---
-aliases: 
-- "Develop a Bond"
-tags: 
-- Compendium/CSRD/en/Character-Arcs/Develop-a-Bond
-- Character-Arc
+aliases:
+  - Develop a Bond
+tags:
+  - Compendium/CSRD/en/Character-Arcs/Develop-a-Bond
+  - Character-Arc
+title: Develop a Bond
+collection: Character-Arcs
+kind: Compendium
 ---
 ## Develop a Bond
 >You want to get closer to another character. This might be to make a friend, find a mentor, or establish a contact in a position of power. It might be to turn a friend into a much closer friend. The character might be an NPC or a PC.

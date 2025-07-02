@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Pry Open"
+  - Pry Open
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/4
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Special-Attack
+title: Pry Open
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Pry Open  
 >**Action**  
 >4 Intellect points

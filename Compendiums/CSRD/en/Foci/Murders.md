@@ -1,12 +1,13 @@
 ---
 aliases:
-- "Murders"
+  - Murders
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Striker-Combat
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Striker-Combat
+title: Murders
+collection: Foci
+kind: Compendium
 ---
-
-  
 ## Murders  
 You're an assassin, whether by trade, by inclination, or because it was that or be killed yourself.  
 

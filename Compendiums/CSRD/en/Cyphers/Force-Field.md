@@ -1,13 +1,14 @@
 ---
 aliases:
-- Force Field
+  - Force Field
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Force Field
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Force Field  
 >[!info] Stats  
 > **Level:** 1d6  

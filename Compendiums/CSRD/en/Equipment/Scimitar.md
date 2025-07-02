@@ -1,15 +1,16 @@
 ---
 aliases:
-- "Scimitar"
+  - Scimitar
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/25-Gp
-- Equipment/Weapon/Medium
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/25-Gp
+  - Equipment/Weapon/Medium
+title: Scimitar
+collection: Equipment
+kind: Compendium
 ---
-
-  
 ## Scimitar  
   
 >A medium-length sword with a strongly curved blade.  

@@ -1,13 +1,14 @@
 ---
 aliases:
-- Demonic Rune Blade
+  - Demonic Rune Blade
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Demonic Rune Blade
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Demonic Rune Blade  
 >[!info] Stats  
 > **Level:** 1d6+4  

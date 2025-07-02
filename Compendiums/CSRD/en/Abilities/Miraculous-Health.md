@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Miraculous Health"
+  - Miraculous Health
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Cure
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Cure
+title: Miraculous Health
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Miraculous Health  
 >**Enabler**
   

@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Master Entertainer"
+  - Master Entertainer
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/High
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/High
+  - Ability/Categories/Task
+title: Master Entertainer
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Master Entertainer  
 >**Enabler**
   

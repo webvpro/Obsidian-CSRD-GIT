@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Confidence Artist"
+  - Confidence Artist
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Task
+title: Confidence Artist
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Confidence Artist  
 >**Enabler**
   

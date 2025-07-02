@@ -1,18 +1,19 @@
 ---
 aliases:
-- "Grasping Foliage"
+  - Grasping Foliage
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Environment
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Environment
+  - Ability/Categories/Special-Attack
+title: Grasping Foliage
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Grasping Foliage  
 >**Action**  
 >3+ Intellect points

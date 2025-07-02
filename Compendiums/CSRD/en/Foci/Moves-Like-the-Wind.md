@@ -1,12 +1,13 @@
 ---
 aliases:
-- "Moves Like the Wind"
+  - Moves Like the Wind
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Movement-Expertise
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Movement-Expertise
+title: Moves Like the Wind
+collection: Foci
+kind: Compendium
 ---
-
-  
 ## Moves Like the Wind  
 You can move so fast that you become a blur.  
 

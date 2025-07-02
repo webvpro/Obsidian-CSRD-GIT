@@ -1,13 +1,14 @@
 ---
 aliases:
-- Death's Candle
+  - Death's Candle
 tags:
-- Compendium/CSRD/en/Cyphers/Deaths-Candle
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers/Deaths-Candle
+  - Cypher
+  - Cypher/Fairy-Tale
+title: Death's Candle
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Death's Candle  
 >[!info] Stats  
 > **Level:** 1d6+4  

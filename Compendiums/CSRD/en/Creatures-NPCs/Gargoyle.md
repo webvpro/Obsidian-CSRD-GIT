@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Gargoyle"
+  - Gargoyle
 tags:
-- Compendium/CSRD/en/Creatures-NPCs/Gargoyle
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/4
-- Creature/Armor/3
-- Creature/Health/12
+  - Compendium/CSRD/en/Creatures-NPCs/Gargoyle
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/4
+  - Creature/Armor/3
+  - Creature/Health/12
+title: Gargoyle
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Gargoyle  
 Sounds with no apparent origin, such as the tap of footsteps on the stair, knocking behind the walls, crying from empty rooms, and haunting music, might be signs of a ghost. If the sound is accompanied by a sudden temperature drop and the breath of living creatures begins to steam, it's a certainty.
 Ghosts are the spectral remnants of humans, which persist either as fragments of memory or as full-fledged spirits. Though their appearance varies between individuals, many appear somewhat translucent, washed out, or physically warped from their time spent as a phantom.  

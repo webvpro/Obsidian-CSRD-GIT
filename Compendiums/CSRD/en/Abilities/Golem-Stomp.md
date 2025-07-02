@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Golem Stomp"
+  - Golem Stomp
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/4
-- Ability/Tier/Mid
-- Ability/Pool/Might
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/Mid
+  - Ability/Pool/Might
+  - Ability/Categories/Special-Attack
+title: Golem Stomp
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Golem Stomp  
 >**Action**  
 >4 Might points

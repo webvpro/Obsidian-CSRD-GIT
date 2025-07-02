@@ -1,13 +1,14 @@
 ---
 aliases:
-- "Hart's Heart"
+  - Hart's Heart
 tags:
-- Compendium/CSRD/en/Cyphers/Harts-Heart
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers/Harts-Heart
+  - Cypher
+  - Cypher/Fairy-Tale
+title: Hart's Heart
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Hart's Heart  
 >[!info] Stats  
 > **Level:** 1d6+3  

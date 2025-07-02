@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Damage Transference"
+  - Damage Transference
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Cure
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Cure
+title: Damage Transference
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Damage Transference  
 >**Enabler**
   

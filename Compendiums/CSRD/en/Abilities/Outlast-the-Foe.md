@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Outlast the Foe"
+  - Outlast the Foe
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Meta
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Meta
+  - Ability/Categories/Task
+title: Outlast the Foe
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Outlast the Foe  
 >**Enabler**
   

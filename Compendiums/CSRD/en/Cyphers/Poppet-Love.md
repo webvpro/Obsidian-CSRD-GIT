@@ -1,13 +1,14 @@
 ---
 aliases:
-- Poppet Love
+  - Poppet Love
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+title: Poppet Love
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Poppet Love  
 >[!info] Stats  
 > **Level:** 1d6+2  

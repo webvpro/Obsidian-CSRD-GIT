@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Vigilance"
+  - Vigilance
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/2
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Protection
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/2
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Protection
+title: Vigilance
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Vigilance  
 >**Action**  
 >2 Intellect points

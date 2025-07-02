@@ -1,11 +1,13 @@
 ---
 aliases:
-- Exiled
+  - Exiled
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Exiled
+collection: Descriptors
+kind: Compendiums
 ---
-
 ## Exiled  
 You have walked a long and lonely road, leaving your home and your life behind. You might have committed a heinous crime, something so awful that your people forced you out, and if you dare return, you face death. You might have been accused of a crime you didn't commit and now must pay the price for someone else's wicked deed. Your exile might be the result of a social gaffe-perhaps you shamed your family or a friend, or you embarrassed yourself in front of your peers, an authority, or someone you respect. Whatever the reason, you have left your old life behind and now strive to make a new one.
 ### You gain the following characteristics  

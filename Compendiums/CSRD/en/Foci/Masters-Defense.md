@@ -1,12 +1,13 @@
 ---
 aliases:
-- "Masters Defense"
+  - Masters Defense
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Tank-Combat
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Tank-Combat
+title: Masters Defense
+collection: Foci
+kind: Compendium
 ---
-
-  
 ## Masters Defense  
 You use protective equipment and practiced techniques to avoid becoming hurt in a fight.  
 

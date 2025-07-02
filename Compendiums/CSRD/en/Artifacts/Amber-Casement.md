@@ -1,13 +1,14 @@
 ---
 aliases:
-- Amber Casement
+  - Amber Casement
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Science-Fiction
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Science-Fiction
+title: Amber Casement
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Amber Casement  
 >[!info] Stats  
 > **Level:** 1d6+4  

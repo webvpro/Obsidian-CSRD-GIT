@@ -1,12 +1,13 @@
 ---
 aliases:
-- "Shepherds Spirits"
+  - Shepherds Spirits
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Ally-Use
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Ally-Use
+title: Shepherds Spirits
+collection: Foci
+kind: Compendium
 ---
-
-  
 ## Shepherds Spirits  
 Wandering souls, nature spirits, and elemental beings aid and support you.  
 

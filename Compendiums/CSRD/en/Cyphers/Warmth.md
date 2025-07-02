@@ -1,13 +1,14 @@
 ---
 aliases:
-- Warmth
+  - Warmth
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Manifest
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Manifest
+title: Warmth
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Warmth  
 >[!info] Stats  
 > **Level:** 1d6  

@@ -1,13 +1,14 @@
 ---
 aliases:
-- Effect Resistance
+  - Effect Resistance
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Subtle
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Subtle
+title: Effect Resistance
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Effect Resistance  
 >[!info] Stats  
 > **Level:** 1d6+1  

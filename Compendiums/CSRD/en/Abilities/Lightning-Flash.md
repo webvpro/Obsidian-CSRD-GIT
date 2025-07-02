@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Lightning Flash"
+  - Lightning Flash
 tags:
-- Compendium/CSRD/en/Abilities/Lightning-Flash
-- Ability
-- Ability/Action
-- Ability/Cost/4
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/
+  - Compendium/CSRD/en/Abilities/Lightning-Flash
+  - Ability
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/
+title: Lightning Flash
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Lightning Flash  
 >**Action**  
 >4 Intellect points

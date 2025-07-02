@@ -1,13 +1,14 @@
 ---
 aliases:
-- Elfblade
+  - Elfblade
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Elfblade
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Elfblade  
 >[!info] Stats  
 > **Level:** 1d6+3  

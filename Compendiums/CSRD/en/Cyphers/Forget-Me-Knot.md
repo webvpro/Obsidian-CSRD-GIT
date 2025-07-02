@@ -1,13 +1,14 @@
 ---
 aliases:
-- Forget-Me-Knot
+  - Forget-Me-Knot
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+title: Forget-Me-Knot
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Forget-Me-Knot  
 >[!info] Stats  
 > **Level:** 1d6+3  

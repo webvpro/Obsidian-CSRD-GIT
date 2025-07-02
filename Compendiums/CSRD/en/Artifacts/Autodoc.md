@@ -1,13 +1,14 @@
 ---
 aliases:
-- Autodoc
+  - Autodoc
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Post-Apocalyptic
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Post-Apocalyptic
+title: Autodoc
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Autodoc  
 >[!info] Stats  
 > **Level:** 1d6  

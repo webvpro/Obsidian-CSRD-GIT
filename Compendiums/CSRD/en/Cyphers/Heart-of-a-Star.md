@@ -1,13 +1,14 @@
 ---
 aliases:
-- Heart of a Star
+  - Heart of a Star
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+title: Heart of a Star
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Heart of a Star  
 >[!info] Stats  
 > **Level:** 1d6  

@@ -1,13 +1,14 @@
 ---
 aliases:
-- Edible Food
+  - Edible Food
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Scavenger-Subtle
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Scavenger-Subtle
+title: Edible Food
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Edible Food  
 >[!info] Stats  
 > **Level:** 1d6+1  

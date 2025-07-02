@@ -1,18 +1,19 @@
 ---
 aliases:
-- "Perfect Stranger"
+  - Perfect Stranger
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Meta
-- Ability/Categories/Social
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Meta
+  - Ability/Categories/Social
+title: Perfect Stranger
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Perfect Stranger  
 >**Action**  
 >3 Intellect points

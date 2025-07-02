@@ -1,10 +1,12 @@
 ---
 aliases:
-- "Modern Rules Module"
+  - Modern Rules Module
 tags:
-- Compendium/CSRD/en/Rules/Optional/Modern-Rules-Module
+  - Compendium/CSRD/en/Rules/Optional/Modern-Rules-Module
+title: Modern Rules Module
+collection: Rules
+kind: Compendium
 ---
-
 ## Modern Rules Module
 The modern setting is easy because it’s just the real world, right? Well, yes and no. It’s easy for players to understand the context of a modern setting. They know the default assumptions—cities, cars, cell phones, the internet, and so on. It’s also easier for some players to get into character, because their character could be someone they might very well pass on the street. It can be easier to wrap your mind around a history professor than a thousand-year-old elf wizard. These things make it easier on the GM as well. 
 But for the same reason, it’s not easy. The setting is the real world we all know, so it’s easy to get facts wrong or let them bog you down. What happens when you pull the fire alarm on the thirty-fifth floor of a major hotel in a large city? How fast do the authorities arrive? In truth, the facts aren’t as important as the story you’re creating, but some verisimilitude is nice.

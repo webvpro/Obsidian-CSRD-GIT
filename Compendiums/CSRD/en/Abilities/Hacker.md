@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Hacker"
+  - Hacker
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/2
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/2
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Meta
+title: Hacker
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Hacker  
 >**Action**  
 >2 Intellect points

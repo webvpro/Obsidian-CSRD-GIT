@@ -1,12 +1,13 @@
 ---
 aliases:
-- "Defends the Gate"
+  - Defends the Gate
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Tank-Combat
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Tank-Combat
+title: Defends the Gate
+collection: Foci
+kind: Compendium
 ---
-
-  
 ## Defends the Gate  
 Everyone wants you on their side when it comes to a fight because nothing gets by you.  
 

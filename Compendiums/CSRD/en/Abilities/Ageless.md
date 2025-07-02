@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Ageless"
+  - Ageless
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/NA
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/NA
+  - Ability/Categories/NA
+title: Ageless
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Ageless  
 >**Enabler**
   

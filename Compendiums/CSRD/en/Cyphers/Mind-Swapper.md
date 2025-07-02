@@ -1,12 +1,13 @@
 ---
 aliases:
-- Mind Swapper
+  - Mind Swapper
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+title: Mind Swapper
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Mind Swapper  
 >[!info] Stats  
 > **Level:** 1d6+2  

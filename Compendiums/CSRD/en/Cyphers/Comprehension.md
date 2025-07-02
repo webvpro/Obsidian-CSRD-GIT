@@ -1,13 +1,14 @@
 ---
 aliases:
-- Comprehension
+  - Comprehension
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Comprehension
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Comprehension  
 >[!info] Stats  
 > **Level:** 1d6+1  

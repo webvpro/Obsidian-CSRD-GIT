@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Task Specialization"
+  - Task Specialization
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Task
+title: Task Specialization
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Task Specialization  
 >**Action**
   

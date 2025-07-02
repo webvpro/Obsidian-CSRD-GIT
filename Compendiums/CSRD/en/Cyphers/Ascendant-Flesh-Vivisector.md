@@ -1,12 +1,13 @@
 ---
 aliases:
-- Ascendant Flesh Vivisector
+  - Ascendant Flesh Vivisector
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+title: Ascendant Flesh Vivisector
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Ascendant Flesh Vivisector  
 >[!info] Stats  
 > **Level:** 1d6+4  

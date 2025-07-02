@@ -1,12 +1,14 @@
 ---
 aliases:
-- "Combat"
+  - Combat
 tags:
--  Compendium/CSRD/en/Rules
-- Combat/Basics
-- 
+  - Compendium/CSRD/en/Rules
+  - Combat/Basics
+  - null
+title: Combat
+collection: Rules
+kind: Compendium
 ---
-
 ## Combat
 Making an attack in combat works the same way as any other roll: the GM assigns a [[Task-Difficulty|difficulty to the task]], and you roll a d20 against the associated target number.
 The difficulty of your attack roll depends on how powerful your opponent is. Just as tasks have a difficulty from 1 to 10, creatures have a level from 1 to 10. Most of the time, the difficulty of your attack roll is the same as the creature’s level. For example, if you attack a level 2 bandit, it’s a level 2 task, so your target number is 6.

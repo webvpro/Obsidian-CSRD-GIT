@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Alleviate"
+  - Alleviate
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Cure
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Cure
+title: Alleviate
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Alleviate  
 >**Action**  
 >3 Intellect points

@@ -1,13 +1,14 @@
 ---
 aliases:
-- Shard of the Moon
+  - Shard of the Moon
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+title: Shard of the Moon
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Shard of the Moon  
 >[!info] Stats  
 > **Level:** 1d6+2  

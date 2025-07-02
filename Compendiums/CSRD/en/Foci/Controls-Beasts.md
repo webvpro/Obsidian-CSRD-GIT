@@ -1,12 +1,13 @@
 ---
 aliases:
-- "Controls Beasts"
+  - Controls Beasts
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Ally-Use
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Ally-Use
+title: Controls Beasts
+collection: Foci
+kind: Compendium
 ---
-
-  
 ## Controls Beasts  
 Your ability to communicate and lead beasts is uncanny.  
 

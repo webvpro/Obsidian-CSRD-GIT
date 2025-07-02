@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Use the Network"
+  - Use the Network
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/5
-- Ability/Tier/NA
-- Ability/Pool/Intellect
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/5
+  - Ability/Tier/NA
+  - Ability/Pool/Intellect
+  - Ability/Categories/NA
+title: Use the Network
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Use the Network  
 >**Action**  
 >5 Intellect points

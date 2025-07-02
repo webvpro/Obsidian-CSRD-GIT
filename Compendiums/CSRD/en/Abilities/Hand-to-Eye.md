@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Hand to Eye"
+  - Hand to Eye
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/2
-- Ability/Tier/Low
-- Ability/Pool/Speed
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/2
+  - Ability/Tier/Low
+  - Ability/Pool/Speed
+  - Ability/Categories/Task
+title: Hand to Eye
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Hand to Eye  
 >**Action**  
 >2 Speed points

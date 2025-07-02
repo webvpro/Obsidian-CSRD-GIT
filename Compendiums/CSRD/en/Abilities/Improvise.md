@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Improvise"
+  - Improvise
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Task
+title: Improvise
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Improvise  
 >**Action**  
 >3 Intellect points

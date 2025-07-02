@@ -1,13 +1,14 @@
 ---
 aliases:
-- Potable Liquid
+  - Potable Liquid
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Scavenger-Subtle
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Scavenger-Subtle
+title: Potable Liquid
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Potable Liquid  
 >[!info] Stats  
 > **Level:** 1d6+1  

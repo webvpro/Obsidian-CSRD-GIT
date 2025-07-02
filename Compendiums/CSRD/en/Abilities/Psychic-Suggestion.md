@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Psychic Suggestion"
+  - Psychic Suggestion
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/4
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Control
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Control
+title: Psychic Suggestion
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Psychic Suggestion  
 >**Action**  
 >4 Intellect points

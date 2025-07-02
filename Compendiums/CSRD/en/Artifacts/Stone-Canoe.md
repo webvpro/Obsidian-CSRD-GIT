@@ -1,13 +1,14 @@
 ---
 aliases:
-- Stone Canoe
+  - Stone Canoe
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fairy-Tale
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fairy-Tale
+title: Stone Canoe
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Stone Canoe  
 >[!info] Stats  
 > **Level:** 1d6+3  

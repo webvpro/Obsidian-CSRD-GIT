@@ -1,18 +1,19 @@
 ---
 aliases:
-- "Quick Work"
+  - Quick Work
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Craft
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Craft
+  - Ability/Categories/Meta
+title: Quick Work
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Quick Work  
 >**Action**  
 >3+ Intellect points

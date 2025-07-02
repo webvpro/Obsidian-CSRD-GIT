@@ -1,9 +1,12 @@
 ---
-aliases: 
-- "Explore"
-tags: 
-- Compendium/CSRD/en/Character-Arcs/Explore
-- Character-Arc
+aliases:
+  - Explore
+tags:
+  - Compendium/CSRD/en/Character-Arcs/Explore
+  - Character-Arc
+title: Explore
+collection: Character-Arcs
+kind: Compendium
 ---
 ## Explore
 >Something out there is unknown and you want to explore its secrets. This is most likely an area of wilderness, a new planet, an otherworldly dimension, or something similar.

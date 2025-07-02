@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Information Gathering"
+  - Information Gathering
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/5
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Information
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/5
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Information
+title: Information Gathering
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Information Gathering  
 >**Action**  
 >5 Intellect points

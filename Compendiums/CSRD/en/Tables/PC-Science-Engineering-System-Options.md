@@ -1,11 +1,13 @@
 ---
 aliases:
-- "Player Science & Engineering System Options"
+  - Player Science & Engineering System Options
 tags:
-- Compendiums/CSRD/en/Tables
-- Table/PC/Options/Science-Engineering-System
+  - Compendiums/CSRD/en/Tables
+  - Table/PC/Options/Science-Engineering-System
+title: Player Science & Engineering System Options
+collection: Tables
+kind: Compendiums
 ---
-
 ## Player Science & Engineering System Options
 
 | Science and Engineering Task | Hindrance | Effect on Target Craft (or on PC’s craft)                                                                                                                                                                                                                                                                                     |

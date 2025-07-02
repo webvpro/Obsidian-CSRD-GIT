@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Inspire Coordinated Actions"
+  - Inspire Coordinated Actions
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/9
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Support
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/9
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Support
+title: Inspire Coordinated Actions
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Inspire Coordinated Actions  
 >**Action**  
 >9 Intellect points

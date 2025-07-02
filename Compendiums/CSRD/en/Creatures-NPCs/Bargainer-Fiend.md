@@ -1,17 +1,16 @@
 ---
-aliases: 
-- "Bargainer Fiend"
-
+aliases:
+  - Bargainer Fiend
 tags:
-- Compendium/CSRD/en/Creatures-NPCs/Bargainer-Fiend
-- Creature/Modern-Magic 
-- Creature/Level/3
-- Creature/Armor/2
-- Creature/Health/9
+  - Compendium/CSRD/en/Creatures-NPCs/Bargainer-Fiend
+  - Creature/Modern-Magic
+  - Creature/Level/3
+  - Creature/Armor/2
+  - Creature/Health/9
+title: Bargainer Fiend
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-
-  
 ## Bargainer Fiend
 
 Description text

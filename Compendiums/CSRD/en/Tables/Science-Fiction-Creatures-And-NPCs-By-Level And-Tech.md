@@ -1,12 +1,14 @@
 ---
 aliases:
-- "Science Fiction Creatures And NPCs By Level And Tech"
+  - Science Fiction Creatures And NPCs By Level And Tech
 tags:
-- Compendiums/CSRD/en/Tables
-- Creatures/Science-Fiction
-- NPCs/Science-Fiction
+  - Compendiums/CSRD/en/Tables
+  - Creatures/Science-Fiction
+  - NPCs/Science-Fiction
+title: Science Fiction Creatures And NPCs By Level And Tech
+collection: Tables
+kind: Compendiums
 ---
-
 ## Science Fiction Creatures And NPCs By Level And Tech
 | Level | Name                  | Tech Rating |
 |-------|-----------------------|-------------|

@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Soul Interrogation"
+  - Soul Interrogation
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/5
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Information
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/5
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Information
+title: Soul Interrogation
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Soul Interrogation  
 >**Action**  
 >5 Intellect points

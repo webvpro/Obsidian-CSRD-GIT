@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Adaptation"
+  - Adaptation
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/High
-- Ability/Categories/Environment
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/High
+  - Ability/Categories/Environment
+title: Adaptation
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Adaptation  
 >**Enabler**
   

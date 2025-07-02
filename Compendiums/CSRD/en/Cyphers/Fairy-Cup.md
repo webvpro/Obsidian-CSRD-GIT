@@ -1,13 +1,14 @@
 ---
 aliases:
-- Fairy Cup
+  - Fairy Cup
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+title: Fairy Cup
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Fairy Cup  
 >[!info] Stats  
 > **Level:** 1d6+1  

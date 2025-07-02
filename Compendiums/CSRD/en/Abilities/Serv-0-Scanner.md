@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Serv-0 Scanner"
+  - Serv-0 Scanner
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/2
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Information
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/2
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Information
+title: Serv-0 Scanner
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Serv-0 Scanner  
 >**Enabler**  
 >2 Intellect points

@@ -1,13 +1,14 @@
 ---
 aliases:
-- Whisperer in the Ether
+  - Whisperer in the Ether
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Whisperer in the Ether
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Whisperer in the Ether  
 >[!info] Stats  
 > **Level:** 1d6+1  

@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Maneuvering Adept"
+  - Maneuvering Adept
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/High
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/High
+  - Ability/Categories/Meta
+title: Maneuvering Adept
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Maneuvering Adept  
 >**Enabler**
   

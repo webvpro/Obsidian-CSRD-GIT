@@ -1,16 +1,17 @@
 ---
 aliases:
-- Vat Reject
+  - Vat Reject
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/3
-- Creature/Armor/0
-- Creature/Health/9
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/3
+  - Creature/Armor/0
+  - Creature/Health/9
+title: Vat Reject
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Vat Reject  
 Vat rejects come into being when clone vats meant to produce clone soldiers or similar
 mass-produced entities are corrupted. How the carefully controlled process becomes compromised varies, but possibilities include yeast contamination, sunspot activity, nanovirus evolution, or purposeful meddling with control parameters. Unskilled operators experimenting with derelict cloning equipment can also produce a vat of rejects.

@@ -1,18 +1,19 @@
 ---
 aliases:
-- "Disarming Attack"
+  - Disarming Attack
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/5
-- Ability/Tier/High
-- Ability/Pool/Speed
-- Ability/Categories/Meta
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/5
+  - Ability/Tier/High
+  - Ability/Pool/Speed
+  - Ability/Categories/Meta
+  - Ability/Categories/Special-Attack
+title: Disarming Attack
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Disarming Attack  
 >**Action**  
 >5 Speed points

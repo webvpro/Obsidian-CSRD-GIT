@@ -1,13 +1,14 @@
 ---
 aliases:
-- Poppet Silence
+  - Poppet Silence
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+title: Poppet Silence
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Poppet Silence  
 >[!info] Stats  
 > **Level:** 1d6+2  

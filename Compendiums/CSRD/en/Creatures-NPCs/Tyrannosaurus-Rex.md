@@ -1,16 +1,17 @@
 ---
 aliases:
-- Tyrannosaurus Rex
+  - Tyrannosaurus Rex
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/7
-- Creature/Armor/0
-- Creature/Health/50
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/7
+  - Creature/Armor/0
+  - Creature/Health/50
+title: Tyrannosaurus Rex
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Tyrannosaurus Rex  
 The short arms of a tyrannosaurus have been much parodied in Earth social media circles, but the arms aren't really important when a hunting tyrannosaurus is after you. It's more the soul-shivering roar, designed to freeze prey in place, and a skull and mouth so enormous that the entire creature is cantilevered by a massive tail that itself can be used as a powerful weapon.
 As vicious as tyrannosauruses likely were 66 million years ago, the versions still hunting today could be even more dangerous. That's because the ones with a taste for humans have learned to adapt to human defenses and to use their roar to terrorize prey as they hunt.  

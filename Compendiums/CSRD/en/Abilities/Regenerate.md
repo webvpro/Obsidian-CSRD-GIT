@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Regenerate"
+  - Regenerate
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/NA
-- Ability/Tier/High
-- Ability/Categories/Cure
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/NA
+  - Ability/Tier/High
+  - Ability/Categories/Cure
+title: Regenerate
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Regenerate  
 >**Action**
   

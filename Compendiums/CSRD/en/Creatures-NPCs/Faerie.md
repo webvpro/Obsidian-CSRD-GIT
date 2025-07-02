@@ -1,16 +1,17 @@
 ---
 aliases:
-- Faerie
+  - Faerie
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/3
-- Creature/Armor/0
-- Creature/Health/12
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/3
+  - Creature/Armor/0
+  - Creature/Health/12
+title: Faerie
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Faerie  
 Faeries are magic creatures of music, mirth, tricks, and taunts. Some might only perform a silly song or follow people for a while, flitting around and asking questions like an annoying young child. Some faeries are crueler and delight in stealing clothing, equipment, or prized objects. And a few are downright malicious and, under the guise of a helpful guide or a pretty light in the distance, lure lost travelers to various dooms.  
 

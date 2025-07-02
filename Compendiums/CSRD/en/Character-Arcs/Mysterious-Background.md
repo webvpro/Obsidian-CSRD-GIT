@@ -1,9 +1,12 @@
 ---
-aliases: 
-- "Mysterious Background"
-tags: 
-- Compendium/CSRD/en/Character-Arcs/Mysterious-Background
-- Character-Arc
+aliases:
+  - Mysterious Background
+tags:
+  - Compendium/CSRD/en/Character-Arcs/Mysterious-Background
+  - Character-Arc
+title: Mysterious Background
+collection: Character-Arcs
+kind: Compendium
 ---
 ## Mysterious Background
 >You don’t know who your parents were, but you want to find out. The mystery might be something other than your parentage, but that’s a common theme in this kind of arc. You want to know where you come from—there’s some kind of mystery in your past. 

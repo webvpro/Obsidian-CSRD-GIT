@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Improved Recovery"
+  - Improved Recovery
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Cure
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Cure
+title: Improved Recovery
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Improved Recovery  
 >**Enabler**
   

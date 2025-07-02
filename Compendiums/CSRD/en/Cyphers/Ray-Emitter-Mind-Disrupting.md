@@ -1,13 +1,14 @@
 ---
 aliases:
-- Ray Emitter Mind Disrupting
+  - Ray Emitter Mind Disrupting
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Ray Emitter Mind Disrupting
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Ray Emitter Mind Disrupting  
 >[!info] Stats  
 > **Level:** 1d6+2  

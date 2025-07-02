@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Beneath Notice"
+  - Beneath Notice
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/NA
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/NA
+  - Ability/Categories/NA
+title: Beneath Notice
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Beneath Notice  
 >**Enabler**
   

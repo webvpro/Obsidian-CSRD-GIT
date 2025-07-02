@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Flash Across the Miles"
+  - Flash Across the Miles
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/6
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Movement
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/6
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Movement
+title: Flash Across the Miles
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Flash Across the Miles  
 >**Action**  
 >6+ Intellect points

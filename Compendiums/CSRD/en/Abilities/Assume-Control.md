@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Assume Control"
+  - Assume Control
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/6
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Control
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/6
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Control
+title: Assume Control
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Assume Control  
 >**Action**  
 >6+ Intellect points

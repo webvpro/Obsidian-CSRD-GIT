@@ -1,13 +1,14 @@
 ---
 aliases:
-- Melee Weapon
+  - Melee Weapon
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Scavenger-Subtle
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Scavenger-Subtle
+title: Melee Weapon
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Melee Weapon  
 >[!info] Stats  
 > **Level:** 1d6+1  

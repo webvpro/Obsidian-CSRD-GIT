@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Sculpt Flesh"
+  - Sculpt Flesh
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/2
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Support
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/2
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Support
+title: Sculpt Flesh
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Sculpt Flesh  
 >**Action**  
 >2 Intellect points

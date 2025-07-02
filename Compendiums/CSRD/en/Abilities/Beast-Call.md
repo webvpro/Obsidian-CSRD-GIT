@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Beast Call"
+  - Beast Call
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/5
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Companion
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/5
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Companion
+title: Beast Call
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Beast Call  
 >**Action**  
 >5 Intellect points

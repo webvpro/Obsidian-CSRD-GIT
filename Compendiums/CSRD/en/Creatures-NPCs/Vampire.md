@@ -1,16 +1,17 @@
 ---
 aliases:
-- Vampire
+  - Vampire
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/6
-- Creature/Armor/0
-- Creature/Health/24
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/6
+  - Creature/Armor/0
+  - Creature/Health/24
+title: Vampire
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Vampire  
 Vampires are undead creatures, risen from the grave to drink blood. Their very nature and essence are evil and anti-life, even as they revel in their own endless existence. Most vampires are vain, arrogant, sadistic, lustful, and domineering. Their powers allow them to manipulate others, and they frequently toy with their prey before feeding. Vampires come out only at night, as the sun's rays will destroy them.
 The bite of a vampire over three nights (in which it exchanges a bit of its own blood) ensures that the victim will rise as a vampire under the thrall of the one that killed it. While vampires are careful not to create too many of their kind (which amount to competition), each thrall conveys a bit more supernatural power to a vampire.  

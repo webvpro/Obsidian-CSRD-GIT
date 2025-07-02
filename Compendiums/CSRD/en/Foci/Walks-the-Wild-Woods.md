@@ -1,12 +1,13 @@
 ---
 aliases:
-- "Walks the Wild Woods"
+  - Walks the Wild Woods
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/
+title: Walks the Wild Woods
+collection: Foci
+kind: Compendium
 ---
-
-  
 ## Walks the Wild Woods  
 An adherent of nature magic who draws on the power and strength of trees.  
 

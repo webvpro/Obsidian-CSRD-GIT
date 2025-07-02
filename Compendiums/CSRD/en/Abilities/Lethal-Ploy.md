@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Lethal Ploy"
+  - Lethal Ploy
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/5
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/5
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Special-Attack
+title: Lethal Ploy
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Lethal Ploy  
 >**Action**  
 >5+ Intellect points

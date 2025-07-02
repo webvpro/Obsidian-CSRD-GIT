@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Defense Master"
+  - Defense Master
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/High
-- Ability/Categories/Protection
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/High
+  - Ability/Categories/Protection
+  - Ability/Categories/Special-Attack
+title: Defense Master
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Defense Master  
 >**Enabler**
   

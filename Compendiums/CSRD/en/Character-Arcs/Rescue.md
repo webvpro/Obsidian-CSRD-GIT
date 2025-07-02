@@ -1,9 +1,12 @@
 ---
-aliases: 
-- "Rescue"
-tags: 
-- Compendium/CSRD/en/Character-Arcs/Rescue
-- Character-Arc
+aliases:
+  - Rescue
+tags:
+  - Compendium/CSRD/en/Character-Arcs/Rescue
+  - Character-Arc
+title: Rescue
+collection: Character-Arcs
+kind: Compendium
 ---
 ## Rescue
 >Someone or something of great importance has been taken, and you want to get them or it back.

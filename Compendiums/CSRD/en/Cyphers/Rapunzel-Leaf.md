@@ -1,13 +1,14 @@
 ---
 aliases:
-- Rapunzel Leaf
+  - Rapunzel Leaf
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+title: Rapunzel Leaf
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Rapunzel Leaf  
 >[!info] Stats  
 > **Level:** 1d6+3  

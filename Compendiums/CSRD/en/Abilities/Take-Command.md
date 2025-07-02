@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Take Command"
+  - Take Command
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Support
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Support
+title: Take Command
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Take Command  
 >**Action**  
 >3 Intellect points

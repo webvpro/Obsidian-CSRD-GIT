@@ -1,16 +1,17 @@
 ---
 aliases:
-- Chronophage
+  - Chronophage
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/4
-- Creature/Armor/1
-- Creature/Health/18
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/4
+  - Creature/Armor/1
+  - Creature/Health/18
+title: Chronophage
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Chronophage  
 These segmented, 6-foot (2 m) long creatures look partly like larvae that have grown gargantuan and vicious. They appear in places where time moves more slowly or more quickly than normal, where balls and liquids flow upslope, or where a time traveler has visited.  
 

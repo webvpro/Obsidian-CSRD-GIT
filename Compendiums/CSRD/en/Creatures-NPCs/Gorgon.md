@@ -1,16 +1,17 @@
 ---
 aliases:
-- Gorgon
+  - Gorgon
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/5
-- Creature/Armor/0
-- Creature/Health/12
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/5
+  - Creature/Armor/0
+  - Creature/Health/12
+title: Gorgon
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Gorgon  
 Statues littering the grounds outside a ruin are meant to deter savvy robbers and explorers. The statues, ranging in size from birds to warriors astride steeds, all depict creatures in states of fright and pain, the final image of death. These pieces are not the work of a fevered mind, but the fates of those who braved a gorgon's lair. Gorgons were humans once. After they offended the gods with their vanity, they were transformed into hideous monsters. A gorgon has the upper body of a human of perfect form and physique, but the lower body of a giant serpent, complete with rattling tail. One who dares look at a gorgon's face can see traces of the old beauty beneath a weary veneer, darkened by hatred. Instead of hair, serpents crown a gorgon's head, snapping and hissing at anyone who draws near. Yet the most terrible aspect of a gorgon is its gaze, which can turn any creature to stone.  
 

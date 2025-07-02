@@ -1,13 +1,14 @@
 ---
 aliases:
-- "Atheneum of the Mind Card "
+  - 'Atheneum of the Mind Card '
 tags:
-- Compendium/CSRD/en/Artifacts/Atheneum-of-the-Mind-Card
-- Artifact
-- Artifact/Modern-Fantasy
+  - Compendium/CSRD/en/Artifacts/Atheneum-of-the-Mind-Card
+  - Artifact
+  - Artifact/Modern-Fantasy
+title: Atheneum of the Mind Card
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Atheneum of the Mind Card 
 #### Level 
 >1d6 

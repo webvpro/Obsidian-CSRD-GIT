@@ -1,13 +1,14 @@
 ---
 aliases:
-- Teleporter Bounder
+  - Teleporter Bounder
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Teleporter Bounder
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Teleporter Bounder  
 >[!info] Stats  
 > **Level:** 1d6+2  

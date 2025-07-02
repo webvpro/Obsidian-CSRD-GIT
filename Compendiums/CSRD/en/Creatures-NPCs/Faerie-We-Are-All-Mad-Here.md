@@ -1,16 +1,17 @@
 ---
 aliases:
-- Faerie We Are All Mad Here
+  - Faerie We Are All Mad Here
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/3
-- Creature/Armor/0
-- Creature/Health/12
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/3
+  - Creature/Armor/0
+  - Creature/Health/12
+title: Faerie We Are All Mad Here
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Faerie We Are All Mad Here  
 In general, faeries (sometimes called fairies or fair folk) are humanoid in appearance, small in stature, and magical. They are associated with music, mirth, tricks, and taunts. Seeing one is an omen--hopefully, an omen of a silly song or the first appearance of an annoying new road companion (the very faerie sighted) flitting around, asking the questions of a curious four-year-old hyped up on sugar water and ice cream. Some faeries are tricksters, delighting in playing pranks and stealing clothing, equipment, or prized objects. And a few are malicious, luring travelers to their various dooms, making deadly deals, and forcing others into captivity.
 	Not all faeries have wings, but those that do find many ways to use them to their advantage.  

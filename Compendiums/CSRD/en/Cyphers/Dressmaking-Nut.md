@@ -1,13 +1,14 @@
 ---
 aliases:
-- Dressmaking Nut
+  - Dressmaking Nut
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+title: Dressmaking Nut
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Dressmaking Nut  
 >[!info] Stats  
 > **Level:** 1d6+2  

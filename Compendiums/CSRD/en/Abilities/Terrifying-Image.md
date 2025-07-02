@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Terrifying Image"
+  - Terrifying Image
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/6
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Environment
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/6
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Environment
+title: Terrifying Image
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Terrifying Image  
 >**Action**  
 >6 Intellect points

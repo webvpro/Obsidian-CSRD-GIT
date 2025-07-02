@@ -1,13 +1,14 @@
 ---
 aliases:
-- Pack of Storage
+  - Pack of Storage
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Pack of Storage
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Pack of Storage  
 >[!info] Stats  
 > **Level:** 1d6+1  

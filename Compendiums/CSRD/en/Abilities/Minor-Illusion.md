@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Minor Illusion"
+  - Minor Illusion
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/1
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Environment
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/1
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Environment
+title: Minor Illusion
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Minor Illusion  
 >**Action**  
 >1 Intellect point

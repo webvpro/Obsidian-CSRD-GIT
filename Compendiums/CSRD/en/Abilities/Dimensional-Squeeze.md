@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Dimensional Squeeze"
+  - Dimensional Squeeze
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/2
-- Ability/Tier/NA
-- Ability/Pool/Intellect
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/2
+  - Ability/Tier/NA
+  - Ability/Pool/Intellect
+  - Ability/Categories/NA
+title: Dimensional Squeeze
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Dimensional Squeeze  
 >**Action**  
 >2+ Intellect points

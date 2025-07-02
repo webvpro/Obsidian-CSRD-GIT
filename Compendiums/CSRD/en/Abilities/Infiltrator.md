@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Infiltrator"
+  - Infiltrator
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Task
+title: Infiltrator
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Infiltrator  
 >**Enabler**
   

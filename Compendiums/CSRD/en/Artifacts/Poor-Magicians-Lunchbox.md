@@ -1,13 +1,14 @@
 ---
 aliases:
-- "Poor Magician’s Lunchbox"
+  - Poor Magician’s Lunchbox
 tags:
-- Compendium/CSRD/en/Artifacts/Poor-Magicians-Lunchbox
-- Artifact
-- Artifact/Modern-Fantasy
+  - Compendium/CSRD/en/Artifacts/Poor-Magicians-Lunchbox
+  - Artifact
+  - Artifact/Modern-Fantasy
+title: Poor Magician’s Lunchbox
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Poor Magician’s Lunchbox
 
 >1d6 

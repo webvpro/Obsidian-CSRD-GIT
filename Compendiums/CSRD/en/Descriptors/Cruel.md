@@ -1,11 +1,13 @@
 ---
 aliases:
-- Cruel
+  - Cruel
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Cruel
+collection: Descriptors
+kind: Compendiums
 ---
-
 ## Cruel  
 Misfortune and suffering do not move you. When another endures hardship, you find it hard to care, and you may even enjoy the pain and difficulty the person experiences if they've done you wrong in the past. Your cruel streak may derive from bitterness brought about by your own struggles and disappointments. You might be a hard pragmatist, doing what you feel you must even if others are worse for it. Or you could be a sadist, delighting in the pain you inflict.
 Being cruel does not necessarily make you a villain. Your cruelty may be reserved for those who cross you or other people useful to you. You might have become cruel as the result of an intensely awful experience. Abuse and torture, for example, can strip away compassion for other living beings.

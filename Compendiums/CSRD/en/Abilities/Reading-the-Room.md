@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Reading the Room"
+  - Reading the Room
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Information
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Information
+title: Reading the Room
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Reading the Room  
 >**Action**  
 >3 Intellect points

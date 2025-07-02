@@ -1,12 +1,13 @@
 ---
 aliases:
-- "Crafts Unique Objects"
+  - Crafts Unique Objects
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/
+title: Crafts Unique Objects
+collection: Foci
+kind: Compendium
 ---
-
-  
 ## Crafts Unique Objects  
 You're an inventor of strange and useful objects.  
 

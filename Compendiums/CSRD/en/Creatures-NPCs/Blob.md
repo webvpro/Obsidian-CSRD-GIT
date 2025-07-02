@@ -1,16 +1,17 @@
 ---
 aliases:
-- Blob
+  - Blob
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/8
-- Creature/Armor/0
-- Creature/Health/66
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/8
+  - Creature/Armor/0
+  - Creature/Health/66
+title: Blob
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Blob  
 The huge, undulating mass of this creature is composed of a mucus-like solid. The half-amorphous blob defeats its foes by absorbing prey, integrating a victim's tissue into its own. In essence, the victim becomes the blob, and all of the victim's knowledge is available to the blob for later use.
 If it later desires, a blob can release a nearly perfect replicant of any creature that it has absorbed. Replicants have the memories and personalities of the originals, but they do the blob's bidding, which is usually to explore distant locations or lure prey into the open using a friendly face. A particularly well-crafted replicant might not know it's not the original. Creating a replicant takes a blob a day or two of effort, during which time it's unable to defend itself or eat, so it's not a task the creature attempts lightly.  

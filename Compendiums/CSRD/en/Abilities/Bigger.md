@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Bigger"
+  - Bigger
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Transform
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Transform
+title: Bigger
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Bigger  
 >**Enabler**
   

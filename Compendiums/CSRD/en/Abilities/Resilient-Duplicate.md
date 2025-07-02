@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Resilient Duplicate"
+  - Resilient Duplicate
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Companion
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Companion
+title: Resilient Duplicate
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Resilient Duplicate  
 >**Enabler**
   

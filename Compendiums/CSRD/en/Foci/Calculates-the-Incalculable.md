@@ -1,12 +1,13 @@
 ---
 aliases:
-- "Calculates the Incalculable"
+  - Calculates the Incalculable
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Environment-Manipulation
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Environment-Manipulation
+title: Calculates the Incalculable
+collection: Foci
+kind: Compendium
 ---
-
-  
 ## Calculates the Incalculable  
 Awesome mathematical ability allows you to model the world in real time, giving you an edge over everyone.  
 

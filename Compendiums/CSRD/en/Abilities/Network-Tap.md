@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Network Tap"
+  - Network Tap
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/4
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Information
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Information
+title: Network Tap
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Network Tap  
 >**Action**  
 >4 Intellect points

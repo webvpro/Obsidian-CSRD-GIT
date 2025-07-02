@@ -1,12 +1,13 @@
 ---
 aliases:
-- "Operates Undercover"
+  - Operates Undercover
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Exploration
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Exploration
+title: Operates Undercover
+collection: Foci
+kind: Compendium
 ---
-
-  
 ## Operates Undercover  
 Under the guise of someone else, you seek to find answers the powerful do not want divulged.  
 

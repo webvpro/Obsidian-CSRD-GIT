@@ -1,13 +1,14 @@
 ---
 aliases:
-- Crystal Ball
+  - Crystal Ball
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Crystal Ball
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Crystal Ball  
 >[!info] Stats  
 > **Level:** 1d6+3  

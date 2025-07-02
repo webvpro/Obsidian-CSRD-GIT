@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Predictive Equation"
+  - Predictive Equation
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/2
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/2
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Task
+title: Predictive Equation
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Predictive Equation  
 >**Action**  
 >2 Intellect points

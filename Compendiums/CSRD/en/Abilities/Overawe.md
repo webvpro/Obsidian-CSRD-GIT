@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Overawe"
+  - Overawe
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/5
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/5
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Special-Attack
+title: Overawe
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Overawe  
 >**Action**  
 >5 Intellect points

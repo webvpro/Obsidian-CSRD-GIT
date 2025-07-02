@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Move Mountains"
+  - Move Mountains
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/9
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Environment
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/9
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Environment
+title: Move Mountains
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Move Mountains  
 >**Action**  
 >9 Intellect points

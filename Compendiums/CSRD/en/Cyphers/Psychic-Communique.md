@@ -1,13 +1,14 @@
 ---
 aliases:
-- Psychic Communique
+  - Psychic Communique
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Psychic Communique
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Psychic Communique  
 >[!info] Stats  
 > **Level:** 1d6+2  

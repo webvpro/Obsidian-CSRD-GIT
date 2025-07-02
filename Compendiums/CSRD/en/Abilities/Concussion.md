@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Concussion"
+  - Concussion
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/7
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/7
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Special-Attack
+title: Concussion
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Concussion  
 >**Action**  
 >7 Intellect points

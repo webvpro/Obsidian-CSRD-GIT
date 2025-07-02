@@ -1,13 +1,14 @@
 ---
 aliases:
-- Wings
+  - Wings
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Wings
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Wings  
 >[!info] Stats  
 > **Level:** 1d6+2  

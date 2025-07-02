@@ -1,18 +1,19 @@
 ---
 aliases:
-- "Quarry"
+  - Quarry
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/2
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Attack-Skill
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/2
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Attack-Skill
+  - Ability/Categories/Task
+title: Quarry
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Quarry  
 >**Action**  
 >2 Intellect points

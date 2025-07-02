@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Elusive"
+  - Elusive
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/2
-- Ability/Tier/Low
-- Ability/Pool/Speed
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/2
+  - Ability/Tier/Low
+  - Ability/Pool/Speed
+  - Ability/Categories/Meta
+title: Elusive
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Elusive  
 >**Enabler**  
 >2 Speed points

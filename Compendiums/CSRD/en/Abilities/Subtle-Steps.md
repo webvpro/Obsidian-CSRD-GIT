@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Subtle Steps"
+  - Subtle Steps
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Task
+title: Subtle Steps
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Subtle Steps  
 >**Enabler**
   

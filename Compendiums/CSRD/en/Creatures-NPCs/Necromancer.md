@@ -1,16 +1,17 @@
 ---
 aliases:
-- Necromancer
+  - Necromancer
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/5
-- Creature/Armor/1
-- Creature/Health/15
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/5
+  - Creature/Armor/1
+  - Creature/Health/15
+title: Necromancer
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Necromancer  
 The ability to influence, command, and call up the dead is an impressive power, given how many more people are dead than living. Since the only thing separating a living person from a dead one is a well-aimed knife or death spell, the number of dead always rises.  
 

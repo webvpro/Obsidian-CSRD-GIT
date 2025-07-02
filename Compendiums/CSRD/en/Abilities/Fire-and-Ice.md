@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Fire and Ice"
+  - Fire and Ice
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/4
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Special-Attack
+title: Fire and Ice
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Fire and Ice  
 >**Action**  
 >4 Intellect points

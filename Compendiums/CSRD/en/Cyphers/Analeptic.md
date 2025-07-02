@@ -1,13 +1,14 @@
 ---
 aliases:
-- Analeptic
+  - Analeptic
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Subtle
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Subtle
+title: Analeptic
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Analeptic  
 >[!info] Stats  
 > **Level:** 1d6+2  

@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Amazing Copying"
+  - Amazing Copying
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/NA
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/NA
+  - Ability/Categories/NA
+title: Amazing Copying
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Amazing Copying  
 >**Enabler**
   

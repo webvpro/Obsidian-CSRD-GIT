@@ -1,13 +1,14 @@
 ---
 aliases:
-- Ray Emitter
+  - Ray Emitter
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Ray Emitter
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Ray Emitter  
 >[!info] Stats  
 > **Level:** 1d6+2  

@@ -1,13 +1,14 @@
 ---
 aliases:
-- Sovereign Key
+  - Sovereign Key
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Sovereign Key
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Sovereign Key  
 >[!info] Stats  
 > **Level:** 1d6+2  

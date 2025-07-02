@@ -1,13 +1,14 @@
 ---
 aliases:
-- Adhesion
+  - Adhesion
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Manifest
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Manifest
+title: Adhesion
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Adhesion  
 >[!info] Stats  
 > **Level:** 1d6  

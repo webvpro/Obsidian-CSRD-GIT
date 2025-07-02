@@ -1,13 +1,14 @@
 ---
 aliases:
-- Controlled Blinking
+  - Controlled Blinking
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Controlled Blinking
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Controlled Blinking  
 >[!info] Stats  
 > **Level:** 1d6+2  

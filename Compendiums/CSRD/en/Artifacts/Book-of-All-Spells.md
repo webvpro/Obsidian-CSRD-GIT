@@ -1,13 +1,14 @@
 ---
 aliases:
-- Book of All Spells
+  - Book of All Spells
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Book of All Spells
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Book of All Spells  
 >[!info] Stats  
 > **Level:** 1d6+2  

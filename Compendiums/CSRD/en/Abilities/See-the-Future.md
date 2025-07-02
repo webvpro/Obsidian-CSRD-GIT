@@ -1,18 +1,19 @@
 ---
 aliases:
-- "See the Future"
+  - See the Future
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/6
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Protection
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/6
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Protection
+  - Ability/Categories/Task
+title: See the Future
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## See the Future  
 >**Enabler**  
 >6 Intellect points

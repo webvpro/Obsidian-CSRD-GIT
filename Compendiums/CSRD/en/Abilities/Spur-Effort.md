@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Spur Effort"
+  - Spur Effort
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/5
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Support
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/5
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Support
+title: Spur Effort
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Spur Effort  
 >**Enabler**  
 >5 Intellect points

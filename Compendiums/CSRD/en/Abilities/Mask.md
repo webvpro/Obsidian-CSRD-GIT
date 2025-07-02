@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Mask"
+  - Mask
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/5
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Transform
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/5
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Transform
+title: Mask
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Mask  
 >**Action**  
 >5 Intellect points

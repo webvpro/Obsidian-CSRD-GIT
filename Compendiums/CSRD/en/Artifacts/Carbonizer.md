@@ -1,13 +1,14 @@
 ---
 aliases:
-- Carbonizer
+  - Carbonizer
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact/Weapon
-- Artifact/Post-Apocalyptic
+  - Compendium/CSRD/en/Artifacts
+  - Artifact/Weapon
+  - Artifact/Post-Apocalyptic
+title: Carbonizer
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Carbonizer  
 >[!info] Stats  
 > **Level:** 1d6+1  

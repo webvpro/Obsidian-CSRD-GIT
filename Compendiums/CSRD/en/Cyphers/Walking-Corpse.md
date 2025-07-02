@@ -1,13 +1,14 @@
 ---
 aliases:
-- Walking Corpse
+  - Walking Corpse
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantasy
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantasy
+title: Walking Corpse
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Walking Corpse  
 >[!info] Stats  
 > **Level:** 1d6  

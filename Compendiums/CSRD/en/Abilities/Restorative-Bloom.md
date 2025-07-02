@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Restorative Bloom"
+  - Restorative Bloom
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/5
-- Ability/Tier/NA
-- Ability/Pool/Might
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/5
+  - Ability/Tier/NA
+  - Ability/Pool/Might
+  - Ability/Categories/NA
+title: Restorative Bloom
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Restorative Bloom  
 >**Action**  
 >5 Might points

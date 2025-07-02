@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Bounding Boots"
+  - Bounding Boots
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Apparel-And-Armor
-- Equipment/Fantastic
-- Equipment/Science-Fiction
-- Equipment/Level/4
-- Equipment/Value/Very-Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Apparel-And-Armor
+  - Equipment/Fantastic
+  - Equipment/Science-Fiction
+  - Equipment/Level/4
+  - Equipment/Value/Very-Expensive
+title: Bounding Boots
+collection: Equipment
+kind: Compendium
 ---
-
-  
 ## Bounding Boots  
   
 >Gravity-assist boots provide two free levels for Effort for jumping and running tasks. In addition, wearer can fall from any height safely if prepared for the descent.  

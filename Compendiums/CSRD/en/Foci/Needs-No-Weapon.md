@@ -1,12 +1,13 @@
 ---
 aliases:
-- "Needs No Weapon"
+  - Needs No Weapon
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Striker-Combat
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Striker-Combat
+title: Needs No Weapon
+collection: Foci
+kind: Compendium
 ---
-
-  
 ## Needs No Weapon  
 Powerful punches, kicks, elbows, knees, and full body movements are all the weapons you need.  
 

@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Projection"
+  - Projection
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/4
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Environment
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Environment
+title: Projection
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Projection  
 >**Action**  
 >4 Intellect points

@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Community Activist"
+  - Community Activist
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Control
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Control
+title: Community Activist
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Community Activist  
 >**Enabler**
   

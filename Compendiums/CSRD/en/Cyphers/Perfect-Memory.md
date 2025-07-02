@@ -1,13 +1,14 @@
 ---
 aliases:
-- Perfect Memory
+  - Perfect Memory
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Subtle
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Subtle
+title: Perfect Memory
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Perfect Memory  
 >[!info] Stats  
 > **Level:** 1d6  

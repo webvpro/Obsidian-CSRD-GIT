@@ -1,13 +1,14 @@
 ---
 aliases:
-- Ring of Fall Flourishing
+  - Ring of Fall Flourishing
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Ring of Fall Flourishing
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Ring of Fall Flourishing  
 >[!info] Stats  
 > **Level:** 1d6  

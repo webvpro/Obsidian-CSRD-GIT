@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Show Them the Way"
+  - Show Them the Way
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/6
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Control
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/6
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Control
+title: Show Them the Way
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Show Them the Way  
 >**Action**  
 >6+ Intellect points

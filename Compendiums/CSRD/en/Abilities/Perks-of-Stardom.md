@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Perks of Stardom"
+  - Perks of Stardom
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Social
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Social
+title: Perks of Stardom
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Perks of Stardom  
 >**Enabler**
   

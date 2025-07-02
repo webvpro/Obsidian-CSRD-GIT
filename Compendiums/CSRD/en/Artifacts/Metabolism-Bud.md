@@ -1,13 +1,14 @@
 ---
 aliases:
-- Metabolism Bud
+  - Metabolism Bud
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Science-Fiction
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Science-Fiction
+title: Metabolism Bud
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Metabolism Bud  
 >[!info] Stats  
 > **Level:** 1d6  

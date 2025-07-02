@@ -1,12 +1,13 @@
 ---
 aliases:
-- "Soars on Amazing Wings"
+  - Soars on Amazing Wings
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/
+title: Soars on Amazing Wings
+collection: Foci
+kind: Compendium
 ---
-
-  
 ## Soars on Amazing Wings  
 Many superheroes can fly, and some even have wings. You can use your wings for movement, attacks, and defense.  
 

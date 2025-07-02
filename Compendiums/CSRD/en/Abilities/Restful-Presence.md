@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Restful Presence"
+  - Restful Presence
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Cure
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Cure
+title: Restful Presence
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Restful Presence  
 >**Enabler**
   

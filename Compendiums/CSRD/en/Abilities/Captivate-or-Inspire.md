@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Captivate or Inspire"
+  - Captivate or Inspire
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Control
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Control
+title: Captivate or Inspire
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Captivate or Inspire  
 >**Action**
   

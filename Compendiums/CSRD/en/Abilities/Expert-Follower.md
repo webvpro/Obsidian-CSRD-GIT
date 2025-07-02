@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Expert Follower"
+  - Expert Follower
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Companion
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Companion
+title: Expert Follower
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Expert Follower  
 >**Enabler**
   

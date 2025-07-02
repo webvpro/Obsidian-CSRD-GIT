@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Poison Touch"
+  - Poison Touch
 tags:
-- Compendium/CSRD/en/Abilities/Poison-Touch
-- Ability
-- Ability/Action
-- Ability/Cost/4
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Support
+  - Compendium/CSRD/en/Abilities/Poison-Touch
+  - Ability
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Support
+title: Poison Touch
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Poison Touch  
 >**Action**  
 >2 Intellect points

@@ -1,11 +1,13 @@
 ---
 aliases:
-- Doomed
+  - Doomed
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Doomed
+collection: Descriptors
+kind: Compendiums
 ---
-
 ## Doomed  
 You are quite certain that your fate is leading you, inextricably, toward a terrible end. This fate might be yours alone, or you might be dragging along the people closest to you.
 ### You gain the following characteristics  

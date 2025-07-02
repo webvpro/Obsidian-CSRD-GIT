@@ -1,13 +1,14 @@
 ---
 aliases:
-- "Tweedledee’s Umbrella"
+  - Tweedledee’s Umbrella
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fairy-Tale
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fairy-Tale
+title: Tweedledee’s Umbrella
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Tweedledee’s Umbrella  
 >[!info] Stats  
 > **Level:** 1d6+2  

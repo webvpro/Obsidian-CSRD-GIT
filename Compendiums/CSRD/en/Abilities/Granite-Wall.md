@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Granite Wall"
+  - Granite Wall
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/7
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Environment
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/7
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Environment
+title: Granite Wall
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Granite Wall  
 >**Action**  
 >7+ Intellect points

@@ -1,12 +1,13 @@
 ---
 aliases:
-- Magic Flavor
+  - Magic Flavor
 tags:
-- Compendium/CSRD/en/Flavors
-- Flavor/Magic-Flavor
+  - Compendium/CSRD/en/Flavors
+  - Flavor/Magic-Flavor
+title: Magic Flavor
+collection: Flavors
+kind: Compendium
 ---
-
-  
 ## Magic Flavor  
 You know a little about magic. You might not be a wizard, but you know the basics--how it works, and how to accomplish a few wondrous things. Of course, in your setting, "magic" might actually mean psychic powers, mutant abilities, weird alien tech, or anything else that produces interesting and useful effects. An Explorer flavored with magic might be a wizard-hunter, and a Speaker with magical flavor might be a sorcerer-bard. Although an Adept flavored with magic is still an Adept, you might find that swapping some of the type's basic abilities with those given here tailors the character in desirable ways.  
 

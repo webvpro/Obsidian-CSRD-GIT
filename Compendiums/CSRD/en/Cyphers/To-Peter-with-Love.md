@@ -1,13 +1,14 @@
 ---
 aliases:
-- To Peter with Love
+  - To Peter with Love
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+title: To Peter with Love
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## To Peter with Love  
 >[!info] Stats  
 > **Level:** 1d6+3  

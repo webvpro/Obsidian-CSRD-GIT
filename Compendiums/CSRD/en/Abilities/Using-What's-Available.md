@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Using What's Available"
+  - Using What's Available
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/4
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Meta
+title: Using What's Available
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Using What's Available  
 >**Action**  
 >4 Intellect points

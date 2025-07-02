@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Ice Armor"
+  - Ice Armor
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/1
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Protection
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/1
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Protection
+title: Ice Armor
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Ice Armor  
 >**Enabler**  
 >1 Intellect point

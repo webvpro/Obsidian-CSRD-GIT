@@ -1,13 +1,14 @@
 ---
 aliases:
-- Water Adapter
+  - Water Adapter
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Manifest
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Manifest
+title: Water Adapter
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Water Adapter  
 >[!info] Stats  
 > **Level:** 1d6  

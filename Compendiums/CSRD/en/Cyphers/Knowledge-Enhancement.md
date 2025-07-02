@@ -1,13 +1,14 @@
 ---
 aliases:
-- Knowledge Enhancement
+  - Knowledge Enhancement
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Subtle
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Subtle
+title: Knowledge Enhancement
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Knowledge Enhancement  
 >[!info] Stats  
 > **Level:** 1d6  

@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Greater Skill With Attacks"
+  - Greater Skill With Attacks
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/High
-- Ability/Categories/Attack-Skill
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/High
+  - Ability/Categories/Attack-Skill
+title: Greater Skill With Attacks
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Greater Skill With Attacks  
 >**Enabler**
   

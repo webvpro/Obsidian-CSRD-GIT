@@ -1,13 +1,14 @@
 ---
 aliases:
-- "Ecosensitive Fridge Magnets"
+  - Ecosensitive Fridge Magnets
 tags:
-- Compendium/CSRD/en/Artifacts/Ecosensitive-Fridge-Magnets
-- Artifact
-- Artifact/Modern-Fantasy
+  - Compendium/CSRD/en/Artifacts/Ecosensitive-Fridge-Magnets
+  - Artifact
+  - Artifact/Modern-Fantasy
+title: Ecosensitive Fridge Magnets
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Ecosensitive Fridge Magnets
 >1d6 
 #### Form

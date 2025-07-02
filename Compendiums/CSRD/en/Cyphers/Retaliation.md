@@ -1,13 +1,14 @@
 ---
 aliases:
-- Retaliation
+  - Retaliation
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Retaliation
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Retaliation  
 >[!info] Stats  
 > **Level:** 1d6  

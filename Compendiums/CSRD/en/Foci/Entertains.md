@@ -1,12 +1,13 @@
 ---
 aliases:
-- "Entertains"
+  - Entertains
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Support
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Support
+title: Entertains
+collection: Foci
+kind: Compendium
 ---
-
-  
 ## Entertains  
 You perform, mostly for the benefit of others.  
 

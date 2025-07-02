@@ -1,13 +1,14 @@
 ---
 aliases:
-- Tiny Size
+  - Tiny Size
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantasy
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantasy
+title: Tiny Size
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Tiny Size  
 >[!info] Stats  
 > **Level:** 1d6  

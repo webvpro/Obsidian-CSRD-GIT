@@ -1,13 +1,14 @@
 ---
 aliases:
-- Book
+  - Book
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Post-Apocalyptic
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Post-Apocalyptic
+title: Book
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Book  
 >[!info] Stats  
 > **Level:** 1d6  

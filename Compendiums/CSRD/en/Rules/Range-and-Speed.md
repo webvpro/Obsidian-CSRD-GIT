@@ -1,13 +1,15 @@
 ---
 aliases:
-- "Range and Speed"
+  - Range and Speed
 tags:
-- Compendium/CSRD/en/Rules/Range-and-Speed
-- Rule/Movement
-- Rule/Range
-- Rule/Speed
+  - Compendium/CSRD/en/Rules/Range-and-Speed
+  - Rule/Movement
+  - Rule/Range
+  - Rule/Speed
+title: Range and Speed
+collection: Rules
+kind: Compendium
 ---
-
 # Range and Speed  
 Distance is simplified into four categories: immediate, short, long, and very long.  
 Immediate distance from a character is within reach or within a few steps. If a character stands in a small room, everything in the room is within immediate distance. At most, immediate distance is 10 feet (3 m).  

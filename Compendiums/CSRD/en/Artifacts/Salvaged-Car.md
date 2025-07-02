@@ -1,13 +1,14 @@
 ---
 aliases:
-- Salvaged Car
+  - Salvaged Car
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Post-Apocalyptic
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Post-Apocalyptic
+title: Salvaged Car
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Salvaged Car  
 >[!info] Stats  
 > **Level:** 1d6  

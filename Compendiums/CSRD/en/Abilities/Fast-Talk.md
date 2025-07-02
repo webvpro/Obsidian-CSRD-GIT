@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Fast Talk"
+  - Fast Talk
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/1
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Control
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/1
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Control
+title: Fast Talk
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Fast Talk  
 >**Action**  
 >1 Intellect point

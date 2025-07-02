@@ -1,16 +1,17 @@
 ---
 aliases:
-- Secret Agent
+  - Secret Agent
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/NPC
-- Creature/Level/5
-- Creature/Armor/0
-- Creature/Health/15
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/NPC
+  - Creature/Level/5
+  - Creature/Armor/0
+  - Creature/Health/15
+title: Secret Agent
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Secret Agent  
 Secret agents are trained professionals who put their mission before their own well-being, regardless of which government agency, corporation, guild, or kingdom employs them. An agent operates under a fake cover, perhaps as an envoy, inspector, technician, actor, tourist, or bumbling fool.  
 

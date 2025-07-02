@@ -1,16 +1,17 @@
 ---
 aliases:
-- "No One Knows Better"
+  - No One Knows Better
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/High
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/High
+  - Ability/Categories/Task
+title: No One Knows Better
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## No One Knows Better  
 >**Enabler**
   

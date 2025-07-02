@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Generate Force Field"
+  - Generate Force Field
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/9
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Environment
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/9
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Environment
+title: Generate Force Field
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Generate Force Field  
 >**Action**  
 >9+ Intellect points

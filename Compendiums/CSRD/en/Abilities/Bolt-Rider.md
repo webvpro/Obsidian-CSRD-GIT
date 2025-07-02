@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Bolt Rider"
+  - Bolt Rider
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/4
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Movement
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Movement
+title: Bolt Rider
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Bolt Rider  
 >**Action**  
 >4 Intellect points

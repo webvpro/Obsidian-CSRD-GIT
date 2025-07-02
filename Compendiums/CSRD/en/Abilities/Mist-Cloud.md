@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Mist Cloud"
+  - Mist Cloud
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/1
-- Ability/Tier/NA
-- Ability/Pool/Intellect
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/1
+  - Ability/Tier/NA
+  - Ability/Pool/Intellect
+  - Ability/Categories/NA
+title: Mist Cloud
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Mist Cloud  
 >**Action**  
 >1+ Intellect points

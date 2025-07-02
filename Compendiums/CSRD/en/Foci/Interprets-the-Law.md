@@ -1,12 +1,13 @@
 ---
 aliases:
-- "Interprets the Law"
+  - Interprets the Law
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Basic
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Basic
+title: Interprets the Law
+collection: Foci
+kind: Compendium
 ---
-
-  
 ## Interprets the Law  
 You excel at winning others over to your views.  
 

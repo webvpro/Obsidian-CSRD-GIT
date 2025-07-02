@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Rider"
+  - Rider
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Task
+title: Rider
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Rider  
 >**Enabler**
   

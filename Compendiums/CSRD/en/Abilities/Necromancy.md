@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Necromancy"
+  - Necromancy
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Companion
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Companion
+title: Necromancy
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Necromancy  
 >**Action**  
 >3+ Intellect points

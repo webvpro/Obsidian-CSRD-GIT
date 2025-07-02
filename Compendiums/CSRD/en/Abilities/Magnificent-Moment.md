@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Magnificent Moment"
+  - Magnificent Moment
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/High
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/High
+  - Ability/Categories/Task
+title: Magnificent Moment
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Magnificent Moment  
 >**Enabler**
   

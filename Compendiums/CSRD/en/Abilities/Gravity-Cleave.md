@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Gravity Cleave"
+  - Gravity Cleave
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Special-Attack
+title: Gravity Cleave
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Gravity Cleave  
 >**Action**  
 >3 Intellect points

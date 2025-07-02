@@ -1,13 +1,14 @@
 ---
 aliases:
-- Ghostly Armor
+  - Ghostly Armor
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Ghostly Armor
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Ghostly Armor  
 >[!info] Stats  
 > **Level:** 1d6+3  

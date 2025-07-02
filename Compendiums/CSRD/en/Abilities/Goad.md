@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Goad"
+  - Goad
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/1
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Control
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/1
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Control
+title: Goad
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Goad  
 >**Action**  
 >1 Intellect point

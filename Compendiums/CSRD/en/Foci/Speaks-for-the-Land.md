@@ -1,12 +1,13 @@
 ---
 aliases:
-- "Speaks for the Land"
+  - Speaks for the Land
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/
+title: Speaks for the Land
+collection: Foci
+kind: Compendium
 ---
-
-  
 ## Speaks for the Land  
 Your spiritual connection to nature and the environment grants you mystical abilities.  
 

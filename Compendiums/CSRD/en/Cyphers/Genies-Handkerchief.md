@@ -1,13 +1,14 @@
 ---
 aliases:
-- Genie's Handkerchief
+  - Genie's Handkerchief
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+title: Genie's Handkerchief
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Genie's Handkerchief  
 >[!info] Stats  
 > **Level:** 1d6  

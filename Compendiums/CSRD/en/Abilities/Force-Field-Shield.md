@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Force Field Shield"
+  - Force Field Shield
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Protection
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Protection
+title: Force Field Shield
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Force Field Shield  
 >**Action**
   

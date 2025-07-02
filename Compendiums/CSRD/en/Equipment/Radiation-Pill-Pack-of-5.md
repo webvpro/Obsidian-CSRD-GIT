@@ -1,14 +1,15 @@
 ---
 aliases:
-- "Radiation Pill (Pack of 5)"
+  - Radiation Pill (Pack of 5)
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Post-Apocalyptic
-- Equipment/Utility-Gear
-- Equipment/Value/Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Post-Apocalyptic
+  - Equipment/Utility-Gear
+  - Equipment/Value/Expensive
+title: Radiation Pill (Pack of 5)
+collection: Equipment
+kind: Compendium
 ---
-
-  
 ## Radiation Pill (Pack of 5)  
   
 >Asset for defense tasks against radiation effects for twelve hours  

@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Restore Life"
+  - Restore Life
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/9
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Cure
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/9
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Cure
+title: Restore Life
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Restore Life  
 >**Action**  
 >9+ Intellect points

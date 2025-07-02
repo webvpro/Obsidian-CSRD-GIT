@@ -1,13 +1,14 @@
 ---
 aliases:
-- Powder of Life
+  - Powder of Life
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+title: Powder of Life
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Powder of Life  
 >[!info] Stats  
 > **Level:** 1d6+3  

@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Brainwashing"
+  - Brainwashing
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/6
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Control
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/6
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Control
+title: Brainwashing
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Brainwashing  
 >**Action**  
 >6+ Intellect points

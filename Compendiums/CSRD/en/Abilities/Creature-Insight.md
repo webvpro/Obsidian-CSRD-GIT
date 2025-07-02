@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Creature Insight"
+  - Creature Insight
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Information
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Information
+title: Creature Insight
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Creature Insight  
 >**Action**  
 >3 Intellect points

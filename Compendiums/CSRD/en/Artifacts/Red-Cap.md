@@ -1,13 +1,14 @@
 ---
 aliases:
-- Red Cap
+  - Red Cap
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fairy-Tale
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fairy-Tale
+title: Red Cap
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Red Cap  
 >[!info] Stats  
 > **Level:** 1d6+3  

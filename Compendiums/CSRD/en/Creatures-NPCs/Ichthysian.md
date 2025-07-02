@@ -1,16 +1,17 @@
 ---
 aliases:
-- Ichthysian
+  - Ichthysian
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/5
-- Creature/Armor/2
-- Creature/Health/18
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/5
+  - Creature/Armor/2
+  - Creature/Health/18
+title: Ichthysian
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Ichthysian  
 Ichthysians are thought to be aquatic evolutionary offshoots of hominids or the result of experiments trying to fuse human and amphibian or fish DNA. They are physically similar to humans standing fully upright, with webbed hands, claws, froglike or fishlike features, gills, and strong muscles from a lifetime of swimming. They live in the water but are comfortable with extended forays onto land. Their intelligence is between that of a smart animal and a human; they can use simple tools such as rocks and sticks, and may build dams to modify waterways in their territory.
 Some ichthysians are reputed to have the ability to heal others, and local villages may worship these beings as gods.  

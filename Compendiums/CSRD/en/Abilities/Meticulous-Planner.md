@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Meticulous Planner"
+  - Meticulous Planner
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Task
+title: Meticulous Planner
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Meticulous Planner  
 >**Enabler**
   

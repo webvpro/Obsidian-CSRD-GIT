@@ -1,8 +1,11 @@
 ---
-aliases: "Fairytale Character Options"
+aliases: Fairytale Character Options
 tags:
   - Compendium/CSRD/en/Character-Options/Fairytale-Character-Options
   - Character/Options/Fairytale
+title: F
+collection: Character-Options
+kind: Compendium
 ---
 ## Fairytale Character Options
 ### Fairytale Descriptors

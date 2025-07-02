@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Enlarge"
+  - Enlarge
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/1
-- Ability/Tier/Low
-- Ability/Pool/Might
-- Ability/Categories/Transform
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/1
+  - Ability/Tier/Low
+  - Ability/Pool/Might
+  - Ability/Categories/Transform
+title: Enlarge
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Enlarge  
 >**Action**  
 >1+ Might point

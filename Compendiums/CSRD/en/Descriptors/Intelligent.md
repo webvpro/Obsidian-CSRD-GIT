@@ -1,11 +1,13 @@
 ---
 aliases:
-- Intelligent
+  - Intelligent
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Intelligent
+collection: Descriptors
+kind: Compendiums
 ---
-
 ## Intelligent  
 You're quite smart. Your memory is sharp, and you easily grasp concepts that others might struggle with. This aptitude doesn't necessarily mean that you've had years of formal education, but you have learned a great deal in your life, primarily because you pick things up quickly and retain so much.
 ### You gain the following characteristics  

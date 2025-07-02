@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Ice Storm"
+  - Ice Storm
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/High
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/High
+  - Ability/Categories/Special-Attack
+title: Ice Storm
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Ice Storm  
 >**Enabler**
   

@@ -1,13 +1,14 @@
 ---
 aliases:
-- Steadfast Tin Soldier
+  - Steadfast Tin Soldier
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fairy-Tale
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fairy-Tale
+title: Steadfast Tin Soldier
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Steadfast Tin Soldier  
 >[!info] Stats  
 > **Level:** 1d6+2  

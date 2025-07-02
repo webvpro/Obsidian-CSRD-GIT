@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Defense Against Robots"
+  - Defense Against Robots
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Protection
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Protection
+title: Defense Against Robots
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Defense Against Robots  
 >**Enabler**
   

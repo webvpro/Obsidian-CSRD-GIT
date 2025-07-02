@@ -1,16 +1,17 @@
 ---
 aliases:
-- Queen
+  - Queen
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/6
-- Creature/Armor/0
-- Creature/Health/18
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/6
+  - Creature/Armor/0
+  - Creature/Health/18
+title: Queen
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Queen  
 Ah, the Evil Queen. Ruler of the land, watcher in the mirror. Full of magic, utterly merciless, and sharp of tongue. Evil and wicked queens abound in fairy tales, from those who have no names and are remembered only for their evil deeds, to those whose names will never be forgotten: Queen Grimhilde, Maleficent, the Queen of Hearts, and the White Witch. These queens seek power for power's sake, not caring what destruction lies in their wake.
 Of course, not all queens are evil--just the ones you hear about most often. But they are all powerful in their own way, even if they are forced to hide it by their circumstances. While they too crave power, they seek it in order to protect their lands, their people, and their loved ones.  

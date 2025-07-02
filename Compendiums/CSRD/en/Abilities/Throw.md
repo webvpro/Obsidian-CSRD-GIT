@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Throw"
+  - Throw
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/2
-- Ability/Tier/Mid
-- Ability/Pool/Might
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/2
+  - Ability/Tier/Mid
+  - Ability/Pool/Might
+  - Ability/Categories/Special-Attack
+title: Throw
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Throw  
 >**Enabler**  
 >2 Might points

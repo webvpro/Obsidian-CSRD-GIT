@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Face Morph"
+  - Face Morph
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/2
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Transform
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/2
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Transform
+title: Face Morph
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Face Morph  
 >**Action**  
 >2+ Intellect points

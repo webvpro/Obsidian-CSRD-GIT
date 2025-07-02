@@ -1,17 +1,18 @@
 ---
 aliases:
-- "See History"
+  - See History
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/4
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Information
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Information
+title: See History
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## See History  
 >**Action**  
 >4 Intellect points

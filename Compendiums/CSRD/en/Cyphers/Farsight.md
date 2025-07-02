@@ -1,13 +1,14 @@
 ---
 aliases:
-- Farsight
+  - Farsight
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Farsight
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Farsight  
 >[!info] Stats  
 > **Level:** 1d6+1  

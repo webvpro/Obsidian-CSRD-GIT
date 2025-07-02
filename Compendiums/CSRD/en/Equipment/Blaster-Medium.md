@@ -1,18 +1,19 @@
 ---
 aliases:
-- "Blaster, Medium"
+  - Blaster, Medium
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Armament
-- Equipment/Fantastic
-- Equipment/Science-Fiction
-- Equipment/Level/4
-- Equipment/Value/Expensive
-- Equipment/Range/Long
-- Equipment/Weapon/Medium
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Armament
+  - Equipment/Fantastic
+  - Equipment/Science-Fiction
+  - Equipment/Level/4
+  - Equipment/Value/Expensive
+  - Equipment/Range/Long
+  - Equipment/Weapon/Medium
+title: Blaster, Medium
+collection: Equipment
+kind: Compendium
 ---
-
-  
 ## Blaster, Medium  
   
 >Handgun that projects an energetic plasma-particle beam; It ignores 1 point of Armor value (except from force fields).  

@@ -1,13 +1,14 @@
 ---
 aliases:
-- Rocket Fist
+  - Rocket Fist
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Post-Apocalyptic
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Post-Apocalyptic
+title: Rocket Fist
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Rocket Fist  
 >[!info] Stats  
 > **Level:** 1d6+2  

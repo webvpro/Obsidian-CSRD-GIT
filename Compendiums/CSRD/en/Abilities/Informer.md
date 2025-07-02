@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Informer"
+  - Informer
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Social
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Social
+title: Informer
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Informer  
 >**Enabler**
   

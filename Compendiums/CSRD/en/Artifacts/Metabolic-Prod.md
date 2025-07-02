@@ -1,13 +1,14 @@
 ---
 aliases:
-- Metabolic Prod
+  - Metabolic Prod
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Science-Fiction
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Science-Fiction
+title: Metabolic Prod
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Metabolic Prod  
 >[!info] Stats  
 > **Level:** 1d6+1  

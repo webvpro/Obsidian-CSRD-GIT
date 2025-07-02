@@ -1,13 +1,14 @@
 ---
 aliases:
-- Speed Boost
+  - Speed Boost
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Subtle
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Subtle
+title: Speed Boost
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Speed Boost  
 >[!info] Stats  
 > **Level:** 1d6+2  

@@ -1,13 +1,14 @@
 ---
 aliases:
-- Detonation Flash
+  - Detonation Flash
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Manifest
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Manifest
+title: Detonation Flash
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Detonation Flash  
 >[!info] Stats  
 > **Level:** 1d6+2  

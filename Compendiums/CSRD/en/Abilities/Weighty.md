@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Weighty"
+  - Weighty
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/1
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/1
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Special-Attack
+title: Weighty
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Weighty  
 >**Action**  
 >1 Intellect point

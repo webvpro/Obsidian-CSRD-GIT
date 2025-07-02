@@ -1,12 +1,13 @@
 ---
 aliases:
-- "Fuses Mind and Machine"
+  - Fuses Mind and Machine
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Influence
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Influence
+title: Fuses Mind and Machine
+collection: Foci
+kind: Compendium
 ---
-
-  
 ## Fuses Mind and Machine  
 Electronic aids implanted in your brain make you a mental powerhouse.  
 

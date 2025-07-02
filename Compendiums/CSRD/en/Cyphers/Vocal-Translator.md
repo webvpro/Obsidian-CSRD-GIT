@@ -1,13 +1,14 @@
 ---
 aliases:
-- Vocal Translator
+  - Vocal Translator
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Vocal Translator
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Vocal Translator  
 >[!info] Stats  
 > **Level:** 1d6  

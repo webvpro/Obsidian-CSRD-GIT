@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Horde Fighting"
+  - Horde Fighting
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Protection
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Protection
+title: Horde Fighting
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Horde Fighting  
 >**Enabler**
   

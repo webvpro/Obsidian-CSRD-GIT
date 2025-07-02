@@ -1,11 +1,13 @@
 ---
 aliases:
-  - "Changeling"
+  - Changeling
 tags:
   - Compendiums/CSRD/en/Descriptors/Changeling
   - Descriptor/Fairytale
+title: Changeling
+collection: Descriptors
+kind: Compendiums
 ---
-
 ## Changeling  
 Early on you discovered—or perhaps you knew all along—that you weren’t really who everyone thought you were. Perhaps when you were still very young, the child whose name you have now was stolen, and you were put in their place. Or perhaps you are the same person you’ve always been, but you’ve never felt like yourself, and you know that the real you is nothing like the one that everyone else knows. More than once in your life, you’ve been abandoned, distrusted, and rejected by those you loved most, which means that sometimes you fall into deep funks. However, you are just as adept at pulling yourself out of them when the situation demands it. If nothing else, you’re supremely adaptable.
 ### You gain the following characteristics:

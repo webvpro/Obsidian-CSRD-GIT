@@ -1,18 +1,19 @@
 ---
 aliases:
-- "Duel to the Death"
+  - Duel to the Death
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/5
-- Ability/Tier/High
-- Ability/Pool/Speed
-- Ability/Categories/Attack-Skill
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/5
+  - Ability/Tier/High
+  - Ability/Pool/Speed
+  - Ability/Categories/Attack-Skill
+  - Ability/Categories/Meta
+title: Duel to the Death
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Duel to the Death  
 >**Action**  
 >5 Speed points

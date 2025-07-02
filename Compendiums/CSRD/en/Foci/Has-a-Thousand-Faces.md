@@ -1,12 +1,13 @@
 ---
 aliases:
-- "Has a Thousand Faces"
+  - Has a Thousand Faces
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/
+title: Has a Thousand Faces
+collection: Foci
+kind: Compendium
 ---
-
-  
 ## Has a Thousand Faces  
 You can change your appearance to look like anyone else.  
 

@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Cutting Light"
+  - Cutting Light
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/2
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/2
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Special-Attack
+title: Cutting Light
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Cutting Light  
 >**Action**  
 >2 Intellect points

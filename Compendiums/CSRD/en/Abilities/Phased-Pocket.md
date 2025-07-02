@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Phased Pocket"
+  - Phased Pocket
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/2
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Transform
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/2
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Transform
+title: Phased Pocket
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Phased Pocket  
 >**Enabler**  
 >2+ Intellect points

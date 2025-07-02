@@ -1,13 +1,14 @@
 ---
 aliases:
-- Detonation Web
+  - Detonation Web
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Manifest
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Manifest
+title: Detonation Web
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Detonation Web  
 >[!info] Stats  
 > **Level:** 1d6+2  

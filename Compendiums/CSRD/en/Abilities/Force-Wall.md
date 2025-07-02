@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Force Wall"
+  - Force Wall
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/5
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Environment
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/5
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Environment
+title: Force Wall
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Force Wall  
 >**Action**  
 >5 Intellect points

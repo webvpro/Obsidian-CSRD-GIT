@@ -1,13 +1,14 @@
 ---
 aliases:
-- Poppet Prosperity
+  - Poppet Prosperity
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+title: Poppet Prosperity
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Poppet Prosperity  
 >[!info] Stats  
 > **Level:** 1d6+2  

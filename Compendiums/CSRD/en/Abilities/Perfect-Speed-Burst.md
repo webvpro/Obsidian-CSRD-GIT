@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Perfect Speed Burst"
+  - Perfect Speed Burst
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/6
-- Ability/Tier/High
-- Ability/Pool/Speed
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/6
+  - Ability/Tier/High
+  - Ability/Pool/Speed
+  - Ability/Categories/Meta
+title: Perfect Speed Burst
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Perfect Speed Burst  
 >**Enabler**  
 >6 Speed points

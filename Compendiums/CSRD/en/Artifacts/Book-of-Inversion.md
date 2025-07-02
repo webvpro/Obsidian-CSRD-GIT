@@ -1,13 +1,14 @@
 ---
 aliases:
-- Book of Inversion
+  - Book of Inversion
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Horror
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Horror
+title: Book of Inversion
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Book of Inversion  
 >[!info] Stats  
 > **Level:** +8  

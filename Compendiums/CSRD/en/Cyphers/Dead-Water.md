@@ -1,13 +1,14 @@
 ---
 aliases:
-- Dead Water
+  - Dead Water
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+title: Dead Water
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Dead Water  
 >[!info] Stats  
 > **Level:** 1d6+3  

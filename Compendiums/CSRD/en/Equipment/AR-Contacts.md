@@ -1,16 +1,17 @@
 ---
 aliases:
-- "AR Contacts"
+  - AR Contacts
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Advanced
-- Equipment/Communication
-- Equipment/Science-Fiction
-- Equipment/Level/4
-- Equipment/Value/Expensive-X2
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Advanced
+  - Equipment/Communication
+  - Equipment/Science-Fiction
+  - Equipment/Level/4
+  - Equipment/Value/Expensive-X2
+title: AR Contacts
+collection: Equipment
+kind: Compendium
 ---
-
-  
 ## AR Contacts  
   
 >As AR glasses, but are lenses fitted to the eye. Also called "smartacs."  

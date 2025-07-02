@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Tower of Intellect"
+  - Tower of Intellect
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Protection
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Protection
+title: Tower of Intellect
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Tower of Intellect  
 >**Enabler**
   

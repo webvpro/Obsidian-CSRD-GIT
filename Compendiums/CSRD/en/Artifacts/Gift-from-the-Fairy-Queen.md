@@ -1,13 +1,14 @@
 ---
 aliases:
-- "Gift from the Fairy Queen"
+  - Gift from the Fairy Queen
 tags:
-- Compendium/CSRD/en/Artifacts/Gift-from-the-Fairy-Queen
-- Artifact
-- Artifact/Modern-Fantasy
+  - Compendium/CSRD/en/Artifacts/Gift-from-the-Fairy-Queen
+  - Artifact
+  - Artifact/Modern-Fantasy
+title: Gift from the Fairy Queen
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Ecosensitive Fridge Magnets
 >1d6 +2
 #### Form

@@ -1,16 +1,17 @@
 ---
 aliases:
-- Demon Lord
+  - Demon Lord
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/9
-- Creature/Armor/5
-- Creature/Health/100
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/9
+  - Creature/Armor/5
+  - Creature/Health/100
+title: Demon Lord
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Demon Lord  
 Demon lords are mighty demons, commanding hundreds of lesser fiends and often ruling an entire hellscape dimension. No mere brutes, they are smart, wield powerful magic, make centuries-long plans of conquest against rival demons, and seek to corrupt and enslave powerful mortals. Some are nearly as powerful as gods and are worshipped as such by cultists or evil creatures, claiming ownership of a concept like murder, rot, undeath, or seduction. A few are known to mate with mortals to produce cambion offspring.  
 

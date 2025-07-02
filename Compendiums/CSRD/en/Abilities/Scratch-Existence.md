@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Scratch Existence"
+  - Scratch Existence
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/1
-- Ability/Tier/Low
-- Ability/Pool/Might
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/1
+  - Ability/Tier/Low
+  - Ability/Pool/Might
+  - Ability/Categories/Special-Attack
+title: Scratch Existence
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Scratch Existence  
 >**Enabler**  
 >1+ Might points

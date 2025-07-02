@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Bouncing Shield"
+  - Bouncing Shield
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/NA
-- Ability/Tier/High
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/NA
+  - Ability/Tier/High
+  - Ability/Categories/Special-Attack
+title: Bouncing Shield
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Bouncing Shield  
 >**Action**
   

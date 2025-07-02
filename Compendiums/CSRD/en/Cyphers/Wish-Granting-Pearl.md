@@ -1,12 +1,13 @@
 ---
 aliases:
-- Wish-Granting Pearl
+  - Wish-Granting Pearl
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+title: Wish-Granting Pearl
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Wish-Granting Pearl  
 >[!info] Stats  
 > **Level:** 1d6+1  

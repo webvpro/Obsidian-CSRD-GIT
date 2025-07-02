@@ -1,13 +1,14 @@
 ---
 aliases:
-- Darksight
+  - Darksight
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Subtle
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Subtle
+title: Darksight
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Darksight  
 >[!info] Stats  
 > **Level:** 1d6  

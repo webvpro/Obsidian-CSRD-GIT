@@ -1,12 +1,14 @@
 ---
 aliases:
-- "Optional Modern Fantasy Rules"
-- "Modern Fantasy"
-- "Urban Fantasy"  
+  - Optional Modern Fantasy Rules
+  - Modern Fantasy
+  - Urban Fantasy
 tags:
-- Compendium/CSRD/en/Rules/Optional/Modern-Fantasy
+  - Compendium/CSRD/en/Rules/Optional/Modern-Fantasy
+title: Optional Modern Fantasy Rules
+collection: Rules
+kind: Compendium
 ---
-
 ## Optional Modern Fantasy Rules  
 
 ### Cantrips  

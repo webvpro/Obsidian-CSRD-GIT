@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Enhanced Might Edge"
+  - Enhanced Might Edge
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Meta
+title: Enhanced Might Edge
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Enhanced Might Edge  
 >**Enabler**
   

@@ -1,16 +1,17 @@
 ---
 aliases:
-- Wyvern
+  - Wyvern
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/6
-- Creature/Armor/1
-- Creature/Health/35
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/6
+  - Creature/Armor/1
+  - Creature/Health/35
+title: Wyvern
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Wyvern  
 Wyverns are aggressive lesser cousins of dragons. Their bodies are about the size of a heavy horse but their wingspan makes them seem much larger. Lacking a dragon's fiery breath or other magical abilities, wyverns rely on their strong flight and deadly stinger to catch and kill their prey, typically humanoids or large animals. Wyverns have four limbs- two legs used for clumsy walking and two arm-wings used for flight and balance.  
 

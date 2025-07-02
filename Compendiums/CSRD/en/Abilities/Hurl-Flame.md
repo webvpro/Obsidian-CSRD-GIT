@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Hurl Flame"
+  - Hurl Flame
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/2
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/2
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Special-Attack
+title: Hurl Flame
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Hurl Flame  
 >**Action**  
 >2 Intellect points

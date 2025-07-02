@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Body Morph"
+  - Body Morph
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/NA
-- Ability/Pool/Intellect
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/NA
+  - Ability/Pool/Intellect
+  - Ability/Categories/NA
+title: Body Morph
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Body Morph  
 >**Action**  
 >3+ Intellect points

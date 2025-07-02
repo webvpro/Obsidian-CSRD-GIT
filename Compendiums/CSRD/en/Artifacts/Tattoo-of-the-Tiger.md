@@ -1,13 +1,14 @@
 ---
 aliases:
-- "Tattoo of the Tiger"
+  - Tattoo of the Tiger
 tags:
-- Compendium/CSRD/en/Artifacts/Tattoo-of-the-Tiger
-- Artifact
-- Artifact/Modern-Fantasy
+  - Compendium/CSRD/en/Artifacts/Tattoo-of-the-Tiger
+  - Artifact
+  - Artifact/Modern-Fantasy
+title: Tattoo of the Tiger
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Tattoo of the Tiger
 
 >1d6 + 2

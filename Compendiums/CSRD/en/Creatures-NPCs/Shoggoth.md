@@ -1,16 +1,17 @@
 ---
 aliases:
-- Shoggoth
+  - Shoggoth
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/7
-- Creature/Armor/0
-- Creature/Health/35
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/7
+  - Creature/Armor/0
+  - Creature/Health/35
+title: Shoggoth
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Shoggoth  
 Shoggoths vary in size, but the smallest are usually at least 10 feet (3 m) across. They are the product of incredibly advanced bioengineering by some strange species in the distant past. They are angry, vicious predators feared by any who have ever heard of these rare creatures (or who have encountered them and somehow survived to tell the tale). They were created by the elder things but overthrew their masters and now roam the vast, ancient cities they have claimed for themselves.
 Rumors abound of a few very rare, particularly intelligent shoggoths that intentionally reduce their own mass and learn to take on the forms of humans so they can integrate themselves into society (and prey upon humans at their leisure).  

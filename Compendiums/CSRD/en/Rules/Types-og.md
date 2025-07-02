@@ -4,8 +4,10 @@ aliases:
   - Type (Character)
 tags:
   - Cypher/Rules/Character-Creation/Type
+title: Character Type in Cypher
+collection: Type
+kind: Cypher
 ---
-
 # Type
 
 Character type is the core of your character. Your type helps determine your character’s place in the world and relationship with other people in the setting. It’s the noun of the sentence “I am an adjective noun who verbs.”

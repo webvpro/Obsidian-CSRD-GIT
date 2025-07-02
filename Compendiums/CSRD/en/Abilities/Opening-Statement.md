@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Opening Statement"
+  - Opening Statement
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Task
+title: Opening Statement
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Opening Statement  
 >**Enabler**
   

@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Knowledge Is Power"
+  - Knowledge Is Power
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Task
+title: Knowledge Is Power
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Knowledge Is Power  
 >**Enabler**
   

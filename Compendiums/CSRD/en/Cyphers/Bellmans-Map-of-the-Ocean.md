@@ -1,13 +1,14 @@
 ---
 aliases:
-- Bellman's Map of the Ocean
+  - Bellman's Map of the Ocean
 tags:
-- Compendium/CSRD/en/Cyphers/Bellmans-Map-of-the-Ocean
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers/Bellmans-Map-of-the-Ocean
+  - Cypher
+  - Cypher/Fairy-Tale
+title: Bellman's Map of the Ocean
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Bellman's Map of the Ocean  
 >[!info] Stats  
 > **Level:** 1d6+2  

@@ -1,18 +1,19 @@
 ---
 aliases:
-- "Coordinated Effort"
+  - Coordinated Effort
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Meta
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Meta
+  - Ability/Categories/Task
+title: Coordinated Effort
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Coordinated Effort  
 >**Action**  
 >3 Intellect points

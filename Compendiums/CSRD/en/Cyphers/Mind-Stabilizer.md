@@ -1,13 +1,14 @@
 ---
 aliases:
-- Mind Stabilizer
+  - Mind Stabilizer
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Subtle
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Subtle
+title: Mind Stabilizer
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Mind Stabilizer  
 >[!info] Stats  
 > **Level:** 1d6  

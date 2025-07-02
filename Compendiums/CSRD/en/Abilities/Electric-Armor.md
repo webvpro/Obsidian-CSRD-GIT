@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Electric Armor"
+  - Electric Armor
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/4
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Protection
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/4
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Protection
+title: Electric Armor
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Electric Armor  
 >**Enabler**  
 >4 Intellect points

@@ -1,12 +1,13 @@
 ---
 aliases:
-- Horrific Orifice
+  - Horrific Orifice
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+title: Horrific Orifice
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Horrific Orifice  
 >[!info] Stats  
 > **Level:** 1d6+3  

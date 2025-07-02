@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Retrieve Memories"
+  - Retrieve Memories
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Information
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Information
+title: Retrieve Memories
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Retrieve Memories  
 >**Action**  
 >3 Intellect points

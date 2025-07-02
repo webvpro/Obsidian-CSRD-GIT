@@ -1,13 +1,14 @@
 ---
 aliases:
-- False Grandmother
+  - False Grandmother
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+title: False Grandmother
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## False Grandmother  
 >[!info] Stats  
 > **Level:** 1d6+2  

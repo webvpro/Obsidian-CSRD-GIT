@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Lethal Damage"
+  - Lethal Damage
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/High
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/High
+  - Ability/Categories/Meta
+title: Lethal Damage
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Lethal Damage  
 >**Enabler**
   

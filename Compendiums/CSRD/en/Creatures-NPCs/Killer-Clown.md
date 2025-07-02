@@ -1,16 +1,17 @@
 ---
 aliases:
-- Killer Clown
+  - Killer Clown
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/5
-- Creature/Armor/0
-- Creature/Health/25
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/5
+  - Creature/Armor/0
+  - Creature/Health/25
+title: Killer Clown
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Killer Clown  
 A clown-whether it's a doll or what seems to be a person wearing clown makeup-could be entirely benign. But if you see one sitting alone in a dark room, lying under your bed, or gazing up at you through the sewer grate in the street, it might be a killer clown. Killer clowns might be evil spirits possessing someone or an insane person living out a homicidal fantasy. Either way, they're as dangerous as anything you'll ever likely meet. If you see a clown, run. Because it might be a killer.  
 

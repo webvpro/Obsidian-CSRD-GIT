@@ -1,13 +1,14 @@
 ---
 aliases:
-- Cloak of Balakar
+  - Cloak of Balakar
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Cloak of Balakar
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Cloak of Balakar  
 >[!info] Stats  
 > **Level:** 1d6+3  

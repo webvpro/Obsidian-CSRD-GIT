@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Flee"
+  - Flee
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/6
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Control
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/6
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Control
+title: Flee
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Flee  
 >**Action**  
 >6 Intellect points

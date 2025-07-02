@@ -1,13 +1,14 @@
 ---
 aliases:
-- Spear of Destiny
+  - Spear of Destiny
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Post-Apocalyptic
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Post-Apocalyptic
+title: Spear of Destiny
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Spear of Destiny  
 >[!info] Stats  
 > **Level:** +7  

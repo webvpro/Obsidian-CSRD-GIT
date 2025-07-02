@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Tree Companion"
+  - Tree Companion
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/5
-- Ability/Tier/NA
-- Ability/Pool/Intellect
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/5
+  - Ability/Tier/NA
+  - Ability/Pool/Intellect
+  - Ability/Categories/NA
+title: Tree Companion
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Tree Companion  
 >**Action**  
 >5+ Intellect points

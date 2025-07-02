@@ -1,16 +1,17 @@
 ---
 aliases:
-- Ghoul
+  - Ghoul
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/4
-- Creature/Armor/0
-- Creature/Health/12
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/4
+  - Creature/Armor/0
+  - Creature/Health/12
+title: Ghoul
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Ghoul  
 Ghouls spend almost as much time beneath the ground as corpses do, but ghouls are very much alive. Their bodies are hairless and so porcelain-smooth that their faces are sometimes mistaken for masks, albeit gore-smeared masks. Ghouls come to the surface at night to gather humanoid remains or steal those recently interred from their graves, though many prefer to eat from still-living victims.
 Most ghouls are orgiastic eaters of human flesh, but a rare few ghoul populations are more refined. These wear clothes, have language and sophisticated customs, live in grand subterranean cities of their own design, and fight with milk-white blades of bone. These civilized ghouls claim to hold dominion over the remains of all humans, according to ancient custom, even if they only sometimes assert that privilege. They eat the dead in order to absorb residual memories left in the corpses.  

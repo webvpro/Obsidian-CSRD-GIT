@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Divert Attacks"
+  - Divert Attacks
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/4
-- Ability/Tier/Mid
-- Ability/Pool/Speed
-- Ability/Categories/Protection
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/Mid
+  - Ability/Pool/Speed
+  - Ability/Categories/Protection
+title: Divert Attacks
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Divert Attacks  
 >**Action**  
 >4 Speed points

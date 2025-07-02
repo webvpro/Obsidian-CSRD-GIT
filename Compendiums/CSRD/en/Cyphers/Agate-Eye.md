@@ -1,13 +1,14 @@
 ---
 aliases:
-- Agate Eye
+  - Agate Eye
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+title: Agate Eye
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Agate Eye  
 >[!info] Stats  
 > **Level:** 1d6+2  

@@ -1,9 +1,12 @@
 ---
 aliases:
-- "Animal Form Minor Abilities"
+  - Animal Form Minor Abilities
 tags:
-- Compendiums/CSRD/en/Tables
-- Table/Animal-Form/Minor/Abilities
+  - Compendiums/CSRD/en/Tables
+  - Table/Animal-Form/Minor/Abilities
+title: Animal Form Minor Abilities
+collection: Tables
+kind: Compendiums
 ---
 ## Animal Form Minor Abilities
 

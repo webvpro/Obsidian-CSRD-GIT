@@ -1,13 +1,14 @@
 ---
 aliases:
-- Range Boost
+  - Range Boost
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Power-Boost
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Power-Boost
+title: Range Boost
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Range Boost  
 >[!info] Stats  
 > **Level:** 1d6+1  

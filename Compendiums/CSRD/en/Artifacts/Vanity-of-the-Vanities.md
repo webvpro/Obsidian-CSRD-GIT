@@ -1,13 +1,14 @@
 ---
 aliases:
-- "Vanity of the Vanities"
+  - Vanity of the Vanities
 tags:
-- Compendium/CSRD/en/Artifacts/Vanity-of-the-Vanities
-- Artifact
-- Artifact/Modern-Fantasy
+  - Compendium/CSRD/en/Artifacts/Vanity-of-the-Vanities
+  - Artifact
+  - Artifact/Modern-Fantasy
+title: Vanity of the Vanities
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Vanity of the Vanities
 
 >1d6

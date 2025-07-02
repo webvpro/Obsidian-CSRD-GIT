@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Wilderness Encouragement"
+  - Wilderness Encouragement
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Cure
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Cure
+title: Wilderness Encouragement
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Wilderness Encouragement  
 >**Action**  
 >3 Intellect points

@@ -1,13 +1,14 @@
 ---
 aliases:
-- Time Dilation Defensive
+  - Time Dilation Defensive
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Time Dilation Defensive
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Time Dilation Defensive  
 >[!info] Stats  
 > **Level:** 1d6  

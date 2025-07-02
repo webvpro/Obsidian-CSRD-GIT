@@ -1,13 +1,14 @@
 ---
 aliases:
-- Soulflaying Weapon
+  - Soulflaying Weapon
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Soulflaying Weapon
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Soulflaying Weapon  
 >[!info] Stats  
 > **Level:** 1d6+1  

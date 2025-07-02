@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Impossible Walk"
+  - Impossible Walk
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/5
-- Ability/Tier/High
-- Ability/Pool/Speed
-- Ability/Categories/Movement
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/5
+  - Ability/Tier/High
+  - Ability/Pool/Speed
+  - Ability/Categories/Movement
+title: Impossible Walk
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Impossible Walk  
 >**Enabler**  
 >5+ Speed points

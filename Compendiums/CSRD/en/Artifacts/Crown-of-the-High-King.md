@@ -1,13 +1,14 @@
 ---
 aliases:
-- "Crown of the High King"
+  - Crown of the High King
 tags:
-- Compendium/CSRD/en/Artifacts/Crown-of-the-High-King
-- Artifact
-- Artifact/Modern-Fantasy
+  - Compendium/CSRD/en/Artifacts/Crown-of-the-High-King
+  - Artifact
+  - Artifact/Modern-Fantasy
+title: Crown of the High King
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Crown of the High King
 >1d6 +3
 #### Form

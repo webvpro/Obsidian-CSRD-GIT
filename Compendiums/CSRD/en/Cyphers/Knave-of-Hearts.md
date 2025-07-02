@@ -1,13 +1,14 @@
 ---
 aliases:
-- Knave of Hearts
+  - Knave of Hearts
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+title: Knave of Hearts
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Knave of Hearts  
 >[!info] Stats  
 > **Level:** 1d6+2  

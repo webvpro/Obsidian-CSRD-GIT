@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Dual Light Wield"
+  - Dual Light Wield
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Special-Attack
+title: Dual Light Wield
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Dual Light Wield  
 >**Enabler**
   

@@ -1,13 +1,14 @@
 ---
 aliases:
-- Construction Supply
+  - Construction Supply
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Scavenger-Subtle
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Scavenger-Subtle
+title: Construction Supply
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Construction Supply  
 >[!info] Stats  
 > **Level:** 1d6+1  

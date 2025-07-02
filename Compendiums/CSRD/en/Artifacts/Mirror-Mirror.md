@@ -1,13 +1,14 @@
 ---
 aliases:
-- Mirror Mirror
+  - Mirror Mirror
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fairy-Tale
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fairy-Tale
+title: Mirror Mirror
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Mirror Mirror  
 >[!info] Stats  
 > **Level:** 1d6+4  

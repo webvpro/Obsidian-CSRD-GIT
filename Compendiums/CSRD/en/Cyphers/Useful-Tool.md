@@ -1,13 +1,14 @@
 ---
 aliases:
-- Useful Tool
+  - Useful Tool
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Scavenger-Subtle
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Scavenger-Subtle
+title: Useful Tool
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Useful Tool  
 >[!info] Stats  
 > **Level:** 1d6+1  

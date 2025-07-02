@@ -1,13 +1,14 @@
 ---
 aliases:
-- "Gate Ring"
+  - Gate Ring
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Science-Fiction
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Science-Fiction
+title: Gate Ring
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Gate Ring
 >[!info] Stats  
 > **Level:** 1d6+4  

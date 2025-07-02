@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Memory Becomes Action"
+  - Memory Becomes Action
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/4
-- Ability/Tier/NA
-- Ability/Pool/Intellect
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/4
+  - Ability/Tier/NA
+  - Ability/Pool/Intellect
+  - Ability/Categories/NA
+title: Memory Becomes Action
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Memory Becomes Action  
 >**Enabler**  
 >4+ Intellect points

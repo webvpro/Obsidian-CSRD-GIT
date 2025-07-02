@@ -1,13 +1,14 @@
 ---
 aliases:
-- "Tattoo of Tomorrow’s Edge"
+  - Tattoo of Tomorrow’s Edge
 tags:
-- Compendium/CSRD/en/Artifacts/Tattoo-of-Tomorrows-Edge
-- Artifact
-- Artifact/Modern-Fantasy
+  - Compendium/CSRD/en/Artifacts/Tattoo-of-Tomorrows-Edge
+  - Artifact
+  - Artifact/Modern-Fantasy
+title: Tattoo of Tomorrow’s Edge
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Tattoo of Tomorrow’s Edge
 
 >1d6 + 3

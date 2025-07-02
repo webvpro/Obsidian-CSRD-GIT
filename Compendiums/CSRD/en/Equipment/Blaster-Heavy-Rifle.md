@@ -1,18 +1,19 @@
 ---
 aliases:
-- "Blaster, Heavy Rifle"
+  - Blaster, Heavy Rifle
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Armament
-- Equipment/Fantastic
-- Equipment/Science-Fiction
-- Equipment/Level/5
-- Equipment/Value/Very-Expensive
-- Equipment/Weapon/Heavy
-- Equipment/Range/Very-Long
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Armament
+  - Equipment/Fantastic
+  - Equipment/Science-Fiction
+  - Equipment/Level/5
+  - Equipment/Value/Very-Expensive
+  - Equipment/Weapon/Heavy
+  - Equipment/Range/Very-Long
+title: Blaster, Heavy Rifle
+collection: Equipment
+kind: Compendium
 ---
-
-  
 ## Blaster, Heavy Rifle  
   
 >Rifle that projects an energetic plasma-particle beam; It ignores 1 point of Armor value (except from force fields).  

@@ -1,13 +1,14 @@
 ---
 aliases:
-- "Busy Box"
+  - Busy Box
 tags:
-- Compendium/CSRD/en/Artifacts/Busy-Box
-- Artifact
-- Artifact/Modern-Fantasy
+  - Compendium/CSRD/en/Artifacts/Busy-Box
+  - Artifact
+  - Artifact/Modern-Fantasy
+title: Busy Box
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Busy Box
 #### Level 
 >1d6

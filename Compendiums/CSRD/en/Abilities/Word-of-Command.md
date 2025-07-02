@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Word of Command"
+  - Word of Command
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/6
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Control
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/6
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Control
+title: Word of Command
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Word of Command  
 >**Action**  
 >6 Intellect points + level 6 cypher

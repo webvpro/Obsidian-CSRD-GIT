@@ -1,13 +1,14 @@
 ---
 aliases:
-- Adderstone
+  - Adderstone
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+title: Adderstone
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Adderstone  
 >[!info] Stats  
 > **Level:** 1d6+3  

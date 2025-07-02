@@ -1,13 +1,14 @@
 ---
 aliases:
-- Disarm
+  - Disarm
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Subtle
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Subtle
+title: Disarm
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Disarm  
 >[!info] Stats  
 > **Level:** 1d6+1  

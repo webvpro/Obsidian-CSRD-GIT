@@ -1,24 +1,25 @@
 ---
 aliases:
-- "Climbing Gear"
+  - Climbing Gear
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Science-Fiction
-- Equipment/Utility-Gear
-- Equipment/Value/Moderate
-- Equipment/Asset
-- Equipment/Post-Apocalyptic
-- Equipment/Utility-Gear
-- Equipment/Value/Moderate
-- Equipment/Asset
-- Equipment/Contemporary
-- Equipment/Modern
-- Equipment/Utility-Gear
-- Equipment/Level/3
-- Equipment/Value/Moderate
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Science-Fiction
+  - Equipment/Utility-Gear
+  - Equipment/Value/Moderate
+  - Equipment/Asset
+  - Equipment/Post-Apocalyptic
+  - Equipment/Utility-Gear
+  - Equipment/Value/Moderate
+  - Equipment/Asset
+  - Equipment/Contemporary
+  - Equipment/Modern
+  - Equipment/Utility-Gear
+  - Equipment/Level/3
+  - Equipment/Value/Moderate
+title: Climbing Gear
+collection: Equipment
+kind: Compendium
 ---
-
-  
 ## Climbing Gear  
   
 >  

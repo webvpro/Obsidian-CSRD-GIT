@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Knowing the Unknown"
+  - Knowing the Unknown
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/6
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Information
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/6
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Information
+title: Knowing the Unknown
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Knowing the Unknown  
 >**Action**  
 >6 Intellect points

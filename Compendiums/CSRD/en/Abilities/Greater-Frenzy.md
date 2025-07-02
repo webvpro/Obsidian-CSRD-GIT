@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Greater Frenzy"
+  - Greater Frenzy
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/4
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/4
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Meta
+title: Greater Frenzy
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Greater Frenzy  
 >**Enabler**  
 >4 Intellect points

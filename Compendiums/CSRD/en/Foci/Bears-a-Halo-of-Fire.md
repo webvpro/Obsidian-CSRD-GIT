@@ -1,12 +1,13 @@
 ---
 aliases:
-- "Bears a Halo of Fire"
+  - Bears a Halo of Fire
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Energy-Manipulation
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Energy-Manipulation
+title: Bears a Halo of Fire
+collection: Foci
+kind: Compendium
 ---
-
-  
 ## Bears a Halo of Fire  
 You can sheath your body in flames, which protects you and harms your foes.  
 

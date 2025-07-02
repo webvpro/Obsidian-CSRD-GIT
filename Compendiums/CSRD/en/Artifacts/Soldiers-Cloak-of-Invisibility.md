@@ -1,13 +1,14 @@
 ---
 aliases:
-- "Soldier's Cloak of Invisibility"
+  - Soldier's Cloak of Invisibility
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fairy-Tale
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fairy-Tale
+title: Soldier's Cloak of Invisibility
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Soldier's Cloak of Invisibility  
 >[!info] Stats  
 > **Level:** 1d6+2  

@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Special Shot"
+  - Special Shot
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/High
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/High
+  - Ability/Categories/Special-Attack
+title: Special Shot
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Special Shot  
 >**Enabler**
   

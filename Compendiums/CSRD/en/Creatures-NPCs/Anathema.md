@@ -1,16 +1,17 @@
 ---
 aliases:
-- Anathema
+  - Anathema
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Super Villain
-- Creature/Level/7
-- Creature/Armor/0
-- Creature/Health/70
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Super Villain
+  - Creature/Level/7
+  - Creature/Armor/0
+  - Creature/Health/70
+title: Anathema
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Anathema  
 The supervillain called Anathema is big, bright red, and stronger than anyone on this planet or any other (or so he claims). Superheroes who go head to head with him learn that he can withstand almost any hit and always gives back twice as hard as he receives. He can bring down buildings with a punch and throw semi trucks across state lines. 
 Before he was Anathema, he was Sameer Stokes, a bitter and spiteful coder working for a large software company. Having failed in relationships, promotions, and retaining friends, Sameer retreated online and learned that he had power when he bullied people. He delighted in causing emotional distress in others in forums and social media. In effect, he was a troll. When the metamorphosis happened, he was turned into a troll for real. (Sameer doesn't recall the metamorphosis or the days before and immediately after his change, despite using therapy and drugs in an attempt to recover those memories.)

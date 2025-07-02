@@ -1,12 +1,13 @@
 ---
 aliases:
-- "Takes Animal Shape"
+  - Takes Animal Shape
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/
+title: Takes Animal Shape
+collection: Foci
+kind: Compendium
 ---
-
-  
 ## Takes Animal Shape  
 A shapechanger who can take the form of various animals.  
 

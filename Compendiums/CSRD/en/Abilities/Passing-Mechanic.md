@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Passing Mechanic"
+  - Passing Mechanic
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Task
+title: Passing Mechanic
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Passing Mechanic  
 >**Enabler**
   

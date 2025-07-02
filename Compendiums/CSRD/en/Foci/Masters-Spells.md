@@ -1,12 +1,13 @@
 ---
 aliases:
-- "Masters Spells"
+  - Masters Spells
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Irregular
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Irregular
+title: Masters Spells
+collection: Foci
+kind: Compendium
 ---
-
-  
 ## Masters Spells  
 By specializing in spellcasting and keeping a spellbook, you can quickly cast spells of arcing lightning, rolling fire, creeping shadow, and summoning.  
 

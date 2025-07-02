@@ -1,14 +1,15 @@
 ---
 aliases:
-- Zero Point Field
+  - Zero Point Field
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
-- Cypher/Manifest
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+  - Cypher/Manifest
+title: Zero Point Field
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Zero Point Field  
 >[!info] Stats  
 > **Level:** 1d6+3  

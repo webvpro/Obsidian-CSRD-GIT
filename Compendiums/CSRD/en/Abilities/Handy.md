@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Handy"
+  - Handy
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Task
+title: Handy
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Handy  
 >**Enabler**
   

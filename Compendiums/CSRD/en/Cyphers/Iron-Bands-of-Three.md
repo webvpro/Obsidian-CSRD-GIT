@@ -1,13 +1,14 @@
 ---
 aliases:
-- Iron Bands of Three
+  - Iron Bands of Three
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+title: Iron Bands of Three
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Iron Bands of Three  
 >[!info] Stats  
 > **Level:** 1d6+3  

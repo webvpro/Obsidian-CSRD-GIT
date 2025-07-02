@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Obstacle Running"
+  - Obstacle Running
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/3
-- Ability/Tier/Mid
-- Ability/Pool/Speed
-- Ability/Categories/Movement
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/3
+  - Ability/Tier/Mid
+  - Ability/Pool/Speed
+  - Ability/Categories/Movement
+title: Obstacle Running
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Obstacle Running  
 >**Enabler**  
 >3 Speed points

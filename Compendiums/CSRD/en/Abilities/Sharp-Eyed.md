@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Sharp-Eyed"
+  - Sharp-Eyed
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Task
+title: Sharp-Eyed
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Sharp-Eyed  
 >**Enabler**
   

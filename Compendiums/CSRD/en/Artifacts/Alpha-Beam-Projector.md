@@ -1,13 +1,14 @@
 ---
 aliases:
-- Alpha Beam Projector
+  - Alpha Beam Projector
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact/Weapon
-- Artifact/Science-Fiction
+  - Compendium/CSRD/en/Artifacts
+  - Artifact/Weapon
+  - Artifact/Science-Fiction
+title: Alpha Beam Projector
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Alpha Beam Projector  
 >[!info] Stats  
 > **Level:** 1d6+3  

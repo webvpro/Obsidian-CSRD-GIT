@@ -1,13 +1,14 @@
 ---
 aliases:
-- "Cats Hide Their Paws"
+  - Cats Hide Their Paws
 tags:
-- Compendium/CSRD/en/Artifacts/Cats-Hide-Their-Paws
-- Artifact
-- Artifact/Modern-Fantasy
+  - Compendium/CSRD/en/Artifacts/Cats-Hide-Their-Paws
+  - Artifact
+  - Artifact/Modern-Fantasy
+title: Cats Hide Their Paws
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Cats Hide Their Paws
 #### Level 
 >1d6 +2

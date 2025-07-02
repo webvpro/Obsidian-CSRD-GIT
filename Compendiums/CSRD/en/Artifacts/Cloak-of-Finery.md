@@ -1,13 +1,14 @@
 ---
 aliases:
-- Cloak of Finery
+  - Cloak of Finery
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Cloak of Finery
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Cloak of Finery  
 >[!info] Stats  
 > **Level:** 1d6+1  

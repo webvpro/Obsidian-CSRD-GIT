@@ -12,8 +12,10 @@ tags:
   - Type/Explorer/Weapon/Practiced/Light
   - Type/Explorer/Weapon/Practiced/Medium
   - Type/Explorer/Weapon/Inability/Heavy
+title: Explorer
+collection: Types
+kind: Compendium
 ---
-
 ## Explorer
 
 | Fantasy/Fairy Tale   | Modern/Horror/Romance                               | Science Fiction        | Superhero/Post-Apocalyptic |

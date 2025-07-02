@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Powered Armor"
+  - Powered Armor
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Protection
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Protection
+title: Powered Armor
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Powered Armor  
 >**Enabler**
   

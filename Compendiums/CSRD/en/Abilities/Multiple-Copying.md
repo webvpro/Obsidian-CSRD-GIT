@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Multiple Copying"
+  - Multiple Copying
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/NA
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/NA
+  - Ability/Categories/NA
+title: Multiple Copying
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Multiple Copying  
 >**Enabler**
   

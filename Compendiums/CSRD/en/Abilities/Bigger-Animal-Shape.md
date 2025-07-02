@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Bigger Animal Shape"
+  - Bigger Animal Shape
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/NA
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/NA
+  - Ability/Categories/NA
+title: Bigger Animal Shape
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Bigger Animal Shape  
 >**Enabler**
   

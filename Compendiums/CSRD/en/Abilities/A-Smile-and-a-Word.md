@@ -1,16 +1,17 @@
 ---
 aliases:
-- "A Smile and a Word"
+  - A Smile and a Word
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Meta
+title: A Smile and a Word
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## A Smile and a Word  
 >**Action**
   

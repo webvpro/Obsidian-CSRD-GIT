@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Divine Radiance"
+  - Divine Radiance
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/2
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/2
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Special-Attack
+title: Divine Radiance
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Divine Radiance  
 >**Action**  
 >2 Intellect points

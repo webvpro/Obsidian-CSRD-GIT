@@ -1,13 +1,14 @@
 ---
 aliases:
-- Omni Orb
+  - Omni Orb
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Superhero
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Superhero
+title: Omni Orb
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Omni Orb  
 >[!info] Stats  
 > **Level:** 1d6+4  

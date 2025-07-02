@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Open Mind"
+  - Open Mind
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Task
+title: Open Mind
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Open Mind  
 >**Action**  
 >3 Intellect points

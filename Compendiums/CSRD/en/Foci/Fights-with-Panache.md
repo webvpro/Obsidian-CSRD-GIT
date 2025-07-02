@@ -1,12 +1,13 @@
 ---
 aliases:
-- "Fights with Panache"
+  - Fights with Panache
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Striker-Combat
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Striker-Combat
+title: Fights with Panache
+collection: Foci
+kind: Compendium
 ---
-
-  
 ## Fights with Panache  
 You're a swashbuckling daredevil who fights with flamboyant style that's entertaining to watch.  
 

@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Mount"
+  - Mount
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Companion
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Companion
+title: Mount
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Mount  
 >**Enabler**
   

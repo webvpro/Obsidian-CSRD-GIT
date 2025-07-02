@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Return to the Obelisk"
+  - Return to the Obelisk
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/7
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Movement
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/7
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Movement
+title: Return to the Obelisk
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Return to the Obelisk  
 >**Action**  
 >7+ Intellect points

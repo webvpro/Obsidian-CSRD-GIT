@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Foil Danger"
+  - Foil Danger
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/2
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Cure
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/2
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Cure
+title: Foil Danger
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Foil Danger  
 >**Action**  
 >2 Intellect points

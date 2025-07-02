@@ -1,12 +1,13 @@
 ---
 aliases:
-- Armor Breach
+  - Armor Breach
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+title: Armor Breach
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Armor Breach  
 >[!info] Stats  
 > **Level:** 1d6

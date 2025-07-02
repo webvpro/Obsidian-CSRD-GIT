@@ -1,11 +1,13 @@
 ---
 aliases:
-- Realistic Threats and Hazards
+  - Realistic Threats and Hazards
 tags:
-- Compendiums/CSRD/en/Tables
-- Table
+  - Compendiums/CSRD/en/Tables
+  - Table
+title: Realistic Threats and Hazards
+collection: Tables
+kind: Compendiums
 ---
-
 ## Realistic Threats and Hazards Table
 |  Roll &nbsp; &nbsp; | Realistic Threats and Hazards  |
 | ------------- | :----------- |

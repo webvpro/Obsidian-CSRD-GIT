@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Gun Jammer"
+  - Gun Jammer
 tags:
-- Compendium/CSRD/en/Abilities/Gun-Jammer
-- Ability
-- Ability/Action
-- Ability/Cost/2
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities/Gun-Jammer
+  - Ability
+  - Ability/Action
+  - Ability/Cost/2
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Special-Attack
+title: Gun Jammer
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Gun Jammer  
 >**Action**  
 >3 Intellect points

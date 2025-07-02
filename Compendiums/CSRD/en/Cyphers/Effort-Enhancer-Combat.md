@@ -1,13 +1,14 @@
 ---
 aliases:
-- Effort Enhancer Combat
+  - Effort Enhancer Combat
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Subtle
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Subtle
+title: Effort Enhancer Combat
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Effort Enhancer Combat  
 >[!info] Stats  
 > **Level:** 1d6+1  

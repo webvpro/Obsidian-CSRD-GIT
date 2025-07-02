@@ -1,13 +1,14 @@
 ---
 aliases:
-- Fortunate's Purse
+  - Fortunate's Purse
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fairy-Tale
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fairy-Tale
+title: Fortunate's Purse
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Fortunate's Purse  
 >[!info] Stats  
 > **Level:** 1d6  

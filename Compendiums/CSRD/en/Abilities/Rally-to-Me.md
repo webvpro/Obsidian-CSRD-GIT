@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Rally to Me"
+  - Rally to Me
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/2
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Support
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/2
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Support
+title: Rally to Me
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Rally to Me  
 >**Action**  
 >2 Intellect points

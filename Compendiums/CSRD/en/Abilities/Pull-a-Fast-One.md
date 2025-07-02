@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Pull a Fast One"
+  - Pull a Fast One
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/3
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/3
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Task
+title: Pull a Fast One
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Pull a Fast One  
 >**Enabler**  
 >3 Intellect points

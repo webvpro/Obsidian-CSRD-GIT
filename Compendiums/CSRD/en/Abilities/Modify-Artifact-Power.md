@@ -1,18 +1,19 @@
 ---
 aliases:
-- "Modify Artifact Power"
+  - Modify Artifact Power
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/6
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Craft
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/6
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Craft
+  - Ability/Categories/Meta
+title: Modify Artifact Power
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Modify Artifact Power  
 >**Action**  
 >6 Intellect points

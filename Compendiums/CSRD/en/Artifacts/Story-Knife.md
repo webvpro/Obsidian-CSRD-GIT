@@ -1,13 +1,14 @@
 ---
 aliases:
-- Story Knife
+  - Story Knife
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fairy-Tale
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fairy-Tale
+title: Story Knife
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Story Knife  
 >[!info] Stats  
 > **Level:** 1d6+2  

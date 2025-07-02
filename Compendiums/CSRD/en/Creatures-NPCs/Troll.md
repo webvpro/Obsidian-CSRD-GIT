@@ -1,16 +1,17 @@
 ---
 aliases:
-- Troll
+  - Troll
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/6
-- Creature/Armor/1
-- Creature/Health/30
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/6
+  - Creature/Armor/1
+  - Creature/Health/30
+title: Troll
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Troll  
 A troll is a hideous humanoid standing at least 10 feet (3 m) tall that hunts more by smell than by sight. They are dangerous but not particularly intelligent. Always ravenous, trolls eat anything, and rarely take the time to cook a meal. Usually, they distend their mouths and throats and swallow subdued prey whole.  
 

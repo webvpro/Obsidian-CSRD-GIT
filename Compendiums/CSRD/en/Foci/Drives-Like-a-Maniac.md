@@ -1,12 +1,13 @@
 ---
 aliases:
-- "Drives Like a Maniac"
+  - Drives Like a Maniac
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/
+title: Drives Like a Maniac
+collection: Foci
+kind: Compendium
 ---
-
-  
 ## Drives Like a Maniac  
 Whether balancing on two wheels, jumping another vehicle, or driving head-on toward an oncoming enemy car, you don't think about the risks when you're behind the wheel.  
 

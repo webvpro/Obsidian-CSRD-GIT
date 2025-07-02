@@ -1,13 +1,14 @@
 ---
 aliases:
-- Croc's Clock
+  - Croc's Clock
 tags:
-- Compendium/CSRD/en/Cyphers/Crocs-Clock
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers/Crocs-Clock
+  - Cypher
+  - Cypher/Fairy-Tale
+title: Croc's Clock
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Croc's Clock  
 >[!info] Stats  
 > **Level:** 1d6  

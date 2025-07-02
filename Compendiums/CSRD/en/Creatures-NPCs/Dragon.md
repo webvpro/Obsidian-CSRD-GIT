@@ -1,16 +1,17 @@
 ---
 aliases:
-- Dragon
+  - Dragon
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/7
-- Creature/Armor/3
-- Creature/Health/45
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/7
+  - Creature/Armor/3
+  - Creature/Health/45
+title: Dragon
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Dragon  
 Dragons are exceptionally territorial, vain, and greedy. Apex predators, dragons must eat large meals on a regular basis. They prefer virgins, though they will settle for whoever, or whatever-such as horses or wild pigs-is available in a pinch. They love games of all sorts, especially when they get to consume the loser. Drawn to wealth and magic, dragons accumulate hoards of golden treasure. A dragon's hoard is not only an end in itself, but part of a never-ending contest between dragons of a certain age to see which one can accumulate the largest trove.  
 

@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Recruit Deputy"
+  - Recruit Deputy
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/High
-- Ability/Categories/Companion
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/High
+  - Ability/Categories/Companion
+title: Recruit Deputy
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Recruit Deputy  
 >**Enabler**
   

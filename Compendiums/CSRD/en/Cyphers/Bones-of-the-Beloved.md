@@ -1,13 +1,14 @@
 ---
 aliases:
-- Bones of the Beloved
+  - Bones of the Beloved
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+title: Bones of the Beloved
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Bones of the Beloved  
 >[!info] Stats  
 > **Level:** 1d6+3  

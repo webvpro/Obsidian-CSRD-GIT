@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Far Step"
+  - Far Step
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/2
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Movement
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/2
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Movement
+title: Far Step
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Far Step  
 >**Action**  
 >2 Intellect points

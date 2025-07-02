@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Sound Conversion Barrier"
+  - Sound Conversion Barrier
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Protection
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Protection
+title: Sound Conversion Barrier
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Sound Conversion Barrier  
 >**Enabler**
   

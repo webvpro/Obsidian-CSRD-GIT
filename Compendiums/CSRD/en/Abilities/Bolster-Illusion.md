@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Bolster Illusion"
+  - Bolster Illusion
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/2
-- Ability/Tier/NA
-- Ability/Pool/Intellect
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/2
+  - Ability/Tier/NA
+  - Ability/Pool/Intellect
+  - Ability/Categories/NA
+title: Bolster Illusion
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Bolster Illusion  
 >**Enabler**  
 >2+ Intellect points

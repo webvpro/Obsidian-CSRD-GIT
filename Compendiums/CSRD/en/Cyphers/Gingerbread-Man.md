@@ -1,13 +1,14 @@
 ---
 aliases:
-- Gingerbread Man
+  - Gingerbread Man
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+title: Gingerbread Man
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Gingerbread Man  
 >[!info] Stats  
 > **Level:** 1d6  

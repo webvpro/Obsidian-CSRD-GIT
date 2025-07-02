@@ -1,16 +1,17 @@
 ---
 aliases:
-- Chimera
+  - Chimera
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/6
-- Creature/Armor/0
-- Creature/Health/21
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/6
+  - Creature/Armor/0
+  - Creature/Health/21
+title: Chimera
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Chimera  
 Chimeras are unsettling hybrids that combine the features of many different animals, often arranged in odd formations. The fusion of animal forms is the only thing that unifies these creatures-otherwise, different chimeras often look very different from each other. They include combinations of goat and lion, lizard and bat, dragon and spider, dinosaur and giant insect. A few even display human features, such as an improbably located face or hands instead of claws. Some chimeras can fly. Others slither across the ground. 
 A chimera typically has a dominant form to which other animal parts are grafted. The base form must be large enough to support the weight of the extra heads, so lions, bears, and horses are popular as the base form.

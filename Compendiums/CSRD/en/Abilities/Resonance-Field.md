@@ -1,18 +1,19 @@
 ---
 aliases:
-- "Resonance Field"
+  - Resonance Field
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/1
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Protection
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/1
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Protection
+  - Ability/Categories/Special-Attack
+title: Resonance Field
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Resonance Field  
 >**Action**  
 >1 Intellect point

@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Eyes Adjusted"
+  - Eyes Adjusted
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Senses
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Senses
+title: Eyes Adjusted
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Eyes Adjusted  
 >**Enabler**
   

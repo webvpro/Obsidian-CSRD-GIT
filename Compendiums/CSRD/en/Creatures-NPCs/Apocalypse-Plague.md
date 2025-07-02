@@ -1,13 +1,15 @@
 ---
 aliases:
-- "Four Horsemen of the Apocalypse Plague"
+  - Four Horsemen of the Apocalypse Plague
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/level/6
-- Creature/Heath/24
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/level/6
+  - Creature/Heath/24
+title: Four Horsemen of the Apocalypse Plague
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
 ## Four Horsemen of the Apocalypse Plague     
 Plague (often called “Death”) is present wherever people die of disease or infirmity brought on by age. She prefers black and pale green evening wear, including long pale green gloves and often a grinning skull mask. When traveling, she drives a pale green hearse or motorcycle, or rides a horse the same sickly green color.
 

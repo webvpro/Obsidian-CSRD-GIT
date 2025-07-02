@@ -1,13 +1,14 @@
 ---
 aliases:
-- Cheshire Smile
+  - Cheshire Smile
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+title: Cheshire Smile
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Cheshire Smile  
 >[!info] Stats  
 > **Level:** 1d6  

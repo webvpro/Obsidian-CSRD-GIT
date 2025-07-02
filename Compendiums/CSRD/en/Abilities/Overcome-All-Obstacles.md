@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Overcome All Obstacles"
+  - Overcome All Obstacles
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Special-Attack
+title: Overcome All Obstacles
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Overcome All Obstacles  
 >**Action**  
 >3+ Intellect points

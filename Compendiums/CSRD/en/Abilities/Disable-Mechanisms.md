@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Disable Mechanisms"
+  - Disable Mechanisms
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/Mid
-- Ability/Pool/Speed
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Mid
+  - Ability/Pool/Speed
+  - Ability/Categories/Special-Attack
+title: Disable Mechanisms
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Disable Mechanisms  
 >**Action**  
 >3 Speed points

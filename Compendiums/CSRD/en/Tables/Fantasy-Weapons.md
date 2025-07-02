@@ -1,11 +1,13 @@
 ---
 aliases:
-- "Fantasy Weapons Descriptions"
+  - Fantasy Weapons Descriptions
 tags:
-- Compendiums/CSRD/en/RulesWeapons/Fantasy
-- Rule/Weapons/Fantasy
+  - Compendiums/CSRD/en/RulesWeapons/Fantasy
+  - Rule/Weapons/Fantasy
+title: Fantasy Weapons Descriptions
+collection: RulesWeapons
+kind: Compendiums
 ---
-
 ## Fantasy Weapons
 
 ```dataview 

@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Sense Ambush"
+  - Sense Ambush
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Senses
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Senses
+title: Sense Ambush
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Sense Ambush  
 >**Enabler**
   

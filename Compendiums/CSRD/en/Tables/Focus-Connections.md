@@ -1,11 +1,13 @@
 ---
 aliases:
-- Focus Connections
+  - Focus Connections
 tags:
-- Compendiums/CSRD/en/Tables
-- Table
+  - Compendiums/CSRD/en/Tables
+  - Table
+title: Focus Connections
+collection: Tables
+kind: Compendiums
 ---
-
 ## Focus Connections Table
 |  Roll &nbsp; &nbsp; | Focus Connections  |
 | ------------- | :----------- |

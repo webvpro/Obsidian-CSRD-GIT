@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Use Senses of Others"
+  - Use Senses of Others
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/4
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Senses
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Senses
+title: Use Senses of Others
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Use Senses of Others  
 >**Action**  
 >4 Intellect points

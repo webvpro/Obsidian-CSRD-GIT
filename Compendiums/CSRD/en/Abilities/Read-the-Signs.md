@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Read the Signs"
+  - Read the Signs
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/4
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Information
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Information
+title: Read the Signs
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Read the Signs  
 >**Action**  
 >4 Intellect points

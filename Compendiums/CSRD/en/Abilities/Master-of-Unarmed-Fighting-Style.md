@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Master of Unarmed Fighting Style"
+  - Master of Unarmed Fighting Style
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/High
-- Ability/Categories/Attack-Skill
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/High
+  - Ability/Categories/Attack-Skill
+title: Master of Unarmed Fighting Style
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Master of Unarmed Fighting Style  
 >**Enabler**
   

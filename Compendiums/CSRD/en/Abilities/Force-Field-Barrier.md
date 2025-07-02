@@ -1,18 +1,19 @@
 ---
 aliases:
-- "Force Field Barrier"
+  - Force Field Barrier
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Environment
-- Ability/Categories/Protection
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Environment
+  - Ability/Categories/Protection
+title: Force Field Barrier
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Force Field Barrier  
 >**Action**  
 >3+ Intellect points

@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Apportation"
+  - Apportation
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/4
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Movement
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Movement
+title: Apportation
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Apportation  
 >**Action**  
 >4 Intellect points

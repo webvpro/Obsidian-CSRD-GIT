@@ -1,11 +1,13 @@
 ---
 aliases:
-- Hopeful
+  - Hopeful
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Hopeful
+collection: Descriptors
+kind: Compendiums
 ---
-
 ## Hopeful  
 Despite civilization's fall, you're optimistic about what the future could bring, confident 
 that it will be bright. In fact, now that all the old institutions and cares of the world are gone, you hope something better can be rebuilt in its place. It's possible that you're bubbly and full of cheer. But you might instead be quietly confident, your hope revealed by the way you always try again if at first you fail. Being hopeful doesn't mean you're blind to others' faults, but you can hope they will do better next time, which might lead you to be more forgiving than other survivors. After all, when you screw up, you hope others will allow you the same luxury of learning from your mistakes.

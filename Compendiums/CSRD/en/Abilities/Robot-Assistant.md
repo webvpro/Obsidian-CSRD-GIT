@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Robot Assistant"
+  - Robot Assistant
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Companion
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Companion
+title: Robot Assistant
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Robot Assistant  
 >**Enabler**
   

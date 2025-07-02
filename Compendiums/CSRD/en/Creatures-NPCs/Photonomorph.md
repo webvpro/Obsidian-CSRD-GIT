@@ -1,16 +1,17 @@
 ---
 aliases:
-- Photonomorph
+  - Photonomorph
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/6
-- Creature/Armor/3
-- Creature/Health/22
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/6
+  - Creature/Armor/3
+  - Creature/Health/22
+title: Photonomorph
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Photonomorph  
 Hard-light technology, which creates pseudo-matter from modified photons, has made possible all kinds of structures and devices that wouldn't otherwise exist. One of those, unfortunately, are self-sustaining photonic matter creatures. Sometimes, photonomorphs are enforcers created by much more powerful beings; other times they are the result of some person or AI attempting to ascend into a new state of being. But whatever their origin, photonomorphs are dangerous beings that can create matter from light, granting them an arbitrarily wide swathe of abilities. That includes their own glowing bodies, which they can change with only a little effort. This variability of form, coupled with their vast power, may be why many seem slightly mad.  
 

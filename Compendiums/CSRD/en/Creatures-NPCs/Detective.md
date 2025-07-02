@@ -1,16 +1,17 @@
 ---
 aliases:
-- Detective
+  - Detective
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/NPC
-- Creature/Level/3
-- Creature/Armor/0
-- Creature/Health/12
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/NPC
+  - Creature/Level/3
+  - Creature/Armor/0
+  - Creature/Health/12
+title: Detective
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Detective  
 Detectives are usually veterans of their organization (such as the police, city watch, marshals, space command, and so on) with extensive experience. Some detectives are freelance sleuths whose uncanny ability to see the truth comes from personal training combined with an underlying talent for noticing clues that others miss.  
 

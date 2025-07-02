@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Wings of Fire"
+  - Wings of Fire
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/4
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Movement
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Movement
+title: Wings of Fire
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Wings of Fire  
 >**Action**  
 >4 Intellect points

@@ -1,16 +1,17 @@
 ---
 aliases:
-- Giant
+  - Giant
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/7
-- Creature/Armor/1
-- Creature/Health/40
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/7
+  - Creature/Armor/1
+  - Creature/Health/40
+title: Giant
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Giant  
 Violent storms, earthquakes, typhoons, and other natural disasters draw giants. Standing 20 to 30 feet (6 to 9 m) tall, giants delight in rampaging through the middle of such calamities, creating even more destruction. Some giants grow so powerful that they can trigger natural disasters on their own.  
 

@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Urban Brownie"
+  - Urban Brownie
 tags:
-- Compendium/CSRD/en/Creatures-NPCs/Urban-Brownie
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/3
-- Creature/Armor/0
-- Creature/Health/9
+  - Compendium/CSRD/en/Creatures-NPCs/Urban-Brownie
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/3
+  - Creature/Armor/0
+  - Creature/Health/9
+title: Urban Brownie
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Urban Brownie
 While most people are familiar with rural brownies with their wizened, ragged appearance and their penchant for helping with farming tasks, the urban brownie is a very different type of entity. Having adapted to live in cities and decent-sized towns, urban brownies tend to care much more about their appearance and prefer less outdoorsy forms of labor. 
 

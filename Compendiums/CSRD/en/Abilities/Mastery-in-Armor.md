@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Mastery in Armor"
+  - Mastery in Armor
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/High
-- Ability/Categories/Protection
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/High
+  - Ability/Categories/Protection
+title: Mastery in Armor
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Mastery in Armor  
 >**Enabler**
   

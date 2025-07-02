@@ -1,15 +1,16 @@
 ---
 aliases:
-- "Trident"
+  - Trident
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/5-Gp
-- Equipment/Weapon/Medium
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/5-Gp
+  - Equipment/Weapon/Medium
+title: Trident
+collection: Equipment
+kind: Compendium
 ---
-
-  
 ## Trident  
   
 >A three-pronged spear, often used for spear fishing.  

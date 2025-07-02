@@ -1,15 +1,16 @@
 ---
 aliases:
-- "Beastskin"
+  - Beastskin
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/10-Gp
-- Equipment/Armor/Medium
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/10-Gp
+  - Equipment/Armor/Medium
+title: Beastskin
+collection: Equipment
+kind: Compendium
 ---
-
-  
 ## Beastskin  
   
 >An improved form of hides and furs, usually crafted from a creature with especially tough skin such as a giant lizard or rhinoceros.  

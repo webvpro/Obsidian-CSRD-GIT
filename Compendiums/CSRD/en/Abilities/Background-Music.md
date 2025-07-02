@@ -1,18 +1,19 @@
 ---
 aliases:
-- "Background Music"
+  - Background Music
 tags:
-- Compendium/CSRD/en/Abilities/Background-Music
-- Ability
-- Ability/Action
-- Ability/Cost/1
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Magic
-- Ability/Categories/Fantasy/Modern
+  - Compendium/CSRD/en/Abilities/Background-Music
+  - Ability
+  - Ability/Action
+  - Ability/Cost/1
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Magic
+  - Ability/Categories/Fantasy/Modern
+title: Background Music
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Background Music
 >**Action**  
 >1 Intellect point

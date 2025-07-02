@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Wall of Lightning"
+  - Wall of Lightning
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/6
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Environment
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/6
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Environment
+title: Wall of Lightning
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Wall of Lightning  
 >**Action**  
 >6 Intellect points

@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Monster Bane"
+  - Monster Bane
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Meta
+title: Monster Bane
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Monster Bane  
 >**Enabler**
   

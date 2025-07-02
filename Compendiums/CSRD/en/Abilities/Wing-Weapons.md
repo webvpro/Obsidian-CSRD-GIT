@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Wing Weapons"
+  - Wing Weapons
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/NA
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/NA
+  - Ability/Categories/NA
+title: Wing Weapons
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Wing Weapons  
 >**Enabler**
   

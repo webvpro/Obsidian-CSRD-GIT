@@ -1,16 +1,17 @@
 ---
 aliases:
-- Corrupt Mage
+  - Corrupt Mage
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/7
-- Creature/Armor/1
-- Creature/Health/35
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/7
+  - Creature/Armor/1
+  - Creature/Health/35
+title: Corrupt Mage
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Corrupt Mage  
 Some wizards and sorcerers are tempted by dark magic, inevitably damning their souls and corrupting their flesh as they cut corners and delve into forbidden lore. Their research and experimentation create new kinds of rampaging monsters and turn people into misshapen horrors. They sometimes modify their own bodies in order to gain demonic or draconic powers, or make pacts with such creatures for knowledge and magical ingredients.  
 

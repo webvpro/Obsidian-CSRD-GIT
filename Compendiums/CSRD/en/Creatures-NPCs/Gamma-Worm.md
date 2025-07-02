@@ -1,16 +1,17 @@
 ---
 aliases:
-- Gamma Worm
+  - Gamma Worm
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/6
-- Creature/Armor/2
-- Creature/Health/6
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/6
+  - Creature/Armor/2
+  - Creature/Health/6
+title: Gamma Worm
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Gamma Worm  
 Gamma worms hide their large forms by burrowing beneath the ground, and when they emerge on the surface, they cloak themselves behind psychic distortion fields. The only clue someone has that they're being stalked is a smell of cloves over the stale whiff of death. Unfortunately, if someone smells a gamma worm's distinctive odor, it's probably already too late. 
 Gamma worms might be the result of military research, radioactive mutation, or aliens or other strange intruders seeking to eradicate human life as part of their terraforming efforts to change Earth to their liking.

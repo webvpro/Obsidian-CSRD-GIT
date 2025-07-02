@@ -1,16 +1,17 @@
 ---
 aliases:
-- The Red Queen
+  - The Red Queen
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/6
-- Creature/Armor/1
-- Creature/Health/null
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/6
+  - Creature/Armor/1
+  - Creature/Health/null
+title: The Red Queen
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## The Red Queen  
 The Red Queen has never once yelled "Off with her head!" In fact, she has never yelled. It's horrible manners, and besides, when you know how to wield power, you don't need all that noise and chaos. You need only whisper and be still, and everyone will politely fall quiet and listen.  
 

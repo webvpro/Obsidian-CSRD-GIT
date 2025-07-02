@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Deflect Attacks"
+  - Deflect Attacks
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/1
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Protection
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/1
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Protection
+title: Deflect Attacks
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Deflect Attacks  
 >**Action**  
 >1 Intellect point

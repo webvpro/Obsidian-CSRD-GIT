@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Discipline of Watchfulness"
+  - Discipline of Watchfulness
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/7
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/7
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Meta
+title: Discipline of Watchfulness
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Discipline of Watchfulness  
 >**Enabler**  
 >7 Intellect points

@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Untouchable"
+  - Untouchable
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/6
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Protection
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/6
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Protection
+title: Untouchable
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Untouchable  
 >**Action**  
 >6 Intellect points

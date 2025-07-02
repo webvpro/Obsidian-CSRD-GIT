@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Roaming Third Eye"
+  - Roaming Third Eye
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/3
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/3
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Meta
+title: Roaming Third Eye
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Roaming Third Eye  
 >**Enabler**  
 >3 Intellect points

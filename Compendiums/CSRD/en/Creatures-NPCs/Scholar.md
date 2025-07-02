@@ -1,16 +1,17 @@
 ---
 aliases:
-- Scholar
+  - Scholar
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/NPC
-- Creature/Level/2
-- Creature/Armor/0
-- Creature/Health/6
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/NPC
+  - Creature/Level/2
+  - Creature/Armor/0
+  - Creature/Health/6
+title: Scholar
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Scholar  
 Scholars might be librarians, sages, wise women, crones, experts, or soothsayers. Typically, scholars seek knowledge above all else, and many also are willing to share it with others (sometimes for a price, sometimes just for the joy of sharing knowledge). A scholar's expertise might be general or specific--they may study the world at large or home in on a specific type of magic or fey being, for example.  
 

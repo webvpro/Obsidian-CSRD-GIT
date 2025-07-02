@@ -1,11 +1,13 @@
 ---
 aliases:
-- Amazing
+  - Amazing
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Amazing
+collection: Descriptors
+kind: Compendiums
 ---
-
 ## Amazing  
 You have a knack for surprising people-- performing impossible athletic feats, sneaking up on someone who's alert, or instantly reacting to an ambush. You like to make use of these talents to enhance (or rehabilitate) your reputation as a hero prone to spectacular rescues, defeating foes way above your league, and arriving just in time to save the day. Ironically, in your normal daily life, you're a little awkward and overlooked.
 ### You gain the following characteristics  

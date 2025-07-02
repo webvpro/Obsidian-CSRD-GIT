@@ -1,12 +1,13 @@
 ---
 aliases:
-- "Abides in Stone"
+  - Abides in Stone
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Tank-Combat
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Tank-Combat
+title: Abides in Stone
+collection: Foci
+kind: Compendium
 ---
-
-  
 ## Abides in Stone  
 Your flesh is made of hard mineral, making you a hulking, difficult-to-harm humanoid.  
 

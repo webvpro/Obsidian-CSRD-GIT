@@ -1,13 +1,14 @@
 ---
 aliases:
-- Electricity Resistance
+  - Electricity Resistance
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantasy
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantasy
+title: Electricity Resistance
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Electricity Resistance  
 >[!info] Stats  
 > **Level:** 1d6+3  

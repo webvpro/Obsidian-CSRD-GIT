@@ -1,16 +1,17 @@
 ---
 aliases:
-- Snark
+  - Snark
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/7
-- Creature/Armor/2
-- Creature/Health/21
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/7
+  - Creature/Armor/2
+  - Creature/Health/21
+title: Snark
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Snark  
 The snark is unimaginable. It is a Boojum, you see. An agony in eight fits. Part snail and shark and bark and snake and snarl. It has feathers that bite, claws that catch, and jaws that snatch. It softly and suddenly vanishes away, never to be met with again. It smells of the will-o-wisp, sleeps late in the day, and breathes fire when it finds something funny (which is nearly never).  
 

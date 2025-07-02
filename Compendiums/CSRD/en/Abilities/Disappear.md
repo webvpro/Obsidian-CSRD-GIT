@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Disappear"
+  - Disappear
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/4
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Transform
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Transform
+title: Disappear
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Disappear  
 >**Action**  
 >4 Intellect points

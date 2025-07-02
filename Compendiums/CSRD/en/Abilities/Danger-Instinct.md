@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Danger Instinct"
+  - Danger Instinct
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/3
-- Ability/Tier/Low
-- Ability/Pool/Speed
-- Ability/Categories/Movement
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/3
+  - Ability/Tier/Low
+  - Ability/Pool/Speed
+  - Ability/Categories/Movement
+title: Danger Instinct
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Danger Instinct  
 >**Enabler**  
 >3 Speed points

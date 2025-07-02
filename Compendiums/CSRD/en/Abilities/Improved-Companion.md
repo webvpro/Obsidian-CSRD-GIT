@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Improved Companion"
+  - Improved Companion
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/High
-- Ability/Categories/Companion
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/High
+  - Ability/Categories/Companion
+title: Improved Companion
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Improved Companion  
 >**Enabler**
   

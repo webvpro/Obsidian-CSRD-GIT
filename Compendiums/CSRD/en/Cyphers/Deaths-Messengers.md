@@ -1,13 +1,14 @@
 ---
 aliases:
-- Death's Messengers
+  - Death's Messengers
 tags:
-- Compendium/CSRD/en/Cyphers/Deaths-Messengers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers/Deaths-Messengers
+  - Cypher
+  - Cypher/Fairy-Tale
+title: Death's Messengers
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Death's Messengers  
 >[!info] Stats  
 > **Level:** 1d6+2  

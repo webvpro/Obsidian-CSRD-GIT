@@ -1,16 +1,18 @@
 ---
 aliases:
-- "Witch Bane"
+  - Witch Bane
 tags:
-- Compendium/CSRD/en/Abilities/Witch-Bane
-- Ability
-- Ability/Enabler
-- Ability/Cost/
-- Ability/Tier/low
-- Ability/Pool/Speed
-- Ability/Categories/
+  - Compendium/CSRD/en/Abilities/Witch-Bane
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/
+  - Ability/Tier/low
+  - Ability/Pool/Speed
+  - Ability/Categories/
+title: Witch Bane
+collection: Abilities
+kind: Compendium
 ---
-  
 ## Witch Bane                                                     
 >**Enabler**  
   

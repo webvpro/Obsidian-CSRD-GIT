@@ -1,16 +1,17 @@
 ---
 aliases:
-- "There's Your Problem"
+  - There's Your Problem
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Task
+title: There's Your Problem
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## There's Your Problem  
 >**Enabler**
   

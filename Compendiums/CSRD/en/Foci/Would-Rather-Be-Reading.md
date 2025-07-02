@@ -1,12 +1,13 @@
 ---
 aliases:
-- "Would Rather Be Reading"
+  - Would Rather Be Reading
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Basic
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Basic
+title: Would Rather Be Reading
+collection: Foci
+kind: Compendium
 ---
-
-  
 ## Would Rather Be Reading  
 Books are your friends. What's more important than knowledge? Nothing.  
 

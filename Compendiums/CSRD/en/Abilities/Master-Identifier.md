@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Master Identifier"
+  - Master Identifier
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Task
+title: Master Identifier
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Master Identifier  
 >**Enabler**
   

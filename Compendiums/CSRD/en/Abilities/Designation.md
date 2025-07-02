@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Designation"
+  - Designation
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Task
+title: Designation
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Designation  
 >**Action**
   

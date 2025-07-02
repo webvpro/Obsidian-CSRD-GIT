@@ -1,16 +1,17 @@
 ---
 aliases:
-- Sword
+  - Sword
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/6
-- Creature/Armor/3
-- Creature/Health/24
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/6
+  - Creature/Armor/3
+  - Creature/Health/24
+title: Sword
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Sword  
 Sword (also called "War") is never far from large-scale conflicts. She glories in battle and warfare, and before the world ended, she was a provocateur, a mercenary, a soldier, and sometimes a general. However, once a war is good and started, she prefers fighting over watching. Then and now, she dresses in red, preferring red military attire and a massive sword--or assault rifle--the color of blood.  
 

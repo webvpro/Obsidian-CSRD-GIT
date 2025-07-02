@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Poetic License"
+  - Poetic License
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Task
+title: Poetic License
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Poetic License  
 >**Enabler**
   

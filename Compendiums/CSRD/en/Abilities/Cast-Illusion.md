@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Cast Illusion"
+  - Cast Illusion
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Meta
+title: Cast Illusion
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Cast Illusion  
 >**Enabler**
   

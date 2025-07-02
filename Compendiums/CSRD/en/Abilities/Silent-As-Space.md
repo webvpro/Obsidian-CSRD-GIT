@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Silent As Space"
+  - Silent As Space
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Task
+title: Silent As Space
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Silent As Space  
 >**Enabler**
   

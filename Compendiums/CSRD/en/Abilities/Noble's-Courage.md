@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Noble's Courage"
+  - Noble's Courage
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/3
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Cure
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/3
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Cure
+title: Noble's Courage
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Noble's Courage  
 >**Enabler**  
 >3+ Intellect points

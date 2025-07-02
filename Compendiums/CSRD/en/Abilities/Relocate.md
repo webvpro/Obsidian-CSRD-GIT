@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Relocate"
+  - Relocate
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/7
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Environment
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/7
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Environment
+title: Relocate
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Relocate  
 >**Action**  
 >7 Intellect points

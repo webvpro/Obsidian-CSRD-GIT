@@ -1,16 +1,17 @@
 ---
 aliases:
-- Grey
+  - Grey
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/4
-- Creature/Armor/1
-- Creature/Health/12
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/4
+  - Creature/Armor/1
+  - Creature/Health/12
+title: Grey
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Grey  
 Greys are enigmatic creatures born of alien stars (or dimensions) who have learned to move across the vast distances that bridge neighboring star systems. The creatures descend through the atmosphere under the cover of night to abduct specimens for study and return the victims later after a thorough examination. Returned abductees are usually befuddled and confused, and they retain little memory of what happened to them. Victims of the greys' examination frequently sport strange marks on their flesh, oddly shaped wounds, gaps where teeth used to be, and strange or unknown metal lodged somewhere under the skin.
 A grey stands 3 feet (1 m) tall. It has a narrow body with skinny limbs and a large, bulbous head. Two large black eyes, almond shaped, dominate a face that has only a suggestion of a nose and a narrow mouth. Greys wear skintight uniforms, carry numerous instruments to study their environments, and keep a weapon or two for protection.  

@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Tough As Nails"
+  - Tough As Nails
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Cure
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Cure
+title: Tough As Nails
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Tough As Nails  
 >**Action**
   

@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Field of Gravity"
+  - Field of Gravity
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/4
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Environment
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/4
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Environment
+title: Field of Gravity
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Field of Gravity  
 >**Enabler**  
 >4 Intellect points

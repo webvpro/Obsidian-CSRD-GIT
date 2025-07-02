@@ -1,13 +1,14 @@
 ---
 aliases:
-- Witch's Ladder
+  - Witch's Ladder
 tags:
-- Compendium/CSRD/en/Cyphers/Witchs-Ladder
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers/Witchs-Ladder
+  - Cypher
+  - Cypher/Fairy-Tale
+title: Witch's Ladder
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Witch's Ladder  
 >[!info] Stats  
 > **Level:** 1d6+2  

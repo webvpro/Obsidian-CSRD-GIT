@@ -1,16 +1,17 @@
 ---
 aliases:
-- Goblin
+  - Goblin
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/1
-- Creature/Armor/0
-- Creature/Health/3
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/1
+  - Creature/Armor/0
+  - Creature/Health/3
+title: Goblin
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Goblin  
 Goblins are wicked, grasping, and perversely resourceful. Usually no larger than children, they can seem like pesky rabble, but that illusion hides something altogether more cunning. Tribe members work together to accomplish their goals of murder, kidnapping, and theft.  
 

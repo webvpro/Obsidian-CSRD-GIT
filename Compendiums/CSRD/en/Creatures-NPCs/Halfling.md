@@ -1,16 +1,17 @@
 ---
 aliases:
-- Halfling
+  - Halfling
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/NPC
-- Creature/Level/3
-- Creature/Armor/0
-- Creature/Health/9
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/NPC
+  - Creature/Level/3
+  - Creature/Armor/0
+  - Creature/Health/9
+title: Halfling
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Halfling  
 A halfling is fond of the comforts of home, but adventures and exploration are the fodder of great stories told over tea or dinner, or in a fireside chat. Quick, resourceful, and easy to get along with, halflings fit right in with brave big folk as scouts, burglars, and loyal companions.  
 

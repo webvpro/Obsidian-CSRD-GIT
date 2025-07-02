@@ -1,13 +1,14 @@
 ---
 aliases:
-- Hatchet of the Woodsman
+  - Hatchet of the Woodsman
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fairy-Tale
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fairy-Tale
+title: Hatchet of the Woodsman
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Hatchet of the Woodsman  
 >[!info] Stats  
 > **Level:** 1d6+4  

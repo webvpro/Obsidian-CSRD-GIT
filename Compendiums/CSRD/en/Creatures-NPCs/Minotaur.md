@@ -1,16 +1,17 @@
 ---
 aliases:
-- Minotaur
+  - Minotaur
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/4
-- Creature/Armor/1
-- Creature/Health/19
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/4
+  - Creature/Armor/1
+  - Creature/Health/19
+title: Minotaur
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Minotaur  
 Minotaurs are aggressive bull-humanoids who enjoy human flesh. Some legends say the first minotaur was the result of a curse from a god, and others suggest it was created by a demon, but the truth is lost to antiquity. Minotaurs care little about history or their origin, preferring to hunt for meat and spar with each other for dominance and trophies. Minotaurs live in small tribes of up to a dozen adults. Solitary minotaurs are exiles, last survivors of their tribe, or younger individuals claiming their own territory.  
 

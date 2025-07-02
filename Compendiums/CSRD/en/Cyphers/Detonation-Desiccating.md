@@ -1,13 +1,14 @@
 ---
 aliases:
-- Detonation Desiccating
+  - Detonation Desiccating
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Detonation Desiccating
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Detonation Desiccating  
 >[!info] Stats  
 > **Level:** 1d6+2  

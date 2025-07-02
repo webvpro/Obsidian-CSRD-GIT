@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Destroyer"
+  - Destroyer
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/6
-- Ability/Tier/High
-- Ability/Pool/Might
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/6
+  - Ability/Tier/High
+  - Ability/Pool/Might
+  - Ability/Categories/Special-Attack
+title: Destroyer
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Destroyer  
 >**Action**  
 >6 Might points

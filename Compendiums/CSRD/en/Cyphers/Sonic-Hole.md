@@ -1,13 +1,14 @@
 ---
 aliases:
-- Sonic Hole
+  - Sonic Hole
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Sonic Hole
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Sonic Hole  
 >[!info] Stats  
 > **Level:** 1d6+2  

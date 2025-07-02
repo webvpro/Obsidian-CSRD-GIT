@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Block"
+  - Block
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/Low
-- Ability/Pool/Speed
-- Ability/Categories/Protection
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Low
+  - Ability/Pool/Speed
+  - Ability/Categories/Protection
+title: Block
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Block  
 >**Action**  
 >3 Speed points

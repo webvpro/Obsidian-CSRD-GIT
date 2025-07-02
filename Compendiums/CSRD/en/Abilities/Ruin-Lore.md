@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Ruin Lore"
+  - Ruin Lore
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Task
+title: Ruin Lore
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Ruin Lore  
 >**Enabler**
   

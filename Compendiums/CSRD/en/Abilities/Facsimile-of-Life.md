@@ -1,18 +1,19 @@
 ---
 aliases:
-- "Facsimile of Life"
+  - Facsimile of Life
 tags:
-- Compendium/CSRD/en/Abilities/Facsimile-of-Life
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Magic
-- Ability/Categories/Fantasy/Modern
+  - Compendium/CSRD/en/Abilities/Facsimile-of-Life
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Magic
+  - Ability/Categories/Fantasy/Modern
+title: Facsimile of Life
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Facsimile of Life
 >**Action**  
 >3 Intellect point

@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Terrifying Gaze"
+  - Terrifying Gaze
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/6
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/6
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Special-Attack
+title: Terrifying Gaze
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Terrifying Gaze  
 >**Action**  
 >6 Intellect points

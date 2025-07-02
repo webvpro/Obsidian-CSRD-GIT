@@ -1,13 +1,14 @@
 ---
 aliases:
-- Enviroscanner
+  - Enviroscanner
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Post-Apocalyptic
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Post-Apocalyptic
+title: Enviroscanner
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Enviroscanner  
 >[!info] Stats  
 > **Level:** 1d6  

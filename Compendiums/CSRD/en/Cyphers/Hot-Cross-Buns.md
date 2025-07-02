@@ -1,13 +1,14 @@
 ---
 aliases:
-- Hot Cross Buns
+  - Hot Cross Buns
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+title: Hot Cross Buns
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Hot Cross Buns  
 >[!info] Stats  
 > **Level:** 1d6  

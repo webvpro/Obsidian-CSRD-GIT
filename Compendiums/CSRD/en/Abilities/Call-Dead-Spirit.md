@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Call Dead Spirit"
+  - Call Dead Spirit
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/6
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Companion
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/6
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Companion
+title: Call Dead Spirit
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Call Dead Spirit  
 >**Action**  
 >6 Intellect points

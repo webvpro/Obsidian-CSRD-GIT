@@ -1,13 +1,14 @@
 ---
 aliases:
-- Golden Vanity
+  - Golden Vanity
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+title: Golden Vanity
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Golden Vanity  
 >[!info] Stats  
 > **Level:** 1d6  

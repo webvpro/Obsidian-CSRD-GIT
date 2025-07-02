@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Babel"
+  - Babel
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Information
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Information
+title: Babel
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Babel  
 >**Enabler**
   

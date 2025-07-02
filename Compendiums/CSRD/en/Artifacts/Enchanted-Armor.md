@@ -1,13 +1,14 @@
 ---
 aliases:
-- Enchanted Armor
+  - Enchanted Armor
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Enchanted Armor
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Enchanted Armor  
 >[!info] Stats  
 > **Level:** 1d6+3  

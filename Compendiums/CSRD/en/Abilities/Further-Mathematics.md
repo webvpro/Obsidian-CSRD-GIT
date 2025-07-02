@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Further Mathematics"
+  - Further Mathematics
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/High
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/High
+  - Ability/Categories/Task
+title: Further Mathematics
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Further Mathematics  
 >**Enabler**
   

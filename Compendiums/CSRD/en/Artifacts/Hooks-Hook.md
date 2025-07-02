@@ -1,13 +1,14 @@
 ---
 aliases:
-- Hook's Hook
+  - Hook's Hook
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fairy-Tale
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fairy-Tale
+title: Hook's Hook
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Hook's Hook  
 >[!info] Stats  
 > **Level:** 1d6+1  

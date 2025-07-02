@@ -1,13 +1,14 @@
 ---
 aliases:
-- Crown of Eyes
+  - Crown of Eyes
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Crown of Eyes
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Crown of Eyes  
 >[!info] Stats  
 > **Level:** 1d6  

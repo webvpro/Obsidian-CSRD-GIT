@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Agile Wit"
+  - Agile Wit
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/High
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/High
+  - Ability/Categories/Meta
+title: Agile Wit
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Agile Wit  
 >**Enabler**
   

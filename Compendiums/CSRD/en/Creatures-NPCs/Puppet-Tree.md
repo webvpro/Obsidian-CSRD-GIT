@@ -1,16 +1,17 @@
 ---
 aliases:
-- Puppet Tree
+  - Puppet Tree
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/6
-- Creature/Armor/3
-- Creature/Health/33
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/6
+  - Creature/Armor/3
+  - Creature/Health/33
+title: Puppet Tree
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Puppet Tree  
 A puppet tree is a 25-foot (8 m) tall, spiky, orange and blue tree surrounded by a large area of red reeds that tremble and wave enticingly even when no wind is present. Humanoid figures are often gathered around it, but these rotted, overgrown corpses are the tree's victims, dead but serving as fleshy puppets to the tree's will.
 Victims drained of knowledge and life are used as lures to draw in yet more victims, at least until the bodies rot away. When not used as lures, the corpse puppets are sent to scout nearby areas.

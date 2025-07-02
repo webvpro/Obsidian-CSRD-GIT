@@ -1,16 +1,17 @@
 ---
 aliases:
-- Godmind
+  - Godmind
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/10
-- Creature/Armor/0
-- Creature/Health/50
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/10
+  - Creature/Armor/0
+  - Creature/Health/50
+title: Godmind
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Godmind  
 Unfathomably powerful post-singularity AIs, godminds are vast, having used the matter of an entire solar system and all its planets to create an immense brain, weave themselves into a nebula, or encode themselves into quantum strings of existence light-years across. When necessary, a godmind forms a nexus of consciousness-an instance-appearing as a disembodied eye of electromagnetic energy, ranging from about the size of a human eye all the way up to the size of a planet.  
 

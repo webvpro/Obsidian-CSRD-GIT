@@ -1,9 +1,12 @@
 ---
-aliases: 
-- "Develop Coping Strategies"
-tags: 
-- Compendium/CSRD/en/Character-Arcs/Develop-Coping-Strategies
-- Character-Arc
+aliases:
+  - Develop Coping Strategies
+tags:
+  - Compendium/CSRD/en/Character-Arcs/Develop-Coping-Strategies
+  - Character-Arc
+title: Develop Coping Strategies
+collection: Character-Arcs
+kind: Compendium
 ---
 ## Develop Coping Strategies
 >You want to develop better ways of moving through the world while living with a mental illness. This isn’t a “cure” or a “fix.” It isa step toward mitigating symptoms or struggles by developing healthy emotional coping strategies.

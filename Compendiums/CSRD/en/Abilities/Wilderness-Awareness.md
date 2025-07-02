@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Wilderness Awareness"
+  - Wilderness Awareness
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/4
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Information
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Information
+title: Wilderness Awareness
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Wilderness Awareness  
 >**Action**  
 >4 Intellect points

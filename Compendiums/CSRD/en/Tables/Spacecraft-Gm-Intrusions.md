@@ -1,11 +1,13 @@
 ---
 aliases:
-- Spacecraft Gm Intrusions
+  - Spacecraft Gm Intrusions
 tags:
-- Compendiums/CSRD/en/Tables
-- Table/Intrusion/Spacecraft-Gm-Intrusions
+  - Compendiums/CSRD/en/Tables
+  - Table/Intrusion/Spacecraft-Gm-Intrusions
+title: Spacecraft Gm Intrusions
+collection: Tables
+kind: Compendiums
 ---
-
 ## Spacecraft Gm Intrusions Table
 |  Roll &nbsp; &nbsp; | Spacecraft Gm Intrusions  |
 | ------------- | :----------- |

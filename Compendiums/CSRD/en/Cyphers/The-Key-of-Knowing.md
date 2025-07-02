@@ -1,13 +1,14 @@
 ---
 aliases:
-- The Key of Knowing
+  - The Key of Knowing
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+title: The Key of Knowing
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## The Key of Knowing  
 >[!info] Stats  
 > **Level:** 1d6+3  

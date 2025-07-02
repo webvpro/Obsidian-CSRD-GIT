@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Move Metal"
+  - Move Metal
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/1
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Environment
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/1
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Environment
+title: Move Metal
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Move Metal  
 >**Action**  
 >1 Intellect point

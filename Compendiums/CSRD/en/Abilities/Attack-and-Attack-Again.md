@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Attack and Attack Again"
+  - Attack and Attack Again
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/High
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/High
+  - Ability/Categories/Special-Attack
+title: Attack and Attack Again
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Attack and Attack Again  
 >**Enabler**
   

@@ -1,11 +1,13 @@
 ---
-aliases: "How To Play the Cypher System"
-tags: 
-- Compendium/CSRD/en/Rules
-- HowTo
-- Task/Difficulty
+aliases: How To Play the Cypher System
+tags:
+  - Compendium/CSRD/en/Rules
+  - HowTo
+  - Task/Difficulty
+title: H
+collection: Rules
+kind: Compendium
 ---
-
 # How to Play the Cypher System
 
 The rules of the Cypher System are quite straightforward at their heart, as all of gameplay is based around a few core concepts.  

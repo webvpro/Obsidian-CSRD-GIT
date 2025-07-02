@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Sensing Package"
+  - Sensing Package
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Senses
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Senses
+  - Ability/Categories/Task
+title: Sensing Package
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Sensing Package  
 >**Enabler**
   

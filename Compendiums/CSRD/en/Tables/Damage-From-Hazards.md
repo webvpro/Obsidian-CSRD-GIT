@@ -1,11 +1,13 @@
 ---
 aliases:
-- "Damage From Hazards"
+  - Damage From Hazards
 tags:
-- Compendiums/CSRD/en/Tables/Damage-From-Hazards
-- Table
+  - Compendiums/CSRD/en/Tables/Damage-From-Hazards
+  - Table
+title: Damage From Hazards
+collection: Tables
+kind: Compendiums
 ---
-
 ## Damage From Hazards
 
 | Source        | Damage                                            | Notes                                 |

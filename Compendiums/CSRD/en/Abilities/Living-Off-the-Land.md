@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Living Off the Land"
+  - Living Off the Land
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Cure
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Cure
+title: Living Off the Land
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Living Off the Land  
 >**Enabler**
   

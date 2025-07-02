@@ -1,13 +1,14 @@
 ---
 aliases:
-- Guardian Idol
+  - Guardian Idol
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Guardian Idol
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Guardian Idol  
 >[!info] Stats  
 > **Level:** 1d6+3  

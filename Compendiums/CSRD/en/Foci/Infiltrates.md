@@ -1,12 +1,13 @@
 ---
 aliases:
-- "Infiltrates"
+  - Infiltrates
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Exploration
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Exploration
+title: Infiltrates
+collection: Foci
+kind: Compendium
 ---
-
-  
 ## Infiltrates  
 Subtlety, guile, and stealth allow you to get in where others can't.  
 

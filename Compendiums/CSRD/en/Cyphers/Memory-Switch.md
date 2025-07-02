@@ -1,13 +1,14 @@
 ---
 aliases:
-- Memory Switch
+  - Memory Switch
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Memory Switch
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Memory Switch  
 >[!info] Stats  
 > **Level:** 1d6+2  

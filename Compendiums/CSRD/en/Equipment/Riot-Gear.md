@@ -1,15 +1,16 @@
 ---
 aliases:
-- "Riot Gear"
+  - Riot Gear
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Post-Apocalyptic
-- Equipment/Utility-Gear
-- Equipment/Value/Expensive
-- Equipment/Armor/Medium
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Post-Apocalyptic
+  - Equipment/Utility-Gear
+  - Equipment/Value/Expensive
+  - Equipment/Armor/Medium
+title: Riot Gear
+collection: Equipment
+kind: Compendium
 ---
-
-  
 ## Riot Gear  
   
 >  

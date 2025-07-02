@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Amazing Leap"
+  - Amazing Leap
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/2
-- Ability/Tier/NA
-- Ability/Pool/Might
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/2
+  - Ability/Tier/NA
+  - Ability/Pool/Might
+  - Ability/Categories/NA
+title: Amazing Leap
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Amazing Leap  
 >**Action**  
 >2 Might points

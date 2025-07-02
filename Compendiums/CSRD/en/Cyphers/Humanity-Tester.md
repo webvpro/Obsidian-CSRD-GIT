@@ -1,12 +1,13 @@
 ---
 aliases:
-- Humanity Tester
+  - Humanity Tester
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+title: Humanity Tester
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Humanity Tester  
 >[!info] Stats  
 > **Level:** 1d6+4  

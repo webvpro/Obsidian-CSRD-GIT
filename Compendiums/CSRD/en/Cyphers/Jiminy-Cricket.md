@@ -1,13 +1,14 @@
 ---
 aliases:
-- Jiminy Cricket
+  - Jiminy Cricket
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+title: Jiminy Cricket
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Jiminy Cricket  
 >[!info] Stats  
 > **Level:** 1d6  

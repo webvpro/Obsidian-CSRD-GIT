@@ -1,18 +1,19 @@
 ---
 aliases:
-- "Contortionist"
+  - Contortionist
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/2
-- Ability/Tier/Low
-- Ability/Pool/Speed
-- Ability/Categories/Movement
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/2
+  - Ability/Tier/Low
+  - Ability/Pool/Speed
+  - Ability/Categories/Movement
+  - Ability/Categories/Task
+title: Contortionist
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Contortionist  
 >**Enabler**  
 >2 Speed points

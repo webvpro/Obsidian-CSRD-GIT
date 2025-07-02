@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Quarterstaff"
+  - Quarterstaff
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/Expensive
-- Equipment/Value/2-Sp
-- Equipment/Weapon/Medium
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/Expensive
+  - Equipment/Value/2-Sp
+  - Equipment/Weapon/Medium
+title: Quarterstaff
+collection: Equipment
+kind: Compendium
 ---
-
-  
 ## Quarterstaff  
   
 >A wooden pole about 4 to 5 feet (1.2 to 1.5 m) long.  

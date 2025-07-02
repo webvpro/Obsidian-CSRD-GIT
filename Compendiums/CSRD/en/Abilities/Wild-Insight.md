@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Wild Insight"
+  - Wild Insight
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/NA
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/NA
+  - Ability/Categories/NA
+title: Wild Insight
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Wild Insight  
 >**Enabler**
   

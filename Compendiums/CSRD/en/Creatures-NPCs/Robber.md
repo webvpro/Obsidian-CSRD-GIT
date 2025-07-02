@@ -1,16 +1,17 @@
 ---
 aliases:
-- Robber
+  - Robber
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/NPC
-- Creature/Level/4
-- Creature/Armor/1
-- Creature/Health/12
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/NPC
+  - Creature/Level/4
+  - Creature/Armor/1
+  - Creature/Health/12
+title: Robber
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Robber  
 Robbers, thieves, highwaymen, robin hoods--whatever name you call them, they want what you have, and they're willing to get it any way they can. Some robbers are honorable, stealing only from the rich or the evil. Others will take anything that isn't nailed down or magically protected.
 Robbers often travel in pairs or small groups of dedicated friends and fellow robbers.  

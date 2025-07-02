@@ -1,12 +1,13 @@
 ---
 aliases:
-- "Solves Mysteries"
+  - Solves Mysteries
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Influence
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Influence
+title: Solves Mysteries
+collection: Foci
+kind: Compendium
 ---
-
-  
 ## Solves Mysteries  
 You're a master of deduction, using evidence to find the answer.  
 

@@ -1,16 +1,17 @@
 ---
 aliases:
-- Wind Children
+  - Wind Children
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/4
-- Creature/Armor/0
-- Creature/Health/12
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/4
+  - Creature/Armor/0
+  - Creature/Health/12
+title: Wind Children
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Wind Children  
 The children of the wind cannot be measured in known numbers, for they are here and there and everywhere. They are not born, so much as borne, by weather patterns, wishes, and wants. Dust devils, gales, and zephyrs are all wind children.  
 

@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Frenzy"
+  - Frenzy
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/1
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/1
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Meta
+title: Frenzy
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Frenzy  
 >**Enabler**  
 >1 Intellect point

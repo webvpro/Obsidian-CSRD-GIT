@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Interface"
+  - Interface
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Task
+title: Interface
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Interface  
 >**Enabler**
   

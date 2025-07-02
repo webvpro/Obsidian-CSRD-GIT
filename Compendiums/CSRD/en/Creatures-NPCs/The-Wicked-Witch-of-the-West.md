@@ -1,16 +1,17 @@
 ---
 aliases:
-- The Wicked Witch of the West
+  - The Wicked Witch of the West
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/5
-- Creature/Armor/0
-- Creature/Health/null
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/5
+  - Creature/Armor/0
+  - Creature/Health/null
+title: The Wicked Witch of the West
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## The Wicked Witch of the West  
 With her three pigtails and diminutive stature, it would be easy to write off the Wicked Witch of the West as a nobody--and many have--but her power lies in the creatures that work for her and in her vast and growing collection of magical footwear.
 She can see up to 2 miles (3 km) away with her single eye, and wears galoshes that give her +2 Armor against water and liquid of all kinds.  

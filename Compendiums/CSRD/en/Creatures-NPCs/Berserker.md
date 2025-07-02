@@ -1,16 +1,17 @@
 ---
 aliases:
-- Berserker
+  - Berserker
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/NPC
-- Creature/Level/3
-- Creature/Armor/1
-- Creature/Health/12
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/NPC
+  - Creature/Level/3
+  - Creature/Armor/1
+  - Creature/Health/12
+title: Berserker
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Berserker  
 A berserker is a fierce warrior who can fly into a rage, greatly increasing their strength and hardiness. Many of them choose an animal such as a bear, wolf, or boar as their spiritual kin, wearing the skin of that animal and fighting like wild beasts.  
 

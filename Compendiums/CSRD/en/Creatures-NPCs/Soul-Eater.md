@@ -1,16 +1,17 @@
 ---
 aliases:
-- Soul Eater
+  - Soul Eater
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/5
-- Creature/Armor/1
-- Creature/Health/15
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/5
+  - Creature/Armor/1
+  - Creature/Health/15
+title: Soul Eater
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Soul Eater  
 A soul eater is the animate head of a powerful wizard who shuffled off this mortal coil to become an undead creature without ethics, feelings, or a sense of morality. Also called dread skulls, these creatures maintain their existence by occasionally absorbing the spirit or mind of living victims. An absorbed "soul" is burned away, which is why dread skulls are wreathed in flame; it's the by-product of the creature's previous meal.  
 

@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Something in the Road"
+  - Something in the Road
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Meta
+title: Something in the Road
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Something in the Road  
 >**Enabler**
   

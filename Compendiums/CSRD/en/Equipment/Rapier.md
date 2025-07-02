@@ -1,15 +1,16 @@
 ---
 aliases:
-- "Rapier"
+  - Rapier
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/25-Gp
-- Equipment/Weapon/Light
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/25-Gp
+  - Equipment/Weapon/Light
+title: Rapier
+collection: Equipment
+kind: Compendium
 ---
-
-  
 ## Rapier  
   
 >A light sword with a thin blade used for stabbing and slashing.  

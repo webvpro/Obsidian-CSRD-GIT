@@ -1,13 +1,14 @@
 ---
 aliases:
-- Instant Ladder
+  - Instant Ladder
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Instant Ladder
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Instant Ladder  
 >[!info] Stats  
 > **Level:** 1d6  

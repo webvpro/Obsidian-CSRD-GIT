@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Investigative Skills"
+  - Investigative Skills
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Task
+title: Investigative Skills
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Investigative Skills  
 >**Enabler**
   

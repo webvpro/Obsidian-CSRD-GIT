@@ -1,13 +1,14 @@
 ---
 aliases:
-- Spellbook of the Amber Mage
+  - Spellbook of the Amber Mage
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Spellbook of the Amber Mage
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Spellbook of the Amber Mage  
 >[!info] Stats  
 > **Level:** 1d6  

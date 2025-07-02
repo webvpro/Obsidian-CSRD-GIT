@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Absorb Pure Energy"
+  - Absorb Pure Energy
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Protection
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Protection
+title: Absorb Pure Energy
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Absorb Pure Energy  
 >**Enabler**
   

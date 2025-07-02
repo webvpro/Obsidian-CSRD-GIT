@@ -1,11 +1,13 @@
 ---
 aliases:
-- "Ghost"
+  - Ghost
 tags:
-- Compendiums/CSRD/en/Descriptors/Ghost
-- Descriptor/Species 
+  - Compendiums/CSRD/en/Descriptors/Ghost
+  - Descriptor/Species
+title: Ghost
+collection: Descriptors
+kind: Compendiums
 ---
-
 ## Ghost  
 Unfortunately, you’re dead. But hey, it’s not all bad! Your spirit has remained in the mortal world. You can still walk among the living, but you no longer need pesky things like food or sleep. It’s up to you how long you’ve been dead, whether you remember your death, and why you’ve stuck around: seeking revenge, settling a debt, protecting your descendants, perfecting your great grandma’s pecan pie recipe, or something else entirely.
 ### You gain the following characteristics:

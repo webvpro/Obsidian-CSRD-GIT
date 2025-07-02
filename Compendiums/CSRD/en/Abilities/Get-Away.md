@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Get Away"
+  - Get Away
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/2
-- Ability/Tier/Low
-- Ability/Pool/Speed
-- Ability/Categories/Movement
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/2
+  - Ability/Tier/Low
+  - Ability/Pool/Speed
+  - Ability/Categories/Movement
+title: Get Away
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Get Away  
 >**Enabler**  
 >2 Speed points

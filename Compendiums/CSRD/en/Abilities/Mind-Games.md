@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Mind Games"
+  - Mind Games
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Special-Attack
+title: Mind Games
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Mind Games  
 >**Action**  
 >3 Intellect points

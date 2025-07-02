@@ -1,13 +1,14 @@
 ---
 aliases:
-- Horn of Destruction
+  - Horn of Destruction
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fairy-Tale
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fairy-Tale
+title: Horn of Destruction
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Horn of Destruction  
 >[!info] Stats  
 > **Level:** 1d6+3  

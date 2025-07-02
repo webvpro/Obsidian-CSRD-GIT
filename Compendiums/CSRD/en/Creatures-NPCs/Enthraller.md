@@ -1,16 +1,17 @@
 ---
 aliases:
-- Enthraller
+  - Enthraller
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/6
-- Creature/Armor/1
-- Creature/Health/18
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/6
+  - Creature/Armor/1
+  - Creature/Health/18
+title: Enthraller
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Enthraller  
 Hundreds of thousands of years ago, enthraller ancestors psychically dominated a group of interstellar spacefarers who had the misfortune to land on the enthraller homeworld. Leapfrogging technological prowess by mentally commandeering the know-how of every new species they encountered using their stolen space vessel, the aliens fashioned the Enthraller Dominion, which stretches across vast swaths of space, cemented by the psychic control.
 Individual enthrallers are scary, but enthraller overlords are even more powerful thanks to technological aids. These include cranial circlets that give a single enthraller governor the ability to dominate a small city, solar-system-sized ring relays that boost their control across interstellar distances, and more.

@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Crowd Control"
+  - Crowd Control
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/6
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Control
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/6
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Control
+title: Crowd Control
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Crowd Control  
 >**Action**  
 >6+ Intellect points

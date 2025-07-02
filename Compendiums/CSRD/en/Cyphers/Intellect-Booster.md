@@ -1,13 +1,14 @@
 ---
 aliases:
-- Intellect Booster
+  - Intellect Booster
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Subtle
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Subtle
+title: Intellect Booster
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Intellect Booster  
 >[!info] Stats  
 > **Level:** 1d6+2  

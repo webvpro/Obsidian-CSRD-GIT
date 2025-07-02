@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Soothe Mind and Body"
+  - Soothe Mind and Body
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Task
+title: Soothe Mind and Body
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Soothe Mind and Body  
 >**Enabler**
   

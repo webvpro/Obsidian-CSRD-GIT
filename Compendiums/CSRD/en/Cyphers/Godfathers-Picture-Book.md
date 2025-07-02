@@ -1,13 +1,14 @@
 ---
 aliases:
-- "Godfather's Picture Book"
+  - Godfather's Picture Book
 tags:
-- Compendium/CSRD/en/Cyphers/Godfathers-Picture-Book
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers/Godfathers-Picture-Book
+  - Cypher
+  - Cypher/Fairy-Tale
+title: Godfather's Picture Book
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Godfather's Picture Book  
 >[!info] Stats  
 > **Level:** 1d6+2  

@@ -1,11 +1,13 @@
 ---
 aliases:
-- Fantasy
+  - Fantasy
 tags:
-- Compendiums/CSRD/en/Tables
-- Table/Fantasy
+  - Compendiums/CSRD/en/Tables
+  - Table/Fantasy
+title: Fantasy
+collection: Tables
+kind: Compendiums
 ---
-
 ## Fantasy Table
 |  Roll &nbsp; &nbsp; | Fantasy  |
 | ------------- | :----------- |

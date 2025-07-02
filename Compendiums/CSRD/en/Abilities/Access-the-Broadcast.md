@@ -1,18 +1,19 @@
 ---
 aliases:
-- "Access the Broadcast"
+  - Access the Broadcast
 tags:
-- Compendium/CSRD/en/Abilities/Access-the-Broadcast
-- Ability
-- Ability/Action
-- Ability/Cost/2
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Magic
-- Ability/Categories/Fantasy/Modern
+  - Compendium/CSRD/en/Abilities/Access-the-Broadcast
+  - Ability
+  - Ability/Action
+  - Ability/Cost/2
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Magic
+  - Ability/Categories/Fantasy/Modern
+title: Access the Broadcast
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Access the Broadcast
 >**Action**  
 >2+ Intellect point

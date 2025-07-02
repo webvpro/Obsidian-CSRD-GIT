@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Hardiness"
+  - Hardiness
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Protection
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Protection
+title: Hardiness
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Hardiness  
 >**Enabler**
   

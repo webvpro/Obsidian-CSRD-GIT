@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Reshape"
+  - Reshape
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/5
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Craft
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/5
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Craft
+title: Reshape
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Reshape  
 >**Action**  
 >5 Intellect points

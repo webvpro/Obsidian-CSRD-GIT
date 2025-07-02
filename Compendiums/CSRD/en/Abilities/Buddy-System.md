@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Buddy System"
+  - Buddy System
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Support
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Support
+title: Buddy System
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Buddy System  
 >**Action**  
 >3 Intellect points

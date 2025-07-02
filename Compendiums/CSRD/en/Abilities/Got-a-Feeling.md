@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Got a Feeling"
+  - Got a Feeling
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/4
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Information
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Information
+title: Got a Feeling
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Got a Feeling  
 >**Action**  
 >4 Intellect points

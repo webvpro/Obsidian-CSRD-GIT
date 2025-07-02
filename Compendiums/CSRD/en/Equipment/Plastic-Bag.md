@@ -1,14 +1,15 @@
 ---
 aliases:
-- "Plastic Bag"
+  - Plastic Bag
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Post-Apocalyptic
-- Equipment/Utility-Gear
-- Equipment/Value/Inexpensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Post-Apocalyptic
+  - Equipment/Utility-Gear
+  - Equipment/Value/Inexpensive
+title: Plastic Bag
+collection: Equipment
+kind: Compendium
 ---
-
-  
 ## Plastic Bag  
   
 >Useful and ubiquitous (won't last long)  

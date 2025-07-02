@@ -1,13 +1,14 @@
 ---
 aliases:
-- Friction Reducer
+  - Friction Reducer
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Manifest
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Manifest
+title: Friction Reducer
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Friction Reducer  
 >[!info] Stats  
 > **Level:** 1d6  

@@ -1,13 +1,14 @@
 ---
 aliases:
-- Hand of Glory
+  - Hand of Glory
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Hand of Glory
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Hand of Glory  
 >[!info] Stats  
 > **Level:** 1d6+3  

@@ -1,12 +1,13 @@
 ---
 aliases:
-- "Was Foretold"
+  - Was Foretold
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/
+title: Was Foretold
+collection: Foci
+kind: Compendium
 ---
-
-  
 ## Was Foretold  
 You are the "chosen one," and prophecy, prediction, prognostication, or some other method of determination expects great things of you one day.  
 

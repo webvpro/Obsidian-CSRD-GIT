@@ -1,16 +1,17 @@
 ---
 aliases:
-- Fallen Angel
+  - Fallen Angel
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/5
-- Creature/Armor/2
-- Creature/Health/25
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/5
+  - Creature/Armor/2
+  - Creature/Health/25
+title: Fallen Angel
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Fallen Angel  
 Angels are normally associated with virtue and service to higher moral beings. But just like people, sometimes angels are tempted into impure acts. Those who stray too far over the line may fall from higher realms and be forced to walk the Earth in penance. This experience drives most fallen angels insane.
 Fallen angel abilities wax and wane according to the position of the sun. During the day, a fallen angel seems almost sane (and is less dangerous), but at night, it is volatile and threatening to everyone.  

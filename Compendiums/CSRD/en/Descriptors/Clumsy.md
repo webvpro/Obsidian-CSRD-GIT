@@ -1,11 +1,13 @@
 ---
 aliases:
-- Clumsy
+  - Clumsy
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Clumsy
+collection: Descriptors
+kind: Compendiums
 ---
-
 ## Clumsy  
 Graceless and awkward, you were told that you'd grow out of it, but you never did. You often drop things, trip over your own feet, or knock things (or people) over. Some people get frustrated by this quality, but most find it funny and even a little charming.
 (Some players may not want to be defined by a "negative" quality like Clumsy, but in truth, even this kind of descriptor has enough advantages that it makes for capable and talented characters. What negative descriptors really do is make more interesting and complex characters that are often great fun to play.)

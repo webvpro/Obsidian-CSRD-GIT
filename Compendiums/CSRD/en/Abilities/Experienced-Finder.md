@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Experienced Finder"
+  - Experienced Finder
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/6
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Senses
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/6
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Senses
+title: Experienced Finder
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Experienced Finder  
 >**Action**  
 >6+ Intellect points

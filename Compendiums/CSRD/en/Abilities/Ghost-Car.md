@@ -1,18 +1,19 @@
 ---
 aliases:
-- "Ghost Car"
+  - Ghost Car
 tags:
-- Compendium/CSRD/en/Abilities/Ghost-Car
-- Ability
-- Ability/Action
-- Ability/Cost/4
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Magic
-- Ability/Categories/Fantasy/Modern
+  - Compendium/CSRD/en/Abilities/Ghost-Car
+  - Ability
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Magic
+  - Ability/Categories/Fantasy/Modern
+title: Ghost Car
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Ghost Car
 >**Action**  
 >4 Intellect point

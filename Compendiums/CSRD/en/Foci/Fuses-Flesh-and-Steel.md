@@ -1,12 +1,13 @@
 ---
 aliases:
-- "Fuses Flesh and Steel"
+  - Fuses Flesh and Steel
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Tank-Combat
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Tank-Combat
+title: Fuses Flesh and Steel
+collection: Foci
+kind: Compendium
 ---
-
-  
 ## Fuses Flesh and Steel  
 Your body is part machine.  
 

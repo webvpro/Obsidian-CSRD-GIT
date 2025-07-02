@@ -1,13 +1,14 @@
 ---
 aliases:
-- Best Tool
+  - Best Tool
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Subtle
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Subtle
+title: Best Tool
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Best Tool  
 >[!info] Stats  
 > **Level:** 1d6  

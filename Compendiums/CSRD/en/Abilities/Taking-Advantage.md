@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Taking Advantage"
+  - Taking Advantage
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Special-Attack
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Special-Attack
+  - Ability/Categories/Task
+title: Taking Advantage
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Taking Advantage  
 >**Enabler**
   

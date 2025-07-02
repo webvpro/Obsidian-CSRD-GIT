@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Teleportation Burst"
+  - Teleportation Burst
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/3
-- Ability/Tier/NA
-- Ability/Pool/Intellect
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/3
+  - Ability/Tier/NA
+  - Ability/Pool/Intellect
+  - Ability/Categories/NA
+title: Teleportation Burst
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Teleportation Burst  
 >**Enabler**  
 >3 Intellect points

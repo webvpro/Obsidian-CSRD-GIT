@@ -1,11 +1,13 @@
 ---
 aliases:
-- Bitter
+  - Bitter
 tags:
-- Compendiums/CSRD/en/Descriptors
-- Descriptor
+  - Compendiums/CSRD/en/Descriptors
+  - Descriptor
+title: Bitter
+collection: Descriptors
+kind: Compendiums
 ---
-
 ## Bitter  
 Someone you cared for wronged you. They may have done so directly by betraying a trust, stealing your supplies, or giving you up to raiders to save their own life. Maybe they did it indirectly by going missing or dying on you. Or maybe it was an organization or institution that let you down. Whatever it was, you've spent a lot of time pulled into yourself, paranoid and mistrustful of others. But something's happened lately that has at least opened you to the possibility of trusting others again. Maybe you have to work with someone else or die. Alternatively, perhaps you've decided to try one more time, despite your disillusionment. It's either that or fully give in to bitterness.
 ### You gain the following characteristics  

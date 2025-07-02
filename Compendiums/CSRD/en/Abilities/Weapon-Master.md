@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Weapon Master"
+  - Weapon Master
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Meta
+title: Weapon Master
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Weapon Master  
 >**Enabler**
   

@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Seeds of Fury"
+  - Seeds of Fury
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/1
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/1
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Special-Attack
+title: Seeds of Fury
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Seeds of Fury  
 >**Action**  
 >1 Intellect point

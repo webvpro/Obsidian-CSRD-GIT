@@ -1,13 +1,14 @@
 ---
 aliases:
-- Shocker
+  - Shocker
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Manifest
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Manifest
+title: Shocker
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Shocker  
 >[!info] Stats  
 > **Level:** 1d6+4  

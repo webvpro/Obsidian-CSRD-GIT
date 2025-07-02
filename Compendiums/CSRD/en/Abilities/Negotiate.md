@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Negotiate"
+  - Negotiate
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Social
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Social
+title: Negotiate
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Negotiate  
 >**Action**  
 >3 Intellect points

@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Free to Move"
+  - Free to Move
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/High
-- Ability/Categories/Cure
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/High
+  - Ability/Categories/Cure
+title: Free to Move
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Free to Move  
 >**Enabler**
   

@@ -1,12 +1,13 @@
 ---
 aliases:
-- "Works the System"
+  - Works the System
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Influence
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Influence
+title: Works the System
+collection: Foci
+kind: Compendium
 ---
-
-  
 ## Works the System  
 You can exploit flaws in artificial systems, including but not limited to computer code.  
 

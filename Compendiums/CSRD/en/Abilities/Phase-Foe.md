@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Phase Foe"
+  - Phase Foe
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/6
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/6
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Special-Attack
+title: Phase Foe
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Phase Foe  
 >**Action**  
 >6+ Intellect points

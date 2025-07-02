@@ -1,18 +1,19 @@
 ---
 aliases:
-- "Network Dead Zone"
+  - Network Dead Zone
 tags:
-- Compendium/CSRD/en/Abilities/Network-Dead-Zone
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Magic
-- Ability/Categories/Fantasy/Modern
+  - Compendium/CSRD/en/Abilities/Network-Dead-Zone
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Magic
+  - Ability/Categories/Fantasy/Modern
+title: Network Dead Zone
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Network Dead Zone
 >**Action**  
 >3 Intellect point

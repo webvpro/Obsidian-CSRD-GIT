@@ -1,9 +1,12 @@
 ---
-aliases: 
-- "Aid a Friend"
-tags: 
-- Compendium/CSRD/en/Character-Arcs/Aid-a-Friend
-- Character-Arc
+aliases:
+  - Aid a Friend
+tags:
+  - Compendium/CSRD/en/Character-Arcs/Aid-a-Friend
+  - Character-Arc
+title: Aid a Friend
+collection: Character-Arcs
+kind: Compendium
 ---
 ## Aid a Friend
 >Someone needs your help.

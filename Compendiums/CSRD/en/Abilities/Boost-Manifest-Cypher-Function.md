@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Boost Manifest Cypher Function"
+  - Boost Manifest Cypher Function
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/4
-- Ability/Tier/NA
-- Ability/Pool/Intellect
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/NA
+  - Ability/Pool/Intellect
+  - Ability/Categories/NA
+title: Boost Manifest Cypher Function
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Boost Manifest Cypher Function  
 >**Action**  
 >4 Intellect points

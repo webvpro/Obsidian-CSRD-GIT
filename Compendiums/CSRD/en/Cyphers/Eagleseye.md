@@ -1,13 +1,14 @@
 ---
 aliases:
-- Eagleseye
+  - Eagleseye
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Subtle
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Subtle
+title: Eagleseye
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Eagleseye  
 >[!info] Stats  
 > **Level:** 1d6  

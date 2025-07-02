@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Advantages of Being Small"
+  - Advantages of Being Small
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/NA
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/NA
+  - Ability/Categories/NA
+title: Advantages of Being Small
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Advantages of Being Small  
 >**Enabler**
   

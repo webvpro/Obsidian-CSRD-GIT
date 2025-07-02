@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Create Deadly Poison"
+  - Create Deadly Poison
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Craft
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Craft
+title: Create Deadly Poison
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Create Deadly Poison  
 >**Action**  
 >3+ Intellect points

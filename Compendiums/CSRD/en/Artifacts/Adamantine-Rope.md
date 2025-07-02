@@ -1,13 +1,14 @@
 ---
 aliases:
-- Adamantine Rope
+  - Adamantine Rope
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Adamantine Rope
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Adamantine Rope  
 >[!info] Stats  
 > **Level:** 1d6+4  

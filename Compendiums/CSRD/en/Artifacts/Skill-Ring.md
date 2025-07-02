@@ -1,13 +1,14 @@
 ---
 aliases:
-- Skill Ring
+  - Skill Ring
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Skill Ring
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Skill Ring  
 >[!info] Stats  
 > **Level:** 1d6  

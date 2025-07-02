@@ -1,13 +1,14 @@
 ---
 aliases:
-- Hunter/Seeker
+  - Hunter/Seeker
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Manifest
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Manifest
+title: Hunter/Seeker
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Hunter/Seeker  
 >[!info] Stats  
 > **Level:** 1d6  

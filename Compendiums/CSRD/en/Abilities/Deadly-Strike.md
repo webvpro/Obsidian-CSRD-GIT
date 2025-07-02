@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Deadly Strike"
+  - Deadly Strike
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/5
-- Ability/Tier/High
-- Ability/Pool/Might
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/5
+  - Ability/Tier/High
+  - Ability/Pool/Might
+  - Ability/Categories/Special-Attack
+title: Deadly Strike
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Deadly Strike  
 >**Action**  
 >5 Might points

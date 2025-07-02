@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Blend In"
+  - Blend In
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/4
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Transform
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Transform
+title: Blend In
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Blend In  
 >**Action**  
 >4 Intellect points

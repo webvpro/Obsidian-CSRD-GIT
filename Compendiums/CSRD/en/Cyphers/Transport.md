@@ -1,13 +1,14 @@
 ---
 aliases:
-- Transport
+  - Transport
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Scavenger-Subtle
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Scavenger-Subtle
+title: Transport
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Transport  
 >[!info] Stats  
 > **Level:** 1d6+1  

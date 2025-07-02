@@ -1,16 +1,17 @@
 ---
 aliases:
-- Statue, Animate
+  - Statue, Animate
 tags:
-- Compendium/CSRD/en/Creatures-NPCs/Statue-Animate
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/7
-- Creature/Armor/4
-- Creature/Health/33
+  - Compendium/CSRD/en/Creatures-NPCs/Statue-Animate
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/7
+  - Creature/Armor/4
+  - Creature/Health/33
+title: Statue, Animate
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Statue, Animate  
 Towering statues carved from stone or cast in metal are sometimes more than humans rendered in moments of triumph, celebration, or suffering. Sometimes a statue moves, usually in service to some ancient geas or command that animated it in the first place.
 Most animate statues are vessels imprisoning the mind of a sentient creature. Such entrapment usually tumbles the spirits into the abyss of insanity, though most rest in a dormant state, their minds lost in whatever memories they retain. Disturbing animate statues can cause them to awaken, usually with disastrous results.  

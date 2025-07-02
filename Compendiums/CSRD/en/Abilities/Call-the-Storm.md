@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Call the Storm"
+  - Call the Storm
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/7
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/7
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Special-Attack
+title: Call the Storm
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Call the Storm  
 >**Action**  
 >7+ Intellect points

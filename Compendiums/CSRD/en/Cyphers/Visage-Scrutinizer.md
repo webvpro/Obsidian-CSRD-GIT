@@ -1,12 +1,13 @@
 ---
 aliases:
-- Visage Scrutinizer
+  - Visage Scrutinizer
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+title: Visage Scrutinizer
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Visage Scrutinizer  
 >[!info] Stats  
 > **Level:** 1d6+2  

@@ -1,16 +1,17 @@
 ---
 aliases:
-- Posthuman
+  - Posthuman
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/7
-- Creature/Armor/4
-- Creature/Health/50
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/7
+  - Creature/Armor/4
+  - Creature/Health/50
+title: Posthuman
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Posthuman  
 Rather than evolving naturally, posthumans advance via a directed jump, designed with smart tools and AI surgeons. With all the advances fantastic technology brings to their genetic upgrade, posthumans are beings whose basic capacities radically exceed regular people. They can't really be considered human any longer; they've transcended humanity, which is why they're also sometimes called transhumans. They're often involved in large-scale projects, such as creating bigger-than-world habitats or spacecraft, or possibly even researching how they might ascend to some still-higher realm of consciousness or being.  
 

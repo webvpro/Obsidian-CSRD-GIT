@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Combat Challenge"
+  - Combat Challenge
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Support
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Support
+title: Combat Challenge
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Combat Challenge  
 >**Enabler**
   

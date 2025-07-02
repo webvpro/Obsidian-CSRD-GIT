@@ -1,12 +1,13 @@
 ---
 aliases:
-- Corrupted Canopic Jar
+  - Corrupted Canopic Jar
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+title: Corrupted Canopic Jar
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Corrupted Canopic Jar  
 >[!info] Stats  
 > **Level:** 1d6+1  

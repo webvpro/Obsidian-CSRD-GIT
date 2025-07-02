@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Divine Intervention"
+  - Divine Intervention
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/2
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/2
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Special-Attack
+title: Divine Intervention
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Divine Intervention  
 >**Action**  
 >2 Intellect points

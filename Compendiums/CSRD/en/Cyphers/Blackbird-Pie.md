@@ -1,13 +1,14 @@
 ---
 aliases:
-- Blackbird Pie
+  - Blackbird Pie
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+title: Blackbird Pie
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Blackbird Pie  
 >[!info] Stats  
 > **Level:** 1d6  

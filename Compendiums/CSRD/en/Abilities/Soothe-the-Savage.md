@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Soothe the Savage"
+  - Soothe the Savage
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/2
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Control
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/2
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Control
+title: Soothe the Savage
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Soothe the Savage  
 >**Action**  
 >2 Intellect points

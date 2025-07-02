@@ -1,13 +1,14 @@
 ---
 aliases:
-- Manipulation Beam
+  - Manipulation Beam
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Manipulation Beam
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Manipulation Beam  
 >[!info] Stats  
 > **Level:** 1d6+2  

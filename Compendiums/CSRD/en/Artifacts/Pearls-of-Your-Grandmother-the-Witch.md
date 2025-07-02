@@ -1,13 +1,14 @@
 ---
 aliases:
-- "Pearls of Your Grandmother, the Witch"
+  - Pearls of Your Grandmother, the Witch
 tags:
-- Compendium/CSRD/en/Artifacts/Pearls-of-Your-Grandmother-the-Witch
-- Artifact
-- Artifact/Modern-Fantasy
+  - Compendium/CSRD/en/Artifacts/Pearls-of-Your-Grandmother-the-Witch
+  - Artifact
+  - Artifact/Modern-Fantasy
+title: Pearls of Your Grandmother, the Witch
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Pearls of Your Grandmother, the Witch
 
 >1d6  + 2

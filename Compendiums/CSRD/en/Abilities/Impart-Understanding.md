@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Impart Understanding"
+  - Impart Understanding
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/High
-- Ability/Categories/Meta
-- Ability/Categories/Support
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/High
+  - Ability/Categories/Meta
+  - Ability/Categories/Support
+title: Impart Understanding
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Impart Understanding  
 >**Enabler**
   

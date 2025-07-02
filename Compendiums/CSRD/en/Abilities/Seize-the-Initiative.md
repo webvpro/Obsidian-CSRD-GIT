@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Seize the Initiative"
+  - Seize the Initiative
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/5
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/5
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Meta
+title: Seize the Initiative
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Seize the Initiative  
 >**Enabler**  
 >5 Intellect points

@@ -1,13 +1,14 @@
 ---
 aliases:
-- Bowl of Porridge
+  - Bowl of Porridge
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+title: Bowl of Porridge
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Bowl of Porridge  
 >[!info] Stats  
 > **Level:** 1d6+3  

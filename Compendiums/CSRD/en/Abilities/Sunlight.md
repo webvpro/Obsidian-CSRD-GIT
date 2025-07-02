@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Sunlight"
+  - Sunlight
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Environment
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Environment
+title: Sunlight
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Sunlight  
 >**Action**  
 >3 Intellect points

@@ -1,13 +1,14 @@
 ---
 aliases:
-- Bounding Boots
+  - Bounding Boots
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fantasy
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fantasy
+title: Bounding Boots
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Bounding Boots  
 >[!info] Stats  
 > **Level:** 1d6+1  

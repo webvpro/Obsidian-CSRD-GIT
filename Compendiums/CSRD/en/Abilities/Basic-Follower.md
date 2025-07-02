@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Basic Follower"
+  - Basic Follower
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Companion
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Companion
+title: Basic Follower
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Basic Follower  
 >**Action**
   

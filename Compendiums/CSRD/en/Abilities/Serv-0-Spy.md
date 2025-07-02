@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Serv-0 Spy"
+  - Serv-0 Spy
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Senses
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Senses
+title: Serv-0 Spy
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Serv-0 Spy  
 >**Action**  
 >3 Intellect points

@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Hasty Gun Casting"
+  - Hasty Gun Casting
 tags:
-- Compendium/CSRD/en/Abilities/Hasty-Gun-Casting
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/NA
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities/Hasty-Gun-Casting
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/NA
+  - Ability/Categories/NA
+title: Hasty Gun Casting
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Hasty Gun Casting  
 >**Enabler**
   

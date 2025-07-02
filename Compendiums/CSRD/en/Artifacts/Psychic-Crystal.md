@@ -1,13 +1,14 @@
 ---
 aliases:
-- Psychic Crystal
+  - Psychic Crystal
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Science-Fiction
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Science-Fiction
+title: Psychic Crystal
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Psychic Crystal  
 >[!info] Stats  
 > **Level:** 1d6+4  

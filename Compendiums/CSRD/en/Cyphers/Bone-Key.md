@@ -1,13 +1,14 @@
 ---
 aliases:
-- Bone Key
+  - Bone Key
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+title: Bone Key
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Bone Key  
 >[!info] Stats  
 > **Level:** 1d6+2  

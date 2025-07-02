@@ -1,13 +1,14 @@
 ---
 aliases:
-- "Harrowing Blade"
+  - Harrowing Blade
 tags:
-- Compendium/CSRD/en/Artifacts/Harrowing-Blade
-- Artifact
-- Artifact/Modern-Fantasy
+  - Compendium/CSRD/en/Artifacts/Harrowing-Blade
+  - Artifact
+  - Artifact/Modern-Fantasy
+title: Harrowing Blade
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Harrowing Blade
 >1d6 +1
 #### Form

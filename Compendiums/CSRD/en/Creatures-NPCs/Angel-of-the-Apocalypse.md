@@ -1,16 +1,17 @@
 ---
 aliases:
-- Angel of the Apocalypse
+  - Angel of the Apocalypse
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/7
-- Creature/Armor/3
-- Creature/Health/27
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/7
+  - Creature/Armor/3
+  - Creature/Health/27
+title: Angel of the Apocalypse
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Angel of the Apocalypse  
 If the End Times causes civilization to fall, biblical threats multiply across the land, including one or more angels of the apocalypse. They are every bit as terrifying as the Four Horsemen because they're charged with bringing about the end of the world. They have little room for pity or the plights of individuals; they have nations to topple and the forces of Hell to oppose. 
 Angels of the apocalypse radiate a halo of golden white light. Their 10 foot (3.5 m) tall forms--caparisoned for war--are somewhat humanoid, though each has one or more sets of wings. Apocalypse angels also wield an implement that seems to be equal parts trumpet and sword, which they can sound to bring about terrible events, or swing to slay those who oppose them.  

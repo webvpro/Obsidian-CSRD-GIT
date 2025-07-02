@@ -1,11 +1,13 @@
 ---
 aliases:
-- "Crafting-Difficulty Table"
+  - Crafting-Difficulty Table
 tags:
-- Compendiums/CSRD/en/Tables/Crafting-Difficulty-Table
-- Table
+  - Compendiums/CSRD/en/Tables/Crafting-Difficulty-Table
+  - Table
+title: Crafting-Difficulty Table
+collection: Tables
+kind: Compendiums
 ---
-
 ## Crafting Difficulty Table
 | Difficulty | Craft                                                                                                  | General Time to Build |
 |------------|--------------------------------------------------------------------------------------------------------|-----------------------|

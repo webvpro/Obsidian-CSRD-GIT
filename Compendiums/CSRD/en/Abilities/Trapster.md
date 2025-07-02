@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Trapster"
+  - Trapster
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Craft
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Craft
+title: Trapster
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Trapster  
 >**Action**
   

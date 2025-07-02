@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Energy Resistance"
+  - Energy Resistance
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Protection
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Protection
+title: Energy Resistance
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Energy Resistance  
 >**Enabler**
   

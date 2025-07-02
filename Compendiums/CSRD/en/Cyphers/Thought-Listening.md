@@ -1,13 +1,14 @@
 ---
 aliases:
-- Thought Listening
+  - Thought Listening
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantasy
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantasy
+title: Thought Listening
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Thought Listening  
 >[!info] Stats  
 > **Level:** 1d6+1  

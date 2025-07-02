@@ -1,13 +1,14 @@
 ---
 aliases:
-- Detonation
+  - Detonation
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Manifest
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Manifest
+title: Detonation
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Detonation  
 >[!info] Stats  
 > **Level:** 1d6+2  

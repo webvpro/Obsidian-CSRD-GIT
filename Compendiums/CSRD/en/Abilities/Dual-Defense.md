@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Dual Defense"
+  - Dual Defense
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Protection
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Protection
+title: Dual Defense
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Dual Defense  
 >**Enabler**
   

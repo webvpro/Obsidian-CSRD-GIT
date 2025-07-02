@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Blessing of the Gods"
+  - Blessing of the Gods
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/NA
-- Ability/Tier/NA
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/NA
+  - Ability/Tier/NA
+  - Ability/Categories/NA
+title: Blessing of the Gods
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Blessing of the Gods  
 
 As a servant of the gods, you can call up blessings in their name. This blessing depends on the god’s general demeanor and area of influence. Choose two of the abilities described below.

@@ -1,18 +1,19 @@
 ---
 aliases:
-- "Hush"
+  - Hush
 tags:
-- Compendium/CSRD/en/Abilities/Hush
-- Ability
-- Ability/Action
-- Ability/Cost/1
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Magic
-- Ability/Categories/Fantasy/Modern
+  - Compendium/CSRD/en/Abilities/Hush
+  - Ability
+  - Ability/Action
+  - Ability/Cost/1
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Magic
+  - Ability/Categories/Fantasy/Modern
+title: Hush
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Hush
 >**Action**  
 >1 Intellect point

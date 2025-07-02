@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Heroic Monster Bane"
+  - Heroic Monster Bane
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Meta
+title: Heroic Monster Bane
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Heroic Monster Bane  
 >**Enabler**
   

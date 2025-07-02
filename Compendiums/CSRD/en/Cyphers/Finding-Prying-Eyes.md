@@ -1,12 +1,14 @@
 ---
 aliases:
-- "Finding Prying Eyes"
+  - Finding Prying Eyes
 tags:
-- Compendium/CSRD/en/Cyphers/Finding-Prying-Eyes
-- Cypher
-- Cypher/Magical-Technology
+  - Compendium/CSRD/en/Cyphers/Finding-Prying-Eyes
+  - Cypher
+  - Cypher/Magical-Technology
+title: Finding Prying Eyes
+collection: Cyphers
+kind: Compendium
 ---
-  
 ## Finding Prying Eyes  
 >[!info] Stats  
 > **Level:** 1d6+3 

@@ -1,16 +1,17 @@
 ---
 aliases:
-- Baba Yaga
+  - Baba Yaga
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/9
-- Creature/Armor/0
-- Creature/Health/null
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/9
+  - Creature/Armor/0
+  - Creature/Health/null
+title: Baba Yaga
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Baba Yaga  
 Baba Yaga (sometimes called Frau Trude) lives many lives and has many personalities. She is both one witch and many. She uses her magic to create a new version of herself each time her
 life takes a new branch, following all of them at once, becoming every version of herself that she might have been. Some versions of Baba Yaga are helpful. Others harmful. Some Baba Yagas live in the woods in a wooden hut that walks around on giant chicken legs, some fly through the sky in a giant mortar and pestle, and some guard any wild spaces that they have deemed important. Some capture and cook young children in a special stove. Some do all of the above.  

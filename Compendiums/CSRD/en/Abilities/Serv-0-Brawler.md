@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Serv-0 Brawler"
+  - Serv-0 Brawler
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Attack-Skill
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Attack-Skill
+  - Ability/Categories/Task
+title: Serv-0 Brawler
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Serv-0 Brawler  
 >**Enabler**
   

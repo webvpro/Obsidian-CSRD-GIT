@@ -1,12 +1,13 @@
 ---
 aliases:
-- "Befriends the Black Dog"
+  - Befriends the Black Dog
 tags:
-- Compendium/CSRD/en/Foci/Befriends-the-Black-Dog
-- Focus/Category/Fairytale
+  - Compendium/CSRD/en/Foci/Befriends-the-Black-Dog
+  - Focus/Category/Fairytale
+title: Befriends the Black Dog
+collection: Foci
+kind: Compendium
 ---
-
-  
 ## Befriends the Black Dog
 Everywhere you go, your black dog goes too. They are your best friend and your greatest weakness. Their shadowed presence fills you with a darkness, but it is inside that darkness that you find the strength to shine.
 

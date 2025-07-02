@@ -1,13 +1,14 @@
 ---
 aliases:
-- Poison Emotion
+  - Poison Emotion
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Manifest
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Manifest
+title: Poison Emotion
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Poison Emotion  
 >[!info] Stats  
 > **Level:** 1d6+2  

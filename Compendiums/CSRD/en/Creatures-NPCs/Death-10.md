@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Death 10 (infinite)"
+  - Death 10 (infinite)
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/6
-- Creature/Armor/2
-- Creature/Health/20
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/6
+  - Creature/Armor/2
+  - Creature/Health/20
+title: Death 10 (infinite)
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Death 10 (infinite)
 Death goes by many names, takes many forms, and has only one purpose: to make all equal in the end. Death is often an unwanted visitor—taking the life of someone who is not ready to go—but just as often, they come to those who are ready. To them, Death is a most welcome, the most welcome, guest of all.
 

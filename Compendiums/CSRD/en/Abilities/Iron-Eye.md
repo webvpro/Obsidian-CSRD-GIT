@@ -1,16 +1,17 @@
 ---
 aliases:
-- Iron Eye"
+  - Iron Eye"
 tags:
-- Compendium/CSRD/en/Abilities/Iron-Eye
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/NA
-- Ability/Categories/NA
+  - Compendium/CSRD/en/Abilities/Iron-Eye
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/NA
+  - Ability/Categories/NA
+title: Iron Eye"
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Iron-Eye
 >**Enabler**
   

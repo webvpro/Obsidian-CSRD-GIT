@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Deadly Aim"
+  - Deadly Aim
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/Mid
-- Ability/Pool/Speed
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Mid
+  - Ability/Pool/Speed
+  - Ability/Categories/Meta
+title: Deadly Aim
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Deadly Aim  
 >**Action**  
 >3 Speed points

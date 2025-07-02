@@ -1,16 +1,17 @@
 ---
 aliases:
-- Giant Spider
+  - Giant Spider
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/3
-- Creature/Armor/0
-- Creature/Health/12
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/3
+  - Creature/Armor/0
+  - Creature/Health/12
+title: Giant Spider
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Giant Spider  
 Giant spiders result most commonly from radioactive accidents, magic, or genetic manipulation. Whatever their origin, they're terrifying hunters large enough to predate people. The creatures range from the size of a large dog to the size of a large horse.  
 

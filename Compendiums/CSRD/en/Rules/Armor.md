@@ -1,8 +1,11 @@
 ---
 aliases:
-- "Armor"
+  - Armor
 tags:
-- Compendium/CSRD/en/Rules/Armor
+  - Compendium/CSRD/en/Rules/Armor
+title: Armor
+collection: Rules
+kind: Compendium
 ---
 ## Armor
 Characters expecting danger frequently wear armor. Even the simplest protective covering helps against stabs and cuts, and more sophisticated or heavier armor protects against graver threats.

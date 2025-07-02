@@ -1,9 +1,11 @@
 ---
-aliases: "Sample Character Arcs"
-tags: 
-- Compendium/CSRD/en/Rules/Character-Arcs
+aliases: Sample Character Arcs
+tags:
+  - Compendium/CSRD/en/Rules/Character-Arcs
+title: S
+collection: Rules
+kind: Compendium
 ---
-
 ## Sample Character Arcs
 The rest of this chapter presents sample character arcs for PCs. The writeup of each arc describes the parts involved in progressing through the arc:
 

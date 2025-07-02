@@ -1,18 +1,19 @@
 ---
 aliases:
-- "Machine Efficiency"
+  - Machine Efficiency
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Craft
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Craft
+  - Ability/Categories/Meta
+title: Machine Efficiency
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Machine Efficiency  
 >**Action**  
 >3 Intellect points

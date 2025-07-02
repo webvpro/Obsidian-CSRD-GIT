@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Multicorder"
+  - Multicorder
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantastic
-- Equipment/Science-Fiction
-- Equipment/Sense-Enhancing-Tools
-- Equipment/Level/5
-- Equipment/Value/Very-Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantastic
+  - Equipment/Science-Fiction
+  - Equipment/Sense-Enhancing-Tools
+  - Equipment/Level/5
+  - Equipment/Value/Very-Expensive
+title: Multicorder
+collection: Equipment
+kind: Compendium
 ---
-
-  
 ## Multicorder  
   
 >Handheld device provides two assets and one free level of Effort to any perception, analysis, or computing task that the device's multiple sensors (including radio, gravimetric, chemical, visual, audio, and others) within short range. Analysis requires only one round to complete.  

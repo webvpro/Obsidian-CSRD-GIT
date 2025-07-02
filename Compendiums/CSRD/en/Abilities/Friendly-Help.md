@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Friendly Help"
+  - Friendly Help
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Support
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Support
+title: Friendly Help
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Friendly Help  
 >**Enabler**
   

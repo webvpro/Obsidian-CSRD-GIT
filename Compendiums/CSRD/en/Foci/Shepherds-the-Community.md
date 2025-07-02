@@ -1,12 +1,13 @@
 ---
 aliases:
-- "Shepherds the Community"
+  - Shepherds the Community
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Support
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Support
+title: Shepherds the Community
+collection: Foci
+kind: Compendium
 ---
-
-  
 ## Shepherds the Community  
 You keep the place where you live safe from all danger.  
 

@@ -1,12 +1,13 @@
 ---
 aliases:
-- "Runs Away"
+  - Runs Away
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Movement-Expertise
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Movement-Expertise
+title: Runs Away
+collection: Foci
+kind: Compendium
 ---
-
-  
 ## Runs Away  
 Your first instinct is to run from danger, and you've gotten very good at it.  
 

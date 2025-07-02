@@ -1,13 +1,14 @@
 ---
 aliases:
-- "Fractal Traveler"
+  - Fractal Traveler
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Science-Fiction
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Science-Fiction
+title: Fractal Traveler
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Fractal Traveler
 >[!info] Stats  
 > **Level:** 1d6+4 

@@ -1,12 +1,13 @@
 ---
 aliases:
-- "Flies Faster than a Bullet"
+  - Flies Faster than a Bullet
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Irregular
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Irregular
+title: Flies Faster than a Bullet
+collection: Foci
+kind: Compendium
 ---
-
-  
 ## Flies Faster than a Bullet  
 You can fly, and you're superstrong, hard to hurt, and fast too. Is there anything you can't do?  
 

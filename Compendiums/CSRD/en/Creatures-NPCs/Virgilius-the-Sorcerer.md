@@ -1,16 +1,17 @@
 ---
 aliases:
-- Virgilius the Sorcerer
+  - Virgilius the Sorcerer
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/7
-- Creature/Armor/0
-- Creature/Health/null
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/7
+  - Creature/Armor/0
+  - Creature/Health/null
+title: Virgilius the Sorcerer
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Virgilius the Sorcerer  
 The most renowned of all the poet-sorcerers, Virgilius studies and uses the power of the written word to enhance his magical abilities. He keeps a black book, which is the source of his spells, and creates copper creatures to protect and defend him. He has a love of challenges, such as magician's battles, and seeks them out.  
 

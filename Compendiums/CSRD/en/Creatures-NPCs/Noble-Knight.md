@@ -1,16 +1,17 @@
 ---
 aliases:
-- Noble Knight
+  - Noble Knight
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/7
-- Creature/Armor/3
-- Creature/Health/50
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/7
+  - Creature/Armor/3
+  - Creature/Health/50
+title: Noble Knight
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Noble Knight  
 Whether noble or ignoble, some knights achieve an amazing mastery over weapons, combat, and courtly graces, eclipsing lesser warriors and champions. The quests of some noble knights can lead them far across the land into strange new territories where they encounter and defeat various magical creatures.  
 

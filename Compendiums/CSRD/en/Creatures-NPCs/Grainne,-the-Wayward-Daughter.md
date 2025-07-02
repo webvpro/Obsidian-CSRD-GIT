@@ -1,16 +1,17 @@
 ---
 aliases:
-- Grainne, the Wayward Daughter
+  - Grainne, the Wayward Daughter
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/9
-- Creature/Armor/5
-- Creature/Health/99
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/9
+  - Creature/Armor/5
+  - Creature/Health/99
+title: Grainne, the Wayward Daughter
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Grainne, the Wayward Daughter  
 Grainne is the Fairy Queen of Hope and Despair, sometimes also called the Wayward Daughter, the Winter Queen, and Dark One. Grainne is to the dark what Aine is to the light. This doesn't mean that Grainne is evil, just that she represents what is good and bad in the world that is hidden in shadows, buried beneath the ground, and revealed at night. She has her own moral code, one that can work in the favor of those who are cunning and willing to look at the darkness of their own hearts.  
 

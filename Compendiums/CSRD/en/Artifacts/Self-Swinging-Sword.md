@@ -1,13 +1,14 @@
 ---
 aliases:
-- Self-Swinging Sword
+  - Self-Swinging Sword
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fairy-Tale
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fairy-Tale
+title: Self-Swinging Sword
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Self-Swinging Sword  
 >[!info] Stats  
 > **Level:** 1d6+1  

@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Living Armor"
+  - Living Armor
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/4
-- Ability/Tier/Mid
-- Ability/Pool/Intellect
-- Ability/Categories/Companion
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/4
+  - Ability/Tier/Mid
+  - Ability/Pool/Intellect
+  - Ability/Categories/Companion
+title: Living Armor
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Living Armor  
 >**Action**  
 >4 Intellect points

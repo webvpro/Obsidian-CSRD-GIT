@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Machine Hunting"
+  - Machine Hunting
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Low
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Low
+  - Ability/Categories/Task
+title: Machine Hunting
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Machine Hunting  
 >**Enabler**
   

@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Late Inspiration"
+  - Late Inspiration
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/3
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Task
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/3
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Task
+title: Late Inspiration
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Late Inspiration  
 >**Enabler**  
 >3 Intellect points

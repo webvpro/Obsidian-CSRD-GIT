@@ -1,12 +1,13 @@
 ---
 aliases:
-- "Absorbs Energy"
+  - Absorbs Energy
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Energy-Manipulation 
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Energy-Manipulation
+title: Absorbs Energy
+collection: Foci
+kind: Compendium
 ---
-
-  
 ## Absorbs Energy  
 You can harness kinetic energy and transform it into other kinds of energy.  
 

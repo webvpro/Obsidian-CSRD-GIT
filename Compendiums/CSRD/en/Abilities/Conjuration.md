@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Conjuration"
+  - Conjuration
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/7
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Companion
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/7
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Companion
+title: Conjuration
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Conjuration  
 >**Action**  
 >7 Intellect points

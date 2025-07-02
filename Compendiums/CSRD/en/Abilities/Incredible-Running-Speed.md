@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Incredible Running Speed"
+  - Incredible Running Speed
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/High
-- Ability/Categories/Movement
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/High
+  - Ability/Categories/Movement
+title: Incredible Running Speed
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Incredible Running Speed  
 >**Enabler**
   

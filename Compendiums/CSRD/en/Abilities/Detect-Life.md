@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Detect Life"
+  - Detect Life
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/3
-- Ability/Tier/Mid
-- Ability/Pool/Might
-- Ability/Categories/Senses
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/3
+  - Ability/Tier/Mid
+  - Ability/Pool/Might
+  - Ability/Categories/Senses
+title: Detect Life
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Detect Life  
 >**Action**  
 >3+ Might points

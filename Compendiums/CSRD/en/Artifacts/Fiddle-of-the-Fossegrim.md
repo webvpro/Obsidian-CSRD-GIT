@@ -1,13 +1,14 @@
 ---
 aliases:
-- Fiddle of the Fossegrim
+  - Fiddle of the Fossegrim
 tags:
-- Compendium/CSRD/en/Artifacts
-- Artifact
-- Artifact/Fairy-Tale
+  - Compendium/CSRD/en/Artifacts
+  - Artifact
+  - Artifact/Fairy-Tale
+title: Fiddle of the Fossegrim
+collection: Artifacts
+kind: Compendium
 ---
-
-  
 ## Fiddle of the Fossegrim  
 >[!info] Stats  
 > **Level:** 1d6+2  

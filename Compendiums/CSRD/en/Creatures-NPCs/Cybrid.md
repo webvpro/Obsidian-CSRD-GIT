@@ -1,16 +1,17 @@
 ---
 aliases:
-- Cybrid
+  - Cybrid
 tags:
-- Compendium/CSRD/en/Creatures-NPCs
-- Creature
-- Creature/Kind/Creature
-- Creature/Level/8
-- Creature/Armor/3
-- Creature/Health/60
+  - Compendium/CSRD/en/Creatures-NPCs
+  - Creature
+  - Creature/Kind/Creature
+  - Creature/Level/8
+  - Creature/Armor/3
+  - Creature/Health/60
+title: Cybrid
+collection: Creatures-NPCs
+kind: Compendium
 ---
-
-  
 ## Cybrid  
 Cybrid origins could be the result of someone finding a cache of ancient ultra technology, or manufactured by a post-singularity AI for some unfathomable purpose, or even the result of banned weapons research by a nation-state or conglomerate. The human remnants in each cybrid's carbon fiber and nested shells of nanotech exist in a red haze of pain; neuro-wetware and chemicals bathing their remaining living tissues hold the pain partly at bay. 
 	From the exterior, not much of the original human is obvious, except perhaps in the echo of a humanoid shape. Each one has a unique conformation, but all are designed to strike fear in anyone seeing one, ally and enemy alike.  

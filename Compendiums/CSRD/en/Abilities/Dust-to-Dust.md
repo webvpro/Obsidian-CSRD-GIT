@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Dust to Dust"
+  - Dust to Dust
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/7
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/7
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Special-Attack
+title: Dust to Dust
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Dust to Dust  
 >**Action**  
 >7 Intellect points

@@ -1,18 +1,19 @@
 ---
 aliases:
-- "Petrify"
+  - Petrify
 tags:
-- Compendium/CSRD/en/Abilities/Petrify
-- Ability
-- Ability/Action
-- Ability/Cost/6
-- Ability/Tier/High
-- Ability/Pool/Intellect
-- Ability/Categories/Protection
-- Ability/Categories/Support
+  - Compendium/CSRD/en/Abilities/Petrify
+  - Ability
+  - Ability/Action
+  - Ability/Cost/6
+  - Ability/Tier/High
+  - Ability/Pool/Intellect
+  - Ability/Categories/Protection
+  - Ability/Categories/Support
+title: Petrify
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Petrify  
 >**Action**  
 >4+ Intellect points

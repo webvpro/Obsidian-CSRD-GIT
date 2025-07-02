@@ -1,12 +1,13 @@
 ---
 aliases:
-- "Helps Their Friends"
+  - Helps Their Friends
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/Support
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/Support
+title: Helps Their Friends
+collection: Foci
+kind: Compendium
 ---
-
-  
 ## Helps Their Friends  
 You love your friends and help them out of any difficulty, no matter what.  
 

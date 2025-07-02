@@ -1,17 +1,18 @@
 ---
 aliases:
-- "Fast Kill"
+  - Fast Kill
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/2
-- Ability/Tier/Mid
-- Ability/Pool/Speed
-- Ability/Categories/Meta
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/2
+  - Ability/Tier/Mid
+  - Ability/Pool/Speed
+  - Ability/Categories/Meta
+title: Fast Kill
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Fast Kill  
 >**Action**  
 >2 Speed points

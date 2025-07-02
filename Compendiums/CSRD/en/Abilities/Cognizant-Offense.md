@@ -1,16 +1,17 @@
 ---
 aliases:
-- "Cognizant Offense"
+  - Cognizant Offense
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/Mid
-- Ability/Categories/Attack-Skill
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/Mid
+  - Ability/Categories/Attack-Skill
+title: Cognizant Offense
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Cognizant Offense  
 >**Enabler**
   

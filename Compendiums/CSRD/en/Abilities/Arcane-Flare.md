@@ -1,18 +1,19 @@
 ---
 aliases:
-- "Arcane Flare"
+  - Arcane Flare
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Action
-- Ability/Cost/1
-- Ability/Tier/Low
-- Ability/Pool/Intellect
-- Ability/Categories/Meta
-- Ability/Categories/Special-Attack
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Action
+  - Ability/Cost/1
+  - Ability/Tier/Low
+  - Ability/Pool/Intellect
+  - Ability/Categories/Meta
+  - Ability/Categories/Special-Attack
+title: Arcane Flare
+collection: Abilities
+kind: Compendium
 ---
-
-  
 ## Arcane Flare  
 >**Action**  
 >1 Intellect point

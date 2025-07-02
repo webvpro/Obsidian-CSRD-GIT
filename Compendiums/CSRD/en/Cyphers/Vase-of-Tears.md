@@ -1,13 +1,14 @@
 ---
 aliases:
-- Vase of Tears
+  - Vase of Tears
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fairy-Tale
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fairy-Tale
+title: Vase of Tears
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Vase of Tears  
 >[!info] Stats  
 > **Level:** 1d6  

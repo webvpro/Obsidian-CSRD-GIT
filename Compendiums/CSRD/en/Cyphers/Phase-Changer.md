@@ -1,13 +1,14 @@
 ---
 aliases:
-- Phase Changer
+  - Phase Changer
 tags:
-- Compendium/CSRD/en/Cyphers
-- Cypher
-- Cypher/Fantastic
+  - Compendium/CSRD/en/Cyphers
+  - Cypher
+  - Cypher/Fantastic
+title: Phase Changer
+collection: Cyphers
+kind: Compendium
 ---
-
-  
 ## Phase Changer  
 >[!info] Stats  
 > **Level:** 1d6+1  

@@ -1,12 +1,13 @@
 ---
 aliases:
-- "Wears Power Armor"
+  - Wears Power Armor
 tags:
-- Compendium/CSRD/en/Foci
-- Focus/Category/
+  - Compendium/CSRD/en/Foci
+  - Focus/Category/
+title: Wears Power Armor
+collection: Foci
+kind: Compendium
 ---
-
-  
 ## Wears Power Armor  
 Tier 1: Powered Armor  
 
