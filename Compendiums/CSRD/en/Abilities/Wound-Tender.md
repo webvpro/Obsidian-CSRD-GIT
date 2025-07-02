@@ -8,10 +8,11 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Task
+title: Wound Tender
+collection: Abilities
+kind: Compendium
 ---
-  
-    
-## Wound Tender    
->**Enabler**  
-    
+## Wound Tender  
+>**Enabler**
+  
 You are trained in healing. Enabler.

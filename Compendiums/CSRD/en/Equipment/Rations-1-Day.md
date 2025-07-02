@@ -6,11 +6,12 @@ tags:
   - Equipment/Fantasy
   - Equipment/Utility-Gear
   - Equipment/Value/5-Sp
+title: Rations (1 Day)
+collection: Equipment
+kind: Compendium
 ---
-  
-    
-## Rations (1 Day)    
-    
->    
-> **Options :** Fantasy, Utility Gear    
+## Rations (1 Day)  
+  
+>  
+> **Options :** Fantasy, Utility Gear  
 > **Value :** 5 Sp

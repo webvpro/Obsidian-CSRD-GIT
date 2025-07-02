@@ -8,10 +8,11 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Task
+title: Infiltrator
+collection: Abilities
+kind: Compendium
 ---
-  
-    
-## Infiltrator    
->**Enabler**  
-    
+## Infiltrator  
+>**Enabler**
+  
 You are trained in interactions involving lies or trickery. Enabler.

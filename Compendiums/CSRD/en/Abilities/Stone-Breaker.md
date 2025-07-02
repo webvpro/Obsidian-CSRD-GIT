@@ -8,10 +8,11 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Mid
   - Ability/Categories/Meta
+title: Stone Breaker
+collection: Abilities
+kind: Compendium
 ---
-  
-    
-## Stone Breaker    
->**Enabler**  
-    
+## Stone Breaker  
+>**Enabler**
+  
 Your attacks against objects inflict 4 additional points of damage when you use a melee weapon that you wield in two hands. Enabler.

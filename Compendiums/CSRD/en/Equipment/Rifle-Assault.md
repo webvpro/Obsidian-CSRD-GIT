@@ -10,16 +10,17 @@ tags:
   - Equipment/Value/Very-Expensive
   - Equipment/Range/Long
   - Equipment/Weapon/Rapid-Fire
+title: Rifle, Assault
+collection: Equipment
+kind: Compendium
 ---
-  
-    
-## Rifle, Assault    
-    
->    
-> **Options :** Armament, Contemporary, Modern    
-> **Level :** 3    
-> **Value :** Very Expensive    
->>[!note] Features    
->> - Heavy Weapon    
->> - Long range    
+## Rifle, Assault  
+  
+>  
+> **Options :** Armament, Contemporary, Modern  
+> **Level :** 3  
+> **Value :** Very Expensive  
+>>[!note] Features  
+>> - Heavy Weapon  
+>> - Long range  
 >> - Rapid-fire weapon

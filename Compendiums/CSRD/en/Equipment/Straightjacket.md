@@ -6,11 +6,12 @@ tags:
   - Equipment/Modern
   - Equipment/Utility-Gear
   - Equipment/Value/Expensive
+title: Straightjacket
+collection: Equipment
+kind: Compendium
 ---
-  
-    
-## Straightjacket    
-    
->    
-> **Options :** Modern, Utility Gear    
+## Straightjacket  
+  
+>  
+> **Options :** Modern, Utility Gear  
 > **Value :** Expensive

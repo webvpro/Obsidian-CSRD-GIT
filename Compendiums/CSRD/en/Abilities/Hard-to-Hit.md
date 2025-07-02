@@ -8,10 +8,11 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Protection
+title: Hard to Hit
+collection: Abilities
+kind: Compendium
 ---
-  
-    
-## Hard to Hit    
->**Enabler**  
-    
+## Hard to Hit  
+>**Enabler**
+  
 You are trained in Speed defense tasks. Enabler.

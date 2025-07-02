@@ -6,11 +6,12 @@ tags:
   - Equipment/Fantasy
   - Equipment/Utility-Gear
   - Equipment/Value/5-Cp
+title: Piton
+collection: Equipment
+kind: Compendium
 ---
-  
-    
-## Piton    
-    
->    
-> **Options :** Fantasy, Utility Gear    
+## Piton  
+  
+>  
+> **Options :** Fantasy, Utility Gear  
 > **Value :** 5 Cp

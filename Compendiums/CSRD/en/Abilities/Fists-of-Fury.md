@@ -8,10 +8,11 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Meta
+title: Fists of Fury
+collection: Abilities
+kind: Compendium
 ---
-  
-    
-## Fists of Fury    
->**Enabler**  
-    
+## Fists of Fury  
+>**Enabler**
+  
 You inflict 2 additional points of damage with unarmed attacks. Enabler.

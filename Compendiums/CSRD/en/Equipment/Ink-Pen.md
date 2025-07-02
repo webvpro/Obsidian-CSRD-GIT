@@ -6,11 +6,12 @@ tags:
   - Equipment/Fantasy
   - Equipment/Utility-Gear
   - Equipment/Value/2-Cp
+title: Ink Pen
+collection: Equipment
+kind: Compendium
 ---
-  
-    
-## Ink Pen    
-    
->    
-> **Options :** Fantasy, Utility Gear    
+## Ink Pen  
+  
+>  
+> **Options :** Fantasy, Utility Gear  
 > **Value :** 2 Cp

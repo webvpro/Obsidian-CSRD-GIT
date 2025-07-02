@@ -8,10 +8,11 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Task
+title: Higher Mathematics
+collection: Abilities
+kind: Compendium
 ---
-  
-    
-## Higher Mathematics    
->**Enabler**  
-    
+## Higher Mathematics  
+>**Enabler**
+  
 You are trained in standard and higher mathematics. Enabler.

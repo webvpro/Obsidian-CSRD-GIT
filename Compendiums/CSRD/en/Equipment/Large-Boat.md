@@ -7,12 +7,13 @@ tags:
   - Equipment/Utility-Gear
   - Equipment/Level/5
   - Equipment/Value/Exorbitant
+title: Large Boat
+collection: Equipment
+kind: Compendium
 ---
-  
-    
-## Large Boat    
-    
->    
-> **Options :** Modern, Utility Gear    
-> **Level :** 5    
+## Large Boat  
+  
+>  
+> **Options :** Modern, Utility Gear  
+> **Level :** 5  
 > **Value :** Exorbitant

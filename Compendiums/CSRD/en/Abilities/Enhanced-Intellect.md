@@ -8,10 +8,11 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Mid
   - Ability/Categories/Meta
+title: Enhanced Intellect
+collection: Abilities
+kind: Compendium
 ---
-  
-    
-## Enhanced Intellect    
->**Enabler**  
-    
+## Enhanced Intellect  
+>**Enabler**
+  
 You gain 3 points to your Intellect Pool. Enabler.

@@ -6,11 +6,12 @@ tags:
   - Equipment/Science-Fiction
   - Equipment/Utility-Gear
   - Equipment/Value/Moderate
+title: Portable Lamp
+collection: Equipment
+kind: Compendium
 ---
-  
-    
-## Portable Lamp    
-    
->    
-> **Options :** Science Fiction, Utility Gear    
+## Portable Lamp  
+  
+>  
+> **Options :** Science Fiction, Utility Gear  
 > **Value :** Moderate

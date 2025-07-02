@@ -8,10 +8,11 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Task
+title: Crafter
+collection: Abilities
+kind: Compendium
 ---
-  
-    
-## Crafter    
->**Enabler**  
-    
+## Crafter  
+>**Enabler**
+  
 You are trained in the crafting of two kinds of items. Enabler.

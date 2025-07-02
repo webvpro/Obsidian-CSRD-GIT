@@ -9,15 +9,16 @@ tags:
   - Equipment/Weapon/Heavy
   - Equipment/Range/Long
   - Equipment/Weapon/Rapid-Fire
+title: Assault Rifle
+collection: Equipment
+kind: Compendium
 ---
-  
-    
-## Assault Rifle    
-    
->    
-> **Options :** Post-Apocalyptic, Utility Gear    
-> **Value :** Very Expensive    
->>[!note] Features    
->> - Heavy weapon    
->> - Long range    
+## Assault Rifle  
+  
+>  
+> **Options :** Post-Apocalyptic, Utility Gear  
+> **Value :** Very Expensive  
+>>[!note] Features  
+>> - Heavy weapon  
+>> - Long range  
 >> - rapid-fire weapon

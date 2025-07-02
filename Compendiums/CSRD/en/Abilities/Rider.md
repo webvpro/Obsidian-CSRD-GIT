@@ -8,10 +8,11 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Mid
   - Ability/Categories/Task
+title: Rider
+collection: Abilities
+kind: Compendium
 ---
-  
-    
-## Rider    
->**Enabler**  
-    
+## Rider  
+>**Enabler**
+  
 You are trained in riding any kind of creature that serves as a mount, such as a noble warhorse. Enabler.

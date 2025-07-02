@@ -6,11 +6,12 @@ tags:
   - Equipment/Post-Apocalyptic
   - Equipment/Utility-Gear
   - Equipment/Value/Moderate
+title: Tool Set, Hand Tools
+collection: Equipment
+kind: Compendium
 ---
-  
-    
-## Tool Set, Hand Tools    
-    
->Includes hammer, tape measure, screwdriver, pliers, etc    
-> **Options :** Post-Apocalyptic, Utility Gear    
+## Tool Set, Hand Tools  
+  
+>Includes hammer, tape measure, screwdriver, pliers, etc  
+> **Options :** Post-Apocalyptic, Utility Gear  
 > **Value :** Moderate

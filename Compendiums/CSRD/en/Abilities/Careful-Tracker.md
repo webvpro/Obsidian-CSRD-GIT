@@ -8,10 +8,11 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/NA
   - Ability/Categories/NA
+title: Careful Tracker
+collection: Abilities
+kind: Compendium
 ---
-  
-    
-## Careful Tracker    
->**Enabler**  
-    
+## Careful Tracker  
+>**Enabler**
+  
 You are trained in stealth and tracking tasks. Enabler.
