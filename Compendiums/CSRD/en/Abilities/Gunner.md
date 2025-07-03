@@ -8,10 +8,11 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Meta
+title: Gunner
+collection: Abilities
+kind: Compendium
 ---
-  
-    
-## Gunner    
->**Enabler**  
-    
+## Gunner  
+>**Enabler**
+  
 You inflict 1 additional point of damage with guns. Enabler.

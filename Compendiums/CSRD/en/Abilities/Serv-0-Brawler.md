@@ -9,10 +9,11 @@ tags:
   - Ability/Tier/Mid
   - Ability/Categories/Attack-Skill
   - Ability/Categories/Task
+title: Serv-0 Brawler
+collection: Abilities
+kind: Compendium
 ---
-  
-    
-## Serv-0 Brawler    
->**Enabler**  
-    
+## Serv-0 Brawler  
+>**Enabler**
+  
 Your Serv-0 aids you in melee combat. It gains a modification in melee attacks. Enabler.

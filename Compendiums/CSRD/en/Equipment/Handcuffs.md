@@ -13,20 +13,21 @@ tags:
   - Equipment/Utility-Gear
   - Equipment/Level/5
   - Equipment/Value/Moderate
+title: Handcuffs
+collection: Equipment
+kind: Compendium
 ---
-  
-    
-## Handcuffs    
-    
->    
-> **Options :** Modern, Utility Gear    
-> **Value :** Moderate    
-    
->    
-> **Options :** Science Fiction, Utility Gear    
-> **Value :** Moderate    
-    
->    
-> **Options :** Post-Apocalyptic, Utility Gear    
-> **Level :** 5    
+## Handcuffs  
+  
+>  
+> **Options :** Modern, Utility Gear  
+> **Value :** Moderate  
+  
+>  
+> **Options :** Science Fiction, Utility Gear  
+> **Value :** Moderate  
+  
+>  
+> **Options :** Post-Apocalyptic, Utility Gear  
+> **Level :** 5  
 > **Value :** Moderate

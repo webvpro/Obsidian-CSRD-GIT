@@ -8,10 +8,11 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Task
+title: Enlightened
+collection: Abilities
+kind: Compendium
 ---
-  
-    
-## Enlightened    
->**Enabler**  
-    
+## Enlightened  
+>**Enabler**
+  
 You are trained in any perception task that involves sight. Enabler.

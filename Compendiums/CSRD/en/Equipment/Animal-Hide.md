@@ -7,13 +7,14 @@ tags:
   - Equipment/Utility-Gear
   - Equipment/Value/Inexpensive
   - Equipment/Armor/Light
+title: Animal Hide
+collection: Equipment
+kind: Compendium
 ---
-  
-    
-## Animal Hide    
-    
->Smell hinders stealth tasks    
-> **Options :** Post-Apocalyptic, Utility Gear    
-> **Value :** Inexpensive    
->>[!note] Features    
+## Animal Hide  
+  
+>Smell hinders stealth tasks  
+> **Options :** Post-Apocalyptic, Utility Gear  
+> **Value :** Inexpensive  
+>>[!note] Features  
 >> - Light armor

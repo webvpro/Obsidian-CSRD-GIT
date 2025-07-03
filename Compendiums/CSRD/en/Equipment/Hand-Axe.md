@@ -7,13 +7,14 @@ tags:
   - Equipment/Utility-Gear
   - Equipment/Value/Moderate
   - Equipment/Weapon/Light
+title: Hand Axe
+collection: Equipment
+kind: Compendium
 ---
-  
-    
-## Hand Axe    
-    
->    
-> **Options :** Post-Apocalyptic, Utility Gear    
-> **Value :** Moderate    
->>[!note] Features    
+## Hand Axe  
+  
+>  
+> **Options :** Post-Apocalyptic, Utility Gear  
+> **Value :** Moderate  
+>>[!note] Features  
 >> - Light weapon

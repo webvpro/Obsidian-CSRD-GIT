@@ -8,10 +8,11 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Task
+title: Slippery
+collection: Abilities
+kind: Compendium
 ---
-  
-    
-## Slippery    
->**Enabler**  
-    
+## Slippery  
+>**Enabler**
+  
 You are trained in escaping any kind of bond or grasp. Enabler.

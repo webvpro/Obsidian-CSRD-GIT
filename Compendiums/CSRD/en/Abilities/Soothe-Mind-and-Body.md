@@ -8,10 +8,11 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Mid
   - Ability/Categories/Task
+title: Soothe Mind and Body
+collection: Abilities
+kind: Compendium
 ---
-  
-    
-## Soothe Mind and Body    
->**Enabler**  
-    
+## Soothe Mind and Body  
+>**Enabler**
+  
 The body and the mind are connected. All healing tasks you attempt are eased by two steps. Enabler.

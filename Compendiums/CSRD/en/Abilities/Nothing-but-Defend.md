@@ -8,10 +8,11 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/High
   - Ability/Categories/Protection
+title: Nothing but Defend
+collection: Abilities
+kind: Compendium
 ---
-  
-    
-## Nothing but Defend    
->**Action**  
-    
+## Nothing but Defend  
+>**Action**
+  
 If you do nothing on your turn but defend, you are specialized in all defense tasks for one round. Action.

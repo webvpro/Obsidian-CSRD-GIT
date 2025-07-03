@@ -8,10 +8,11 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Task
+title: Wilderness Life
+collection: Abilities
+kind: Compendium
 ---
-  
-    
-## Wilderness Life    
->**Enabler**  
-    
+## Wilderness Life  
+>**Enabler**
+  
 You are trained in two of the following: climbing, swimming, navigation, or identifying plants and creatures. Enabler.

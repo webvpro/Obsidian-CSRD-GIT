@@ -9,15 +9,16 @@ tags:
   - Equipment/Post-Apocalyptic
   - Equipment/Utility-Gear
   - Equipment/Value/Moderate
+title: Gas Mask
+collection: Equipment
+kind: Compendium
 ---
-  
-    
-## Gas Mask    
-    
->Breathable air for four hours    
-> **Options :** Post-Apocalyptic, Utility Gear    
-> **Value :** Inexpensive    
-    
->Breathable air for four hours    
-> **Options :** Post-Apocalyptic, Utility Gear    
+## Gas Mask  
+  
+>Breathable air for four hours  
+> **Options :** Post-Apocalyptic, Utility Gear  
+> **Value :** Inexpensive  
+  
+>Breathable air for four hours  
+> **Options :** Post-Apocalyptic, Utility Gear  
 > **Value :** Moderate

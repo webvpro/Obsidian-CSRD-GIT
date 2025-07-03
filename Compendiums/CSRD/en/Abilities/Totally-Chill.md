@@ -8,10 +8,11 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Cure
+title: Totally Chill
+collection: Abilities
+kind: Compendium
 ---
-  
-    
-## Totally Chill    
->**Enabler**  
-    
+## Totally Chill  
+>**Enabler**
+  
 Your ten-minute recovery roll takes you only one round. Enabler.

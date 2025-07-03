@@ -8,10 +8,11 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Mid
   - Ability/Categories/Meta
+title: Drain at a Distance
+collection: Abilities
+kind: Compendium
 ---
-  
-    
-## Drain at a Distance    
->**Enabler**  
-    
+## Drain at a Distance  
+>**Enabler**
+  
 Your Drain Machine and Drain Creature abilities work on a target within short range. Enabler.

@@ -7,12 +7,13 @@ tags:
   - Equipment/Utility-Gear
   - Equipment/Level/5
   - Equipment/Value/Exorbitant
+title: Luxury Hovercar
+collection: Equipment
+kind: Compendium
 ---
-  
-    
-## Luxury Hovercar    
-    
->    
-> **Options :** Science Fiction, Utility Gear    
-> **Level :** 5    
+## Luxury Hovercar  
+  
+>  
+> **Options :** Science Fiction, Utility Gear  
+> **Level :** 5  
 > **Value :** Exorbitant

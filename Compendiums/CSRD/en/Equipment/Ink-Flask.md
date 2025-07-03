@@ -6,11 +6,12 @@ tags:
   - Equipment/Fantasy
   - Equipment/Utility-Gear
   - Equipment/Value/10-Gp
+title: Ink (Flask)
+collection: Equipment
+kind: Compendium
 ---
-  
-    
-## Ink (Flask)    
-    
->    
-> **Options :** Fantasy, Utility Gear    
+## Ink (Flask)  
+  
+>  
+> **Options :** Fantasy, Utility Gear  
 > **Value :** 10 Gp

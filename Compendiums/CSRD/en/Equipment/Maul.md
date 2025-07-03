@@ -7,13 +7,14 @@ tags:
   - Equipment/Utility-Gear
   - Equipment/Value/10-Gp
   - Equipment/Weapon/Heavy
+title: Maul
+collection: Equipment
+kind: Compendium
 ---
-  
-    
-## Maul    
-    
->A larger version of the hammer, such as a sledgehammer.    
-> **Options :** Fantasy, Utility Gear    
-> **Value :** 10 Gp    
->>[!note] Features    
+## Maul  
+  
+>A larger version of the hammer, such as a sledgehammer.  
+> **Options :** Fantasy, Utility Gear  
+> **Value :** 10 Gp  
+>>[!note] Features  
 >> - Heavy weapon

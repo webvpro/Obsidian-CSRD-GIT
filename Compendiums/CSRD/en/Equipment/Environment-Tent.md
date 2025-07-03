@@ -6,11 +6,12 @@ tags:
   - Equipment/Science-Fiction
   - Equipment/Utility-Gear
   - Equipment/Value/Moderate
+title: Environment Tent
+collection: Equipment
+kind: Compendium
 ---
-  
-    
-## Environment Tent    
-    
->    
-> **Options :** Science Fiction, Utility Gear    
+## Environment Tent  
+  
+>  
+> **Options :** Science Fiction, Utility Gear  
 > **Value :** Moderate

@@ -9,10 +9,11 @@ tags:
   - Ability/Tier/Low
   - Ability/Categories/Protection
   - Ability/Categories/Task
+title: Courageous
+collection: Abilities
+kind: Compendium
 ---
-  
-    
-## Courageous    
->**Enabler**  
-    
+## Courageous  
+>**Enabler**
+  
 You are trained in Intellect defense tasks and initiative tasks. Enabler.

@@ -6,13 +6,14 @@ tags:
   - Equipment/Fantasy
   - Equipment/Utility-Gear
   - Equipment/Value/5-Cp
+title: Sling Bullets (20)
+collection: Equipment
+kind: Compendium
 ---
-  
-    
-## Sling Bullets (20)    
-    
->    
-> **Options :** Fantasy, Utility Gear    
-> **Value :** 5 Cp    
->>[!note] Features    
+## Sling Bullets (20)  
+  
+>  
+> **Options :** Fantasy, Utility Gear  
+> **Value :** 5 Cp  
+>>[!note] Features  
 >> - Ammunition

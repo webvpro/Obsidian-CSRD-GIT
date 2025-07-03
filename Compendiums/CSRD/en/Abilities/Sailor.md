@@ -8,10 +8,11 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Task
+title: Sailor
+collection: Abilities
+kind: Compendium
 ---
-  
-    
-## Sailor    
->**Enabler**  
-    
+## Sailor  
+>**Enabler**
+  
 You are trained in tasks related to sailing and trained in the geography of islands and coastlines. Enabler.

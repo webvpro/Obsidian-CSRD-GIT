@@ -9,10 +9,11 @@ tags:
   - Ability/Tier/Mid
   - Ability/Categories/Meta
   - Ability/Categories/Protection
+title: Experienced in Armor
+collection: Abilities
+kind: Compendium
 ---
-  
-    
-## Experienced in Armor    
->**Enabler**  
-    
+## Experienced in Armor  
+>**Enabler**
+  
 The cost reduction from your Practiced in Armor ability improves. You now reduce the Speed cost by 2. Enabler.

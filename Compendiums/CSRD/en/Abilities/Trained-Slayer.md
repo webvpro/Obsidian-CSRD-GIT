@@ -8,10 +8,11 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Mid
   - Ability/Categories/Task
+title: Trained Slayer
+collection: Abilities
+kind: Compendium
 ---
-  
-    
-## Trained Slayer    
->**Enabler**  
-    
+## Trained Slayer  
+>**Enabler**
+  
 You are trained in using swords. Enabler.
