@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Umbrella of No-Touch
+- "Umbrella of No-Touch"
 tags:
-  - Compendium/CSRD/en/Artifacts/Umbrella-of-No-Touch
-  - Artifact
-  - Artifact/Modern-Fantasy
-title: Umbrella of No-Touch
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts/Umbrella-of-No-Touch
+- Artifact
+- Artifact/Modern-Fantasy
 ---
+
+  
 ## Umbrella of No-Touch
 
 >1d6 +3

@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Run and Fight
+- "Run and Fight"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/4
-  - Ability/Tier/Mid
-  - Ability/Pool/Might
-  - Ability/Categories/Special-Attack
-title: Run and Fight
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/4
+- Ability/Tier/Mid
+- Ability/Pool/Might
+- Ability/Categories/Special-Attack
 ---
+
+  
 ## Run and Fight  
 >**Action**  
 >4 Might points

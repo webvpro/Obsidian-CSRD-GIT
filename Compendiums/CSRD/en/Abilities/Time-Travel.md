@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Time Travel
+- "Time Travel"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/10
-  - Ability/Tier/High
-  - Ability/Pool/Intellect
-  - Ability/Categories/Movement
-title: Time Travel
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/10
+- Ability/Tier/High
+- Ability/Pool/Intellect
+- Ability/Categories/Movement
 ---
+
+  
 ## Time Travel  
 >**Action**  
 >10+ Intellect points

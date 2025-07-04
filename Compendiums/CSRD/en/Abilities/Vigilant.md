@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Vigilant
+- "Vigilant"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/5
-  - Ability/Tier/High
-  - Ability/Pool/Might
-  - Ability/Categories/Cure
-title: Vigilant
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/5
+- Ability/Tier/High
+- Ability/Pool/Might
+- Ability/Categories/Cure
 ---
+
+  
 ## Vigilant  
 >**Enabler**  
 >5 Might points

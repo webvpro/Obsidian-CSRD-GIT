@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Apple of Discord
+- Apple of Discord
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Apple of Discord
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Apple of Discord  
 >[!info] Stats  
 > **Level:** 1d6+1  

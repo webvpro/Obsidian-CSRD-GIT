@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Nutrition and Hydration
+- Nutrition and Hydration
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Subtle
-title: Nutrition and Hydration
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Subtle
 ---
+
+  
 ## Nutrition and Hydration  
 >[!info] Stats  
 > **Level:** 1d6+1  

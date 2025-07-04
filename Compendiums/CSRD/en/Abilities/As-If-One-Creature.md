@@ -1,17 +1,16 @@
 ---
 aliases:
-  - As If One Creature
+- "As If One Creature"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/High
-  - Ability/Categories/Companion
-title: As If One Creature
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/High
+- Ability/Categories/Companion
 ---
+
+  
 ## As If One Creature  
 >**Enabler**
   

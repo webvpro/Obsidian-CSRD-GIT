@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Dame Trot's Cat
+- Dame Trot's Cat
 tags:
-  - Compendium/CSRD/en/Cyphers/Dame-Trots-Cat
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Dame Trot's Cat
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers/Dame-Trots-Cat
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Dame Trot's Cat  
 >[!info] Stats  
 > **Level:** 1d6+3  

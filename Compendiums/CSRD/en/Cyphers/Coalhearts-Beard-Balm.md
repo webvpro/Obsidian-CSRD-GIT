@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Coalheart's Beard Balm
+- Coalheart's Beard Balm
 tags:
-  - Compendium/CSRD/en/Cyphers/Coalhearts-Beard-Balm
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Coalheart's Beard Balm
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers/Coalhearts-Beard-Balm
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Coalheart's Beard Balm  
 >[!info] Stats  
 > **Level:** 1d6  

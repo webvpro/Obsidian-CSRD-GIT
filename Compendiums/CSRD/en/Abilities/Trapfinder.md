@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Trapfinder
+- "Trapfinder"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/3
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Senses
-title: Trapfinder
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/3
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Senses
 ---
+
+  
 ## Trapfinder  
 >**Action**  
 >3+ Intellect points

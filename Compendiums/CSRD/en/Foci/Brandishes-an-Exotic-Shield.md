@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Brandishes an Exotic Shield
+- "Brandishes an Exotic Shield"
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/Tank-Combat
-title: Brandishes an Exotic Shield
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci
+- Focus/Category/Tank-Combat
 ---
+
+  
 ## Brandishes an Exotic Shield  
 You deploy an amazing shield of pure force that provides protection and some offensive options.  
 

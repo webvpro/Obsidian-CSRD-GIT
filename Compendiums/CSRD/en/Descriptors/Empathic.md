@@ -1,13 +1,11 @@
 ---
 aliases:
-  - Empathic
+- Empathic
 tags:
-  - Compendiums/CSRD/en/Descriptors
-  - Descriptor
-title: Empathic
-collection: Descriptors
-kind: Compendiums
+- Compendiums/CSRD/en/Descriptors
+- Descriptor
 ---
+
 ## Empathic  
 Other people are open books to you. You may have a knack for reading a person's tells, those subtle movements that convey an individual's mood and disposition. Or you may receive information in a more direct way, feeling a person's emotions as if they were tangible things, sensations that lightly brush against your mind. Your gift for empathy helps you navigate social situations and control them to avoid misunderstandings and prevent useless conflicts from erupting.
 The constant bombardment of emotions from those around you likely takes a toll. You might move with the prevailing mood, swinging from giddy happiness to bitter sorrow with little warning. Or you might close yourself off and remain inscrutable to others out of a sense of self-preservation or an unconscious fear that everyone else might learn how you truly feel.

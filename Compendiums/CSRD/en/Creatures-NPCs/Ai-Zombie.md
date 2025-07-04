@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Ai Zombie
+- Ai Zombie
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/3
-  - Creature/Armor/0
-  - Creature/Health/12
-title: Ai Zombie
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/3
+- Creature/Armor/0
+- Creature/Health/12
 ---
+
+  
 ## Ai Zombie  
 An artificial intelligence that permanently installs itself onto the wetware (in this case, the brain) of a human or other sapient creature creates an AI zombie. The AI replaces the person's personality and motivations, turning them into a shambling creature who only does the AI's bidding, even as their body decays and falls apart (though most keep shambling because of an injection of nano repair bots). 
 AI zombies are driven by a single, simple motive implanted by the original artificial intelligence--usually related to destroying resources before competing AI instances can use them. They aren't intelligent enough to direct themselves or problem solve outside of this goal, unless the AI takes direct control, using a particular AI zombie as a remote "terminal" from which to act and observe the world.  

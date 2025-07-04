@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Rainbow Suspenders
+- "Rainbow Suspenders"
 tags:
-  - Compendium/CSRD/en/Artifacts/Rainbow-Suspenders
-  - Artifact
-  - Artifact/Modern-Fantasy
-title: Rainbow Suspenders
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts/Rainbow-Suspenders
+- Artifact
+- Artifact/Modern-Fantasy
 ---
+
+  
 ## Rainbow Suspenders
 
 >1d6 

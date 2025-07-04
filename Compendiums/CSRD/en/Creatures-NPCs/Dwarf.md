@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Dwarf
+- Dwarf
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/NPC
-  - Creature/Level/4
-  - Creature/Armor/2
-  - Creature/Health/15
-title: Dwarf
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/NPC
+- Creature/Level/4
+- Creature/Armor/2
+- Creature/Health/15
 ---
+
+  
 ## Dwarf  
 A typical dwarf found outside of their homeland is an explorer, warrior, and tradesperson of some skill. Dwarves travel to find work as mercenaries, sell the goods they create, or find unusual materials to use in their crafting.  
 

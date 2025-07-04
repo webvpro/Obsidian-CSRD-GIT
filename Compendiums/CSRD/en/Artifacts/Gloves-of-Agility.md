@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Gloves of Agility
+- Gloves of Agility
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fantasy
-title: Gloves of Agility
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fantasy
 ---
+
+  
 ## Gloves of Agility  
 >[!info] Stats  
 > **Level:** 1d6  

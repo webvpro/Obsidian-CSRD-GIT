@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Fireproofing
+- Fireproofing
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Manifest
-title: Fireproofing
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Manifest
 ---
+
+  
 ## Fireproofing  
 >[!info] Stats  
 > **Level:** 1d6+4  

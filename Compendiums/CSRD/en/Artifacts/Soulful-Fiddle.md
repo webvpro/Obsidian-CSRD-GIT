@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Soulful Fiddle
+- Soulful Fiddle
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fairy-Tale
-title: Soulful Fiddle
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fairy-Tale
 ---
+
+  
 ## Soulful Fiddle  
 >[!info] Stats  
 > **Level:** 1d6+2  

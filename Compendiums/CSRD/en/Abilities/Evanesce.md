@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Evanesce
+- "Evanesce"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/3
-  - Ability/Tier/Mid
-  - Ability/Pool/Speed
-  - Ability/Categories/Transform
-title: Evanesce
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/3
+- Ability/Tier/Mid
+- Ability/Pool/Speed
+- Ability/Categories/Transform
 ---
+
+  
 ## Evanesce  
 >**Action**  
 >3 Speed points

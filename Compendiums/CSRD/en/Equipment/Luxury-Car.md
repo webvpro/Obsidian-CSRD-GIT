@@ -1,16 +1,15 @@
 ---
 aliases:
-  - Luxury Car
+- "Luxury Car"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Modern
-  - Equipment/Utility-Gear
-  - Equipment/Level/5
-  - Equipment/Value/Exorbitant
-title: Luxury Car
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Modern
+- Equipment/Utility-Gear
+- Equipment/Level/5
+- Equipment/Value/Exorbitant
 ---
+
+  
 ## Luxury Car  
   
 >  

@@ -1,13 +1,11 @@
 ---
 aliases:
-  - Learned
+- Learned
 tags:
-  - Compendiums/CSRD/en/Descriptors
-  - Descriptor
-title: Learned
-collection: Descriptors
-kind: Compendiums
+- Compendiums/CSRD/en/Descriptors
+- Descriptor
 ---
+
 ## Learned  
 You have studied, either on your own or with an instructor. You know many things and are an expert on a few topics, such as history, biology, geography, mythology, nature, or any other area of study. Learned characters typically carry a few books around with them and spend their spare time reading.
 ### You gain the following characteristics  

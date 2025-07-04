@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Built-In Weaponry
+- "Built-In Weaponry"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/NA
-  - Ability/Tier/Mid
-  - Ability/Categories/Special-Attack
-title: Built-In Weaponry
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/NA
+- Ability/Tier/Mid
+- Ability/Categories/Special-Attack
 ---
+
+  
 ## Built-In Weaponry  
 >**Action**
   

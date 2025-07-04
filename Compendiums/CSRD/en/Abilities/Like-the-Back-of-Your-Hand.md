@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Like the Back of Your Hand
+- "Like the Back of Your Hand"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/High
-  - Ability/Categories/Task
-title: Like the Back of Your Hand
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/High
+- Ability/Categories/Task
 ---
+
+  
 ## Like the Back of Your Hand  
 >**Enabler**
   

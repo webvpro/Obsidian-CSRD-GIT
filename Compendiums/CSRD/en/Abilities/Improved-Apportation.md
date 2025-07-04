@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Improved Apportation
+- "Improved Apportation"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/6
-  - Ability/Tier/High
-  - Ability/Pool/Intellect
-  - Ability/Categories/Companion
-title: Improved Apportation
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/6
+- Ability/Tier/High
+- Ability/Pool/Intellect
+- Ability/Categories/Companion
 ---
+
+  
 ## Improved Apportation  
 >**Action**  
 >6 Intellect points

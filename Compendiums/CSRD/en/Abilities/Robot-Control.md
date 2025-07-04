@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Robot Control
+- "Robot Control"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/2
-  - Ability/Tier/Low
-  - Ability/Pool/Intellect
-  - Ability/Categories/Control
-title: Robot Control
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/2
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Control
 ---
+
+  
 ## Robot Control  
 >**Action**  
 >2+ Intellect points

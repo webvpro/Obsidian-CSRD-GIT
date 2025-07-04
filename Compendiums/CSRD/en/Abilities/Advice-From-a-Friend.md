@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Advice From a Friend
+- "Advice From a Friend"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/1
-  - Ability/Tier/Low
-  - Ability/Pool/Intellect
-  - Ability/Categories/Support
-title: Advice From a Friend
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/1
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Support
 ---
+
+  
 ## Advice From a Friend  
 >**Action**  
 >1 Intellect point

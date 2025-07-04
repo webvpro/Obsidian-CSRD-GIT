@@ -10,8 +10,8 @@ const readFile = util.promisify(fs.readFile);
 const writeFile = util.promisify(fs.writeFile);
 
 const COMPENDIUMS_DIR = path.join(__dirname, '../Compendiums/CSRD/en/');
-const FRONTMATTERED_DIR = path.join(__dirname, '../Frontmattered/Compendiums/CSRD/en/');
-
+const FRONTMATTER_DIR = path.join(__dirname, '../Frontmattered/Compendiums/CSRD/en/');
+const SKIP_COLLECTIONS = ['Rules', 'Tables'];
 // Function to recursively find all files in a directory
 async function parseTags(fm) {
     const newFm = {};
@@ -19,7 +19,7 @@ async function parseTags(fm) {
     // Ensure each alias is wrapped in double quotes only, not single quotes
     newFm.aliases = fm.aliases;
     newFm.collection = fm.tags[0].split('/')[3].trim() ?? null;
-    newFm.kind = fm.tags[0].split('/')[0].trim();
+    newFm.kind = fm.tags[1].split('/')[0].trim() ?? 'Unknown';
     let collectionProperties = {};
     switch (newFm.collection.toUpperCase()) {
         case 'ABILITIES':
@@ -40,20 +40,48 @@ async function parseTags(fm) {
             const poolAry = fm.tags.filter(tag => tag.toUpperCase().includes('/POOL/'));
             const cleanPoolAry = poolAry.map(tag => tag.split('/')[2]);
             collectionProperties.pools = cleanPoolAry;
+            
             //category
             const categoryAry = fm.tags.filter(tag => tag.toUpperCase().includes('/CATEGORIES/'));
             const cleanCategory = categoryAry.map(tag => tag.split('/')[2]);
             collectionProperties.categories = cleanCategory;
             break  ;
-        case 'reference':
-            // Handle reference kind
+        case 'ARTIFACTS':
+            const kindAry = fm.tags.filter(tag => tag.toUpperCase().includes('/KIND/'));
+            const cleanKind = kindAry.map(tag => tag.split('/')[2]);
+            collectionProperties.categories = cleanKind;
             break;
+        case 'CANTRIPS':
+            // pool array
+            newFm.kind = 'Cantrip';
+            const cantripPoolAry = fm.tags.filter(tag => tag.toUpperCase().includes('/POOL/'));
+            const cleanCanTripPoolAry = cantripPoolAry.map(tag => tag.split('/')[2]);
+            collectionProperties.pools = cleanCanTripPoolAry;
+            // cantrip cost
+            const cantripCostIdx = fm.tags.findIndex(tag => tag.toUpperCase().includes('/COST/'));
+            const cantripCostPropertyIdx = fm.tags[cantripCostIdx].split('/').findIndex(tag => tag.toUpperCase().includes('COST'));
+            collectionProperties.cost = (cantripCostPropertyIdx + cantripCostIdx) >= 0 ? fm.tags[cantripCostIdx].split('/')[cantripCostPropertyIdx + 1] : 'NA';
+            break;
+        case 'CREATURES-NPCS':
+            const kindOfCreature = fm.tags.find(tag => tag.toUpperCase().includes('/KIND/'));
+            if (kindOfCreature) {
+                //console.log(`Kind of Creature: ${kindOfCreature.split('/')[2].trim()}`);
+                newFm.kind = kindOfCreature.split('/')[2].trim();
+            }
+            const creatureLevelPropertyIdx = fm.tags.find(tag => tag.toUpperCase().includes('/LEVEL/'));
+            collectionProperties.level = parseInt(creatureLevelPropertyIdx.split('/')[2].trim());
+            // Handle creatures and NPCs armor
+            const creatureArmor = fm.tags.find(tag => tag.toUpperCase().includes('/ARMOR/'));
+            collectionProperties.armor = parseInt(creatureArmor.split('/')[2].trim());
+            //Handle creatures and NPCs health
+            const creatureHealth = fm.tags.find(tag => tag.toUpperCase().includes('/HEALTH/'));
+            collectionProperties.health = parseInt(creatureHealth.split('/')[2].trim());
         default:
             // Silently handle unknown collection or use a custom logger
             // that can be disabled in production
             break;
     }
-    return { ...fm, ...newFm  };
+    return { ...fm, ...newFm, ...collectionProperties};
 };
 async function getAllFiles(dirPath, arrayOfFiles) {
     const files = await readdir(dirPath, { withFileTypes: true });
@@ -102,10 +130,23 @@ async function processFrontmatter(filePath) {
         // Replace the old frontmatter with the new one, preserving the rest of the file
         const newContent = content.replace(frontmatterRegex, `---\n${newFrontmatter}---\n`);
         
-        // Write the modified content back to the file
-        await writeFile(filePath, newContent, 'utf8');
-        console.log(`Updated frontmatter in ${filePath}`);
-        
+        // Compute relative path and output path
+        const relPath = path.relative(COMPENDIUMS_DIR, filePath);
+        const outPath = path.join(FRONTMATTER_DIR, relPath);
+
+        // Ensure output directory exists
+        fs.mkdirSync(path.dirname(outPath), { recursive: true });
+
+        // Write the modified content to the new directory
+        // Check if the file is in a directory we should skip
+        const shouldSkip = SKIP_COLLECTIONS.some(skipDir => relPath.includes(`/${skipDir}/`));
+        if (shouldSkip) {
+            console.log(`Skipping file in excluded directory: ${relPath}`);
+            //return;
+        } else {
+            await writeFile(outPath, newContent, 'utf8');
+            //console.log(`Updated frontmatter in ${outPath}`);
+        }
     } catch (err) {
         console.error(`Error processing ${filePath}:`, err);
     }

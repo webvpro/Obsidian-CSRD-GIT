@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Useful Thing
+- Useful Thing
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Scavenger-Subtle
-title: Useful Thing
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Scavenger-Subtle
 ---
+
+  
 ## Useful Thing  
 >[!info] Stats  
 > **Level:** 1d6+1  

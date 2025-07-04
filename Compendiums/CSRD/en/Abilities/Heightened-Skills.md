@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Heightened Skills
+- "Heightened Skills"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Mid
-  - Ability/Categories/Task
-title: Heightened Skills
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Mid
+- Ability/Categories/Task
 ---
+
+  
 ## Heightened Skills  
 >**Enabler**
   

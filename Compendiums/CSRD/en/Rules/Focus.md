@@ -1,16 +1,12 @@
 ---
-aliases:
-  - Focus
-  - Focus in Cypher
-tags:
-  - Compendium/CSRD/en/Rules/Focus
-  - Rule/Foci/Choosing
-  - Rule/Foci/Connections
-  - Rule/Foci/Connections
-title: Focus
-collection: Rules
-kind: Compendium
+aliases: [Focus, Focus in Cypher]
+tags: 
+- Compendium/CSRD/en/Rules/Focus
+- Rule/Foci/Choosing
+- Rule/Foci/Connections
+- Rule/Foci/Connections
 ---
+
 # Focus
 
 Focus is what makes a character unique. No two PCs in a group should have the same focus. A focus gives a character benefits when they create their character and each time they ascend to the next tier. It’s the verb of the sentence “I am an adjective noun who verbs.”

@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Green Spectacles
+- Green Spectacles
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Green Spectacles
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Green Spectacles  
 >[!info] Stats  
 > **Level:** 1d6  

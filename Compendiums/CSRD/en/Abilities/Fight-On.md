@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Fight On
+- "Fight On"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Mid
-  - Ability/Categories/Cure
-title: Fight On
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Mid
+- Ability/Categories/Cure
 ---
+
+  
 ## Fight On  
 >**Enabler**
   

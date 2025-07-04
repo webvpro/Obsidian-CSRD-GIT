@@ -1,13 +1,11 @@
 ---
 aliases:
-  - Resilient
+- Resilient
 tags:
-  - Compendiums/CSRD/en/Descriptors
-  - Descriptor
-title: Resilient
-collection: Descriptors
-kind: Compendiums
+- Compendiums/CSRD/en/Descriptors
+- Descriptor
 ---
+
 ## Resilient  
 You can take a lot of punishment, both physically and mentally, and still come back for more. It takes a lot to put you down. Neither physical nor mental shocks or damage have a lasting effect. You're tough to faze. Unflappable. Unstoppable.
 ### You gain the following characteristics  

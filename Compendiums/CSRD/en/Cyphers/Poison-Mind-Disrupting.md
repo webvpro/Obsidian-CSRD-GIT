@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Poison Mind Disrupting
+- Poison Mind Disrupting
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Manifest
-title: Poison Mind Disrupting
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Manifest
 ---
+
+  
 ## Poison Mind Disrupting  
 >[!info] Stats  
 > **Level:** 1d6+2  

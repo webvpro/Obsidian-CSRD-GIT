@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Sensor Array
+- "Sensor Array"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/3
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Information
-title: Sensor Array
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/3
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Information
 ---
+
+  
 ## Sensor Array  
 >**Action**  
 >3 Intellect points

@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Detonation Creature
+- Detonation Creature
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantastic
-title: Detonation Creature
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantastic
 ---
+
+  
 ## Detonation Creature  
 >[!info] Stats  
 > **Level:** 1d6+1  

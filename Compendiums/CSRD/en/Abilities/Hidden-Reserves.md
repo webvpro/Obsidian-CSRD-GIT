@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Hidden Reserves
+- "Hidden Reserves"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Mid
-  - Ability/Categories/Meta
-title: Hidden Reserves
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Mid
+- Ability/Categories/Meta
 ---
+
+  
 ## Hidden Reserves  
 >**Enabler**
   

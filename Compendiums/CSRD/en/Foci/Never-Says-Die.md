@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Never Says Die
+- "Never Says Die"
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/Tank-Combat
-title: Never Says Die
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci
+- Focus/Category/Tank-Combat
 ---
+
+  
 ## Never Says Die  
 You never quit, can shrug off a beating, and always come back for more.  
 

@@ -1,14 +1,13 @@
 ---
 aliases:
-  - A Tisket a Tasket
+- "A Tisket a Tasket"
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fairy-Tale
-title: A Tisket a Tasket
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fairy-Tale
 ---
+
+  
 ## A Tisket a Tasket
 > **Level:** 1d6  
 > **Form:** Woven yellow basket with wooden handles 

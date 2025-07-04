@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Yonder Yarn
+- Yonder Yarn
 tags:
-  - Compendium/CSRD/en/Cyphers/Yonder-Yarn
-  - Cypher/Fairy-Tale
-title: Yonder Yarn
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers/Yonder-Yarn
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Yonder Yarn  
 >[!info] Stats  
 > **Level:** 1d6+4  

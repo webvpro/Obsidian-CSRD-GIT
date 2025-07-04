@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Azure Dust
+- Azure Dust
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Azure Dust
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Azure Dust  
 >[!info] Stats  
 > **Level:** 1d6+1  

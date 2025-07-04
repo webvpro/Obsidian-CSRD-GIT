@@ -1,13 +1,11 @@
 ---
 aliases:
-  - Dragon
+- "Dragon"
 tags:
-  - Compendiums/CSRD/en/Descriptors/Dragon
-  - Descriptor/Species
-title: Dragon
-collection: Descriptors
-kind: Compendiums
+- Compendiums/CSRD/en/Descriptors/Dragon
+- Descriptor/Species 
 ---
+
 ## Dragon  
 You can shift at will between a dragon and humanoid form; you may choose to spend more time in one form or the other. In your dragon form you’re about 10 feet (3.5 m) long with four legs, leathery wings, and a serpentlike tail. You’re drawn to treasure and shiny things, but you’re willing to share your hoard with those you trust. Though you can speak human languages, you can’t ignore the fact that you’re a wild part of your local ecosystem—at least some of the time. You’re an apex predator, driven to fly and to hunt, and you burmite in cold temperatures like other reptiles.
 >Brumation is a state of sluggishness and inactivity entered by reptiles in response to low temperatures.

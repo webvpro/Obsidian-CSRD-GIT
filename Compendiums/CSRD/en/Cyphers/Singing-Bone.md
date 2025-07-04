@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Singing Bone
+- Singing Bone
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Singing Bone
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Singing Bone  
 >[!info] Stats  
 > **Level:** 1d6+3  

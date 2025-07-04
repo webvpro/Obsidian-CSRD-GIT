@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Boy Blue's Horn
+- "Boy Blue's Horn"
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fairy-Tale
-title: Boy Blue's Horn
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fairy-Tale
 ---
+
+  
 ## Boy Blue's Horn  
 >[!info] Stats  
 > **Level:** 1d6  

@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Instant Tower
+- Instant Tower
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantasy
-title: Instant Tower
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantasy
 ---
+
+  
 ## Instant Tower  
 >[!info] Stats  
 > **Level:** 1d6+3  

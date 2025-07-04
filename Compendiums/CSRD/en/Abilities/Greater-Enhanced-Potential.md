@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Greater Enhanced Potential
+- "Greater Enhanced Potential"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Mid
-  - Ability/Categories/Meta
-title: Greater Enhanced Potential
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Mid
+- Ability/Categories/Meta
 ---
+
+  
 ## Greater Enhanced Potential  
 >**Enabler**
   

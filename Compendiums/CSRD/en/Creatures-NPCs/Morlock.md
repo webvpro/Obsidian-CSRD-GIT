@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Morlock
+- Morlock
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/2
-  - Creature/Armor/0
-  - Creature/Health/6
-title: Morlock
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/2
+- Creature/Armor/0
+- Creature/Health/6
 ---
+
+  
 ## Morlock  
 Morlocks are degenerate, blind cannibal humanoids that avoid light. They have prominent teeth, piglike eyes, loose skin, and stooped postures. They avoid bright daylight and prefer to hunt and forage when it is dark out (or at least under the twilight-like canopy of a heavy forest). Morlocks eat any sort of meat, even carrion and their own dead. Morlocks build piles of stones to mark their territory. On nights of the new moon, they create unnerving music by playing simple drums made out of skulls and logs. They lack the foresight to store food for lean times, so they range farther from home in winter and times of famine. They are sometimes enslaved by more powerful creatures such as ogres or a vampire.  
 

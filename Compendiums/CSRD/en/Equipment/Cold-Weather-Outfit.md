@@ -1,15 +1,14 @@
 ---
 aliases:
-  - Cold-Weather Outfit
+- "Cold-Weather Outfit"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Fantasy
-  - Equipment/Utility-Gear
-  - Equipment/Value/6-Gp
-title: Cold-Weather Outfit
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Fantasy
+- Equipment/Utility-Gear
+- Equipment/Value/6-Gp
 ---
+
+  
 ## Cold-Weather Outfit  
   
 >A heavier set of clothing for protection against cold weather.  

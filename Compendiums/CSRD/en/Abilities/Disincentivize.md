@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Disincentivize
+- "Disincentivize"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/1
-  - Ability/Tier/Low
-  - Ability/Pool/Intellect
-  - Ability/Categories/Special-Attack
-title: Disincentivize
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/1
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Special-Attack
 ---
+
+  
 ## Disincentivize  
 >**Enabler**  
 >1 Intellect point

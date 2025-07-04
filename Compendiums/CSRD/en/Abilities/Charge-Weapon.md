@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Charge Weapon
+- "Charge Weapon"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/2
-  - Ability/Tier/NA
-  - Ability/Pool/Intellect
-  - Ability/Categories/NA
-title: Charge Weapon
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/2
+- Ability/Tier/NA
+- Ability/Pool/Intellect
+- Ability/Categories/NA
 ---
+
+  
 ## Charge Weapon  
 >**Enabler**  
 >2+ Intellect points

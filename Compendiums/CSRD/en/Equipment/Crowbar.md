@@ -1,27 +1,26 @@
 ---
 aliases:
-  - Crowbar
+- "Crowbar"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Fantasy
-  - Equipment/Utility-Gear
-  - Equipment/Value/Moderate
-  - Equipment/Value/2-Gp
-  - Equipment/Science-Fiction
-  - Equipment/Utility-Gear
-  - Equipment/Value/Moderate
-  - Equipment/Post-Apocalyptic
-  - Equipment/Utility-Gear
-  - Equipment/Value/Moderate
-  - Equipment/Contemporary
-  - Equipment/Modern
-  - Equipment/Utility-Gear
-  - Equipment/Level/3
-  - Equipment/Value/Moderate
-title: Crowbar
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Fantasy
+- Equipment/Utility-Gear
+- Equipment/Value/Moderate
+- Equipment/Value/2-Gp
+- Equipment/Science-Fiction
+- Equipment/Utility-Gear
+- Equipment/Value/Moderate
+- Equipment/Post-Apocalyptic
+- Equipment/Utility-Gear
+- Equipment/Value/Moderate
+- Equipment/Contemporary
+- Equipment/Modern
+- Equipment/Utility-Gear
+- Equipment/Level/3
+- Equipment/Value/Moderate
 ---
+
+  
 ## Crowbar  
   
 >This bent length of metal grants an asset on tasks to open doors, treasure chests, and similar objects.  

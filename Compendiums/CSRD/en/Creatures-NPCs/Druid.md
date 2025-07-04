@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Druid
+- Druid
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/NPC
-  - Creature/Level/4
-  - Creature/Armor/1
-  - Creature/Health/12
-title: Druid
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/NPC
+- Creature/Level/4
+- Creature/Armor/1
+- Creature/Health/12
 ---
+
+  
 ## Druid  
 A druid is a servant of a nature deity or the entirety of nature itself. Some have specific interests such as animals, plants, or storms, with greater powers relating to that devotion. Druids are leaders and advisors in some cultures, society-hating hermits in others.  
 

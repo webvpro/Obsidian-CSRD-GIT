@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Hard to See
+- "Hard to See"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Mid
-  - Ability/Categories/Task
-  - Ability/Categories/Transform
-title: Hard to See
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Mid
+- Ability/Categories/Task
+- Ability/Categories/Transform
 ---
+
+  
 ## Hard to See  
 >**Enabler**
   

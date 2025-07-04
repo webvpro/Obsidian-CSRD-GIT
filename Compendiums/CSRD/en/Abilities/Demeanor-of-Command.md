@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Demeanor of Command
+- "Demeanor of Command"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/2
-  - Ability/Tier/Low
-  - Ability/Pool/Intellect
-  - Ability/Categories/Social
-title: Demeanor of Command
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/2
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Social
 ---
+
+  
 ## Demeanor of Command  
 >**Action**  
 >2 Intellect points

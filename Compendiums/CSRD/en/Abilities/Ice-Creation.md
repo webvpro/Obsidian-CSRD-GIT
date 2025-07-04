@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Ice Creation
+- "Ice Creation"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/4
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Craft
-title: Ice Creation
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/4
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Craft
 ---
+
+  
 ## Ice Creation  
 >**Action**  
 >4+ Intellect points

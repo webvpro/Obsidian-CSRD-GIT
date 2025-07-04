@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Apocalyptic Stare
+- "Apocalyptic Stare"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/NA
-  - Ability/Categories/NA
-title: Apocalyptic Stare
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/NA
+- Ability/Categories/NA
 ---
+
+  
 ## Apocalyptic Stare  
 >**Enabler**
   

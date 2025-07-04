@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Space Rat
+- Space Rat
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/1
-  - Creature/Armor/0
-  - Creature/Health/5
-title: Space Rat
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/1
+- Creature/Armor/0
+- Creature/Health/5
 ---
+
+  
 ## Space Rat  
 Yeah, rats made it to space. And against all expectations, one strain evolved in the harsh radiation and zero-G environments that would kill humans not protected by medical intervention. Space rats are furless, about two feet long, sport a truly prehensile tail, and can quickly change their shade of their skin to blend in to their surroundings. They can also drop into a state of extreme torpor that allows them to survive stints of vacuum exposure lasting several days. 
 Space rats are vermin, and any spacecraft or space station that hosts a nest must deal with constant issues from the rats burrowing into systems, stealing food and water, and causing systems to break down, even critical ones. They're also vicious when cornered.  

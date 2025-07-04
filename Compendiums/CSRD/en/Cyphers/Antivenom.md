@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Antivenom
+- Antivenom
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Manifest
-title: Antivenom
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Manifest
 ---
+
+  
 ## Antivenom  
 >[!info] Stats  
 > **Level:** 1d6+2  

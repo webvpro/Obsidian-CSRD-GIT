@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Blackguard
+- Blackguard
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/6
-  - Creature/Armor/2
-  - Creature/Health/30
-title: Blackguard
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/6
+- Creature/Armor/2
+- Creature/Health/30
 ---
+
+  
 ## Blackguard  
 Blackguards are evil knights who serve dark entities or their own corrupt agendas. Some were once honorable knights who fell to temptation and have abandoned their original principles, but many were raised under evil circumstances and have never known anything but hatred and conflict.  
 

@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Gogmind
+- Gogmind
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/6
-  - Creature/Armor/2
-  - Creature/Health/23
-title: Gogmind
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/6
+- Creature/Armor/2
+- Creature/Health/23
 ---
+
+  
 ## Artificial Intelligence Ai  
 An artificial intelligence thinks independently, learning and evolving with experience. AIs have their own goals and motivations, and may work with or against humans. Some want to gather data, some want to solve technological problems, and some want to take over the world--at any cost. 
 AIs take many forms. Some are distributed across a vast network. Others are isolated in a single computer. A few are machines with organic parts or can use such machines as servitors. 

@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Movement Skills
+- "Movement Skills"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Low
-  - Ability/Categories/Task
-title: Movement Skills
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Low
+- Ability/Categories/Task
 ---
+
+  
 ## Movement Skills  
 >**Enabler**
   

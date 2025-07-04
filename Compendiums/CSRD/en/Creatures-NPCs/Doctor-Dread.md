@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Doctor Dread
+- Doctor Dread
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Super Villain
-  - Creature/Level/7
-  - Creature/Armor/4
-  - Creature/Health/40
-title: Doctor Dread
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Super Villain
+- Creature/Level/7
+- Creature/Armor/4
+- Creature/Health/40
 ---
+
+  
 ## Doctor Dread  
 Doctor Dread is larger than life thanks to her brilliant mind, her media savvy, and the robotic armor she uses to enhance her otherwise normal abilities. Indeed, Doctor Dread has become the most feared terrorist on the planet. She uses her abilities to extort money, influence, and technology from the rich and powerful, whether her victims are individuals, governments, corporations, or superheroes.
 Alicia Coleridge is Doctor Dread's secret identity. Born into relative obscurity, she received a full scholarship to the Russell Institute of Technology, where she studied the effects of radioactive substances on living tissue. In a freak lab accident, Alicia's fiance was slain, and Alicia was disfigured and driven slightly insane, so much so that she built the Doctor Dread armor. She plows the vast wealth she accumulates through terrorism into research into the rejuvenation of dead flesh. She hopes to one day bring back her dead love, whose body she keeps in suspended animation.

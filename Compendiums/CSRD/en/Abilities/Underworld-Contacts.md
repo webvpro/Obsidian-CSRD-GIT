@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Underworld Contacts
+- "Underworld Contacts"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Low
-  - Ability/Categories/Social
-title: Underworld Contacts
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Low
+- Ability/Categories/Social
 ---
+
+  
 ## Underworld Contacts  
 >**Enabler**
   

@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Darning Needle
+- Darning Needle
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Darning Needle
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Darning Needle  
 >[!info] Stats  
 > **Level:** 1d6  

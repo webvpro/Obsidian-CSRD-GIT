@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Wardroid
+- Wardroid
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/6
-  - Creature/Armor/3
-  - Creature/Health/30
-title: Wardroid
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/6
+- Creature/Armor/3
+- Creature/Health/30
 ---
+
+  
 ## Wardroid  
 When star troopers need heavy support, they sometimes bring in wardroids. These fearsome robots, standing about 8 feet (2 m) tall, are ruthless even by trooper standards and are known to kill innocent bystanders as often as they kill foes. It is said that when wardroids are unleashed, wise troopers fall back and take cover.  
 

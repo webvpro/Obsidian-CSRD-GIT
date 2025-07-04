@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Curative
+- Curative
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Subtle
-title: Curative
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Subtle
 ---
+
+  
 ## Curative  
 >[!info] Stats  
 > **Level:** 1d6+2  

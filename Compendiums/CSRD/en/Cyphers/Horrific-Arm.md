@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Horrific Arm
+- Horrific Arm
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-title: Horrific Arm
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
 ---
+
+  
 ## Horrific Arm  
 >[!info] Stats  
 > **Level:** 1d6+1  

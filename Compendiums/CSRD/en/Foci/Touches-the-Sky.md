@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Touches the Sky
+- "Touches the Sky"
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/
-title: Touches the Sky
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci
+- Focus/Category/
 ---
+
+  
 ## Touches the Sky  
 You can summon storms or break them apart.  
 

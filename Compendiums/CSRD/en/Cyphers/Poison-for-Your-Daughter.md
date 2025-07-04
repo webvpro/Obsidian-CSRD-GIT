@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Poison for Your Daughter
+- Poison for Your Daughter
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Poison for Your Daughter
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Poison for Your Daughter  
 >[!info] Stats  
 > **Level:** 1d6+2  

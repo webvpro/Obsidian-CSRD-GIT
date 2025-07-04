@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Works for a Living
+- "Works for a Living"
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/Basic
-title: Works for a Living
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci
+- Focus/Category/Basic
 ---
+
+  
 ## Works for a Living  
 You take great satisfaction in a job well done, whether it's coding, building houses, or mining asteroids.  
 

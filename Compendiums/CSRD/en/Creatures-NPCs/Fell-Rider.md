@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Fell Rider
+- Fell Rider
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/3
-  - Creature/Armor/3
-  - Creature/Health/25
-title: Fell Rider
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/3
+- Creature/Armor/3
+- Creature/Health/25
 ---
+
+  
 ## Fell Rider  
 Motorcycle riding raiders keep their "motor wheels" alive through constant tinkering and repair. The two wheeled machines are modified with spears, spikes, lances, and sometimes guns and flamethrowers. Fell riders wear heavy protective garments made from fur, salvaged clothing, and leather from past targets. Goggles protect their eyes, and bones are sewn through their wild, greasy hair as decoration.
 Health: 12

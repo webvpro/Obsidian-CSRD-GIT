@@ -1,13 +1,11 @@
 ---
 aliases:
-  - Chimera
+- "Chimera"
 tags:
-  - Compendiums/CSRD/en/Descriptors/Chimera
-  - Descriptor/Species
-title: Chimera
-collection: Descriptors
-kind: Compendiums
+- Compendiums/CSRD/en/Descriptors/Chimera
+- Descriptor/Species 
 ---
+
 ## Chimera  
 You have a blend of animal attributes; you may be a well-known mythological creature, like a satyr or minotaur, or you may have a unique combination of features. Bison horns, boar tusks, bear paws, a wolf’s tail, a lion’s mane: take your pick. Your thickened skin offers protection from attacks and the elements. Depending on your dexterity and whether you have opposable thumbs you may use adaptive weapons and tools, like a dagger modified to be held in a paw instead of a hand. You’re eager to protect the ones closest to you, and
 usually more likely to run toward conflict than away from it.

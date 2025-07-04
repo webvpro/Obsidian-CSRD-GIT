@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Vicious Tankard
+- Vicious Tankard
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fairy-Tale
-title: Vicious Tankard
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fairy-Tale
 ---
+
+  
 ## Vicious Tankard  
 >[!info] Stats  
 > **Level:** 1d6+2  

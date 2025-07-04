@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Wilderness Explorer
+- "Wilderness Explorer"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Low
-  - Ability/Categories/Environment
-title: Wilderness Explorer
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Low
+- Ability/Categories/Environment
 ---
+
+  
 ## Wilderness Explorer  
 >**Enabler**
   

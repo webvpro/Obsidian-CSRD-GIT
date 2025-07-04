@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Exploding Arrow
+- Exploding Arrow
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fantasy
-title: Exploding Arrow
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fantasy
 ---
+
+  
 ## Exploding Arrow  
 >[!info] Stats  
 > **Level:** 1d6  

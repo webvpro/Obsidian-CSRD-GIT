@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Resonant Quake
+- "Resonant Quake"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/7
-  - Ability/Tier/High
-  - Ability/Pool/Intellect
-  - Ability/Categories/Special-Attack
-title: Resonant Quake
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/7
+- Ability/Tier/High
+- Ability/Pool/Intellect
+- Ability/Categories/Special-Attack
 ---
+
+  
 ## Resonant Quake  
 >**Action**  
 >7 Intellect points

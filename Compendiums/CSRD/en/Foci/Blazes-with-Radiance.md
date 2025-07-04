@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Blazes with Radiance
+- "Blazes with Radiance"
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/Environment-Manipulation
-title: Blazes with Radiance
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci
+- Focus/Category/Environment-Manipulation 
 ---
+
+  
 ## Blazes with Radiance  
 You can create light, sculpt it, bend it away from you, or gather it to use as a weapon.  
 

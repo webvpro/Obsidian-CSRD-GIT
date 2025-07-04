@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Invisibility Revealer
+- Invisibility Revealer
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-title: Invisibility Revealer
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
 ---
+
+  
 ## Invisibility Revealer  
 >[!info] Stats  
 > **Level:** 1d6+4  

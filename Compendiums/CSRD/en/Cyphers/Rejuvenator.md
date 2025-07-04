@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Rejuvenator
+- Rejuvenator
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Subtle
-title: Rejuvenator
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Subtle
 ---
+
+  
 ## Rejuvenator  
 >[!info] Stats  
 > **Level:** 1d6+2  

@@ -1,19 +1,18 @@
 ---
 aliases:
-  - Beast Eyes
+- "Beast Eyes"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/3
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Companion
-  - Ability/Categories/Senses
-title: Beast Eyes
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/3
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Companion
+- Ability/Categories/Senses
 ---
+
+  
 ## Beast Eyes  
 >**Action**  
 >3 Intellect points

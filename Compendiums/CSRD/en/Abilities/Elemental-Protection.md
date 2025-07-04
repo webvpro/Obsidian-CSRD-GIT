@@ -1,19 +1,18 @@
 ---
 aliases:
-  - Elemental Protection
+- "Elemental Protection"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/4
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Protection
-  - Ability/Categories/Support
-title: Elemental Protection
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/4
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Protection
+- Ability/Categories/Support
 ---
+
+  
 ## Elemental Protection  
 >**Action**  
 >4+ Intellect points

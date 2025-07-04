@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Bigger Beast Form
+- "Bigger Beast Form"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Mid
-  - Ability/Categories/Transform
-title: Bigger Beast Form
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Mid
+- Ability/Categories/Transform
 ---
+
+  
 ## Bigger Beast Form  
 >**Enabler**
   

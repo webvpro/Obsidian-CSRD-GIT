@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Image Projector
+- Image Projector
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantastic
-title: Image Projector
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantastic
 ---
+
+  
 ## Image Projector  
 >[!info] Stats  
 > **Level:** 1d6  

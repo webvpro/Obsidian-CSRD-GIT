@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Shirt of Nettles
+- Shirt of Nettles
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fairy-Tale
-title: Shirt of Nettles
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fairy-Tale
 ---
+
+  
 ## Shirt of Nettles  
 >[!info] Stats  
 > **Level:** 1d6+4  

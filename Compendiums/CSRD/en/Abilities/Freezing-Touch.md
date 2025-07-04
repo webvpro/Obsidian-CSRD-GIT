@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Freezing Touch
+- "Freezing Touch"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/4
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Special-Attack
-title: Freezing Touch
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/4
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Special-Attack
 ---
+
+  
 ## Freezing Touch  
 >**Action**  
 >4 Intellect points

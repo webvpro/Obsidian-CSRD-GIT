@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Greater Controlled Change
+- "Greater Controlled Change"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Mid
-  - Ability/Categories/Transform
-title: Greater Controlled Change
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Mid
+- Ability/Categories/Transform
 ---
+
+  
 ## Greater Controlled Change  
 >**Enabler**
   

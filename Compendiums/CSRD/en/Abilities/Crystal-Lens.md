@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Crystal Lens
+- "Crystal Lens"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/NA
-  - Ability/Tier/Mid
-  - Ability/Categories/Special-Attack
-title: Crystal Lens
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/NA
+- Ability/Tier/Mid
+- Ability/Categories/Special-Attack
 ---
+
+  
 ## Crystal Lens  
 >**Action**
   

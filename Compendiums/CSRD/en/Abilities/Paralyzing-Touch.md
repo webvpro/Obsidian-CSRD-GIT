@@ -1,19 +1,18 @@
 ---
 aliases:
-  - Paralyzing Touch
+- "Paralyzing Touch"
 tags:
-  - Compendium/CSRD/en/Abilities/Paralyzing-Touch
-  - Ability
-  - Ability/Action
-  - Ability/Cost/4
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Magic
-  - Ability/Categories/Fantasy/Modern
-title: Paralyzing Touch
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities/Paralyzing-Touch
+- Ability
+- Ability/Action
+- Ability/Cost/4
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Magic
+- Ability/Categories/Fantasy/Modern
 ---
+
+  
 ## Paralyzing Touch
 >**Action**  
 >4 Intellect point

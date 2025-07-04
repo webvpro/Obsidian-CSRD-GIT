@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Hard to Distract
+- "Hard to Distract"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Low
-  - Ability/Categories/Protection
-title: Hard to Distract
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Low
+- Ability/Categories/Protection
 ---
+
+  
 ## Hard to Distract  
 >**Enabler**
   

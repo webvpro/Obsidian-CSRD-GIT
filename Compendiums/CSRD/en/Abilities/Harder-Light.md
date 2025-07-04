@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Harder Light
+- "Harder Light"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/NA
-  - Ability/Categories/NA
-title: Harder Light
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/NA
+- Ability/Categories/NA
 ---
+
+  
 ## Harder Light  
 >**Enabler**
   

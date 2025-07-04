@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Fortification Builder
+- "Fortification Builder"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Low
-  - Ability/Categories/Craft
-title: Fortification Builder
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Low
+- Ability/Categories/Craft
 ---
+
+  
 ## Fortification Builder  
 >**Enabler**
   

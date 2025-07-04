@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Instant Servant
+- Instant Servant
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantastic
-title: Instant Servant
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantastic
 ---
+
+  
 ## Instant Servant  
 >[!info] Stats  
 > **Level:** 1d6  

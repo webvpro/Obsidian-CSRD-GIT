@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Shock Attack
+- Shock Attack
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantastic
-title: Shock Attack
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantastic
 ---
+
+  
 ## Shock Attack  
 >[!info] Stats  
 > **Level:** 1d6  

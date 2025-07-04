@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Condition Remover
+- Condition Remover
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantastic
-title: Condition Remover
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantastic
 ---
+
+  
 ## Condition Remover  
 >[!info] Stats  
 > **Level:** 1d6+3  

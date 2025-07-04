@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Go Defensive
+- "Go Defensive"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/1
-  - Ability/Tier/Low
-  - Ability/Pool/Intellect
-  - Ability/Categories/Protection
-title: Go Defensive
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/1
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Protection
 ---
+
+  
 ## Go Defensive  
 >**Enabler**  
 >1 Intellect point

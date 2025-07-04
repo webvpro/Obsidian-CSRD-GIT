@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Truth Binoculars
+- "Truth Binoculars"
 tags:
-  - Compendium/CSRD/en/Artifacts/Truth-Binoculars
-  - Artifact/Magical-Technology
-title: Truth Binoculars
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts/Truth-Binoculars
+- Artifact/Magical-Technology
 ---
+
+  
 ## Truth Binoculars 
 >[!info] Stats  
 > **Level:** 1d6+2  

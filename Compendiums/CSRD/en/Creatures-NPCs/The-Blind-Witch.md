@@ -1,17 +1,16 @@
 ---
 aliases:
-  - The Blind Witch
+- The Blind Witch
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/5
-  - Creature/Armor/0
-  - Creature/Health/null
-title: The Blind Witch
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/5
+- Creature/Armor/0
+- Creature/Health/null
 ---
+
+  
 ## The Blind Witch  
 The Blind Witch is skinny and always hungry. She lives deep in the forest in a house made of confectionery, which allows her to catch, fatten, and eventually eat any children unlucky enough to get caught in her trap.  
 

@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Demonflesh
+- Demonflesh
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fantasy
-title: Demonflesh
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fantasy
 ---
+
+  
 ## Demonflesh  
 >[!info] Stats  
 > **Level:** 1d6+1  

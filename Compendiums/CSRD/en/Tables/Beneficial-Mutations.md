@@ -1,13 +1,11 @@
 ---
-aliases:
-  - Beneficial Mutations Table
+aliases: 
+- 'Beneficial Mutations Table'
 tags:
-  - Compendium/CSRD/en/Tables
-  - Table/Mutation/Beneficial
-title: Beneficial Mutations Table
-collection: Tables
-kind: Compendium
+- Compendium/CSRD/en/Tables
+- Table/Mutation/Beneficial
 ---
+
 # D100 Beneficial Mutations  
 The following mutations do not require any visible changes or distinctions in the character. In other words, people who have these mutations are not obviously recognized as mutants. Using beneficial mutations never costs stat Pool points and never requires an action to “activate.”
 

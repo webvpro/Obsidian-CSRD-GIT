@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Anywhere Door
+- Anywhere Door
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Anywhere Door
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Anywhere Door  
 >[!info] Stats  
 > **Level:** 1d6+3  

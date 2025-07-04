@@ -1,13 +1,11 @@
 ---
 aliases:
-  - World Intrusions
+- World Intrusions
 tags:
-  - Compendiums/CSRD/en/Tables
-  - Table/Intrusion/World-Intrusions
-title: World Intrusions
-collection: Tables
-kind: Compendiums
+- Compendiums/CSRD/en/Tables
+- Table/Intrusion/World-Intrusions
 ---
+
 ## World Intrusions Table
 |  Roll &nbsp; &nbsp; | World Intrusions  |
 | ------------- | :----------- |

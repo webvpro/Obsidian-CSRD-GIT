@@ -1,15 +1,14 @@
 ---
 aliases:
-  - Ink (Flask)
+- "Ink (Flask)"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Fantasy
-  - Equipment/Utility-Gear
-  - Equipment/Value/10-Gp
-title: Ink (Flask)
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Fantasy
+- Equipment/Utility-Gear
+- Equipment/Value/10-Gp
 ---
+
+  
 ## Ink (Flask)  
   
 >  

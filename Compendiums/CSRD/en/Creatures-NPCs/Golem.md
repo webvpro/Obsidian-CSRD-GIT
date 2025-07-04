@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Golem
+- Golem
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/6
-  - Creature/Armor/5
-  - Creature/Health/30
-title: Golem
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/6
+- Creature/Armor/5
+- Creature/Health/30
 ---
+
+  
 ## Golem  
 Animate creatures of stone created by magic for a specific purpose, golems usually serve as guardians. However, they may also serve as soldiers, couriers, and banner-bearers. Golems that have accomplished their task may spend years without moving, like statuary posed in unexpected places-stained, eroded, and forlorn. But if disturbed, a golem rumbles back to movement and attempts to restart the last task assigned to it by its maker.  
 

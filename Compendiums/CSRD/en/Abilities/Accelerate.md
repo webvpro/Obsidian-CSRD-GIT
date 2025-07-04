@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Accelerate
+- "Accelerate"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/4
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Support
-title: Accelerate
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/4
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Support
 ---
+
+  
 ## Accelerate  
 >**Action**  
 >4+ Intellect points

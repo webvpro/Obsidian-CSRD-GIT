@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Tin Woodman
+- Tin Woodman
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/NPC
-  - Creature/Level/7
-  - Creature/Armor/4
-  - Creature/Health/21
-title: Tin Woodman
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/NPC
+- Creature/Level/7
+- Creature/Armor/4
+- Creature/Health/21
 ---
+
+  
 ## Tin Woodman  
 Once an ordinary woodman of flesh and blood named Nick Chopper, the Tin Woodman's story is a sad one. His beloved axe was enchanted by a wicked witch in order to keep him from his other true love (it's a long story, but suffice it to say that witches who are wicked do wicked things). His beloved axe turned on Nick Chopper, taking off one limb after another. A tinsmith kindly replaced Nick's missing body parts (except his heart) with tin prosthetics, but eventually nothing was left of the original human and he became the Tin Woodman.
 Note that the Tin Woodman will never tell you this story himself, for he has no heart and seeks only revenge: revenge upon the witch who cursed him, upon the tinsmith who did not replace his heart, upon the rain that rusts him. Someday, he will find all the original parts of himself, no matter who they belong to currently, so that he can return to his original form.  

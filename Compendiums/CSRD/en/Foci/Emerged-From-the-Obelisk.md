@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Emerged From the Obelisk
+- "Emerged From the Obelisk"
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/Irregular
-title: Emerged From the Obelisk
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci
+- Focus/Category/Irregular
 ---
+
+  
 ## Emerged From the Obelisk  
 Your body, hard as crystal, gives you a suite of unique abilities, gained after an interaction with a floating crystalline obelisk.  
 

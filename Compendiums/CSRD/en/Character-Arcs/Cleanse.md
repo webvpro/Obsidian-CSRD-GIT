@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Cleanse
-tags:
-  - Compendium/CSRD/en/Character-Arcs/Cleanse
-  - Character-Arc
-title: Cleanse
-collection: Character-Arcs
-kind: Compendium
+aliases: 
+- "Cleanse"
+tags: 
+- Compendium/CSRD/en/Character-Arcs/Cleanse
+- Character-Arc
 ---
 ## Cleanse
 >Someone or something has been contaminated, probably by evil spirits, radiation, a deadly virus, foul magic, or the like, and you want to rid them of such influences or contaminants. This could also be a curse, a possession, an infestation, or something else.

@@ -1,18 +1,16 @@
 ---
 aliases:
-  - Witch Lore
+- "Witch Lore"
 tags:
-  - Compendium/CSRD/en/Abilities/Witch-Lore
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/
-  - Ability/Tier/low
-  - Ability/Pool/Speed
-  - Ability/Categories/
-title: Witch Lore
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities/Witch-Lore
+- Ability
+- Ability/Enabler
+- Ability/Cost/
+- Ability/Tier/low
+- Ability/Pool/Speed
+- Ability/Categories/
 ---
+  
 ## Witch Lore                                                     
 >**Enabler**  
   

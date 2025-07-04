@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Machine Control
+- Machine Control
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantastic
-title: Machine Control
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantastic
 ---
+
+  
 ## Machine Control  
 >[!info] Stats  
 > **Level:** 1d6+2  

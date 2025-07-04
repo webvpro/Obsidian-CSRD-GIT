@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Body Armor, Lightweight
+- "Body Armor, Lightweight"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Advanced
-  - Equipment/Apparel-And-Armor
-  - Equipment/Science-Fiction
-  - Equipment/Level/4
-  - Equipment/Value/Expensive
-  - Equipment/Armor/Heavy
-title: Body Armor, Lightweight
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Advanced
+- Equipment/Apparel-And-Armor
+- Equipment/Science-Fiction
+- Equipment/Level/4
+- Equipment/Value/Expensive
+- Equipment/Armor/Heavy
 ---
+
+  
 ## Body Armor, Lightweight  
   
 >Functions as heavy armor (+3 Armor), encumbers as if wearing medium armor.  

@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Djinni
+- Djinni
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/7
-  - Creature/Armor/0
-  - Creature/Health/35
-title: Djinni
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/7
+- Creature/Armor/0
+- Creature/Health/35
 ---
+
+  
 ## Djinni  
 Djinn inhabit unseen dimensions beyond the visible universe. Just like normal creatures, djinn are individuals, and they can be good, evil, or unconcerned about the fates and doings of others.  
 

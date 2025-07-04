@@ -1,16 +1,15 @@
 ---
 aliases:
-  - Flail
+- "Flail"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Fantasy
-  - Equipment/Utility-Gear
-  - Equipment/Value/10-Gp
-  - Equipment/Weapon/Medium
-title: Flail
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Fantasy
+- Equipment/Utility-Gear
+- Equipment/Value/10-Gp
+- Equipment/Weapon/Medium
 ---
+
+  
 ## Flail  
   
 >A handle with a chain on one end and a ball or spiked ball at the end of the chain.  

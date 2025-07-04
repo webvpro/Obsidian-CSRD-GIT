@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Sniper Module
+- Sniper Module
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Manifest
-title: Sniper Module
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Manifest
 ---
+
+  
 ## Sniper Module  
 >[!info] Stats  
 > **Level:** 1d6  

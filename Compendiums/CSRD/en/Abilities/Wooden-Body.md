@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Wooden Body
+- "Wooden Body"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/1
-  - Ability/Tier/NA
-  - Ability/Pool/Might
-  - Ability/Categories/NA
-title: Wooden Body
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/1
+- Ability/Tier/NA
+- Ability/Pool/Might
+- Ability/Categories/NA
 ---
+
+  
 ## Wooden Body  
 >**Action**  
 >1+ Might points

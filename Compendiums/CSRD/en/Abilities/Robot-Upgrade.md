@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Robot Upgrade
+- "Robot Upgrade"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/NA
-  - Ability/Tier/Mid
-  - Ability/Categories/Craft
-title: Robot Upgrade
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/NA
+- Ability/Tier/Mid
+- Ability/Categories/Craft
 ---
+
+  
 ## Robot Upgrade  
 >**Action**
   

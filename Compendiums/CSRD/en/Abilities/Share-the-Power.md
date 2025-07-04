@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Share the Power
+- "Share the Power"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/High
-  - Ability/Categories/Cure
-title: Share the Power
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/High
+- Ability/Categories/Cure
 ---
+
+  
 ## Share the Power  
 >**Enabler**
   

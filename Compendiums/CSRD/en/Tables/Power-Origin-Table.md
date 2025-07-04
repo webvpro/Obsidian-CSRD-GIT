@@ -1,13 +1,11 @@
 ---
 aliases:
-  - Power Origin Table
+- "Power Origin Table"
 tags:
-  - Compendiums/CSRD/en/Tables
-  - Table
-title: Power Origin Table
-collection: Tables
-kind: Compendiums
+- Compendiums/CSRD/en/Tables
+- Table
 ---
+
 ## Power Origin Table
 |  d100 &nbsp; &nbsp; | Power Origin Table  |
 | ------------- | :----------- |

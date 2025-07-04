@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Devils and Tailors
+- Devils and Tailors
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fairy-Tale
-title: Devils and Tailors
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fairy-Tale
 ---
+
+  
 ## Devils and Tailors  
 >[!info] Stats  
 > **Level:** 1d6+2  

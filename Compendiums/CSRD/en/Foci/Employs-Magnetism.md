@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Employs Magnetism
+- "Employs Magnetism"
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/Environment-Manipulation
-title: Employs Magnetism
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci
+- Focus/Category/Environment-Manipulation
 ---
+
+  
 ## Employs Magnetism  
 You command metal and the power of magnetism.  
 

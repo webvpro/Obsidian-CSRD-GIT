@@ -1,20 +1,19 @@
 ---
 aliases:
-  - Flashlight
+- "Flashlight"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Science-Fiction
-  - Equipment/Utility-Gear
-  - Equipment/Value/Inexpensive
-  - Equipment/Contemporary
-  - Equipment/Modern
-  - Equipment/Utility-Gear
-  - Equipment/Level/1
-  - Equipment/Value/Inexpensive
-title: Flashlight
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Science-Fiction
+- Equipment/Utility-Gear
+- Equipment/Value/Inexpensive
+- Equipment/Contemporary
+- Equipment/Modern
+- Equipment/Utility-Gear
+- Equipment/Level/1
+- Equipment/Value/Inexpensive
 ---
+
+  
 ## Flashlight  
   
 >  

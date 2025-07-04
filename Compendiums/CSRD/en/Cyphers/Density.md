@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Density
+- Density
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Manifest
-title: Density
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Manifest
 ---
+
+  
 ## Density  
 >[!info] Stats  
 > **Level:** 1d6  

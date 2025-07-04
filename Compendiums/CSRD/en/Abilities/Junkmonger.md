@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Junkmonger
+- "Junkmonger"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/2
-  - Ability/Tier/Low
-  - Ability/Pool/Intellect
-  - Ability/Categories/Craft
-title: Junkmonger
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/2
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Craft
 ---
+
+  
 ## Junkmonger  
 >**Enabler**  
 >2 Intellect points

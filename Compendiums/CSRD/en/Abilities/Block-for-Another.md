@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Block for Another
+- "Block for Another"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/High
-  - Ability/Categories/Support
-title: Block for Another
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/High
+- Ability/Categories/Support
 ---
+
+  
 ## Block for Another  
 >**Enabler**
   

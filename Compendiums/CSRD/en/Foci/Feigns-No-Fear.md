@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Feigns No Fear
+- "Feigns No Fear"
 tags:
-  - Compendium/CSRD/en/Foci/Feigns-No-Fear
-  - Focus/Category/Fairytale
-title: Feigns No Fear
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci/Feigns-No-Fear
+- Focus/Category/Fairytale
 ---
+
+  
 ## Feigns No Fear
 Everyone thinks you’re brave, intrepid— fearless, even. They tell stories about you, the person who’s never felt fear, how you went out to seek what you see as an elusive emotion and never found it. But you know the truth. You may present yourself as someone who is fearless and courageous, but deep down, you are terrified of everything. Fear drives you, and in its face, you stand tall and shout the loudest. Because you are also afraid of being seen for who you truly are.
 

@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Hedge Magic
+- "Hedge Magic"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/1
-  - Ability/Tier/Low
-  - Ability/Pool/Intellect
-  - Ability/Categories/Environment
-title: Hedge Magic
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/1
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Environment
 ---
+
+  
 ## Hedge Magic  
 >**Action**  
 >1 Intellect point

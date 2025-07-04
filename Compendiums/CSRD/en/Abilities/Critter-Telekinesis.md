@@ -1,19 +1,18 @@
 ---
 aliases:
-  - Critter Telekinesis
+- "Critter Telekinesis"
 tags:
-  - Compendium/CSRD/en/Abilities/Critter-Telekinesis
-  - Ability
-  - Ability/Action
-  - Ability/Cost/1
-  - Ability/Tier/Low
-  - Ability/Pool/Intellect
-  - Ability/Categories/Magic
-  - Ability/Categories/Fantasy/Modern
-title: Critter Telekinesis
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities/Critter-Telekinesis
+- Ability
+- Ability/Action
+- Ability/Cost/1
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Magic
+- Ability/Categories/Fantasy/Modern
 ---
+
+  
 ## Critter Telekinesis
 >**Action**  
 >1 Intellect point

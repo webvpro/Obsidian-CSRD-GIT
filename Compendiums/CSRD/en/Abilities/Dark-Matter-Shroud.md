@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Dark Matter Shroud
+- "Dark Matter Shroud"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/4
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Protection
-title: Dark Matter Shroud
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/4
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Protection
 ---
+
+  
 ## Dark Matter Shroud  
 >**Action**  
 >4 Intellect points

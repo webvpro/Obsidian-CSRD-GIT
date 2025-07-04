@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Regenerate Other
+- "Regenerate Other"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/9
-  - Ability/Tier/High
-  - Ability/Pool/Might
-  - Ability/Categories/Support
-title: Regenerate Other
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/9
+- Ability/Tier/High
+- Ability/Pool/Might
+- Ability/Categories/Support
 ---
+
+  
 ## Regenerate Other  
 >**Action**  
 >9 Might points

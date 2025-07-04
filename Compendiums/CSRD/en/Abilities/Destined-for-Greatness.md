@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Destined for Greatness
+- "Destined for Greatness"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Low
-  - Ability/Categories/Cure
-title: Destined for Greatness
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Low
+- Ability/Categories/Cure
 ---
+
+  
 ## Destined for Greatness  
 >**Enabler**
   

@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Punish All the Guilty
+- "Punish All the Guilty"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/3
-  - Ability/Tier/High
-  - Ability/Pool/Speed
-  - Ability/Categories/Special-Attack
-title: Punish All the Guilty
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/3
+- Ability/Tier/High
+- Ability/Pool/Speed
+- Ability/Categories/Special-Attack
 ---
+
+  
 ## Punish All the Guilty  
 >**Action**  
 >3 Speed points

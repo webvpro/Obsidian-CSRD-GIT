@@ -1,16 +1,15 @@
 ---
 aliases:
-  - Sword (Jeweled)
+- "Sword (Jeweled)"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Fantasy
-  - Equipment/Utility-Gear
-  - Equipment/Value/Very-Expensive
-  - Equipment/Weapon/Medium
-title: Sword (Jeweled)
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Fantasy
+- Equipment/Utility-Gear
+- Equipment/Value/Very-Expensive
+- Equipment/Weapon/Medium
 ---
+
+  
 ## Sword (Jeweled)  
   
 >  

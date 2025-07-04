@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Dimensional Modulator
+- Dimensional Modulator
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Science-Fiction
-title: Dimensional Modulator
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Science-Fiction
 ---
+
+  
 ## Dimensional Modulator  
 >[!info] Stats  
 > **Level:** 1d6+3  

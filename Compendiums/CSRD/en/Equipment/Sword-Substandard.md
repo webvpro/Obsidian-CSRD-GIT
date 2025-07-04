@@ -1,16 +1,15 @@
 ---
 aliases:
-  - Sword (Substandard)
+- "Sword (Substandard)"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Fantasy
-  - Equipment/Utility-Gear
-  - Equipment/Value/Moderate
-  - Equipment/Weapon/Medium
-title: Sword (Substandard)
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Fantasy
+- Equipment/Utility-Gear
+- Equipment/Value/Moderate
+- Equipment/Weapon/Medium
 ---
+
+  
 ## Sword (Substandard)  
   
 >won't last long  

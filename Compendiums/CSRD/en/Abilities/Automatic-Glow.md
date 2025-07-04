@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Automatic Glow
+- "Automatic Glow"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/NA
-  - Ability/Categories/NA
-title: Automatic Glow
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/NA
+- Ability/Categories/NA
 ---
+
+  
 ## Automatic Glow  
 >**Enabler**
   

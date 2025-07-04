@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Strength Enhancer
+- Strength Enhancer
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Subtle
-title: Strength Enhancer
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Subtle
 ---
+
+  
 ## Strength Enhancer  
 >[!info] Stats  
 > **Level:** 1d6  

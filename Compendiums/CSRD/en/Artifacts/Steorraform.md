@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Steorraform
+- Steorraform
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Science-Fiction
-title: Steorraform
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Science-Fiction
 ---
+
+  
 ## Steorraform  
 >[!info] Stats  
 > **Level:** 1d6+3  

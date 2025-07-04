@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Mist Form
+- "Mist Form"
 tags:
-  - Compendium/CSRD/en/Abilities/Mist-Form
-  - Ability
-  - Ability/Action
-  - Ability/Cost/4
-  - Ability/Tier/Low
-  - Ability/Pool/Intellect
-  - Ability/Categories/
-title: Mist Form
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities/Mist-Form
+- Ability
+- Ability/Action
+- Ability/Cost/4
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/
 ---
+
+  
 ## Mist Form  
 >**Action**  
 >4 Intellect points

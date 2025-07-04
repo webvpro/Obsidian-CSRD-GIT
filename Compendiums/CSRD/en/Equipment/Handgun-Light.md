@@ -1,24 +1,23 @@
 ---
 aliases:
-  - Handgun, Light
+- "Handgun, Light"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Post-Apocalyptic
-  - Equipment/Utility-Gear
-  - Equipment/Value/Expensive
-  - Equipment/Weapon/Light
-  - Equipment/Range/Short
-  - Equipment/Armament
-  - Equipment/Contemporary
-  - Equipment/Modern
-  - Equipment/Level/2
-  - Equipment/Value/Expensive
-  - Equipment/Weapon/Light
-  - Equipment/Range/Short
-title: Handgun, Light
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Post-Apocalyptic
+- Equipment/Utility-Gear
+- Equipment/Value/Expensive
+- Equipment/Weapon/Light
+- Equipment/Range/Short
+- Equipment/Armament
+- Equipment/Contemporary
+- Equipment/Modern
+- Equipment/Level/2
+- Equipment/Value/Expensive
+- Equipment/Weapon/Light
+- Equipment/Range/Short
 ---
+
+  
 ## Handgun, Light  
   
 >  

@@ -1,18 +1,16 @@
 ---
 aliases:
-  - Improved Witch BAne
+- "Improved Witch BAne"
 tags:
-  - Compendium/CSRD/en/Abilities/Improved-Witch-Bane
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/
-  - Ability/Tier/low
-  - Ability/Pool/Speed
-  - Ability/Categories/
-title: Improved Witch BAne
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities/Improved-Witch-Bane
+- Ability
+- Ability/Enabler
+- Ability/Cost/
+- Ability/Tier/low
+- Ability/Pool/Speed
+- Ability/Categories/
 ---
+  
 ## Improved Witch Bane                                                    
 >**Enabler**  
   

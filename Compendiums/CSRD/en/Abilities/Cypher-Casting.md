@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Cypher Casting
+- "Cypher Casting"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/NA
-  - Ability/Categories/NA
-title: Cypher Casting
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/NA
+- Ability/Categories/NA
 ---
+
+  
 ## Cypher Casting  
 >**Enabler**
   

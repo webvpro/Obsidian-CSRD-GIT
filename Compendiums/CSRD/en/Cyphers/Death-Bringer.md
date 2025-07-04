@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Death Bringer
+- Death Bringer
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Manifest
-title: Death Bringer
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Manifest
 ---
+
+  
 ## Death Bringer  
 >[!info] Stats  
 > **Level:** 1d6  

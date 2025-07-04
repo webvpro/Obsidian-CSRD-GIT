@@ -1,19 +1,18 @@
 ---
 aliases:
-  - Magnification
+- "Magnification"
 tags:
-  - Compendium/CSRD/en/Abilities/Magnification
-  - Ability
-  - Ability/Action
-  - Ability/Cost/1
-  - Ability/Tier/Low
-  - Ability/Pool/Intellect
-  - Ability/Categories/Magic
-  - Ability/Categories/Fantasy/Modern
-title: Magnification
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities/Magnification
+- Ability
+- Ability/Action
+- Ability/Cost/1
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Magic
+- Ability/Categories/Fantasy/Modern
 ---
+
+  
 ## Magnification
 >**Action**  
 >1 Intellect point

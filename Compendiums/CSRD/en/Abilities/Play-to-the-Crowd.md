@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Play to the Crowd
+- "Play to the Crowd"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/3
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Support
-title: Play to the Crowd
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/3
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Support
 ---
+
+  
 ## Play to the Crowd  
 >**Action**  
 >3 Intellect points

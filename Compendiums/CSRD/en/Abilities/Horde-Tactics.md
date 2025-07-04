@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Horde Tactics
+- "Horde Tactics"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/7
-  - Ability/Tier/High
-  - Ability/Pool/Might
-  - Ability/Categories/Meta
-title: Horde Tactics
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/7
+- Ability/Tier/High
+- Ability/Pool/Might
+- Ability/Categories/Meta
 ---
+
+  
 ## Horde Tactics  
 >**Enabler**  
 >7 Might points

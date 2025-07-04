@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Drain Power
+- "Drain Power"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/5
-  - Ability/Tier/High
-  - Ability/Pool/Speed
-  - Ability/Categories/Special-Attack
-title: Drain Power
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/5
+- Ability/Tier/High
+- Ability/Pool/Speed
+- Ability/Categories/Special-Attack
 ---
+
+  
 ## Drain Power  
 >**Action**  
 >5 Speed points

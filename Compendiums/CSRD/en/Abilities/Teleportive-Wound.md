@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Teleportive Wound
+- "Teleportive Wound"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/7
-  - Ability/Tier/NA
-  - Ability/Pool/Intellect
-  - Ability/Categories/NA
-title: Teleportive Wound
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/7
+- Ability/Tier/NA
+- Ability/Pool/Intellect
+- Ability/Categories/NA
 ---
+
+  
 ## Teleportive Wound  
 >**Action**  
 >7+ Intellect points

@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Phase Detonation
+- "Phase Detonation"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/2
-  - Ability/Tier/Mid
-  - Ability/Pool/Might
-  - Ability/Categories/Special-Attack
-title: Phase Detonation
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/2
+- Ability/Tier/Mid
+- Ability/Pool/Might
+- Ability/Categories/Special-Attack
 ---
+
+  
 ## Phase Detonation  
 >**Enabler**  
 >2+ Might points

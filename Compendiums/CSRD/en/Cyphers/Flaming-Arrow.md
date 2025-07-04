@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Flaming Arrow
+- Flaming Arrow
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Flaming Arrow
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Flaming Arrow  
 >[!info] Stats  
 > **Level:** 1d6+2  

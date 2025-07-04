@@ -1,11 +1,9 @@
 ---
-aliases: Horror Rules Module
-tags:
-  - Compendium/CSRD/en/Rules/Horror-Rules-Module
-title: H
-collection: Rules
-kind: Compendium
+aliases: "Horror Rules Module"
+tags: 
+- Compendium/CSRD/en/Rules/Horror-Rules-Module
 ---
+
 # Horror Rules Module
 Although it’s very likely a subset of the modern genre, horror as a genre gets special treatment. Unlike the other genres, horror doesn’t necessarily suggest a setting. Any setting can be horrific. Horror is more of a style. An approach. A mood.
 

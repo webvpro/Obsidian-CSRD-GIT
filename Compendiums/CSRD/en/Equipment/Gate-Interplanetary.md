@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Gate, Interplanetary
+- "Gate, Interplanetary"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Fantastic
-  - Equipment/Science-Fiction
-  - Equipment/Stellar-Gate
-  - Equipment/Level/4
-  - Equipment/Value/Priceless
-title: Gate, Interplanetary
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Fantastic
+- Equipment/Science-Fiction
+- Equipment/Stellar-Gate
+- Equipment/Level/4
+- Equipment/Value/Priceless
 ---
+
+  
 ## Gate, Interplanetary  
   
 >As planetary gate, but twice as large and connects gate structures that lie between locations within a single solar system.  

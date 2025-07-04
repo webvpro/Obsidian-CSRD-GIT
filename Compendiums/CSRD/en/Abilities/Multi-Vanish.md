@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Multi-Vanish
+- "Multi-Vanish"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/4
-  - Ability/Tier/NA
-  - Ability/Pool/Intellect
-  - Ability/Categories/NA
-title: Multi-Vanish
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/4
+- Ability/Tier/NA
+- Ability/Pool/Intellect
+- Ability/Categories/NA
 ---
+
+  
 ## Multi-Vanish  
 >**Action**  
 >4+ Intellect points

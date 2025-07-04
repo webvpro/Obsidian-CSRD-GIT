@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Queen Grimhilde
+- Queen Grimhilde
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/8
-  - Creature/Armor/2
-  - Creature/Health/18
-title: Queen Grimhilde
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/8
+- Creature/Armor/2
+- Creature/Health/18
 ---
+
+  
 ## Queen Grimhilde  
 Perhaps best known for her attempts to kill Snow White through magic and poison, Grimhilde has other passions and talents as well. She seeks ways to make all beings obey her commands, starting with the huntsman who so stupidly and willfully deceived her so long ago.  
 

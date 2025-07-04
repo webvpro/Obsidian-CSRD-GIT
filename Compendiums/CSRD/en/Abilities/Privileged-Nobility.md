@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Privileged Nobility
+- "Privileged Nobility"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Low
-  - Ability/Categories/Social
-  - Ability/Categories/Task
-title: Privileged Nobility
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Low
+- Ability/Categories/Social
+- Ability/Categories/Task
 ---
+
+  
 ## Privileged Nobility  
 >**Enabler**
   

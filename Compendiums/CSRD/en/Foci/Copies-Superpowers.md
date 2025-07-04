@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Copies Superpowers
+- "Copies Superpowers"
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/
-title: Copies Superpowers
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci
+- Focus/Category/
 ---
+
+  
 ## Copies Superpowers  
 You can copy others' skills, abilities, and superpowers.  
 

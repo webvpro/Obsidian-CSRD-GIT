@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Master Magical Programmer
+- "Master Magical Programmer"
 tags:
-  - Compendium/CSRD/en/Abilities/Master-Magical-Programmer
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/NA
-  - Ability/Categories/NA
-title: Master Magical Programmer
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities/Master-Magical-Programmer
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/NA
+- Ability/Categories/NA
 ---
+
+  
 ## Master Magical Programmer 
 >**Enabler**
   

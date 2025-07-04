@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Will of a Leader
+- "Will of a Leader"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/9
-  - Ability/Tier/High
-  - Ability/Pool/Intellect
-  - Ability/Categories/Support
-title: Will of a Leader
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/9
+- Ability/Tier/High
+- Ability/Pool/Intellect
+- Ability/Categories/Support
 ---
+
+  
 ## Will of a Leader  
 >**Action**  
 >9 Intellect points

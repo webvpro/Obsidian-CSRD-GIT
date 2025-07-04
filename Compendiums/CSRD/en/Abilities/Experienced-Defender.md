@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Experienced Defender
+- "Experienced Defender"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Mid
-  - Ability/Categories/Protection
-title: Experienced Defender
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Mid
+- Ability/Categories/Protection
 ---
+
+  
 ## Experienced Defender  
 >**Enabler**
   

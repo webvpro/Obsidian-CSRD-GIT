@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Resilience
+- "Resilience"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Mid
-  - Ability/Categories/Protection
-title: Resilience
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Mid
+- Ability/Categories/Protection
 ---
+
+  
 ## Resilience  
 >**Enabler**
   

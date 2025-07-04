@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Giant Rat
+- Giant Rat
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/3
-  - Creature/Armor/0
-  - Creature/Health/18
-title: Giant Rat
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/3
+- Creature/Armor/0
+- Creature/Health/18
 ---
+
+  
 ## Giant Rat  
 Giant rats are as large as big attack dogs, just as vicious, and more wily. Some giant rats are the lone matriarchs of a pack of ordinary level 1 rats, and others are just one of several making up a colony of oversized rodents. Like their smaller cousins, giant rats are known for harboring virulent disease.  
 

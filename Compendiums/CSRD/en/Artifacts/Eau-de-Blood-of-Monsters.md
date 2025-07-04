@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Eau de Blood of Monsters
+- "Eau de Blood of Monsters"
 tags:
-  - Compendium/CSRD/en/Artifacts/Eau-de-Blood-of-Monsters
-  - Artifact
-  - Artifact/Modern-Fantasy
-title: Eau de Blood of Monsters
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts/Eau-de-Blood-of-Monsters
+- Artifact
+- Artifact/Modern-Fantasy
 ---
+
+  
 ## Eau de Blood of Monsters
 >1d6 +4
 #### Form

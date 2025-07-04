@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Orc
+- Orc
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/2
-  - Creature/Armor/2
-  - Creature/Health/7
-title: Orc
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/2
+- Creature/Armor/2
+- Creature/Health/7
 ---
+
+  
 ## Orc  
 Born into squalor and fear, the orc species is composed of miserable, misbegotten humanoids that seem destined to serve as fodder for more powerful evil overlords. When left to their own devices, these loathsome creatures turn on each other, the strongest oppressing the next weakest (and so on down the line) with cruel barbs, gruesome jokes, and physical beatings. When these creatures have no masters to hate, they hate themselves.
 No two orcs look exactly alike, but all have a mean, ugly, and shambolic facade. Never clean and often spattered with the remains of recent meals, orcs have a mouthful of sharp, broken teeth that can develop into true fangs. Adults range in height from no larger than a human child to massive specimens larger than a strapping man. Whether big or small, nearly all orcs have stooped backs and crooked legs. The hue of their skin is hard to ascertain, because they are covered by the sediment of years, not to mention the iron armor every orc constantly wears from the moment it's able to lift a weapon.  

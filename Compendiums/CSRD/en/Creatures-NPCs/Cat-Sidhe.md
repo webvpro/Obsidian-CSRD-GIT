@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Cat Sidhe
+- Cat Sidhe
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/4
-  - Creature/Armor/0
-  - Creature/Health/15
-title: Cat Sidhe
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/4
+- Creature/Armor/0
+- Creature/Health/15
 ---
+
+  
 ## Cat Sidhe  
 Cat sidhes, sometimes called phantom cats, are dog-sized felines that were once witches and now have shifted permanently into cat form. They're all black except for a single white symbol on their chest, which is their name.
 When cat sidhes form (because a witch has turned themselves into a cat for the ninth time), they gain nine tails. Each time a cat sidhe would be killed, they can choose to lose one of their tails instead. Once a cat sidhe has no more tails remaining, their death is final. While cat sidhes inflict damage with their soul-stealing attacks, the roleplaying element of a character losing part of their soul is possibly more important than the game effect. Consider removing something from the character that will affect them in interesting and unusual ways.  

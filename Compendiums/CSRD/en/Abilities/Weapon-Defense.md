@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Weapon Defense
+- "Weapon Defense"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Low
-  - Ability/Categories/Protection
-title: Weapon Defense
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Low
+- Ability/Categories/Protection
 ---
+
+  
 ## Weapon Defense  
 >**Enabler**
   

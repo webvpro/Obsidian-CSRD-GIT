@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Protection Amulet
+- Protection Amulet
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fantasy
-title: Protection Amulet
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fantasy
 ---
+
+  
 ## Protection Amulet  
 >[!info] Stats  
 > **Level:** 1d6  

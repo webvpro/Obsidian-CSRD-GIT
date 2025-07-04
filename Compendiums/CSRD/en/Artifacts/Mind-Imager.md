@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Mind Imager
+- Mind Imager
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Science-Fiction
-title: Mind Imager
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Science-Fiction
 ---
+
+  
 ## Mind Imager  
 >[!info] Stats  
 > **Level:** 1d6+2  

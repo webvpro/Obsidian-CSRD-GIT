@@ -1,13 +1,11 @@
 ---
 aliases:
-  - Interaction Intrusions
+- Interaction Intrusions
 tags:
-  - Compendiums/CSRD/en/Tables
-  - Table/Intrusion/Interaction-Intrusions
-title: Interaction Intrusions
-collection: Tables
-kind: Compendiums
+- Compendiums/CSRD/en/Tables
+- Table/Intrusion/Interaction-Intrusions
 ---
+
 ## Interaction Intrusions Table
 |  Roll &nbsp; &nbsp; | Interaction Intrusions  |
 | ------------- | :----------- |

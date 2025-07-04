@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Still As a Statue
+- "Still As a Statue"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/5
-  - Ability/Tier/High
-  - Ability/Pool/Might
-  - Ability/Categories/Protection
-title: Still As a Statue
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/5
+- Ability/Tier/High
+- Ability/Pool/Might
+- Ability/Categories/Protection
 ---
+
+  
 ## Still As a Statue  
 >**Action**  
 >5 Might points

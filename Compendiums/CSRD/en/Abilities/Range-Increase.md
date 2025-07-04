@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Range Increase
+- "Range Increase"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Low
-  - Ability/Categories/Meta
-title: Range Increase
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Low
+- Ability/Categories/Meta
 ---
+
+  
 ## Range Increase  
 >**Enabler**
   

@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Sense Attitudes
+- "Sense Attitudes"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Low
-  - Ability/Categories/Task
-title: Sense Attitudes
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Low
+- Ability/Categories/Task
 ---
+
+  
 ## Sense Attitudes  
 >**Enabler**
   

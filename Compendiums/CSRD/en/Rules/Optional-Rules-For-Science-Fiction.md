@@ -1,16 +1,14 @@
 ---
 aliases:
-  - Optional Rules For Science Fiction
-  - Sci-Fi
-  - Science Fiction
+- "Optional Rules For Science Fiction"
+- "Sci-Fi"
+- "Science Fiction"  
 tags:
-  - Compendium/CSRD/en/Rules/Optional/Science-Fiction
-  - /Rules/Optional/Science-Fiction/Harder
-  - - /Rules/Optional/Science-Fiction/Ftl
-title: Optional Rules For Science Fiction
-collection: Rules
-kind: Compendium
+- Compendium/CSRD/en/Rules/Optional/Science-Fiction
+- /Rules/Optional/Science-Fiction/Harder
+- - /Rules/Optional/Science-Fiction/Ftl
 ---
+
 ## Optional Rules For Science Fiction  
 > [!info] Establishing a Technology Rating  
 > Every science fiction setting has an implicit level of advancement, which is the average degree of technological sophistication available to most characters. This sophistication lies along a spectrum, from contemporary, to advanced, all the way to fantastic. Each of these terms specifies a particular “technology rating” (or “tech rating” for short).   

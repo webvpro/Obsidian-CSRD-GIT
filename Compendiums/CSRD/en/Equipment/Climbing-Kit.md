@@ -1,15 +1,14 @@
 ---
 aliases:
-  - Climbing Kit
+- "Climbing Kit"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Fantasy
-  - Equipment/Utility-Gear
-  - Equipment/Value/25-Gp
-title: Climbing Kit
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Fantasy
+- Equipment/Utility-Gear
+- Equipment/Value/25-Gp
 ---
+
+  
 ## Climbing Kit  
   
 >A set of crampons, pitons, ropes, and tools. Provides an asset on climbing tasks.  

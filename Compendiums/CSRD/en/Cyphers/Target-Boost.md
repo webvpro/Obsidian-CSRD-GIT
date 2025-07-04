@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Target Boost
+- Target Boost
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Power-Boost
-title: Target Boost
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Power-Boost
 ---
+
+  
 ## Target Boost  
 >[!info] Stats  
 > **Level:** 1d6+2  

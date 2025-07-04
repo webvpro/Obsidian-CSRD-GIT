@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Hard Target
+- "Hard Target"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/High
-  - Ability/Categories/Protection
-title: Hard Target
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/High
+- Ability/Categories/Protection
 ---
+
+  
 ## Hard Target  
 >**Enabler**
   

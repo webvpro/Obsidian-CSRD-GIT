@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Self-Extending Rope
+- "Self-Extending Rope"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Advanced
-  - Equipment/Science-Fiction
-  - Equipment/Utility-Gear
-  - Equipment/Level/4
-  - Equipment/Value/Expensive
-title: Self-Extending Rope
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Advanced
+- Equipment/Science-Fiction
+- Equipment/Utility-Gear
+- Equipment/Level/4
+- Equipment/Value/Expensive
 ---
+
+  
 ## Self-Extending Rope  
   
 >Mechanism prints fiber on the fly, allowing the rope to extend over 300 m (1,000 feet).  

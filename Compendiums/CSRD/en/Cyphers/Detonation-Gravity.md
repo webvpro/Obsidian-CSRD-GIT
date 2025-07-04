@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Detonation Gravity
+- Detonation Gravity
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantastic
-title: Detonation Gravity
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantastic
 ---
+
+  
 ## Detonation Gravity  
 >[!info] Stats  
 > **Level:** 1d6+2  

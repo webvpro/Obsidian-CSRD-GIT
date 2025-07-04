@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Staff of Healing
+- Staff of Healing
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fantasy
-title: Staff of Healing
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fantasy
 ---
+
+  
 ## Staff of Healing  
 >[!info] Stats  
 > **Level:** 1d6+4  

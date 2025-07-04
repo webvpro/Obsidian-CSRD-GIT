@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Lycanthrope Ward
+- Lycanthrope Ward
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantasy
-title: Lycanthrope Ward
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantasy
 ---
+
+  
 ## Lycanthrope Ward  
 >[!info] Stats  
 > **Level:** 1d6  

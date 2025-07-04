@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Magnetic Shield
+- Magnetic Shield
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantastic
-title: Magnetic Shield
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantastic
 ---
+
+  
 ## Magnetic Shield  
 >[!info] Stats  
 > **Level:** 1d6+2  

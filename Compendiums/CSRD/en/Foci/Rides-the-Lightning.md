@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Rides the Lightning
+- "Rides the Lightning"
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/Energy-Manipulation
-title: Rides the Lightning
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci
+- Focus/Category/Energy-Manipulation
 ---
+
+  
 ## Rides the Lightning  
 You create and discharge electrical power.  
 

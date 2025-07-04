@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Healing Pulse
+- "Healing Pulse"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/3
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Cure
-title: Healing Pulse
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/3
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Cure
 ---
+
+  
 ## Healing Pulse  
 >**Action**  
 >3 Intellect points

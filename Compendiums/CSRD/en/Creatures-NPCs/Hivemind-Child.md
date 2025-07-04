@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Hivemind Child
+- Hivemind Child
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/2
-  - Creature/Armor/0
-  - Creature/Health/6
-title: Hivemind Child
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/2
+- Creature/Armor/0
+- Creature/Health/6
 ---
+
+  
 ## Hivemind Child  
 A hivemind family is a scouting expedition of part-alien creatures sent to study and infiltrate human society, either out of scientific curiosity or as a long-term plan for world domination or human extinction. Some entities might intercept human astronauts, reprogramming their DNA or attaching a parasite to their mind or soul. Others might send a machine to
 an isolated community, remotely impregnating some of the inhabitants to gestate and give birth at the same time. The end result is a group of hivemind children who have a psychic link, unusual powers, and loyalty to their inhuman creators.

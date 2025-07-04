@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Terahertz Scanner
+- Terahertz Scanner
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Post-Apocalyptic
-title: Terahertz Scanner
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Post-Apocalyptic
 ---
+
+  
 ## Terahertz Scanner  
 >[!info] Stats  
 > **Level:** 1d6+1  

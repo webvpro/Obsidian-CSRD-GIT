@@ -1,19 +1,18 @@
 ---
 aliases:
-  - Ghost
+- "Ghost"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/4
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Movement
-  - Ability/Categories/Task
-title: Ghost
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/4
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Movement
+- Ability/Categories/Task
 ---
+
+  
 ## Ghost  
 >**Action**  
 >4 Intellect points

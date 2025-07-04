@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Seven-League Boots
+- Seven-League Boots
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fairy-Tale
-title: Seven-League Boots
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fairy-Tale
 ---
+
+  
 ## Seven-League Boots  
 >[!info] Stats  
 > **Level:** 1d6+3  

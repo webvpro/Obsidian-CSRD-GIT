@@ -1,14 +1,12 @@
 ---
-aliases: Fantasy Rules Module
-tags:
-  - Compendium/CSRD/en/Rules/Fantasy-Rules-Module
-  - Rule/Crafting/Magic-Items
-  - Rule/Crafting/Cypher
-  - Rule/Crafting/Artifacts
-title: F
-collection: Rules
-kind: Compendium
+aliases: "Fantasy Rules Module"
+tags: 
+- Compendium/CSRD/en/Rules/Fantasy-Rules-Module
+- Rule/Crafting/Magic-Items
+- Rule/Crafting/Cypher
+- Rule/Crafting/Artifacts
 ---
+
 # Fantasy Rules Module
 
 ## Awarding Treasure

@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Medium Teleportation
+- "Medium Teleportation"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/5
-  - Ability/Tier/NA
-  - Ability/Pool/Intellect
-  - Ability/Categories/NA
-title: Medium Teleportation
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/5
+- Ability/Tier/NA
+- Ability/Pool/Intellect
+- Ability/Categories/NA
 ---
+
+  
 ## Medium Teleportation  
 >**Action**  
 >5+ Intellect points

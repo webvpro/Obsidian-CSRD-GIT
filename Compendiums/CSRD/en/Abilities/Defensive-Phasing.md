@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Defensive Phasing
+- "Defensive Phasing"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/2
-  - Ability/Tier/Low
-  - Ability/Pool/Intellect
-  - Ability/Categories/Protection
-title: Defensive Phasing
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/2
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Protection
 ---
+
+  
 ## Defensive Phasing  
 >**Action**  
 >2 Intellect points

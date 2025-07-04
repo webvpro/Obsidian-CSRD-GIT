@@ -1,15 +1,14 @@
 ---
 aliases:
-  - Iron Spikes (10)
+- "Iron Spikes (10)"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Fantasy
-  - Equipment/Utility-Gear
-  - Equipment/Value/1-Gp
-title: Iron Spikes (10)
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Fantasy
+- Equipment/Utility-Gear
+- Equipment/Value/1-Gp
 ---
+
+  
 ## Iron Spikes (10)  
   
 >  

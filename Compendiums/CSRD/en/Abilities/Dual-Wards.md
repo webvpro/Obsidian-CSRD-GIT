@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Dual Wards
+- "Dual Wards"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Mid
-  - Ability/Categories/Support
-title: Dual Wards
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Mid
+- Ability/Categories/Support
 ---
+
+  
 ## Dual Wards  
 >**Enabler**
   

@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Coil of Endless Rope
+- Coil of Endless Rope
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fantasy
-title: Coil of Endless Rope
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fantasy
 ---
+
+  
 ## Coil of Endless Rope  
 >[!info] Stats  
 > **Level:** 1d6  

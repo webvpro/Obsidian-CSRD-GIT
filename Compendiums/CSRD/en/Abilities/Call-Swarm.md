@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Call Swarm
+- "Call Swarm"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/4
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Companion
-title: Call Swarm
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/4
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Companion
 ---
+
+  
 ## Call Swarm  
 >**Action**  
 >4 Intellect points

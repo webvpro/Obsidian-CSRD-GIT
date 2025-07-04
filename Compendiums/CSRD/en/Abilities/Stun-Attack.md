@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Stun Attack
+- "Stun Attack"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/6
-  - Ability/Tier/High
-  - Ability/Pool/Speed
-  - Ability/Categories/Special-Attack
-title: Stun Attack
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/6
+- Ability/Tier/High
+- Ability/Pool/Speed
+- Ability/Categories/Special-Attack
 ---
+
+  
 ## Stun Attack  
 >**Action**  
 >6 Speed points

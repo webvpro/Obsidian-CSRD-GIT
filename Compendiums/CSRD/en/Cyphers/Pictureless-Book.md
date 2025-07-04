@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Pictureless Book
+- Pictureless Book
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Pictureless Book
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Pictureless Book  
 >[!info] Stats  
 > **Level:** 1d6  

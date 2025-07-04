@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Monster Lore
+- "Monster Lore"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Low
-  - Ability/Categories/Information
-  - Ability/Categories/Task
-title: Monster Lore
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Low
+- Ability/Categories/Information
+- Ability/Categories/Task
 ---
+
+  
 ## Monster Lore  
 >**Enabler**
   

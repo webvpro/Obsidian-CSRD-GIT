@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Cannibal
+- Cannibal
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/NPC
-  - Creature/Level/3
-  - Creature/Armor/0
-  - Creature/Health/12
-title: Cannibal
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/NPC
+- Creature/Level/3
+- Creature/Armor/0
+- Creature/Health/12
 ---
+
+  
 ## Cannibal  
 A cannibal is someone who has decided that eating other people is not only necessary but desirable. Whether this decision was forced by circumstance or made out of some secret, maladaptive urge, cannibals are dangerous because they hide in plain sight, pretending friendship and aid for strangers until their prey lowers their guard. That's when a cannibal strikes. Some cannibals like it raw; others delight in elaborate preparations.  
 

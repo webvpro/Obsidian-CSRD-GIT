@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Reality Spike
+- Reality Spike
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantastic
-title: Reality Spike
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantastic
 ---
+
+  
 ## Reality Spike  
 >[!info] Stats  
 > **Level:** 1d6+4  

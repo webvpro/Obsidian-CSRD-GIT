@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Vorpal Sword
+- Vorpal Sword
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fantasy
-title: Vorpal Sword
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fantasy
 ---
+
+  
 ## Vorpal Sword  
 >[!info] Stats  
 > **Level:** 1d6+3  

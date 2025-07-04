@@ -1,13 +1,11 @@
 ---
 aliases:
-  - Subtle
+- Subtle
 tags:
-  - Compendiums/CSRD/en/Tables
-  - Table/Cypher/Subtle
-title: Subtle
-collection: Tables
-kind: Compendiums
+- Compendiums/CSRD/en/Tables
+- Table/Cypher/Subtle
 ---
+
 ## Subtle Table
 |  Roll &nbsp; &nbsp; | Subtle  |
 | ------------- | :----------- |

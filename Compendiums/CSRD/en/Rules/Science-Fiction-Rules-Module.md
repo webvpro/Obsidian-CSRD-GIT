@@ -1,13 +1,11 @@
 ---
 aliases:
-  - Science Fiction Rules Module
+- "Science Fiction Rules Module"
 tags:
-  - Compendium/CSRD/en/Rules/Optional/Science-Fiction-Rules-Module
-  - '-Genere/Sci-Fi'
-title: Science Fiction Rules Module
-collection: Rules
-kind: Compendium
+- Compendium/CSRD/en/Rules/Optional/Science-Fiction-Rules-Module
+- -Genere/Sci-Fi
 ---
+
 # Science Fiction Rules Module
 Science fiction is an incredibly broad category. It covers UFOs, space opera, near-future dystopias, otherworldly epics, hard science fiction, and everything in between. Even when compared to fantasy, science fiction is so wide that it almost isn’t a single genre at all. Truthfully, there’s not all that much to tie, say, The Time Machine by H. G. Wells with a dark cyberpunk story except for the technology involved, which is at a higher level than we possess or understand today. But even that part of science fiction is contentious. Should the science be purely that which obeys the laws of physics as we understand them today (often called hard science fiction), or is it more of an “anything goes” proposition? Is science we can’t explain really just magic?
 

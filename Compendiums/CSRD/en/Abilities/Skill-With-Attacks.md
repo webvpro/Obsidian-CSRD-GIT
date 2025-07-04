@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Skill With Attacks
+- "Skill With Attacks"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Mid
-  - Ability/Categories/Attack-Skill
-  - Ability/Categories/Task
-title: Skill With Attacks
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Mid
+- Ability/Categories/Attack-Skill
+- Ability/Categories/Task
 ---
+
+  
 ## Skill With Attacks  
 >**Enabler**
   

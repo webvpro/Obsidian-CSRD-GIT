@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Bound Magic Creature
+- "Bound Magic Creature"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/NA
-  - Ability/Tier/Low
-  - Ability/Categories/Companion
-title: Bound Magic Creature
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/NA
+- Ability/Tier/Low
+- Ability/Categories/Companion
 ---
+
+  
 ## Bound Magic Creature  
 >**Action**
   

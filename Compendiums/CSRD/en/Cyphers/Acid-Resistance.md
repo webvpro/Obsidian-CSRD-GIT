@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Acid Resistance
+- Acid Resistance
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantasy
-title: Acid Resistance
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantasy
 ---
+
+  
 ## Acid Resistance  
 >[!info] Stats  
 > **Level:** 1d6+3  

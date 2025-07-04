@@ -1,19 +1,18 @@
 ---
 aliases:
-  - Phase Sprint
+- "Phase Sprint"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/1
-  - Ability/Tier/Low
-  - Ability/Pool/Speed
-  - Ability/Categories/Movement
-  - Ability/Categories/Protection
-title: Phase Sprint
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/1
+- Ability/Tier/Low
+- Ability/Pool/Speed
+- Ability/Categories/Movement
+- Ability/Categories/Protection
 ---
+
+  
 ## Phase Sprint  
 >**Action**  
 >1+ Speed points

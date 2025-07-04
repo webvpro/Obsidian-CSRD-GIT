@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Burst Boost
+- Burst Boost
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Power-Boost
-title: Burst Boost
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Power-Boost
 ---
+
+  
 ## Burst Boost  
 >[!info] Stats  
 > **Level:** 1d6+2  

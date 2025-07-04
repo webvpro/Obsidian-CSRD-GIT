@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Know Where to Look
+- "Know Where to Look"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Mid
-  - Ability/Categories/Meta
-title: Know Where to Look
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Mid
+- Ability/Categories/Meta
 ---
+
+  
 ## Know Where to Look  
 >**Enabler**
   

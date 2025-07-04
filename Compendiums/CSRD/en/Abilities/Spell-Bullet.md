@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Spell Bullet
+- "Spell Bullet"
 tags:
-  - Compendium/CSRD/en/Abilities/Spell-Bullet
-  - Ability
-  - Ability/Action
-  - Ability/Cost/
-  - Ability/Tier/Low
-  - Ability/Pool/
-  - Ability/Categories/
-title: Spell Bullet
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities/Spell-Bullet
+- Ability
+- Ability/Action
+- Ability/Cost/
+- Ability/Tier/Low
+- Ability/Pool/
+- Ability/Categories/
 ---
+
+  
 ## Spell Bullet  
 >**Action**  
   

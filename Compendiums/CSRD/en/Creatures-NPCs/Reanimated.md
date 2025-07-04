@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Reanimated
+- Reanimated
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/6
-  - Creature/Armor/0
-  - Creature/Health/70
-title: Reanimated
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/6
+- Creature/Armor/0
+- Creature/Health/70
 ---
+
+  
 ## Reanimated  
 A reanimated is a humanoid creature patched together from corpses (or crafted directly from muscle, nerves, and sinew), then returned to life through a hard-to-duplicate series of electromagnetic induction events. Though made of flesh, a reanimated's return to consciousness and mobility is marked by a substantial increase in hardiness, resistance to injury, and longevity. On the other hand, the process usually obliterates whatever mind was once encoded in the donor's brain, giving rise to a creature of monstrous rage and childlike credulity. Sometimes the reanimated is bound to its creator in service, but such ties are fragile and could be snapped by an ill-timed fit of fury.  
 

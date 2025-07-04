@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Infer Thoughts
+- "Infer Thoughts"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/4
-  - Ability/Tier/High
-  - Ability/Pool/Intellect
-  - Ability/Categories/Senses
-title: Infer Thoughts
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/4
+- Ability/Tier/High
+- Ability/Pool/Intellect
+- Ability/Categories/Senses
 ---
+
+  
 ## Infer Thoughts  
 >**Action**  
 >4 Intellect points

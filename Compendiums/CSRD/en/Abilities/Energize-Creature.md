@@ -1,19 +1,18 @@
 ---
 aliases:
-  - Energize Creature
+- "Energize Creature"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/6
-  - Ability/Tier/High
-  - Ability/Pool/Might
-  - Ability/Categories/Protection
-  - Ability/Categories/Support
-title: Energize Creature
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/6
+- Ability/Tier/High
+- Ability/Pool/Might
+- Ability/Categories/Protection
+- Ability/Categories/Support
 ---
+
+  
 ## Energize Creature  
 >**Action**  
 >6+ Might points

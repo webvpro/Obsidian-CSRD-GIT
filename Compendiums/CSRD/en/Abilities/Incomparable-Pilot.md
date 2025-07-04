@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Incomparable Pilot
+- "Incomparable Pilot"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Mid
-  - Ability/Categories/Meta
-title: Incomparable Pilot
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Mid
+- Ability/Categories/Meta
 ---
+
+  
 ## Incomparable Pilot  
 >**Enabler**
   

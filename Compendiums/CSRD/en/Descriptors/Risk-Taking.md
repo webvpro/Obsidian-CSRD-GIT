@@ -1,13 +1,11 @@
 ---
 aliases:
-  - Risk Taking
+- Risk Taking
 tags:
-  - Compendiums/CSRD/en/Descriptors
-  - Descriptor
-title: Risk Taking
-collection: Descriptors
-kind: Compendiums
+- Compendiums/CSRD/en/Descriptors
+- Descriptor
 ---
+
 ## Risk-Taking  
 It's part of your nature to question what others think can't or shouldn't be done. You're not insane, of course-you wouldn't attempt to leap across a mile-wide chasm just because you were dared. There's impossible and then there's the just barely possible. You like to push the latter further than others, because it gives you a rush of satisfaction and pleasure when you succeed. The more you succeed, the more you find yourself looking for that next risky challenge to try yourself against.
 ### You gain the following characteristics  

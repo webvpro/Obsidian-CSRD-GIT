@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Regeneration
+- "Regeneration"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/6
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Cure
-title: Regeneration
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/6
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Cure
 ---
+
+  
 ## Regeneration  
 >**Action**  
 >6 Intellect points

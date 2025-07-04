@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Shining Knife
+- Shining Knife
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-title: Shining Knife
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
 ---
+
+  
 ## Shining Knife  
 >[!info] Stats  
 > **Level:** 1d6+3  

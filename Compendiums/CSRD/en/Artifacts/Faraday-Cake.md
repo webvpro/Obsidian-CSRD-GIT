@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Faraday Cake
+- Faraday Cake
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Post-Apocalyptic
-title: Faraday Cake
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Post-Apocalyptic
 ---
+
+  
 ## Faraday Cake  
 >[!info] Stats  
 > **Level:** +3  

@@ -1,16 +1,14 @@
 ---
 aliases:
-  - Knowledge-Task-Difficulty
+- "Knowledge-Task-Difficulty"
 tags:
-  - Compendium/CSRD/en/Tables
-  - Table/Task/Difficulty/Knowledge
-  - Table/Task/Difficulty/Understanding
-  - Table/Task/Difficulty/Identifying
-  - Table/Task/Difficulty/Remembering
-title: Knowledge-Task-Difficulty
-collection: Tables
-kind: Compendium
+- Compendium/CSRD/en/Tables
+- Table/Task/Difficulty/Knowledge
+- Table/Task/Difficulty/Understanding
+- Table/Task/Difficulty/Identifying
+- Table/Task/Difficulty/Remembering 
 ---
+
 ## Knowledge Task Difficulty
 When characters try to identify or figure out how to use a device, the level of the device determines the difficulty. For a bit of knowledge, the GM determines the difficulty.
 

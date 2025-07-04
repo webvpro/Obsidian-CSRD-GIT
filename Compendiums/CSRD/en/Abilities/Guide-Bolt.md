@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Guide Bolt
+- "Guide Bolt"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/4
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Meta
-title: Guide Bolt
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/4
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Meta
 ---
+
+  
 ## Guide Bolt  
 >**Enabler**  
 >4+ Intellect points

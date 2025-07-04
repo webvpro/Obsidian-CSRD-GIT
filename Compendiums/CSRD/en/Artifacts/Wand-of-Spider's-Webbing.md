@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Wand of Spider's Webbing
+- Wand of Spider's Webbing
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fantasy
-title: Wand of Spider's Webbing
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fantasy
 ---
+
+  
 ## Wand of Spider's Webbing  
 >[!info] Stats  
 > **Level:** 1d6+1  

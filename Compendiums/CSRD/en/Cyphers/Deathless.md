@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Deathless
+- Deathless
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Deathless
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Deathless  
 >[!info] Stats  
 > **Level:** 1d6+3  

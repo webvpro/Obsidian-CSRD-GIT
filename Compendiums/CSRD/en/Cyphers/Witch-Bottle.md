@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Witch Bottle
+- Witch Bottle
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Witch Bottle
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Witch Bottle  
 >[!info] Stats  
 > **Level:** 1d6+1  

@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Red Riding Hood
+- Red Riding Hood
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fairy-Tale
-title: Red Riding Hood
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fairy-Tale
 ---
+
+  
 ## Red Riding Hood  
 >[!info] Stats  
 > **Level:** 1d6+3  

@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Blood Pearl Blossom
+- Blood Pearl Blossom
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Blood Pearl Blossom
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Blood Pearl Blossom  
 >[!info] Stats  
 > **Level:** 1d6+4  

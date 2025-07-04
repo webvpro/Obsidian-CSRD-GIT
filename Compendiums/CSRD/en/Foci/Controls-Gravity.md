@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Controls Gravity
+- "Controls Gravity"
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/
-title: Controls Gravity
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci
+- Focus/Category/
 ---
+
+  
 ## Controls Gravity  
 You can sway the attraction of gravity itself.  
 

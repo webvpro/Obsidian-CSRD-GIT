@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Poison Explosive
+- Poison Explosive
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantastic
-title: Poison Explosive
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantastic
 ---
+
+  
 ## Poison Explosive  
 >[!info] Stats  
 > **Level:** 1d6+1  

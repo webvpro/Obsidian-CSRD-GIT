@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Spellbook of Elemental Summoning
+- Spellbook of Elemental Summoning
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fantasy
-title: Spellbook of Elemental Summoning
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fantasy
 ---
+
+  
 ## Spellbook of Elemental Summoning  
 >[!info] Stats  
 > **Level:** 1d6+1  

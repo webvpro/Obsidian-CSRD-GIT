@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Frigid Wall
+- Frigid Wall
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantastic
-title: Frigid Wall
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantastic
 ---
+
+  
 ## Frigid Wall  
 >[!info] Stats  
 > **Level:** 1d6+2  

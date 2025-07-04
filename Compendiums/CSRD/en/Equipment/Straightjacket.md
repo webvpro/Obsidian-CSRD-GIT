@@ -1,15 +1,14 @@
 ---
 aliases:
-  - Straightjacket
+- "Straightjacket"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Modern
-  - Equipment/Utility-Gear
-  - Equipment/Value/Expensive
-title: Straightjacket
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Modern
+- Equipment/Utility-Gear
+- Equipment/Value/Expensive
 ---
+
+  
 ## Straightjacket  
   
 >  

@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Discerning Mind
+- "Discerning Mind"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Mid
-  - Ability/Categories/Protection
-title: Discerning Mind
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Mid
+- Ability/Categories/Protection
 ---
+
+  
 ## Discerning Mind  
 >**Enabler**
   

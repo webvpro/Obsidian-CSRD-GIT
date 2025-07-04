@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Separates Mind From Body
+- "Separates Mind From Body"
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/Exploration
-title: Separates Mind From Body
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci
+- Focus/Category/Exploration
 ---
+
+  
 ## Separates Mind From Body  
 You can project your mind out of your body to see faraway places and learn secrets that would otherwise remain hidden.  
 

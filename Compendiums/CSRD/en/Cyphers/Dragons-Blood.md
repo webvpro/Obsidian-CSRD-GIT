@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Dragon's Blood
+- "Dragon's Blood"
 tags:
-  - Compendium/CSRD/en/Cyphers/Dragons-Blood
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Dragon's Blood
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers/Dragons-Blood
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Dragon's Blood  
 >[!info] Stats  
 > **Level:** 1d6  

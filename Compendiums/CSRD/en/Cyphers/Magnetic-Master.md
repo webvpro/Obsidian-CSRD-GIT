@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Magnetic Master
+- Magnetic Master
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantastic
-title: Magnetic Master
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantastic
 ---
+
+  
 ## Magnetic Master  
 >[!info] Stats  
 > **Level:** 1d6+2  

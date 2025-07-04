@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Energize Object
+- "Energize Object"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/NA
-  - Ability/Tier/Low
-  - Ability/Categories/Meta
-title: Energize Object
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/NA
+- Ability/Tier/Low
+- Ability/Categories/Meta
 ---
+
+  
 ## Energize Object  
 >**Action**
   

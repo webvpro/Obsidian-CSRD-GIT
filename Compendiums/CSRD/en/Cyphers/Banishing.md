@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Banishing
+- Banishing
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantastic
-title: Banishing
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantastic
 ---
+
+  
 ## Banishing  
 >[!info] Stats  
 > **Level:** 1d6  

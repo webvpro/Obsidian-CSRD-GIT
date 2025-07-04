@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Wand of Firebolts
+- Wand of Firebolts
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fantasy
-title: Wand of Firebolts
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fantasy
 ---
+
+  
 ## Wand of Firebolts  
 >[!info] Stats  
 > **Level:** 1d6+2  

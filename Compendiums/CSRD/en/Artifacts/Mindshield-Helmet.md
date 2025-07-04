@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Mindshield Helmet
+- Mindshield Helmet
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fantasy
-title: Mindshield Helmet
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fantasy
 ---
+
+  
 ## Mindshield Helmet  
 >[!info] Stats  
 > **Level:** 1d6+2  

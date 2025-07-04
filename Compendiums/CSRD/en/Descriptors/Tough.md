@@ -1,13 +1,11 @@
 ---
 aliases:
-  - Tough
+- Tough
 tags:
-  - Compendiums/CSRD/en/Descriptors
-  - Descriptor
-title: Tough
-collection: Descriptors
-kind: Compendiums
+- Compendiums/CSRD/en/Descriptors
+- Descriptor
 ---
+
 ## Tough  
 You're strong and can take a lot of physical punishment. You might have a large frame and a square jaw. Tough characters frequently have visible scars.
 ### You gain the following characteristics  

@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Princess's Pea
+- Princess's Pea
 tags:
-  - Compendium/CSRD/en/Cyphers/Princesss
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Princess's Pea
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers/Princesss
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Princess's Pea  
 >[!info] Stats  
 > **Level:** 1d6+3  

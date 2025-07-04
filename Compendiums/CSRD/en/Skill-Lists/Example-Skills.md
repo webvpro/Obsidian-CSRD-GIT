@@ -1,13 +1,10 @@
 ---
 aliases:
-  - Example Skills
+- "Example Skills"
 tags:
-  - Compendium/CSRD/en/Skill-Lists
-  - List/Skill/Example
-  - Character/Skills
-title: Example Skills
-collection: Skill-Lists
-kind: Compendium
+- Compendium/CSRD/en/Skill-Lists
+- List/Skill/Example
+- Character/Skills
 ---
 ## Example-Skills
 - Astronomy

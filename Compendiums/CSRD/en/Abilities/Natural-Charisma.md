@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Natural Charisma
+- "Natural Charisma"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Low
-  - Ability/Categories/Task
-title: Natural Charisma
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Low
+- Ability/Categories/Task
 ---
+
+  
 ## Natural Charisma  
 >**Enabler**
   

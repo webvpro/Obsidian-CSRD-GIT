@@ -1,16 +1,15 @@
 ---
 aliases:
-  - Luxury Hovercar
+- "Luxury Hovercar"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Science-Fiction
-  - Equipment/Utility-Gear
-  - Equipment/Level/5
-  - Equipment/Value/Exorbitant
-title: Luxury Hovercar
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Science-Fiction
+- Equipment/Utility-Gear
+- Equipment/Level/5
+- Equipment/Value/Exorbitant
 ---
+
+  
 ## Luxury Hovercar  
   
 >  

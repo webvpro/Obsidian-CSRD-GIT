@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Crown Jewel
+- Crown Jewel
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Crown Jewel
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Crown Jewel  
 >[!info] Stats  
 > **Level:** 1d6+2  

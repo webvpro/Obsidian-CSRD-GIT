@@ -1,13 +1,11 @@
 ---
 aliases:
-  - Manifest
+- Manifest
 tags:
-  - Compendiums/CSRD/en/Tables
-  - Table/Cypher/Manifest
-title: Manifest
-collection: Tables
-kind: Compendiums
+- Compendiums/CSRD/en/Tables
+- Table/Cypher/Manifest
 ---
+
 ## Manifest Table
 |  Roll &nbsp; &nbsp; | Manifest  |
 | ------------- | :----------- |

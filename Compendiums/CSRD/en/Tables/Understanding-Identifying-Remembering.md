@@ -1,13 +1,11 @@
 ---
 aliases:
-  - Understanding, Identifying, Or Remembering"
+- Understanding, Identifying, Or Remembering"
 tags:
-  - Compendium/CSRD/en/Rules
-  - Difficulty/table/
-title: Understanding, Identifying, Or Remembering"
-collection: Rules
-kind: Compendium
+- Compendium/CSRD/en/Rules
+- Difficulty/table/ 
 ---
+
 # Understanding, Identifying, Or Remembering  
 
 

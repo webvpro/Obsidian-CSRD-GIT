@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Hydra
+- Hydra
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/7
-  - Creature/Armor/1
-  - Creature/Health/24
-title: Hydra
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/7
+- Creature/Armor/1
+- Creature/Health/24
 ---
+
+  
 ## Hydra  
 This mythological reptile has five writhing serpent heads, each of which constantly exhales a venomous plume. Well over 20 feet (6 m) long from the tip of its longest head to its thrashing tail, the toxic beast's most discomfiting feature is its magical ability to sprout new heads when it's wounded. Some hydras dwell on land, others in water. Most seem to have been set as guardians of important places by higher powers, which is probably why they're so difficult to kill.  
 

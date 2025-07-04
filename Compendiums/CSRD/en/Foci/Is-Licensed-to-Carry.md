@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Is Licensed to Carry
+- "Is Licensed to Carry"
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/Striker-Combat
-title: Is Licensed to Carry
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci
+- Focus/Category/Striker-Combat
 ---
+
+  
 ## Is Licensed to Carry  
 You carry a gun and you know how to use it in a fight.  
 

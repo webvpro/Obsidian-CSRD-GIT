@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Uninterruptible Power Source
+- Uninterruptible Power Source
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Manifest
-title: Uninterruptible Power Source
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Manifest
 ---
+
+  
 ## Uninterruptible Power Source  
 >[!info] Stats  
 > **Level:** 1d6+4  

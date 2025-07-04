@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Fetch
+- "Fetch"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/3
-  - Ability/Tier/Low
-  - Ability/Pool/Intellect
-  - Ability/Categories/Environment
-title: Fetch
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/3
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Environment
 ---
+
+  
 ## Fetch  
 >**Action**  
 >3 Intellect points

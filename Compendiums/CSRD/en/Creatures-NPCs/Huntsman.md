@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Huntsman
+- Huntsman
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/NPC
-  - Creature/Level/2
-  - Creature/Armor/1
-  - Creature/Health/8
-title: Huntsman
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/NPC
+- Creature/Level/2
+- Creature/Armor/1
+- Creature/Health/8
 ---
+
+  
 ## Huntsman  
 A huntsman may be in the employ of a powerful magic user, protecting a section of the woods they consider their own, or just trying to provide for their family by chopping wood and hunting game.  
 

@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Mind Reading
+- "Mind Reading"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/2
-  - Ability/Tier/Low
-  - Ability/Pool/Intellect
-  - Ability/Categories/Information
-title: Mind Reading
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/2
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Information
 ---
+
+  
 ## Mind Reading  
 >**Action**  
 >2 Intellect points

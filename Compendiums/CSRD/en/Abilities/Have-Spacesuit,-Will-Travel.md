@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Have Spacesuit, Will Travel
+- "Have Spacesuit, Will Travel"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Low
-  - Ability/Categories/Protection
-title: Have Spacesuit, Will Travel
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Low
+- Ability/Categories/Protection
 ---
+
+  
 ## Have Spacesuit, Will Travel  
 >**Enabler**
   

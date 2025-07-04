@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Leads
+- "Leads"
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/Ally-Use
-title: Leads
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci
+- Focus/Category/Ally-Use
 ---
+
+  
 ## Leads  
 Your natural leadership capability allows you to command others, including a loyal band of followers.  
 

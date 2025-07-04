@@ -1,11 +1,8 @@
 ---
 aliases:
-  - 'Optional Rule: Posthuman Upgrades'
+  - "Optional Rule: Posthuman Upgrades"
 tags:
-  - Compendium/CSRD/en/Rules/Optional/Posthuman-Upgrades
-title: 'Optional Rule: Posthuman Upgrades'
-collection: Rules
-kind: Compendium
+-  Compendium/CSRD/en/Rules/Optional/Posthuman-Upgrades
 ---
 ## Optional Rule: Posthuman Upgrades
 

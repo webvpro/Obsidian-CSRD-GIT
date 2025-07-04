@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Giant Size
+- Giant Size
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantasy
-title: Giant Size
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantasy
 ---
+
+  
 ## Giant Size  
 >[!info] Stats  
 > **Level:** 1d6  

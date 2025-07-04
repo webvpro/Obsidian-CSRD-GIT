@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Force Blast
+- "Force Blast"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/NA
-  - Ability/Tier/Mid
-  - Ability/Categories/Special-Attack
-title: Force Blast
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/NA
+- Ability/Tier/Mid
+- Ability/Categories/Special-Attack
 ---
+
+  
 ## Force Blast  
 >**Action**
   

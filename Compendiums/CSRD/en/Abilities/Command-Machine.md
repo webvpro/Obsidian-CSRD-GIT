@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Command Machine
+- "Command Machine"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/4
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Control
-title: Command Machine
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/4
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Control
 ---
+
+  
 ## Command Machine  
 >**Action**  
 >4 Intellect points

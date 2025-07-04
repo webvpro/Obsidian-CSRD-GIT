@@ -1,12 +1,9 @@
 ---
 aliases:
-  - Resurrection
+  - "Resurrection"
 tags:
-  - Compendium/CSRD/en/Rituals/Resurrection
-  - Ritual
-title: Resurrection
-collection: Rituals
-kind: Compendium
+-  Compendium/CSRD/en/Rituals/Resurrection
+- Ritual
 ---
 ## Resurrection
 Restores a dead being to life. The creature is restored to full health and is ready to act as soon as the ritual is completed. Depending on how they died and the nature of death in the setting, the creature may or may not remember anything that happened after they died. 

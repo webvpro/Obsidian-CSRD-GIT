@@ -1,19 +1,18 @@
 ---
 aliases:
-  - Drain Creature
+- "Drain Creature"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/3
-  - Ability/Tier/Low
-  - Ability/Pool/Intellect
-  - Ability/Categories/Cure
-  - Ability/Categories/Meta
-title: Drain Creature
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/3
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Cure
+- Ability/Categories/Meta
 ---
+
+  
 ## Drain Creature  
 >**Action**  
 >3+ Intellect points

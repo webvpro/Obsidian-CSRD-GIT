@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Energy Protection
+- "Energy Protection"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/3
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Protection
-title: Energy Protection
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/3
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Protection
 ---
+
+  
 ## Energy Protection  
 >**Action**  
 >3+ Intellect points

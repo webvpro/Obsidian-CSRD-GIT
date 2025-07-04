@@ -1,19 +1,18 @@
 ---
 aliases:
-  - Moon Portal
+- "Moon Portal"
 tags:
-  - Compendium/CSRD/en/Abilities/Moon-Portal
-  - Ability
-  - Ability/Action
-  - Ability/Cost/6
-  - Ability/Tier/High
-  - Ability/Pool/Intellect
-  - Ability/Categories/Magic
-  - Ability/Categories/Fantasy/Modern
-title: Moon Portal
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities/Moon-Portal
+- Ability
+- Ability/Action
+- Ability/Cost/6
+- Ability/Tier/High
+- Ability/Pool/Intellect
+- Ability/Categories/Magic
+- Ability/Categories/Fantasy/Modern
 ---
+
+  
 ## Moon Portal
 >**Action**  
 >6+ Intellect points

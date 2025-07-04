@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Bypass Barrier
+- "Bypass Barrier"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/6
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Movement
-title: Bypass Barrier
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/6
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Movement
 ---
+
+  
 ## Bypass Barrier  
 >**Action**  
 >6+ Intellect points

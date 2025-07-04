@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Stretches
+- "Stretches"
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/
-title: Stretches
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci
+- Focus/Category/
 ---
+
+  
 ## Stretches  
 Your body is elastic and rubbery, able to stretch to great lengths and compress when struck.  
 

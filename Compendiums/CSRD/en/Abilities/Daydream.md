@@ -1,19 +1,18 @@
 ---
 aliases:
-  - Daydream
+- "Daydream"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/4
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Control
-  - Ability/Categories/Environment
-title: Daydream
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/4
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Control
+- Ability/Categories/Environment
 ---
+
+  
 ## Daydream  
 >**Action**  
 >4 Intellect points

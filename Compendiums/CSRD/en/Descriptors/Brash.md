@@ -1,13 +1,11 @@
 ---
 aliases:
-  - Brash
+- Brash
 tags:
-  - Compendiums/CSRD/en/Descriptors
-  - Descriptor
-title: Brash
-collection: Descriptors
-kind: Compendiums
+- Compendiums/CSRD/en/Descriptors
+- Descriptor
 ---
+
 ## Brash  
 You're a self-assertive sort, confident in your abilities, energetic, and perhaps a bit irreverent toward ideas that you don't agree with. Some people call you bold and brave, but those you've put in their place might call you puffed up and arrogant. Whatever. It's not in your nature to care what other people think about you, unless those people are your friends or family. Even someone as brash as you knows that friends sometimes have to come first.
 ### You gain the following characteristics  

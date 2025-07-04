@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Phased Attack
+- "Phased Attack"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/3
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Special-Attack
-title: Phased Attack
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/3
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Special-Attack
 ---
+
+  
 ## Phased Attack  
 >**Enabler**  
 >3 Intellect points

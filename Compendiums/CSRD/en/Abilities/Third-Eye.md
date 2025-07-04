@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Third Eye
+- "Third Eye"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/1
-  - Ability/Tier/Low
-  - Ability/Pool/Intellect
-  - Ability/Categories/Senses
-title: Third Eye
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/1
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Senses
 ---
+
+  
 ## Third Eye  
 >**Action**  
 >1 Intellect point

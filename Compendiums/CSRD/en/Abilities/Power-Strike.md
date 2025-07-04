@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Power Strike
+- "Power Strike"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/3
-  - Ability/Tier/Mid
-  - Ability/Pool/Might
-  - Ability/Categories/Special-Attack
-title: Power Strike
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/3
+- Ability/Tier/Mid
+- Ability/Pool/Might
+- Ability/Categories/Special-Attack
 ---
+
+  
 ## Power Strike  
 >**Enabler**  
 >3+ Might points

@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Cryptic Moth
+- Cryptic Moth
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/5
-  - Creature/Armor/0
-  - Creature/Health/23
-title: Cryptic Moth
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/5
+- Creature/Armor/0
+- Creature/Health/23
 ---
+
+  
 ## Cryptic Moth  
 Normal moths are enigmatic, gauzy haunts of twilight. The feathery touch of their wings on your face can startle, even frighten. This is to be expected, since moths are the children of cryptic moths, malign and intelligent entities of another realm. Sometimes referred to as mothmen, other times as shadow faeries, cryptic moths are certainly alien. Each possesses a unique wing pattern and coloration, and, to some extent, body shape. These patterns
 and colors may signify where in the hierarchy a particular cryptic moth stands among its siblings of the night, but for those who do not speak the language of moths, the complexity of their social structure is overwhelming.  

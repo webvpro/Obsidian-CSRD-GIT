@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Teleporter Interstellar
+- Teleporter Interstellar
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantastic
-title: Teleporter Interstellar
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantastic
 ---
+
+  
 ## Teleporter Interstellar  
 >[!info] Stats  
 > **Level:** 1d6+4  

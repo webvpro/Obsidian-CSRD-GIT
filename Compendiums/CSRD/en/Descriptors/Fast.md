@@ -1,13 +1,11 @@
 ---
 aliases:
-  - Fast
+- Fast
 tags:
-  - Compendiums/CSRD/en/Descriptors
-  - Descriptor
-title: Fast
-collection: Descriptors
-kind: Compendiums
+- Compendiums/CSRD/en/Descriptors
+- Descriptor
 ---
+
 ## Fast  
 You're fleet of foot. Because you're quick, you can accomplish tasks more rapidly than others can. You're not just quick on your feet, however-you're quick with your hands, and you think and react quickly. You even talk quickly.
 ### You gain the following characteristics  

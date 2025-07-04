@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Wrath
+- Wrath
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Super-Villain
-  - Creature/Level/6
-  - Creature/Armor/1
-  - Creature/Health/36
-title: Wrath
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Super-Villain
+- Creature/Level/6
+- Creature/Armor/1
+- Creature/Health/36
 ---
+
+  
 ## Wrath  
 The head of an elite group of assassins, Wrath wants to save the world by killing everyone who impedes her vision of perfection-which turns out to be the better part of humanity. In addition to being one of the most accomplished martial artists to walk the earth (thanks to her connection with a mystical entity called the Demon), Wrath is also a criminal mastermind whose assassins are just one layer of the organization she controls.
 Born more than two hundred and fifty years ago in China to a name lost to history, Wrath was taken in by a monastery and trained in the ways of fist and sword. Everything changed when raiders attacked and killed everyone in her monastery, leaving her the sole survivor. Vowing revenge against the raiders and the world that allowed animals like them to exist, she acquired a magical amulet that contains the Demon. The Demon in turn bequeathed her extraordinary speed, strength, and longevity.

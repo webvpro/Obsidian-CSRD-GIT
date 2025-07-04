@@ -1,25 +1,24 @@
 ---
 aliases:
-  - Rope
+- "Rope"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Fantasy
-  - Equipment/Utility-Gear
-  - Equipment/Value/Moderate
-  - Equipment/Value/1-Gp
-  - Equipment/Modern
-  - Equipment/Utility-Gear
-  - Equipment/Value/Moderate
-  - Equipment/Science-Fiction
-  - Equipment/Utility-Gear
-  - Equipment/Value/Moderate
-  - Equipment/Post-Apocalyptic
-  - Equipment/Utility-Gear
-  - Equipment/Value/Moderate
-title: Rope
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Fantasy
+- Equipment/Utility-Gear
+- Equipment/Value/Moderate
+- Equipment/Value/1-Gp
+- Equipment/Modern
+- Equipment/Utility-Gear
+- Equipment/Value/Moderate
+- Equipment/Science-Fiction
+- Equipment/Utility-Gear
+- Equipment/Value/Moderate
+- Equipment/Post-Apocalyptic
+- Equipment/Utility-Gear
+- Equipment/Value/Moderate
 ---
+
+  
 ## Rope  
   
 >Hemp, 50 feet  

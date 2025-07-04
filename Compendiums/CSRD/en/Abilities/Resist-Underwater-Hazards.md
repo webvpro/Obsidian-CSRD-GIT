@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Resist Underwater Hazards
+- "Resist Underwater Hazards"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Low
-  - Ability/Categories/Protection
-title: Resist Underwater Hazards
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Low
+- Ability/Categories/Protection
 ---
+
+  
 ## Resist Underwater Hazards  
 >**Enabler**
   

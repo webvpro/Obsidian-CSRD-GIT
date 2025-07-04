@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Shreds the Walls of the World
+- "Shreds the Walls of the World"
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/Movement-Expertise
-title: Shreds the Walls of the World
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci
+- Focus/Category/Movement-Expertise
 ---
+
+  
 ## Shreds the Walls of the World  
 Speed plus phasing gives you a unique ability to evade danger and simultaneously inflict damage.  
 

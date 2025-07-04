@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Accessories Sold Separately
+- "Accessories Sold Separately"
 tags:
-  - Compendium/CSRD/en/Artifacts/Accessories-Sold-Separately
-  - Artifact
-  - Artifact/Fairy-Tale
-title: Accessories Sold Separately
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts/Accessories-Sold-Separately
+- Artifact
+- Artifact/Fairy-Tale
 ---
+
+  
 ## Accessories Sold Separately  
 #### Level 
 >1d6 

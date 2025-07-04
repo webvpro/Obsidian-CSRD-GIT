@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Tinderbox
+- Tinderbox
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fairy-Tale
-title: Tinderbox
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fairy-Tale
 ---
+
+  
 ## Tinderbox  
 >[!info] Stats  
 > **Level:** 1d6+2  

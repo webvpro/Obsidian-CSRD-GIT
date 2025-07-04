@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Diadem of Death
+- Diadem of Death
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Diadem of Death
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Diadem of Death  
 >[!info] Stats  
 > **Level:** 1d6+4  

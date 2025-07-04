@@ -1,19 +1,18 @@
 ---
 aliases:
-  - Blurring Speed
+- "Blurring Speed"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/7
-  - Ability/Tier/High
-  - Ability/Pool/Speed
-  - Ability/Categories/Meta
-  - Ability/Categories/Movement
-title: Blurring Speed
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/7
+- Ability/Tier/High
+- Ability/Pool/Speed
+- Ability/Categories/Meta
+- Ability/Categories/Movement
 ---
+
+  
 ## Blurring Speed  
 >**Enabler**  
 >7 Speed points

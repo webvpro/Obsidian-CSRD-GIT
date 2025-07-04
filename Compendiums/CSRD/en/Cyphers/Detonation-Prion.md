@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Detonation Prion
+- Detonation Prion
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-title: Detonation Prion
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
 ---
+
+  
 ## Detonation Prion  
 >[!info] Stats  
 > **Level:** 1d6+2

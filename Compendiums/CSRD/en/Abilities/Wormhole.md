@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Wormhole
+- "Wormhole"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/6
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Movement
-title: Wormhole
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/6
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Movement
 ---
+
+  
 ## Wormhole  
 >**Action**  
 >6 Intellect points

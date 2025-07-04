@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Magic Beans
+- Magic Beans
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Magic Beans
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Magic Beans  
 >[!info] Stats  
 > **Level:** 1d6+4  

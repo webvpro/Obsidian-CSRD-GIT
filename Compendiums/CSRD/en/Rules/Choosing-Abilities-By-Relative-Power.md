@@ -1,12 +1,10 @@
 ---
 aliases:
-  - Choosing Abilities By Relative Power
+- "Choosing Abilities By Relative Power"
 tags:
-  - Compendium/CSRD/en/Rules
-title: Choosing Abilities By Relative Power
-collection: Rules
-kind: Compendium
+-  Compendium/CSRD/en/Rules
 ---
+
 # Choosing Abilities By Relative Power
 
 The ability selection guidelines invite you to choose an ability from one of three ranges: low tier, mid tier, and high tier. These ranges correspond with the power “grades” given for every ability. These abilities are further sorted into ability categories based on the kinds of things they do—abilities that improve physical attacks are in the attack skill category, abilities that assist allies are in the support category, and so on. Look for the grades and categories in the Ability Categories and Relative Power section of the Abilities chapter.

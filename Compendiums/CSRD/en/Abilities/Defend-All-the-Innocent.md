@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Defend All the Innocent
+- "Defend All the Innocent"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Mid
-  - Ability/Categories/Support
-title: Defend All the Innocent
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Mid
+- Ability/Categories/Support
 ---
+
+  
 ## Defend All the Innocent  
 >**Enabler**
   

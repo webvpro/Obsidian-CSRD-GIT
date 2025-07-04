@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Dame Gothel
+- Dame Gothel
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/5
-  - Creature/Armor/0
-  - Creature/Health/null
-title: Dame Gothel
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/5
+- Creature/Armor/0
+- Creature/Health/null
 ---
+
+  
 ## Dame Gothel  
 Sometimes taking the form of a young woman and sometimes an old one, Dame Gothel cares for one thing above all: her beautiful walled garden, the flowers and vegetables that grow inside it being the envy of all others. Unlike many other witches, she does not harm children and in fact has been known to protect them, at least as long as they are innocent of wrongdoing.  
 

@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Silver Slippers
+- Silver Slippers
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Silver Slippers
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Silver Slippers  
 >[!info] Stats  
 > **Level:** 1d6+2  

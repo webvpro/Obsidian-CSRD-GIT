@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Shattering Shout
+- "Shattering Shout"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/5
-  - Ability/Tier/Mid
-  - Ability/Pool/Might
-  - Ability/Categories/Special-Attack
-title: Shattering Shout
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/5
+- Ability/Tier/Mid
+- Ability/Pool/Might
+- Ability/Categories/Special-Attack
 ---
+
+  
 ## Shattering Shout  
 >**Action**  
 >5+ Might points

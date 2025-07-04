@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Wears a Sheen of Ice
+- "Wears a Sheen of Ice"
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/Energy-Manipulation
-title: Wears a Sheen of Ice
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci
+- Focus/Category/Energy-Manipulation
 ---
+
+  
 ## Wears a Sheen of Ice  
 You command the wintery power of cold and ice.  
 

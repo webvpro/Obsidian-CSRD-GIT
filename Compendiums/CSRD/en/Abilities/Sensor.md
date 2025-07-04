@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Sensor
+- "Sensor"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/4
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Senses
-title: Sensor
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/4
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Senses
 ---
+
+  
 ## Sensor  
 >**Action**  
 >4 Intellect points

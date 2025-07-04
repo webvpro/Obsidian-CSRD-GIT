@@ -1,15 +1,14 @@
 ---
 aliases:
-  - Duct Tape
+- "Duct Tape"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Post-Apocalyptic
-  - Equipment/Utility-Gear
-  - Equipment/Value/Inexpensive
-title: Duct Tape
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Post-Apocalyptic
+- Equipment/Utility-Gear
+- Equipment/Value/Inexpensive
 ---
+
+  
 ## Duct Tape  
   
 >Useful and ubiquitous  

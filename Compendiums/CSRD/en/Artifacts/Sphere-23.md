@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Sphere 23
+- Sphere 23
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Horror
-title: Sphere 23
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Horror
 ---
+
+  
 ## Sphere 23  
 >[!info] Stats  
 > **Level:** 1d6+4  

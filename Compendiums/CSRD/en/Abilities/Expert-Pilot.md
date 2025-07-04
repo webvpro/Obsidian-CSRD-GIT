@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Expert Pilot
+- "Expert Pilot"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Mid
-  - Ability/Categories/Task
-title: Expert Pilot
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Mid
+- Ability/Categories/Task
 ---
+
+  
 ## Expert Pilot  
 >**Enabler**
   

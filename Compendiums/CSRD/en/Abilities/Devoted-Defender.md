@@ -1,19 +1,18 @@
 ---
 aliases:
-  - Devoted Defender
+- "Devoted Defender"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/2
-  - Ability/Tier/Low
-  - Ability/Pool/Might
-  - Ability/Pool/Intellect
-  - Ability/Categories/Task
-title: Devoted Defender
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/2
+- Ability/Tier/Low
+- Ability/Pool/Might
+- Ability/Pool/Intellect
+- Ability/Categories/Task
 ---
+
+  
 ## Devoted Defender  
 >**Action**  
 >2 Might or Intellect points

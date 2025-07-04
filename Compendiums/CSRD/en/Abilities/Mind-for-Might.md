@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Mind for Might
+- "Mind for Might"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Low
-  - Ability/Categories/Meta
-title: Mind for Might
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Low
+- Ability/Categories/Meta
 ---
+
+  
 ## Mind for Might  
 >**Enabler**
   

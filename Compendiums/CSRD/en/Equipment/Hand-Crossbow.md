@@ -1,16 +1,15 @@
 ---
 aliases:
-  - Hand Crossbow
+- "Hand Crossbow"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Fantasy
-  - Equipment/Utility-Gear
-  - Equipment/Value/75-Gp
-  - Equipment/Range/Short
-title: Hand Crossbow
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Fantasy
+- Equipment/Utility-Gear
+- Equipment/Value/75-Gp
+- Equipment/Range/Short
 ---
+
+  
 ## Hand Crossbow  
   
 >A smaller and weaker version of a light crossbow. It fires crossbow bolts. You can fire it with one hand. You need two hands to load it.  

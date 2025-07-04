@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Neverlost
+- Neverlost
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Neverlost
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Neverlost  
 >[!info] Stats  
 > **Level:** 1d6  

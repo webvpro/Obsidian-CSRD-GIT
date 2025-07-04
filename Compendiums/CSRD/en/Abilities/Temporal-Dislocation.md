@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Temporal Dislocation
+- "Temporal Dislocation"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/7
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Movement
-title: Temporal Dislocation
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/7
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Movement
 ---
+
+  
 ## Temporal Dislocation  
 >**Action**  
 >7 Intellect points

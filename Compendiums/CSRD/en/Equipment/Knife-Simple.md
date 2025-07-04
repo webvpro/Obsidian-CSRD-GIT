@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Knife, Simple
+- "Knife, Simple"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Armament
-  - Equipment/Contemporary
-  - Equipment/Modern
-  - Equipment/Level/1
-  - Equipment/Value/Inexpensive
-  - Equipment/Weapon/Light
-title: Knife, Simple
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Armament
+- Equipment/Contemporary
+- Equipment/Modern
+- Equipment/Level/1
+- Equipment/Value/Inexpensive
+- Equipment/Weapon/Light
 ---
+
+  
 ## Knife, Simple  
   
 >breaks on attack roll of 1-2.  

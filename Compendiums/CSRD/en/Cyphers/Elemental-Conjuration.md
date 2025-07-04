@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Elemental Conjuration
+- Elemental Conjuration
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantasy
-title: Elemental Conjuration
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantasy
 ---
+
+  
 ## Elemental Conjuration  
 >[!info] Stats  
 > **Level:** 1d6  

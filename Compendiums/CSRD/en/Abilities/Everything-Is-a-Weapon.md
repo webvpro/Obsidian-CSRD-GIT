@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Everything Is a Weapon
+- "Everything Is a Weapon"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Mid
-  - Ability/Categories/Special-Attack
-title: Everything Is a Weapon
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Mid
+- Ability/Categories/Special-Attack
 ---
+
+  
 ## Everything Is a Weapon  
 >**Enabler**
   

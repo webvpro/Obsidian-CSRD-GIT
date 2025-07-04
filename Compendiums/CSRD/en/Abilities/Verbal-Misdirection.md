@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Verbal Misdirection
+- "Verbal Misdirection"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/2
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Task
-title: Verbal Misdirection
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/2
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Task
 ---
+
+  
 ## Verbal Misdirection  
 >**Enabler**  
 >2+ Intellect points

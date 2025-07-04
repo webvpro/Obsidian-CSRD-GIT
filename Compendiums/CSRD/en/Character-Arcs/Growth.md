@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Growth
-tags:
-  - Compendium/CSRD/en/Character-Arcs/Growth
-  - Character-Arc
-title: Growth
-collection: Character-Arcs
-kind: Compendium
+aliases: 
+- "Growth"
+tags: 
+- Compendium/CSRD/en/Character-Arcs/Growth
+- Character-Arc
 ---
 ## Growth
 >Willingly or unwillingly, you are going to change. This is another meta arc. It’s less about a goal and more about character development. While it’s possible that the growth involved is intentional, in most people’s lives and stories, it is emergent. A character might become less selfish, braver, a better leader, or experience some other form of growth.

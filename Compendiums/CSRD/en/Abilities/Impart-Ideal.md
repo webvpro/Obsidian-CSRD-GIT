@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Impart Ideal
+- "Impart Ideal"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/3
-  - Ability/Tier/Low
-  - Ability/Pool/Intellect
-  - Ability/Categories/Social
-title: Impart Ideal
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/3
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Social
 ---
+
+  
 ## Impart Ideal  
 >**Action**  
 >3 Intellect points

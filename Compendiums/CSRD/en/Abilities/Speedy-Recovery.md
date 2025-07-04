@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Speedy Recovery
+- "Speedy Recovery"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/3
-  - Ability/Tier/Low
-  - Ability/Pool/Intellect
-  - Ability/Categories/Cure
-title: Speedy Recovery
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/3
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Cure
 ---
+
+  
 ## Speedy Recovery  
 >**Action**  
 >3 Intellect points

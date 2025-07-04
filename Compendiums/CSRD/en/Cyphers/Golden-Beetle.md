@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Golden Beetle
+- Golden Beetle
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Golden Beetle
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Golden Beetle  
 >[!info] Stats  
 > **Level:** 1d6  

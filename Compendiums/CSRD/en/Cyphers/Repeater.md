@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Repeater
+- Repeater
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantastic
-title: Repeater
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantastic
 ---
+
+  
 ## Repeater  
 >[!info] Stats  
 > **Level:** 1d6+1  

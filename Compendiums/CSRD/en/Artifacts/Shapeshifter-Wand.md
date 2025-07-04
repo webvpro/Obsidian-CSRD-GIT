@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Shapeshifter Wand
+- Shapeshifter Wand
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fairy-Tale
-title: Shapeshifter Wand
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fairy-Tale
 ---
+
+  
 ## Shapeshifter Wand  
 >[!info] Stats  
 > **Level:** 1d6  

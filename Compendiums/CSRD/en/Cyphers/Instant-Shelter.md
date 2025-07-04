@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Instant Shelter
+- Instant Shelter
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantastic
-title: Instant Shelter
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantastic
 ---
+
+  
 ## Instant Shelter  
 >[!info] Stats  
 > **Level:** 1d6+3  

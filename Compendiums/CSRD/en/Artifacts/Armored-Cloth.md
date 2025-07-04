@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Armored Cloth
+- Armored Cloth
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fantasy
-title: Armored Cloth
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fantasy
 ---
+
+  
 ## Armored Cloth  
 >[!info] Stats  
 > **Level:** 1d6  

@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Zombie Hulk
+- Zombie Hulk
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/5
-  - Creature/Armor/2
-  - Creature/Health/23
-title: Zombie Hulk
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/5
+- Creature/Armor/2
+- Creature/Health/23
 ---
+
+  
 ## Zombie Hulk  
 Most zombies are mindless, shambling, hungry, and infectious. Some varieties, despite their semblance to corpses, enjoy a regenerative process that keeps them active regardless of grievous wounds, rotting flesh, and sometimes missing limbs or organs. That same process kicks into overdrive in zombie hulks, converting everything they eat into additional mass and muscle. The result is three times as massive as a regular zombie and five times as dangerous.
 ZOMBIE SPRINTER: Instead of being much larger than normal, a zombie's regenerative system can imbue it with incredible quickness, making it much faster than the shamblers often encountered. The resulting zombie sprinter's speed and ferocity make it hard to escape.

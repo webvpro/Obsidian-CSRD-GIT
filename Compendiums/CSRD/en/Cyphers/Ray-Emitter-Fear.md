@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Ray Emitter Fear
+- Ray Emitter Fear
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantastic
-title: Ray Emitter Fear
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantastic
 ---
+
+  
 ## Ray Emitter Fear  
 >[!info] Stats  
 > **Level:** 1d6+2  

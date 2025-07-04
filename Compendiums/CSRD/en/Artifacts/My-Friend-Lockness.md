@@ -1,14 +1,13 @@
 ---
 aliases:
-  - My Friend Lockness
+- "My Friend Lockness"
 tags:
-  - Compendium/CSRD/en/Artifacts/My-Friend-Lockness
-  - Artifact
-  - Artifact/Modern-Fantasy
-title: My Friend Lockness
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts/My-Friend-Lockness
+- Artifact
+- Artifact/Modern-Fantasy
 ---
+
+  
 ## My Friend Lockness
 
 >1d6  + 3

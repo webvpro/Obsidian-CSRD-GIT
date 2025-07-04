@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Superb Explorer
+- "Superb Explorer"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Low
-  - Ability/Categories/Task
-title: Superb Explorer
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Low
+- Ability/Categories/Task
 ---
+
+  
 ## Superb Explorer  
 >**Enabler**
   

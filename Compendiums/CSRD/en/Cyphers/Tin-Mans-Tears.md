@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Tin Man's Tears
+- Tin Man's Tears
 tags:
-  - Compendium/CSRD/en/Cyphers/Tin-Mans-Tears
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Tin Man's Tears
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers/Tin-Mans-Tears
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Tin Man's Tears  
 >[!info] Stats  
 > **Level:** 1d6+2  

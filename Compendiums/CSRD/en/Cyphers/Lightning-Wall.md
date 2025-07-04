@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Lightning Wall
+- Lightning Wall
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantastic
-title: Lightning Wall
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantastic
 ---
+
+  
 ## Lightning Wall  
 >[!info] Stats  
 > **Level:** 1d6+2  

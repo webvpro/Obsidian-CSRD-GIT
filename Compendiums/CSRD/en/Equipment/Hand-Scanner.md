@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Hand Scanner
+- "Hand Scanner"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Advanced
-  - Equipment/Science-Fiction
-  - Equipment/Sense-Enhancing-Tools
-  - Equipment/Level/4
-  - Equipment/Value/Expensive
-title: Hand Scanner
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Advanced
+- Equipment/Science-Fiction
+- Equipment/Sense-Enhancing-Tools
+- Equipment/Level/4
+- Equipment/Value/Expensive
 ---
+
+  
 ## Hand Scanner  
   
 >Smartphone-like device customized for analysis; provides an asset for identifying tasks.  

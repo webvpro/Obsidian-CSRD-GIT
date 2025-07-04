@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Explorer's Gloves
+- Explorer's Gloves
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fantasy
-title: Explorer's Gloves
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fantasy
 ---
+
+  
 ## Explorer's Gloves  
 >[!info] Stats  
 > **Level:** 1d6  

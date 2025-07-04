@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Restorative Aura
+- Restorative Aura
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantasy
-title: Restorative Aura
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantasy
 ---
+
+  
 ## Restorative Aura  
 >[!info] Stats  
 > **Level:** 1d6  

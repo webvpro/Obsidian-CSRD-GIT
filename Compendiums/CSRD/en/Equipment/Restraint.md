@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Restraint
+- "Restraint"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Contemporary
-  - Equipment/Modern
-  - Equipment/Utility-Gear
-  - Equipment/Level/3
-  - Equipment/Value/Moderate
-  - Equipment/Value/Expensive
-title: Restraint
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Contemporary
+- Equipment/Modern
+- Equipment/Utility-Gear
+- Equipment/Level/3
+- Equipment/Value/Moderate
+- Equipment/Value/Expensive
 ---
+
+  
 ## Restraint  
   
 >Moderately priced non-novelty cuffs restrain targets at the wrists, hindering tasks to break free by two steps. Straitjackets wrap a target more securely, hindering tasks to break free by three steps.  

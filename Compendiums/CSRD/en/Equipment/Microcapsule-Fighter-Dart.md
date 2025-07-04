@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Microcapsule, Fighter (Dart)
+- "Microcapsule, Fighter (Dart)"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Advanced
-  - Equipment/Science-Fiction
-  - Equipment/Spacecraft
-  - Equipment/Level/1
-  - Equipment/Value/Very-Expensive-X2
-title: Microcapsule, Fighter (Dart)
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Advanced
+- Equipment/Science-Fiction
+- Equipment/Spacecraft
+- Equipment/Level/1
+- Equipment/Value/Very-Expensive-X2
 ---
+
+  
 ## Microcapsule, Fighter (Dart)  
   
 >As microcapsule, but with a laser cannon weapon system capable of targeting another craft.  

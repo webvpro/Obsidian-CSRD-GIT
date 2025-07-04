@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Blinking
+- Blinking
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantastic
-title: Blinking
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantastic
 ---
+
+  
 ## Blinking  
 >[!info] Stats  
 > **Level:** 1d6  

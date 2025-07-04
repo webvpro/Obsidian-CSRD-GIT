@@ -1,14 +1,13 @@
 ---
 aliases:
-  - How-To Manual
+- How-To Manual
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Scavenger-Subtle
-title: How-To Manual
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Scavenger-Subtle
 ---
+
+  
 ## How-To Manual  
 >[!info] Stats  
 > **Level:** 1d6+1  

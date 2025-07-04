@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Masters Weaponry
+- "Masters Weaponry"
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/Striker-Combat
-title: Masters Weaponry
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci
+- Focus/Category/Striker-Combat
 ---
+
+  
 ## Masters Weaponry  
 You are a master user of a particular type of weapon, be it a sword, whip, dagger, gun, or something else.  
 

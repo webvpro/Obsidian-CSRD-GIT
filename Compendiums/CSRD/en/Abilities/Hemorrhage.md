@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Hemorrhage
+- "Hemorrhage"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/2
-  - Ability/Tier/Low
-  - Ability/Pool/Might
-  - Ability/Categories/Special-Attack
-title: Hemorrhage
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/2
+- Ability/Tier/Low
+- Ability/Pool/Might
+- Ability/Categories/Special-Attack
 ---
+
+  
 ## Hemorrhage  
 >**Action**  
 >2+ Might points

@@ -1,19 +1,18 @@
 ---
 aliases:
-  - Taunt Foe
+- "Taunt Foe"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/4
-  - Ability/Tier/High
-  - Ability/Pool/Might
-  - Ability/Pool/Intellect
-  - Ability/Categories/Special-Attack
-title: Taunt Foe
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/4
+- Ability/Tier/High
+- Ability/Pool/Might
+- Ability/Pool/Intellect
+- Ability/Categories/Special-Attack
 ---
+
+  
 ## Taunt Foe  
 >**Enabler**  
 >4 Might or Intellect points

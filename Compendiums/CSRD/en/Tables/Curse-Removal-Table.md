@@ -1,13 +1,11 @@
 ---
 aliases:
-  - Curse Removal Table
+- Curse Removal Table
 tags:
-  - Compendiums/CSRD/en/Tables
-  - Table
-title: Curse Removal Table
-collection: Tables
-kind: Compendiums
+- Compendiums/CSRD/en/Tables
+- Table
 ---
+
 ## Curse Removal Table Table
 |  Roll &nbsp; &nbsp; | Curse Removal Table  |
 | ------------- | :----------- |

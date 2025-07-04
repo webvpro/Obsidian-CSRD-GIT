@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Tracer
+- Tracer
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Manifest
-title: Tracer
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Manifest
 ---
+
+  
 ## Tracer  
 >[!info] Stats  
 > **Level:** 1d6  

@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Game Lessons
+- "Game Lessons"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Low
-  - Ability/Categories/Task
-title: Game Lessons
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Low
+- Ability/Categories/Task
 ---
+
+  
 ## Game Lessons  
 >**Enabler**
   

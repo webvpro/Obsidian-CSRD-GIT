@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Mokuren
+- Mokuren
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/3
-  - Creature/Armor/0
-  - Creature/Health/9
-title: Mokuren
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/3
+- Creature/Armor/0
+- Creature/Health/9
 ---
+
+  
 ## Mokuren  
 Mokuren are usually no larger than a cat, but they possess the ability to swell until they're the size of a bus (if only briefly). That ability, combined with their flashy pyrokinetic tails, make these creatures a particular favorite with children, at least in stories and picture books. Given that mokuren can "burrow" into paintings and other two-dimensional art, it's possible that some mokuren images are more than simple representations.  
 

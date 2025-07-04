@@ -1,15 +1,15 @@
 ---
 aliases:
-  - Four Horsemen of the Apocalypse Beast
+- "Four Horsemen of the Apocalypse Beast"
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Level/6
-  - Creature/Armor/1
-title: Four Horsemen of the Apocalypse Beast
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Level/6
+- Creature/Armor/1
+- Creature/Heath/24
 ---
+
+  
 ## Four Hoursemen of the Apocalypse Beast, Creature  
 Beast (also called "Conquest") is present at mass shootings and acts of genocide. He is adroit at spreading misinformation and, prior to the apocalypse, was often seen on various "newstainment" shows and conspiracy theory websites, spreading lies under an alias. Then and now, he appears in a white suit, accessorized with white shades and gloves. His hair is white, too.  
   

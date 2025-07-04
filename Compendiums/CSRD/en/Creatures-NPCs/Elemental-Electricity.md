@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Elemental, Electricity
+- "Elemental, Electricity"
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs/Elemental-Electricity
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/4
-  - Creature/Armor/0
-  - Creature/Health/24
-title: Elemental, Electricity
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs/Elemental-Electricity
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/4
+- Creature/Armor/0
+- Creature/Health/24
 ---
+
+  
 ## Elemental, Air  
 Electricity elementals alternate between a feral-looking humanoid energy form and a near-spherical cloud of intensely glowing sparks. They spontaneously arise when supernatural events take place near high-voltage wires or electrical substations, and their high rate of speed often means they’ve traveled hundreds of miles before anyone realizes they appeared. Extremely mobile and curious, they inadvertently or deliberately cause harm wherever they go. 
 

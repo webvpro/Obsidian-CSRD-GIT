@@ -1,13 +1,11 @@
 ---
 aliases:
-  - Graceful
+- Graceful
 tags:
-  - Compendiums/CSRD/en/Descriptors
-  - Descriptor
-title: Graceful
-collection: Descriptors
-kind: Compendiums
+- Compendiums/CSRD/en/Descriptors
+- Descriptor
 ---
+
 ## Graceful  
 You have a perfect sense of balance, moving and speaking with grace and beauty. You're quick, lithe, flexible, and dexterous. Your body is perfectly suited to dance, and you use that advantage in combat to dodge blows. You might wear garments that enhance your agile movement and sense of style.
 ### You gain the following characteristics  

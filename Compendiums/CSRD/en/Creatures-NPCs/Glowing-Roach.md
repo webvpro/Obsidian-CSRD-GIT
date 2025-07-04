@@ -5,8 +5,9 @@ tags:
 - Compendium/CSRD/en/Creatures-NPCs
 - Creature
 - Creature/Kind/Creature
-- Creature/Level/6
+- Creature/Level/2
 - Creature/Armor/2
+- Creature/Health/6
 ---
 
   
@@ -15,7 +16,7 @@ GLOWING ROACH 2 (6)
 Radiation born mutant roaches are terrible individually, but absolutely horrible in swarms. Many times the size of roaches in the before times, these firefly like creatures prefer dark areas, such as ruined subways and abandoned basements. 
 Some swarms are rumored to have an insidious group intelligence, one that is utterly inimical to humankind.  
  
-> **Level :** 6  
+> **Level :** 2  
 > **Health :** 6  
 > **Damage :** 2 points  
 > **Armor :** 2  

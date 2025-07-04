@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Valorous Whetstone
+- Valorous Whetstone
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Valorous Whetstone
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Valorous Whetstone  
 >[!info] Stats  
 > **Level:** 1d6  

@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Weapon and Body
+- "Weapon and Body"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/5
-  - Ability/Tier/High
-  - Ability/Pool/Speed
-  - Ability/Categories/Special-Attack
-title: Weapon and Body
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/5
+- Ability/Tier/High
+- Ability/Pool/Speed
+- Ability/Categories/Special-Attack
 ---
+
+  
 ## Weapon and Body  
 >**Action**  
 >5 Speed points

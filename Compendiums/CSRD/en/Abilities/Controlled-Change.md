@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Controlled Change
+- "Controlled Change"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/NA
-  - Ability/Tier/Low
-  - Ability/Categories/Transform
-title: Controlled Change
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/NA
+- Ability/Tier/Low
+- Ability/Categories/Transform
 ---
+
+  
 ## Controlled Change  
 >**Action**
   

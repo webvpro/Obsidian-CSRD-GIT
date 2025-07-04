@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Shepherd's Fury
+- "Shepherd's Fury"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/NA
-  - Ability/Tier/Mid
-  - Ability/Categories/Meta
-title: Shepherd's Fury
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/NA
+- Ability/Tier/Mid
+- Ability/Categories/Meta
 ---
+
+  
 ## Shepherd's Fury  
 >**Action**
   

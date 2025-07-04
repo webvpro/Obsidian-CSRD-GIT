@@ -1,13 +1,11 @@
 ---
 aliases:
-  - Perceptive
+- Perceptive
 tags:
-  - Compendiums/CSRD/en/Descriptors
-  - Descriptor
-title: Perceptive
-collection: Descriptors
-kind: Compendiums
+- Compendiums/CSRD/en/Descriptors
+- Descriptor
 ---
+
 ## Perceptive  
 You miss little. You pick out the small details in the world around you and are skilled at making deductions from the information you find. Your talents make you an exceptional sleuth, a formidable scientist, or a talented scout.
 As adept as you are at finding clues, you have no skill at picking up on social cues. You overlook an offense that your deductions give or how uncomfortable your scrutiny can make the people around you. You tend to dismiss others as being intellectual dwarfs compared to you, which avails you little when you need a favor.

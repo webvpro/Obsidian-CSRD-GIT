@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Weather the Vicissitudes
+- "Weather the Vicissitudes"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Low
-  - Ability/Categories/Protection
-title: Weather the Vicissitudes
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Low
+- Ability/Categories/Protection
 ---
+
+  
 ## Weather the Vicissitudes  
 >**Enabler**
   

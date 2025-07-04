@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Overload Machine
+- "Overload Machine"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/3
-  - Ability/Tier/Low
-  - Ability/Pool/Intellect
-  - Ability/Categories/Meta
-title: Overload Machine
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/3
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Meta
 ---
+
+  
 ## Overload Machine  
 >**Action**  
 >3+ Intellect points

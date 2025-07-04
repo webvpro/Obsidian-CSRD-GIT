@@ -1,13 +1,11 @@
 ---
 aliases:
-  - Jovial
+- Jovial
 tags:
-  - Compendiums/CSRD/en/Descriptors
-  - Descriptor
-title: Jovial
-collection: Descriptors
-kind: Compendiums
+- Compendiums/CSRD/en/Descriptors
+- Descriptor
 ---
+
 ## Jovial  
 You're cheerful, friendly, and outgoing. You put others at ease with a big smile and a joke, possibly one at your own expense, though lightly ribbing your companions who can take it is also one of your favorite pastimes. Sometimes people say you never take anything seriously. That's not true, of course, but you have learned that to dwell on the bad too long quickly robs the world of joy. You've always got a new joke in your back pocket because you collect them like some people collect bottles of wine.
 ### You gain the following characteristics  

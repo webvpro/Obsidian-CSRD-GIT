@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Incredible Recovery
+- "Incredible Recovery"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/6
-  - Ability/Tier/High
-  - Ability/Pool/Might
-  - Ability/Categories/Cure
-title: Incredible Recovery
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/6
+- Ability/Tier/High
+- Ability/Pool/Might
+- Ability/Categories/Cure
 ---
+
+  
 ## Incredible Recovery  
 >**Action**  
 >6 Might points

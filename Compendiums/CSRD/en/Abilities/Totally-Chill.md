@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Totally Chill
+- "Totally Chill"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Low
-  - Ability/Categories/Cure
-title: Totally Chill
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Low
+- Ability/Categories/Cure
 ---
+
+  
 ## Totally Chill  
 >**Enabler**
   

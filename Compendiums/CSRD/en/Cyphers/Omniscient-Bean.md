@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Omniscient Bean
+- Omniscient Bean
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Omniscient Bean
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Omniscient Bean  
 >[!info] Stats  
 > **Level:** 1d6+2  

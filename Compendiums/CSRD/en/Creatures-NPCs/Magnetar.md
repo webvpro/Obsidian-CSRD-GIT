@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Magnetar
+- Magnetar
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Super Villain
-  - Creature/Level/8
-  - Creature/Armor/8
-  - Creature/Health/50
-title: Magnetar
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Super Villain
+- Creature/Level/8
+- Creature/Armor/8
+- Creature/Health/50
 ---
+
+  
 ## Magnetar  
 Not much is known about Magnetar other than its powerful ability to generate and control magnetic fields. Various research groups theorize that Magnetar is an alien, a sentient and self-improving robot, or even some kind of manifestation of a fundamental force. Given Magnetar's vaguely humanoid shape, a few people even suggest that the villain is actually a man with a mutant ability so powerful that it burned out all memories of his former self.
 In truth, Magnetar is the animate, sentient, and self-regulating nucleus of a neutron star that is able to rein in its immense electromagnetic signature. One of two such beings an advanced alien species created from a single magnetar (a type of neutron star with an extremely powerful magnetic field), Magnetar was sent on a mission of exploration. After millennia, it crashed on Earth and was damaged. Having lost most of its memory data, Magnetar knows that something was taken from it (its twin), but it can't remember what. It has decided to blame the humans.

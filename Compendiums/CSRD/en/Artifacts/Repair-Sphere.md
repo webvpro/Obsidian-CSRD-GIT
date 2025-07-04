@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Repair Sphere
+- Repair Sphere
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Science-Fiction
-title: Repair Sphere
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Science-Fiction
 ---
+
+  
 ## Repair Sphere  
 >[!info] Stats  
 > **Level:** 1d6+2  

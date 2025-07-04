@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Confuse Enemy
+- "Confuse Enemy"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/4
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Protection
-title: Confuse Enemy
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/4
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Protection
 ---
+
+  
 ## Confuse Enemy  
 >**Enabler**  
 >4 Intellect points

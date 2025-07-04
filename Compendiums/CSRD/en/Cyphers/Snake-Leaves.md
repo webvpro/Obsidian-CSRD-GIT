@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Snake Leaves
+- Snake Leaves
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Snake Leaves
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Snake Leaves  
 >[!info] Stats  
 > **Level:** 1d6+2  

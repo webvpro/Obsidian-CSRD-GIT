@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Remembering
+- Remembering
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Subtle
-title: Remembering
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Subtle
 ---
+
+  
 ## Remembering  
 >[!info] Stats  
 > **Level:** 1d6  

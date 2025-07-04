@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Lead From the Front
+- "Lead From the Front"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Low
-  - Ability/Categories/Meta
-title: Lead From the Front
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Low
+- Ability/Categories/Meta
 ---
+
+  
 ## Lead From the Front  
 >**Enabler**
   

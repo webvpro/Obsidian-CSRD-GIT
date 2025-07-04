@@ -1,24 +1,25 @@
 ---
 aliases:
-  - Submachine Gun
+- "Submachine Gun"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Post-Apocalyptic
-  - Equipment/Utility-Gear
-  - Equipment/Value/Very-Expensive
-  - Equipment/Weapon/Medium
-  - Equipment/Range/Short
-  - Equipment/Weapon/Rapid-Fire
-  - Equipment/Armament
-  - Equipment/Contemporary
-  - Equipment/Modern
-  - Equipment/Level/3
-  - Equipment/Value/Very-Expensive
-  - Equipment/Weapon/Rapid-Fire
-title: Submachine Gun
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Post-Apocalyptic
+- Equipment/Utility-Gear
+- Equipment/Value/Very-Expensive
+- Equipment/Weapon/Medium
+- Equipment/Range/Short
+- Equipment/Weapon/Rapid-Fire
+- Equipment/Armament
+- Equipment/Contemporary
+- Equipment/Modern
+- Equipment/Level/3
+- Equipment/Value/Very-Expensive
+
+- Equipment/Weapon/Rapid-Fire
+
 ---
+
+  
 ## Submachine Gun  
   
 >  

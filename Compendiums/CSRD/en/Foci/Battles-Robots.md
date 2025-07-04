@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Battles Robots
+- "Battles Robots"
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/Striker-Combat
-title: Battles Robots
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci
+- Focus/Category/Striker-Combat
 ---
+
+  
 ## Battles Robots  
 You excel in battling robots, automatons, and machine entities.  
 

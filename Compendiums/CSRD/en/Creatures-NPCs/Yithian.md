@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Yithian
+- Yithian
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/6
-  - Creature/Armor/2
-  - Creature/Health/22
-title: Yithian
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/6
+- Creature/Armor/2
+- Creature/Health/22
 ---
+
+  
 ## Yithian  
 The yithians (also known as the Great Race of Yith) were immense wrinkly cones 10 feet (3 m) high, with a head, four limbs, and other organs spreading from the top of their body. They communicated by making noises with their hands and claws, and they moved by gliding their lower surface across a layer of slime, like a slug. Their civilization was destroyed a billion years before the present day, but they transported their minds into new bodies far in the future and may still be encountered observing the past (our present) by telepathically inhabiting human bodies.  
 

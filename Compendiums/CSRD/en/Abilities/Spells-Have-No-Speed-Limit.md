@@ -1,18 +1,17 @@
 ---
 aliases:
-  - 'Spells Have No Speed Limit '
+- "Spells Have No Speed Limit "
 tags:
-  - Compendium/CSRD/en/Abilities/Deer-in-the-Headlights
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/
-  - Ability/Tier/High
-  - Ability/Pool/Intellect
-  - Ability/Categories/Magic/Modern
-title: Spells Have No Speed Limit
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities/Deer-in-the-Headlights
+- Ability
+- Ability/Enabler
+- Ability/Cost/
+- Ability/Tier/High
+- Ability/Pool/Intellect
+- Ability/Categories/Magic/Modern
 ---
+
+  
 ## Spells Have No Speed Limit 
 >**Enabler**  
 Any car you have driven for at least a minute responds to you like a well-trained robot, allowing you to mentally give it orders from a long distance away. 

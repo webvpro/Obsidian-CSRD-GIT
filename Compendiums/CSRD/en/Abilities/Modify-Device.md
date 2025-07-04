@@ -1,19 +1,18 @@
 ---
 aliases:
-  - Modify Device
+- "Modify Device"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/4
-  - Ability/Tier/Low
-  - Ability/Pool/Intellect
-  - Ability/Categories/Craft
-  - Ability/Categories/Meta
-title: Modify Device
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/4
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Craft
+- Ability/Categories/Meta
 ---
+
+  
 ## Modify Device  
 >**Action**  
 >4 Intellect points

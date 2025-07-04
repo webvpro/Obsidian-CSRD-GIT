@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Poison Resistance
+- Poison Resistance
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantasy
-title: Poison Resistance
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantasy
 ---
+
+  
 ## Poison Resistance  
 >[!info] Stats  
 > **Level:** 1d6+3  

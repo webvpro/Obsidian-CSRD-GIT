@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Summon Giant Spider
+- "Summon Giant Spider"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/4
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Companion
-title: Summon Giant Spider
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/4
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Companion
 ---
+
+  
 ## Summon Giant Spider  
 >**Action**  
 >4+ Intellect points

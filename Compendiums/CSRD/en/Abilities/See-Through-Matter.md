@@ -1,18 +1,17 @@
 ---
 aliases:
-  - See Through Matter
+- "See Through Matter"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/3
-  - Ability/Tier/Low
-  - Ability/Pool/Intellect
-  - Ability/Categories/Senses
-title: See Through Matter
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/3
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Senses
 ---
+
+  
 ## See Through Matter  
 >**Action**  
 >3+ Intellect points

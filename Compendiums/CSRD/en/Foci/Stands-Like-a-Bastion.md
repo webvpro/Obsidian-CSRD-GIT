@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Stands Like a Bastion
+- "Stands Like a Bastion"
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/
-title: Stands Like a Bastion
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci
+- Focus/Category/
 ---
+
+  
 ## Stands Like a Bastion  
 Your armor, along with your size, strength, incredible training, or machine enhancement, makes you difficult to move or hurt.  
 

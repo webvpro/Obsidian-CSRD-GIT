@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Siphons Power
+- "Siphons Power"
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/
-title: Siphons Power
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci
+- Focus/Category/
 ---
+
+  
 ## Siphons Power  
 You suck power out of machines and creatures alike in order to empower yourself.  
 

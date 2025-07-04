@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Extra Use
+- "Extra Use"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/3
-  - Ability/Tier/Low
-  - Ability/Pool/Intellect
-  - Ability/Categories/Meta
-title: Extra Use
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/3
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Meta
 ---
+
+  
 ## Extra Use  
 >**Action**  
 >3 Intellect points

@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Subdual Field
+- Subdual Field
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantastic
-title: Subdual Field
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantastic
 ---
+
+  
 ## Subdual Field  
 >[!info] Stats  
 > **Level:** 1d6+3  

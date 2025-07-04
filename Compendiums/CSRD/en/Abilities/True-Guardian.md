@@ -1,19 +1,18 @@
 ---
 aliases:
-  - True Guardian
+- "True Guardian"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/2
-  - Ability/Tier/Mid
-  - Ability/Pool/Might
-  - Ability/Pool/Intellect
-  - Ability/Categories/Support
-title: True Guardian
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/2
+- Ability/Tier/Mid
+- Ability/Pool/Might
+- Ability/Pool/Intellect
+- Ability/Categories/Support
 ---
+
+  
 ## True Guardian  
 >**Enabler**  
 >2 Might or Intellect points

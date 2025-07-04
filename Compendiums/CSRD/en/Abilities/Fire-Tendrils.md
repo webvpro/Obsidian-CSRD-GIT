@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Fire Tendrils
+- "Fire Tendrils"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/5
-  - Ability/Tier/High
-  - Ability/Pool/Intellect
-  - Ability/Categories/Special-Attack
-title: Fire Tendrils
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/5
+- Ability/Tier/High
+- Ability/Pool/Intellect
+- Ability/Categories/Special-Attack
 ---
+
+  
 ## Fire Tendrils  
 >**Enabler**  
 >5 Intellect points

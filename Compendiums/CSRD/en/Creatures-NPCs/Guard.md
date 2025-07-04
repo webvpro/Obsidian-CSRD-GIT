@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Guard
+- Guard
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/NPC
-  - Creature/Level/2
-  - Creature/Armor/1
-  - Creature/Health/8
-title: Guard
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/NPC
+- Creature/Level/2
+- Creature/Armor/1
+- Creature/Health/8
 ---
+
+  
 ## Guard  
 Guards keep the peace but don't usually show much initiative. Ultimately, they do as they're ordered by their superiors, regardless of legality. A guard might be a star trooper dressed in intimidating armor, a mall security guard, a beat police officer, or a mafia goon.
 (When attacked, guards always call for the help of other guards, if possible.)  

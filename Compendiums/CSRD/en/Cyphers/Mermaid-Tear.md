@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Mermaid Tear
+- Mermaid Tear
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Mermaid Tear
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Mermaid Tear  
 >[!info] Stats  
 > **Level:** 1d6+2  

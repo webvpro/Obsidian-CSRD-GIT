@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Slice
+- "Slice"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/2
-  - Ability/Tier/Mid
-  - Ability/Pool/Speed
-  - Ability/Categories/Special-Attack
-title: Slice
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/2
+- Ability/Tier/Mid
+- Ability/Pool/Speed
+- Ability/Categories/Special-Attack
 ---
+
+  
 ## Slice  
 >**Action**  
 >2 Speed points

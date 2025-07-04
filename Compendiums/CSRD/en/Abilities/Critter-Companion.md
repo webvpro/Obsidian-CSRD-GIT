@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Critter Companion
+- "Critter Companion"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Low
-  - Ability/Categories/Companion
-title: Critter Companion
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Low
+- Ability/Categories/Companion
 ---
+
+  
 ## Critter Companion  
 >**Enabler**
   

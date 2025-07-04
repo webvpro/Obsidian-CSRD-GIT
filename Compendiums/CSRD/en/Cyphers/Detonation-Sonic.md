@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Detonation Sonic
+- Detonation Sonic
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Manifest
-title: Detonation Sonic
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Manifest
 ---
+
+  
 ## Detonation Sonic  
 >[!info] Stats  
 > **Level:** 1d6+2  

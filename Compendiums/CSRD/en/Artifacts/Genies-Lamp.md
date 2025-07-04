@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Genie's Lamp
+- "Genie's Lamp"
 tags:
-  - Compendium/CSRD/en/Artifacts/Genies-Lamp
-  - Artifact
-  - Artifact/Fairy-Tale
-title: Genie's Lamp
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts/Genies-Lamp
+- Artifact
+- Artifact/Fairy-Tale
 ---
+
+  
 ## Genie's Lamp  
 >[!info] Stats  
 > **Level:** 1d6+2  

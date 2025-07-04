@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Crown of the Mind
+- Crown of the Mind
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fantasy
-title: Crown of the Mind
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fantasy
 ---
+
+  
 ## Crown of the Mind  
 >[!info] Stats  
 > **Level:** 1d6  

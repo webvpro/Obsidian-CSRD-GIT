@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Fearsome Reputation
+- "Fearsome Reputation"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/3
-  - Ability/Tier/Low
-  - Ability/Pool/Intellect
-  - Ability/Categories/Protection
-title: Fearsome Reputation
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/3
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Protection
 ---
+
+  
 ## Fearsome Reputation  
 >**Action**  
 >3 Intellect points

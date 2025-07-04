@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Xenoparasite
+- Xenoparasite
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/6
-  - Creature/Armor/2
-  - Creature/Health/28
-title: Xenoparasite
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/6
+- Creature/Armor/2
+- Creature/Health/28
 ---
+
+  
 ## Xenoparasite  
 This alien creature exists only to eat and reproduce. In doing so, it also destroys every form of life it encounters. Xenoparasites are not technological but were likely engineered by a species with advanced biological super-science. Xenoparasites don't travel between star systems on their own; they were presumably spread across an area of space by their creators to serve as a broad-spectrum bioweapon. What has become of the original maker species is unknown, but given the fecundity and ferocity of the xenoparasite, it's likely they were consumed by their own creation.
 Xenoparasites use ovipositors to lay thousands of microscopic eggs in victims. The implanted eggs, like tiny biological labs, detect the particular biology of the new host, adapt accordingly, and use it to fertilize themselves. Within a day or two, victims who haven't already been consumed by adult xenoparasites (which are human sized) give explosive birth to multiple vicious juveniles (which are the size of cats). These juvenile xenoparasites have an edge in dealing with the particular species of creature they hatched from.  

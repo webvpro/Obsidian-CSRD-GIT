@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Jaunt
+- "Jaunt"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/5
-  - Ability/Tier/High
-  - Ability/Pool/Intellect
-  - Ability/Categories/Movement
-title: Jaunt
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/5
+- Ability/Tier/High
+- Ability/Pool/Intellect
+- Ability/Categories/Movement
 ---
+
+  
 ## Jaunt  
 >**Action**  
 >5+ Intellect points

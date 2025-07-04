@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Tree Travel
+- "Tree Travel"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/4
-  - Ability/Tier/NA
-  - Ability/Pool/Intellect
-  - Ability/Categories/NA
-title: Tree Travel
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/4
+- Ability/Tier/NA
+- Ability/Pool/Intellect
+- Ability/Categories/NA
 ---
+
+  
 ## Tree Travel  
 >**Action**  
 >4+ Intellect points

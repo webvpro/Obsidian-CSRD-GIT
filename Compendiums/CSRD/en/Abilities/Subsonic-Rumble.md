@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Subsonic Rumble
+- "Subsonic Rumble"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/2
-  - Ability/Tier/High
-  - Ability/Pool/Intellect
-  - Ability/Categories/Task
-title: Subsonic Rumble
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/2
+- Ability/Tier/High
+- Ability/Pool/Intellect
+- Ability/Categories/Task
 ---
+
+  
 ## Subsonic Rumble  
 >**Action**  
 >2 Intellect points

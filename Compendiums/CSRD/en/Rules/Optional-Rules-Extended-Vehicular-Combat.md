@@ -1,14 +1,12 @@
 ---
 aliases:
-  - 'Optional Rules: Extended Vehicular Combat (Spacecraft Combat)'
-  - Spacecraft Combat
+- "Optional Rules: Extended Vehicular Combat (Spacecraft Combat)"
+- "Spacecraft Combat"
 tags:
-  - Compendium/CSRD/en/Rules/Optional/Vehicular/Combat
-  - Spacecraft
-title: 'Optional Rules: Extended Vehicular Combat (Spacecraft Combat)'
-collection: Rules
-kind: Compendium
+- Compendium/CSRD/en/Rules/Optional/Vehicular/Combat
+- Spacecraft
 ---
+
 ##  Optional Rules: Extended Vehicular Combat (Spacecraft Combat)  
 When vehicular combat occurs—which happens whenever the PCs are completely enclosed in a vehicle so that it’s not really the characters fighting, but the vehicles— start with the vehicular combat rules described in the Cypher System Rulebook. 
 However, if you’d like to provide the PCs with more options designed especially for spacecraft combat, use these optional rules instead, which include a “redline maneuver” system for trying extremely risky spacecraft maneuvers, bridge combat options, and more. The base vehicular combat rules have been integrated into these extended rules, so you don’t need to continually cross-reference them to understand how it all works.

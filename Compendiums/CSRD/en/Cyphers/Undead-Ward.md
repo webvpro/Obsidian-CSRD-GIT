@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Undead Ward
+- Undead Ward
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantasy
-title: Undead Ward
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantasy
 ---
+
+  
 ## Undead Ward  
 >[!info] Stats  
 > **Level:** 1d6  

@@ -1,20 +1,19 @@
 ---
 aliases:
-  - Wooden Club
+- "Wooden Club"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Fantasy
-  - Equipment/Utility-Gear
-  - Equipment/Value/Inexpensive
-  - Equipment/Weapon/Light
-  - Equipment/Post-Apocalyptic
-  - Equipment/Utility-Gear
-  - Equipment/Value/Inexpensive
-  - Equipment/Weapon/Light
-title: Wooden Club
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Fantasy
+- Equipment/Utility-Gear
+- Equipment/Value/Inexpensive
+- Equipment/Weapon/Light
+- Equipment/Post-Apocalyptic
+- Equipment/Utility-Gear
+- Equipment/Value/Inexpensive
+- Equipment/Weapon/Light
 ---
+
+  
 ## Wooden Club  
   
 >  

@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Morgan Le Fay
+- Morgan Le Fay
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/9
-  - Creature/Armor/0
-  - Creature/Health/null
-title: Morgan Le Fay
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/9
+- Creature/Armor/0
+- Creature/Health/null
 ---
+
+  
 ## Morgan Le Fay  
 Morgan le Fay (also known as Morgen, Margain, Morgant, and various other names) is a powerful sorceress from the legends of King Arthur. She has an unpredictable duality to her nature, with the potential for great good and great evil.  
 

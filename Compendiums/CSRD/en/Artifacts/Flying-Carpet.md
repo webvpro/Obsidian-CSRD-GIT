@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Flying Carpet
+- Flying Carpet
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fantasy
-title: Flying Carpet
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fantasy
 ---
+
+  
 ## Flying Carpet  
 >[!info] Stats  
 > **Level:** 1d6+1  

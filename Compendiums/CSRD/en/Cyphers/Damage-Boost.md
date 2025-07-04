@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Damage Boost
+- Damage Boost
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Power-Boost
-title: Damage Boost
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Power-Boost
 ---
+
+  
 ## Damage Boost  
 >[!info] Stats  
 > **Level:** 1d6+2  

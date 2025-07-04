@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Shadow Elf
+- Shadow Elf
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/4
-  - Creature/Armor/1
-  - Creature/Health/15
-title: Shadow Elf
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/4
+- Creature/Armor/1
+- Creature/Health/15
 ---
+
+  
 ## Shadow Elf  
 Elves who faded from the surface to escape the justice of their fey cousins for crimes uncounted are sometimes called shadow elves, dark elves, or simply trow. It's widely assumed that shadow elves fled to new realms deep below the ground, and indeed, the routes that lead to their true abodes are mostly subterranean and include many grand underground keeps. However, the heart of the shadow elf kingdom lies in the colorless dimension of Shadow itself, where all things exist as a dim reflection of the real world.
 Sometimes shadow elves appear on the surface, spilling from dark tunnels or, in some cases, from the shadows themselves. They raid for plunder, fresh slaves, and sacrifices. The sacrifices are made to their godqueen, a monstrously sized black widow spider that schemes in darkness.

@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Iron Stove
+- Iron Stove
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fairy-Tale
-title: Iron Stove
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fairy-Tale
 ---
+
+  
 ## Iron Stove  
 >[!info] Stats  
 > **Level:** 1d6+3  

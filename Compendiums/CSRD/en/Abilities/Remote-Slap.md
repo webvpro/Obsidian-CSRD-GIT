@@ -1,19 +1,18 @@
 ---
 aliases:
-  - Remote Slap
+- "Remote Slap"
 tags:
-  - Compendium/CSRD/en/Abilities/Remote-Slap
-  - Ability
-  - Ability/Action
-  - Ability/Cost/3
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Magic
-  - Ability/Categories/Fantasy/Modern
-title: Remote Slap
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities/Remote-Slap
+- Ability
+- Ability/Action
+- Ability/Cost/3
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Magic
+- Ability/Categories/Fantasy/Modern
 ---
+
+  
 ## Remote Slap
 >**Action**  
 >3 Intellect point

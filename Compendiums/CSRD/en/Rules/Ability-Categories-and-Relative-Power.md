@@ -1,11 +1,8 @@
 ---
 aliases:
-  - Ability Categories and Relative Power
+  - "Ability Categories and Relative Power"
 tags:
-  - Compendium/CSRD/en/Rules/Ability-Categories-and-Relative-Power
-title: Ability Categories and Relative Power
-collection: Rules
-kind: Compendium
+-  Compendium/CSRD/en/Rules/Ability-Categories-and-Relative-Power
 ---
 # Ability Categories and Relative Power
 

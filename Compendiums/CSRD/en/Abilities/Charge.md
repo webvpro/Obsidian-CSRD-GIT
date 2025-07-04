@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Charge
+- "Charge"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/1
-  - Ability/Tier/Low
-  - Ability/Pool/Intellect
-  - Ability/Categories/Meta
-title: Charge
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/1
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Meta
 ---
+
+  
 ## Charge  
 >**Action**  
 >1+ Intellect points

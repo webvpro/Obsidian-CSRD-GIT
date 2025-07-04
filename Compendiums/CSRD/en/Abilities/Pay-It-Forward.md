@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Pay It Forward
+- "Pay It Forward"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/3
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Support
-title: Pay It Forward
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/3
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Support
 ---
+
+  
 ## Pay It Forward  
 >**Action**  
 >3 Intellect points

@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Zombie
+- Zombie
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/3
-  - Creature/Armor/0
-  - Creature/Health/12
-title: Zombie
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/3
+- Creature/Armor/0
+- Creature/Health/12
 ---
+
+  
 ## Zombie  
 Humans transformed into aggressive, hard-to-kill serial killers with no memory of their former existence are called zombies. Depending on a zombie's origin, the reason for its transformation varies. A zombie might arise from an undead curse, a psychic possession, an AI meatware overwrite, a viral infection, a drug overdose, or something else. Regardless of how the transformation happened, the result is much the same: a creature whose humanity has been burned out and replaced with unquenchable hunger.
 Zombies aren't intelligent, but enough of them together sometimes exhibit emergent behavior, just as ants can coordinate activities across a colony. Thus, zombies alone or in small groups aren't an overwhelming threat for someone who has a baseball bat or can get away. But it's never wise to laugh off a zombie horde.  

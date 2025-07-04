@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Cloud Thief
+- "Cloud Thief"
 tags:
-  - Compendium/CSRD/en/Artifacts/Cloud-Thief
-  - Artifact
-  - Artifact/Modern-Fantasy
-title: Cloud Thief
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts/Cloud-Thief
+- Artifact
+- Artifact/Modern-Fantasy
 ---
+
+  
 ## Cloud Thief
 >1d6
 #### Form

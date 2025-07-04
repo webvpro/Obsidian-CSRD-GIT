@@ -1,15 +1,14 @@
 ---
 aliases:
-  - Glasses
+- "Glasses"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Post-Apocalyptic
-  - Equipment/Utility-Gear
-  - Equipment/Value/Moderate
-title: Glasses
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Post-Apocalyptic
+- Equipment/Utility-Gear
+- Equipment/Value/Moderate
 ---
+
+  
 ## Glasses  
   
 >Corrects for different vision impairments  

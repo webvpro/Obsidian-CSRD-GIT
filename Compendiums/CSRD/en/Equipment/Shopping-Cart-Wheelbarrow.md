@@ -1,15 +1,14 @@
 ---
 aliases:
-  - Shopping Cart Wheelbarrow
+- "Shopping Cart Wheelbarrow"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Post-Apocalyptic
-  - Equipment/Utility-Gear
-  - Equipment/Value/Inexpensive
-title: Shopping Cart Wheelbarrow
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Post-Apocalyptic
+- Equipment/Utility-Gear
+- Equipment/Value/Inexpensive
 ---
+
+  
 ## Shopping Cart Wheelbarrow  
   
 >  

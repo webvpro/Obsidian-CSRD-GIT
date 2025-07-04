@@ -1,18 +1,17 @@
 ---
 aliases:
-  - 1Perfect Parking Space
+- "1Perfect Parking Space"
 tags:
-  - Compendium/CSRD/en/Abilities/1Perfect-Parking-Space
-  - Ability
-  - Ability/Action
-  - Ability/Cost/3
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Magic/Modern
-title: 1Perfect Parking Space
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities/1Perfect-Parking-Space
+- Ability
+- Ability/Action
+- Ability/Cost/3
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Magic/Modern
 ---
+
+  
 ## 1Perfect Parking Space
 >**Action**  
 >3+ Intellect points

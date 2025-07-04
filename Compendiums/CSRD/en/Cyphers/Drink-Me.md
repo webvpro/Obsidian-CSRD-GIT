@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Drink Me
+- Drink Me
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Drink Me
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Drink Me  
 >[!info] Stats  
 > **Level:** 1d6  

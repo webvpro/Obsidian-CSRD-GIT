@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Dragon's Teeth
+- "Dragon's Teeth"
 tags:
-  - Compendium/CSRD/en/Cyphers/Dragons-Teeth
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Dragon's Teeth
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers/Dragons-Teeth
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Dragon's Teeth  
 >[!info] Stats  
 > **Level:** 1d6  

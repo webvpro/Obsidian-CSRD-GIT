@@ -1,14 +1,11 @@
 ---
 aliases:
-  - Further Customization
+- "Further Customization"
 tags:
-  - Compendium/CSRD/en/Rules/Further-Customization
-  - Rule/Customization
-  - Rule/Advanced
-  - Rule/Optional
-title: Further Customization
-collection: Rules
-kind: Compendium
+- Compendium/CSRD/en/Rules/Further-Customization
+- Rule/Customization
+- Rule/Advanced
+- Rule/Optional
 ---
 ## Further Customization  
 

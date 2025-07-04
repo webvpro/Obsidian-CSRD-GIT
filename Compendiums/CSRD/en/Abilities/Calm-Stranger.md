@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Calm Stranger
+- "Calm Stranger"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/2
-  - Ability/Tier/Low
-  - Ability/Pool/Intellect
-  - Ability/Categories/Control
-title: Calm Stranger
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/2
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Control
 ---
+
+  
 ## Calm Stranger  
 >**Action**  
 >2+ Intellect points

@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Firearm
+- Firearm
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Scavenger-Subtle
-title: Firearm
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Scavenger-Subtle
 ---
+
+  
 ## Firearm  
 >[!info] Stats  
 > **Level:** 1d6+1  

@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Spirit Ring
+- Spirit Ring
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Spirit Ring
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Spirit Ring  
 >[!info] Stats  
 > **Level:** 1d6  

@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Mental Scrambler
+- Mental Scrambler
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantastic
-title: Mental Scrambler
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantastic
 ---
+
+  
 ## Mental Scrambler  
 >[!info] Stats  
 > **Level:** 1d6+2  

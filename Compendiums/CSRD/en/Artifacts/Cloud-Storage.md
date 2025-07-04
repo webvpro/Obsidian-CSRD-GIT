@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Cloud Storage
+- "Cloud Storage"
 tags:
-  - Compendium/CSRD/en/Artifacts/Cloud-Storage
-  - Artifact
-  - Artifact/Modern-Fantasy
-title: Cloud Storage
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts/Cloud-Storage
+- Artifact
+- Artifact/Modern-Fantasy
 ---
+
+  
 ## Cloud Storage
 >1d6 +2
 #### Form

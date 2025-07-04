@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Fights Dirty
+- "Fights Dirty"
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/Striker-Combat
-title: Fights Dirty
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci
+- Focus/Category/Striker-Combat
 ---
+
+  
 ## Fights Dirty  
 You'll do anything to win a fight: bite, scratch, kick, trick, and worse.  
 

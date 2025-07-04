@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Wooden Spoon
+- Wooden Spoon
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Wooden Spoon
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Wooden Spoon  
 >[!info] Stats  
 > **Level:** 1d6+4  

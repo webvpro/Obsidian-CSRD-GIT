@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Lives in the Wilderness
+- "Lives in the Wilderness"
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/Tank-Combat
-title: Lives in the Wilderness
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci
+- Focus/Category/Tank-Combat
 ---
+
+  
 ## Lives in the Wilderness  
 You can survive in badlands where others perish.  
 

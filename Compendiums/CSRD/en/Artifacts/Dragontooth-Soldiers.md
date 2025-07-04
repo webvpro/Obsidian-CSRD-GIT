@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Dragontooth Soldiers
+- Dragontooth Soldiers
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fantasy
-title: Dragontooth Soldiers
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fantasy
 ---
+
+  
 ## Dragontooth Soldiers  
 >[!info] Stats  
 > **Level:** 1d6+1  

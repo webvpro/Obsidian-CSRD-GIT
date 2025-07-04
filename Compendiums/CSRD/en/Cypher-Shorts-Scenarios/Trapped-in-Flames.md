@@ -1,13 +1,11 @@
 ---
-aliases:
-  - Trapped in Flamese
-  - This is How You Play the Cypher System
-tags:
-  - Compendium/CSRD/en/Rules/Cypher-Shorts-Scenarios
-  - Cypher-Shorts/Scenario/Modern
-title: Trapped in Flamese
-collection: Rules
-kind: Compendium
+aliases: 
+- "Trapped in Flamese"
+- "This is How You Play the Cypher System"
+tags: 
+- Compendium/CSRD/en/Rules/Cypher-Shorts-Scenarios
+- Cypher-Shorts/Scenario/Modern
+
 ---
 ## Trapped in Flames 
 The Premise: The characters work in a tall skyscraper. Suddenly, there’s an explosion, and the fire alarms start ringing!

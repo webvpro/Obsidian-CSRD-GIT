@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Entourage
+- "Entourage"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Low
-  - Ability/Categories/Companion
-title: Entourage
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Low
+- Ability/Categories/Companion
 ---
+
+  
 ## Entourage  
 >**Enabler**
   

@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Denature Nanotech
+- Denature Nanotech
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-title: Denature Nanotech
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
 ---
+
+  
 ## Denature Nanotech  
 >[!info] Stats  
 > **Level:** 1d6+3

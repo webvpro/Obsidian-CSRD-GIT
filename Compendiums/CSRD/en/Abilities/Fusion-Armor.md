@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Fusion Armor
+- "Fusion Armor"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Mid
-  - Ability/Categories/Protection
-title: Fusion Armor
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Mid
+- Ability/Categories/Protection
 ---
+
+  
 ## Fusion Armor  
 >**Enabler**
   

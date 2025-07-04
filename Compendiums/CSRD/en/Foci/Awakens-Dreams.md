@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Awakens Dreams
+- "Awakens Dreams"
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/Environment-Manipulation
-title: Awakens Dreams
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci
+- Focus/Category/Environment-Manipulation 
 ---
+
+  
 ## Awakens Dreams  
 You can pull images from dreams and bring them to life in the waking world.  
 

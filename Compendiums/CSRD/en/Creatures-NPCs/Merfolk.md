@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Merfolk
+- Merfolk
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/3
-  - Creature/Armor/1
-  - Creature/Health/9
-title: Merfolk
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/3
+- Creature/Armor/1
+- Creature/Health/9
 ---
+
+  
 ## Merfolk  
 Merfolk are intelligent creatures with humanlike bodies from the waist up and scaly fish bodies from the waist down. They are able to breathe air or water but prefer the sea for its beauty and their better mobility. Merfolk have great underwater cities ruled by a king or queen, but most land-walking species interact only with the common or soldier merfolk who visit the ocean surface and coastlines. Merfolk societies are much like those of surface humans; their inability to use fire limits them in some ways (such as blacksmithing), but they have compensated for this with water magic and other skills. 
 Merfolk skin ranges from all human colors to green, blue, and grey. Some have small fins on their heads and elbows or webs between their fingers. They dress for comfort and wear jewelry made of shells, coral, pearls, polished gemstones, and metals they can salvage or trade for. Most of them are content to be hunters or cultivators of kelp and other aquatic plants, but some are curious about land-walkers (and their sunken ships) or fiercely territorial about protecting their waters against outsiders.  

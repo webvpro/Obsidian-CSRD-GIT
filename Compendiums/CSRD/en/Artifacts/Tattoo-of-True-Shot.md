@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Tattoo of True Shot
+- "Tattoo of True Shot"
 tags:
-  - Compendium/CSRD/en/Artifacts/Tattoo-of-True-Shot
-  - Artifact
-  - Artifact/Modern-Fantasy
-title: Tattoo of True Shot
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts/Tattoo-of-True-Shot
+- Artifact
+- Artifact/Modern-Fantasy
 ---
+
+  
 ## Tattoo of True Shot
 
 >1d6

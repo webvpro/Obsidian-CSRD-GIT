@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Table Be Set
+- "Table Be Set"
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fairy-Tale
-title: Table Be Set
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fairy-Tale
 ---
+
+  
 ## Table Be Set
 >[!info] Stats  
 > **Level:** 1d6  

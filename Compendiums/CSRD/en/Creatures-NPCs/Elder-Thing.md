@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Elder Thing
+- Elder Thing
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/8
-  - Creature/Armor/0
-  - Creature/Health/30
-title: Elder Thing
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/8
+- Creature/Armor/0
+- Creature/Health/30
 ---
+
+  
 ## Elder Thing  
 Elder things are mostly extinct, but a few remain trapped in the Antarctic ice or rule over crumbling cities in deep trenches at the bottom of the ocean.
 Beholding an elder thing bends the mind to the point of breaking. An elder thing has a great barrel-like body standing some 8 feet (2 m) tall. Knobby protrusions in the crown and base each unfold five appendages that recall the arms of a starfish. When agitated, an elder thing unfolds a pair of wings that help it flutter a limited distance.

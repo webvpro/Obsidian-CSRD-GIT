@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Conducts Weird Science
+- "Conducts Weird Science"
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/Influence
-title: Conducts Weird Science
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci
+- Focus/Category/Influence
 ---
+
+  
 ## Conducts Weird Science  
 Your preternatural insight and ability make you a scientist capable of amazing feats.  
 

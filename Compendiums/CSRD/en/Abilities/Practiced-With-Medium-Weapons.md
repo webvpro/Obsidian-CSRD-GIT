@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Practiced With Medium Weapons
+- "Practiced With Medium Weapons"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Low
-  - Ability/Categories/Attack-Skill
-title: Practiced With Medium Weapons
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Low
+- Ability/Categories/Attack-Skill
 ---
+
+  
 ## Practiced With Medium Weapons  
 >**Enabler**
   

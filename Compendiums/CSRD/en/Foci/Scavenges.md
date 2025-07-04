@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Scavenges
+- "Scavenges"
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/
-title: Scavenges
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci
+- Focus/Category/
 ---
+
+  
 ## Scavenges  
 When not running and hiding, you sift the ruins of civilization for useful remnants to ensure your survival.  
 

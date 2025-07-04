@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Efficacy Boost
+- Efficacy Boost
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Power-Boost
-title: Efficacy Boost
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Power-Boost
 ---
+
+  
 ## Efficacy Boost  
 >[!info] Stats  
 > **Level:** 1d6+1  

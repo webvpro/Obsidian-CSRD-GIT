@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Ray Emitter Friend Slaying
+- Ray Emitter Friend Slaying
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantastic
-title: Ray Emitter Friend Slaying
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantastic
 ---
+
+  
 ## Ray Emitter Friend Slaying  
 >[!info] Stats  
 > **Level:** 1d6+2  

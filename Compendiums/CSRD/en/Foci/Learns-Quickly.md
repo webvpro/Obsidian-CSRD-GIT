@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Learns Quickly
+- "Learns Quickly"
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/Basic
-title: Learns Quickly
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci
+- Focus/Category/Basic
 ---
+
+  
 ## Learns Quickly  
 You deal with bad situations as they arise, learning new lessons each time.  
 

@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Bullet Jaunt
+- "Bullet Jaunt"
 tags:
-  - Compendium/CSRD/en/Abilities/Bullet-Jaunt
-  - Ability
-  - Ability/Action
-  - Ability/Cost/NA
-  - Ability/Tier/NA
-  - Ability/Categories/NA
-title: Bullet Jaunt
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities/Bullet-Jaunt
+- Ability
+- Ability/Action
+- Ability/Cost/NA
+- Ability/Tier/NA
+- Ability/Categories/NA
 ---
+
+  
 ## Bullet Jaunt   
 >**Action**
 >5 Intellect points

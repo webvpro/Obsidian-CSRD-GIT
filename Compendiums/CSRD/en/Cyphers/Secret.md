@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Secret
+- Secret
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Subtle
-title: Secret
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Subtle
 ---
+
+  
 ## Secret  
 >[!info] Stats  
 > **Level:** 1d6+2  

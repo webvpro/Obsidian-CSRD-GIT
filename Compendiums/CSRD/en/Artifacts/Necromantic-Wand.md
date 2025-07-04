@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Necromantic Wand
+- Necromantic Wand
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fantasy
-title: Necromantic Wand
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fantasy
 ---
+
+  
 ## Necromantic Wand  
 >[!info] Stats  
 > **Level:** 1d6+4  

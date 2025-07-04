@@ -1,16 +1,15 @@
 ---
 aliases:
-  - Hammer
+- "Hammer"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Fantasy
-  - Equipment/Utility-Gear
-  - Equipment/Value/15-Gp
-  - Equipment/Weapon/Medium
-title: Hammer
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Fantasy
+- Equipment/Utility-Gear
+- Equipment/Value/15-Gp
+- Equipment/Weapon/Medium
 ---
+
+  
 ## Hammer  
   
 >A wooden handle with a heavy metal head, either one-sided (like a carpenter's hammer) or two-sided (like a sledgehammer).  

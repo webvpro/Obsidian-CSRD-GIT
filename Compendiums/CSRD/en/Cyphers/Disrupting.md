@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Disrupting
+- Disrupting
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantastic
-title: Disrupting
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantastic
 ---
+
+  
 ## Disrupting  
 >[!info] Stats  
 > **Level:** 1d6  

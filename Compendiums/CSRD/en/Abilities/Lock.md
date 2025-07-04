@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Lock
+- "Lock"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/2
-  - Ability/Tier/Low
-  - Ability/Pool/Intellect
-  - Ability/Categories/Environment
-title: Lock
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/2
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Environment
 ---
+
+  
 ## Lock  
 >**Action**  
 >2+ Intellect points

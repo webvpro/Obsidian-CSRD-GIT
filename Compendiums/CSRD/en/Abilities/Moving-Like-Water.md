@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Moving Like Water
+- "Moving Like Water"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/3
-  - Ability/Tier/Mid
-  - Ability/Pool/Speed
-  - Ability/Categories/Protection
-title: Moving Like Water
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/3
+- Ability/Tier/Mid
+- Ability/Pool/Speed
+- Ability/Categories/Protection
 ---
+
+  
 ## Moving Like Water  
 >**Enabler**  
 >3 Speed points

@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Shadow Soap
+- Shadow Soap
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Shadow Soap
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Shadow Soap  
 >[!info] Stats  
 > **Level:** +4  

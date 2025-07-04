@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Inhabit Crystal
+- "Inhabit Crystal"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/4
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Senses
-title: Inhabit Crystal
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/4
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Senses
 ---
+
+  
 ## Inhabit Crystal  
 >**Action**  
 >4 Intellect points

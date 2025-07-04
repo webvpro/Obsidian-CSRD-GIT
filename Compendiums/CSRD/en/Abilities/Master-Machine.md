@@ -1,19 +1,18 @@
 ---
 aliases:
-  - Master Machine
+- "Master Machine"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/8
-  - Ability/Tier/High
-  - Ability/Pool/Intellect
-  - Ability/Categories/Meta
-  - Ability/Categories/Senses
-title: Master Machine
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/8
+- Ability/Tier/High
+- Ability/Pool/Intellect
+- Ability/Categories/Meta
+- Ability/Categories/Senses
 ---
+
+  
 ## Master Machine  
 >**Action**  
 >8 Intellect points

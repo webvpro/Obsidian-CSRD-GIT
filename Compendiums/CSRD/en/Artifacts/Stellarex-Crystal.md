@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Stellarex Crystal
+- Stellarex Crystal
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Superhero
-title: Stellarex Crystal
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Superhero
 ---
+
+  
 ## Stellarex Crystal  
 >[!info] Stats  
 > **Level:** 1d6+4  

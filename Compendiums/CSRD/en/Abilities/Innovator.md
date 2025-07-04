@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Innovator
+- "Innovator"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/High
-  - Ability/Categories/Craft
-title: Innovator
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/High
+- Ability/Categories/Craft
 ---
+
+  
 ## Innovator  
 >**Enabler**
   

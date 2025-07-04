@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Dual Distraction
+- "Dual Distraction"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/1
-  - Ability/Tier/High
-  - Ability/Pool/Speed
-  - Ability/Categories/Meta
-title: Dual Distraction
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/1
+- Ability/Tier/High
+- Ability/Pool/Speed
+- Ability/Categories/Meta
 ---
+
+  
 ## Dual Distraction  
 >**Enabler**  
 >1+ Speed points

@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Time Dilation Offensive
+- Time Dilation Offensive
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantastic
-title: Time Dilation Offensive
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantastic
 ---
+
+  
 ## Time Dilation Offensive  
 >[!info] Stats  
 > **Level:** 1d6  

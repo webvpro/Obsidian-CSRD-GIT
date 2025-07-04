@@ -1,13 +1,10 @@
 ---
 aliases:
-  - Multiple Uses Of Effort And Edge
+- "Multiple Uses Of Effort And Edge"
 tags:
-  - Compendium/CSRD/en/Rules
-  - Effort
-  - Edge
-title: Multiple Uses Of Effort And Edge
-collection: Rules
-kind: Compendium
+-  Compendium/CSRD/en/Rules
+- Effort
+- Edge
 ---
 ## Multiple Uses Of Effort And Edge
 

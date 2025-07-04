@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Channels Divine Blessings
+- "Channels Divine Blessings"
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/Irregular
-title: Channels Divine Blessings
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci
+- Focus/Category/Irregular
 ---
+
+  
 ## Channels Divine Blessings  
 A devout follower of a divine being, you channel some of your deity's power to achieve wonders.  
 

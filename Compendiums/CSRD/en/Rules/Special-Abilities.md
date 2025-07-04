@@ -1,12 +1,9 @@
 ---
 aliases:
-  - Special Abilities
+- "Special Abilities"
 tags:
-  - Compendium/CSRD/en/Rules/Special-Abilities
-  - Character/Abilities
-title: Special Abilities
-collection: Rules
-kind: Compendium
+- Compendium/CSRD/en/Rules/Special-Abilities
+- Character/Abilities
 ---
 ## Special Abilities
 

@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Natural Crafter
+- "Natural Crafter"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Low
-  - Ability/Categories/Craft
-  - Ability/Categories/Meta
-title: Natural Crafter
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Low
+- Ability/Categories/Craft
+- Ability/Categories/Meta
 ---
+
+  
 ## Natural Crafter  
 >**Enabler**
   

@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Demon
+- Demon
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/5
-  - Creature/Armor/0
-  - Creature/Health/25
-title: Demon
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/5
+- Creature/Armor/0
+- Creature/Health/25
 ---
+
+  
 ## Demon  
 Demons are formless spirits of the dead tortured in nether realms until all that was good or caring in them was burned away, forging a being of spite and hate.
 A demon remembers only fragments of its former life-every good memory is cauterized, and every slight, misfortune, snub, and pain is amplified, motivating the creature to tempt others into the same state.

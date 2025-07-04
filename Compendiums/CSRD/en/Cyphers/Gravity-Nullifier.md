@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Gravity Nullifier
+- Gravity Nullifier
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantastic
-title: Gravity Nullifier
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantastic
 ---
+
+  
 ## Gravity Nullifier  
 >[!info] Stats  
 > **Level:** 1d6+3  

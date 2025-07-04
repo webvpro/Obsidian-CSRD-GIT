@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Equipment Cache
+- Equipment Cache
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Manifest
-title: Equipment Cache
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Manifest
 ---
+
+  
 ## Equipment Cache  
 >[!info] Stats  
 > **Level:** 1d6+1  

@@ -1,19 +1,18 @@
 ---
 aliases:
-  - Improved Object Bond
+- "Improved Object Bond"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/5
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Companion
-  - Ability/Categories/Special-Attack
-title: Improved Object Bond
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/5
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Companion
+- Ability/Categories/Special-Attack
 ---
+
+  
 ## Improved Object Bond  
 >**Enabler**  
 >5 Intellect points

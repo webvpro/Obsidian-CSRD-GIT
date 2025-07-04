@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Heat Attack
+- Heat Attack
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantastic
-title: Heat Attack
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantastic
 ---
+
+  
 ## Heat Attack  
 >[!info] Stats  
 > **Level:** 1d6  

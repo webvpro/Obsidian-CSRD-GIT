@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Tunneling Gauntlets
+- Tunneling Gauntlets
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fantasy
-title: Tunneling Gauntlets
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fantasy
 ---
+
+  
 ## Tunneling Gauntlets  
 >[!info] Stats  
 > **Level:** 1d6+1  

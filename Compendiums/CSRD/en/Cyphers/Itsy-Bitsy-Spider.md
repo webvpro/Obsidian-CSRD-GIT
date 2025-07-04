@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Itsy Bitsy Spider
+- Itsy Bitsy Spider
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Itsy Bitsy Spider
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Itsy Bitsy Spider  
 >[!info] Stats  
 > **Level:** 1d6  

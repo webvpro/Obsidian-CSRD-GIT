@@ -1,13 +1,11 @@
 ---
 aliases:
-  - Moving in Microgravity Gm Intrusions
+- Moving in Microgravity Gm Intrusions
 tags:
-  - Compendiums/CSRD/en/Tables
-  - Table/Intrusion/Moving-in-Microgravity-Gm-Intrusions
-title: Moving in Microgravity Gm Intrusions
-collection: Tables
-kind: Compendiums
+- Compendiums/CSRD/en/Tables
+- Table/Intrusion/Moving-in-Microgravity-Gm-Intrusions
 ---
+
 ## Moving in Microgravity Gm Intrusions Table
 |  Roll &nbsp; &nbsp; | Moving in Microgravity Gm Intrusions  |
 | ------------- | :----------- |

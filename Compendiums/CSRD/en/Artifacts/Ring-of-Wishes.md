@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Ring of Wishes
+- Ring of Wishes
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fantasy
-title: Ring of Wishes
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fantasy
 ---
+
+  
 ## Ring of Wishes  
 >[!info] Stats  
 > **Level:** 1d6+4  

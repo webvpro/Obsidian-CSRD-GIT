@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Attractor
+- Attractor
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Manifest
-title: Attractor
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Manifest
 ---
+
+  
 ## Attractor  
 >[!info] Stats  
 > **Level:** 1d6+4  

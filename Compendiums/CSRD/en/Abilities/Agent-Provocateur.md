@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Agent Provocateur
+- "Agent Provocateur"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Mid
-  - Ability/Categories/Task
-title: Agent Provocateur
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Mid
+- Ability/Categories/Task
 ---
+
+  
 ## Agent Provocateur  
 >**Enabler**
   

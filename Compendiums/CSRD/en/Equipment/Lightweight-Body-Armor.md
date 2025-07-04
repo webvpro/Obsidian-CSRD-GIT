@@ -1,24 +1,23 @@
 ---
 aliases:
-  - Lightweight Body Armor
+- "Lightweight Body Armor"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Modern
-  - Equipment/Utility-Gear
-  - Equipment/Value/Very-Expensive
-  - Equipment/Armor/Medium
-  - Equipment/Science-Fiction
-  - Equipment/Utility-Gear
-  - Equipment/Value/Expensive
-  - Equipment/Armor/Medium
-  - Equipment/Post-Apocalyptic
-  - Equipment/Utility-Gear
-  - Equipment/Value/Very-Expensive
-  - Equipment/Armor/Medium
-title: Lightweight Body Armor
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Modern
+- Equipment/Utility-Gear
+- Equipment/Value/Very-Expensive
+- Equipment/Armor/Medium
+- Equipment/Science-Fiction
+- Equipment/Utility-Gear
+- Equipment/Value/Expensive
+- Equipment/Armor/Medium
+- Equipment/Post-Apocalyptic
+- Equipment/Utility-Gear
+- Equipment/Value/Very-Expensive
+- Equipment/Armor/Medium
 ---
+
+  
 ## Lightweight Body Armor  
   
 >encumbers as Light armor  

@@ -1,22 +1,21 @@
 ---
 aliases:
-  - Leather Jacket
+- "Leather Jacket"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Science-Fiction
-  - Equipment/Utility-Gear
-  - Equipment/Value/Moderate
-  - Equipment/Armor/Light
-  - Equipment/Apparel-And-Armor
-  - Equipment/Contemporary
-  - Equipment/Modern
-  - Equipment/Level/2
-  - Equipment/Value/Moderate
-  - Equipment/Armor/Light
-title: Leather Jacket
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Science-Fiction
+- Equipment/Utility-Gear
+- Equipment/Value/Moderate
+- Equipment/Armor/Light
+- Equipment/Apparel-And-Armor
+- Equipment/Contemporary
+- Equipment/Modern
+- Equipment/Level/2
+- Equipment/Value/Moderate
+- Equipment/Armor/Light
 ---
+
+  
 ## Leather Jacket  
   
 >  

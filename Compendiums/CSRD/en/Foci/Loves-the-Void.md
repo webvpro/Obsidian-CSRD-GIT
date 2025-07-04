@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Loves the Void
+- "Loves the Void"
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/
-title: Loves the Void
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci
+- Focus/Category/
 ---
+
+  
 ## Loves the Void  
 When it's just you, your spacesuit, and the panorama of stars wheeling out forever and always, you are at peace.  
 

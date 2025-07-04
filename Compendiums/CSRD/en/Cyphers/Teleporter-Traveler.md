@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Teleporter Traveler
+- Teleporter Traveler
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantastic
-title: Teleporter Traveler
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantastic
 ---
+
+  
 ## Teleporter Traveler  
 >[!info] Stats  
 > **Level:** 1d6+4  

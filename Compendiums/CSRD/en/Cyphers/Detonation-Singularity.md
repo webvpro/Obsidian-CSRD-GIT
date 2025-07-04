@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Detonation Singularity
+- Detonation Singularity
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantastic
-title: Detonation Singularity
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantastic
 ---
+
+  
 ## Detonation Singularity  
 >[!info] Stats  
 > **Level:** +10  

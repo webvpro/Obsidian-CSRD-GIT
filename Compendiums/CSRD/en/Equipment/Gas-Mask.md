@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Gas Mask
+- "Gas Mask"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Post-Apocalyptic
-  - Equipment/Utility-Gear
-  - Equipment/Value/Inexpensive
-  - Equipment/Post-Apocalyptic
-  - Equipment/Utility-Gear
-  - Equipment/Value/Moderate
-title: Gas Mask
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Post-Apocalyptic
+- Equipment/Utility-Gear
+- Equipment/Value/Inexpensive
+- Equipment/Post-Apocalyptic
+- Equipment/Utility-Gear
+- Equipment/Value/Moderate
 ---
+
+  
 ## Gas Mask  
   
 >Breathable air for four hours  

@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Medicine
+- Medicine
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Scavenger-Subtle
-title: Medicine
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Scavenger-Subtle
 ---
+
+  
 ## Medicine  
 >[!info] Stats  
 > **Level:** 1d6+1  

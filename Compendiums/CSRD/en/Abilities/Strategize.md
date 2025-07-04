@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Strategize
+- "Strategize"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/6
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Meta
-title: Strategize
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/6
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Meta
 ---
+
+  
 ## Strategize  
 >**Action**  
 >6 Intellect points

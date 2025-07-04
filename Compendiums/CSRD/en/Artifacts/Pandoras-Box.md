@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Pandora's Box
+- Pandora's Box
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fairy-Tale
-title: Pandora's Box
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fairy-Tale
 ---
+
+  
 ## Pandora's Box  
 >[!info] Stats  
 > **Level:** 1d6+4  

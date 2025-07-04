@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Create
+- "Create"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/7
-  - Ability/Tier/High
-  - Ability/Pool/Intellect
-  - Ability/Categories/Craft
-title: Create
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/7
+- Ability/Tier/High
+- Ability/Pool/Intellect
+- Ability/Categories/Craft
 ---
+
+  
 ## Create  
 >**Action**  
 >7 Intellect points

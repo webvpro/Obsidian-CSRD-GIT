@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Exists Partially Out of Phase
+- "Exists Partially Out of Phase"
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/Movement-Expertise
-title: Exists Partially Out of Phase
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci
+- Focus/Category/Movement-Expertise 
 ---
+
+  
 ## Exists Partially Out of Phase  
 A bit translucent, you're slightly out of phase and can move through solid objects.  
 

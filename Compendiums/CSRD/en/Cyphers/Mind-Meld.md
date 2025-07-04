@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Mind Meld
+- Mind Meld
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantastic
-title: Mind Meld
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantastic
 ---
+
+  
 ## Mind Meld  
 >[!info] Stats  
 > **Level:** 1d6+1  

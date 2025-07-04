@@ -1,20 +1,19 @@
 ---
 aliases:
-  - Masterful Armor Modification
+- "Masterful Armor Modification"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/NA
-  - Ability/Tier/High
-  - Ability/Categories/Companion
-  - Ability/Categories/Meta
-  - Ability/Categories/Movement
-  - Ability/Categories/Protection
-title: Masterful Armor Modification
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/NA
+- Ability/Tier/High
+- Ability/Categories/Companion
+- Ability/Categories/Meta
+- Ability/Categories/Movement
+- Ability/Categories/Protection
 ---
+
+  
 ## Masterful Armor Modification  
 >**Action**
   

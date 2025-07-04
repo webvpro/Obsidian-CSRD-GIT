@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Skeleton
+- Skeleton
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/2
-  - Creature/Armor/1
-  - Creature/Health/6
-title: Skeleton
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/2
+- Creature/Armor/1
+- Creature/Health/6
 ---
+
+  
 ## Skeleton  
 Skeletons are animated bones without much sense of self-preservation. They enjoy a crucial advantage over living creatures in one important and often exploited area: skeletons are dead shots with ranged weapons. They have no breath, no heartbeat, and no shaking hands to contend with as they release a shot, which means that skeletons armed with ranged weapons are something to be feared.  
 

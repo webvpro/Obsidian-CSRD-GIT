@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Hand Grenade
+- "Hand Grenade"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Armament
-  - Equipment/Contemporary
-  - Equipment/Modern
-  - Equipment/Level/3
-  - Equipment/Value/Moderate
-  - Equipment/Weapon/Thrown
-title: Hand Grenade
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Armament
+- Equipment/Contemporary
+- Equipment/Modern
+- Equipment/Level/3
+- Equipment/Value/Moderate
+- Equipment/Weapon/Thrown
+
 ---
+
+  
 ## Hand Grenade  
   
 >explodes to inflict 6 points of damage in an immediate radius.  

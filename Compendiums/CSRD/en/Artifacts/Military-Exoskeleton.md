@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Military Exoskeleton
+- "Military Exoskeleton"
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Post-Apocalyptic
-title: Military Exoskeleton
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Post-Apocalyptic
 ---
+
+  
 ## Military Exoskeleton  
 >[!info] Stats  
 > **Level:** 1d6+1  

@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Trick Embedder
+- Trick Embedder
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantastic
-title: Trick Embedder
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantastic
 ---
+
+  
 ## Trick Embedder  
 >[!info] Stats  
 > **Level:** 1d6  

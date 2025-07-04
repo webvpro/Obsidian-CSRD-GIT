@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Angelic Ward
+- Angelic Ward
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fantasy
-title: Angelic Ward
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fantasy
 ---
+
+  
 ## Angelic Ward  
 >[!info] Stats  
 > **Level:** 1d6+2  

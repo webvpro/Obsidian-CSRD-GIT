@@ -1,13 +1,11 @@
 ---
 aliases:
-  - Hideous
+- Hideous
 tags:
-  - Compendiums/CSRD/en/Descriptors
-  - Descriptor
-title: Hideous
-collection: Descriptors
-kind: Compendiums
+- Compendiums/CSRD/en/Descriptors
+- Descriptor
 ---
+
 ## Hideous  
 You are physically repugnant by almost any human standard. You might have had a serious accident, a harmful mutation, or just poor genetic luck, but you are incontrovertibly ugly.
 You've more than made up for your appearance in other ways, however. Because you have to hide your appearance, you excel at sneaking about unnoticed or disguising yourself. But perhaps most important, being ostracized while others socialized, you took the time growing up to develop yourself as you saw fit-you grew strong or quick, or you honed your mind.

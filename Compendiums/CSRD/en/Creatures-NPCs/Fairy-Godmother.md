@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Fairy Godmother
+- Fairy Godmother
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/6
-  - Creature/Armor/2
-  - Creature/Health/24
-title: Fairy Godmother
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/6
+- Creature/Armor/2
+- Creature/Health/24
 ---
+
+  
 ## Fairy Godmother  
 Fairy godmothers are nearly always beneficent beings, typically acting as mentors, parents, or protectors, much like human godparents. The difference, of course, is that fairy godmothers have a great deal more magic at their disposal.
 Overall, fairy godmothers are kind, gentle, and loving to almost everyone, not just their godchildren. Of course, not all fairy godmothers are good at their roles--some may act out of their own interests and inadvertently (or purposefully) do harm to those they are supposed to protect. This is particularly true if they feel like they have not been given the respect they deserve, or have been offended in some way.

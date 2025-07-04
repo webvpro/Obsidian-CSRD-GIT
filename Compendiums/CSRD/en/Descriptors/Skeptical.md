@@ -1,13 +1,11 @@
 ---
 aliases:
-  - Skeptical
+- Skeptical
 tags:
-  - Compendiums/CSRD/en/Descriptors
-  - Descriptor
-title: Skeptical
-collection: Descriptors
-kind: Compendiums
+- Compendiums/CSRD/en/Descriptors
+- Descriptor
 ---
+
 ## Skeptical  
 You possess a questioning attitude regarding claims that are often taken for granted by others. You're not necessarily a "doubting Thomas" (a skeptic who refuses to believe anything without direct personal experience), but you've often benefited from questioning the statements, opinions, and received knowledge presented to you by others.
 ### You gain the following characteristics  

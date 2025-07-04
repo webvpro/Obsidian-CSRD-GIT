@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Blade of the Roses
+- "Blade of the Roses"
 tags:
-  - Compendium/CSRD/en/Artifacts/Blade-of-the-Roses
-  - Artifact
-  - Artifact/Modern-Fantasy
-title: Blade of the Roses
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts/Blade-of-the-Roses
+- Artifact
+- Artifact/Modern-Fantasy
 ---
+
+  
 ## Blade of the Roses
 #### Level 
 >1d6 + 2

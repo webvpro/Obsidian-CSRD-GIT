@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Robot Builder
+- "Robot Builder"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Low
-  - Ability/Categories/Craft
-title: Robot Builder
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Low
+- Ability/Categories/Craft
 ---
+
+  
 ## Robot Builder  
 >**Enabler**
   

@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Throwing Dart
+- "Throwing Dart"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Fantasy
-  - Equipment/Utility-Gear
-  - Equipment/Value/5-Cp
-  - Equipment/Weapon/Light
-  - Equipment/Range/Short
-title: Throwing Dart
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Fantasy
+- Equipment/Utility-Gear
+- Equipment/Value/5-Cp
+- Equipment/Weapon/Light
+- Equipment/Range/Short
 ---
+
+  
 ## Throwing Dart  
   
 >A very short, light spear meant to be thrown rather than used in melee.  

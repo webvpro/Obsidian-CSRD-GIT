@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Metal Death
+- Metal Death
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Manifest
-title: Metal Death
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Manifest
 ---
+
+  
 ## Metal Death  
 >[!info] Stats  
 > **Level:** 1d6+2  

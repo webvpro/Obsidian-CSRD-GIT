@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Telepathic
+- "Telepathic"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/1
-  - Ability/Tier/Low
-  - Ability/Pool/Intellect
-  - Ability/Categories/Information
-title: Telepathic
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/1
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Information
 ---
+
+  
 ## Telepathic  
 >**Action**  
 >1+ Intellect points

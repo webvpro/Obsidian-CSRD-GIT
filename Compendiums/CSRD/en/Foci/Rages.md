@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Rages
+- "Rages"
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/Striker-Combat
-title: Rages
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci
+- Focus/Category/Striker-Combat 
 ---
+
+  
 ## Rages  
 When you go berserk, everyone fears you.  
 

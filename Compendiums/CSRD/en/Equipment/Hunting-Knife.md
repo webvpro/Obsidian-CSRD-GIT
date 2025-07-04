@@ -1,20 +1,19 @@
 ---
 aliases:
-  - Hunting Knife
+- "Hunting Knife"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Modern
-  - Equipment/Utility-Gear
-  - Equipment/Value/Moderate
-  - Equipment/Weapon/Light
-  - Equipment/Science-Fiction
-  - Equipment/Utility-Gear
-  - Equipment/Value/Moderate
-  - Equipment/Weapon/Light
-title: Hunting Knife
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Modern
+- Equipment/Utility-Gear
+- Equipment/Value/Moderate
+- Equipment/Weapon/Light
+- Equipment/Science-Fiction
+- Equipment/Utility-Gear
+- Equipment/Value/Moderate
+- Equipment/Weapon/Light
 ---
+
+  
 ## Hunting Knife  
   
 >  

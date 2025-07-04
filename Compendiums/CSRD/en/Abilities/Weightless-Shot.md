@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Weightless Shot
+- "Weightless Shot"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/High
-  - Ability/Categories/Meta
-  - Ability/Categories/Special-Attack
-title: Weightless Shot
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/High
+- Ability/Categories/Meta
+- Ability/Categories/Special-Attack
 ---
+
+  
 ## Weightless Shot  
 >**Enabler**
   

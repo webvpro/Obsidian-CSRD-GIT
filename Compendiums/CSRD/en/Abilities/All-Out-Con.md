@@ -1,18 +1,17 @@
 ---
 aliases:
-  - All-Out Con
+- "All-Out Con"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/7
-  - Ability/Tier/High
-  - Ability/Pool/Intellect
-  - Ability/Categories/Meta
-title: All-Out Con
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/7
+- Ability/Tier/High
+- Ability/Pool/Intellect
+- Ability/Categories/Meta
 ---
+
+  
 ## All-Out Con  
 >**Action**  
 >7 Intellect points

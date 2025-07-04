@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Damn the Guilty
+- "Damn the Guilty"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/3
-  - Ability/Tier/High
-  - Ability/Pool/Intellect
-  - Ability/Categories/Meta
-title: Damn the Guilty
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/3
+- Ability/Tier/High
+- Ability/Pool/Intellect
+- Ability/Categories/Meta
 ---
+
+  
 ## Damn the Guilty  
 >**Action**  
 >3 Intellect points

@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Revenant Serum
+- Revenant Serum
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-title: Revenant Serum
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
 ---
+
+  
 ## Revenant Serum  
 >[!info] Stats  
 > **Level:** 1d6+4  

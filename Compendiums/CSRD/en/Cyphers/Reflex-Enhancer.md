@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Reflex Enhancer
+- Reflex Enhancer
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Subtle
-title: Reflex Enhancer
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Subtle
 ---
+
+  
 ## Reflex Enhancer  
 >[!info] Stats  
 > **Level:** 1d6  

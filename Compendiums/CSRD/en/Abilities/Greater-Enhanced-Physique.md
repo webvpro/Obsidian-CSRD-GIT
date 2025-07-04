@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Greater Enhanced Physique
+- "Greater Enhanced Physique"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Mid
-  - Ability/Categories/Meta
-title: Greater Enhanced Physique
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Mid
+- Ability/Categories/Meta
 ---
+
+  
 ## Greater Enhanced Physique  
 >**Enabler**
   

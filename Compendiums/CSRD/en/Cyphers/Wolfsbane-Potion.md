@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Wolfsbane Potion
+- Wolfsbane Potion
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-title: Wolfsbane Potion
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
 ---
+
+  
 ## Wolfsbane Potion  
 >[!info] Stats  
 > **Level:** 1d6  

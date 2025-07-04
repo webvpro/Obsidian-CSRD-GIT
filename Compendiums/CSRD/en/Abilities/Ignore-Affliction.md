@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Ignore Affliction
+- "Ignore Affliction"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/5
-  - Ability/Tier/Mid
-  - Ability/Pool/Might
-  - Ability/Categories/Cure
-title: Ignore Affliction
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/5
+- Ability/Tier/Mid
+- Ability/Pool/Might
+- Ability/Categories/Cure
 ---
+
+  
 ## Ignore Affliction  
 >**Action**  
 >5 Might points

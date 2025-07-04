@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Nonsensical Poem
+- Nonsensical Poem
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Nonsensical Poem
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Nonsensical Poem  
 >[!info] Stats  
 > **Level:** 1d6+4  

@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Teleport Hat
+- Teleport Hat
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Teleport Hat
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Teleport Hat  
 >[!info] Stats  
 > **Level:** 1d6+3  

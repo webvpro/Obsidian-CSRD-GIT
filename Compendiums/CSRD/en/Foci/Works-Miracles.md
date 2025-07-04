@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Works Miracles
+- "Works Miracles"
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/
-title: Works Miracles
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci
+- Focus/Category/
 ---
+
+  
 ## Works Miracles  
 You can heal others with a touch, alter time to help others, and are generally beloved by everyone.  
 

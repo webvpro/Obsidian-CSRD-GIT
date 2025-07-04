@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Manticore
+- Manticore
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/6
-  - Creature/Armor/1
-  - Creature/Health/22
-title: Manticore
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/6
+- Creature/Armor/1
+- Creature/Health/22
 ---
+
+  
 ## Manticore  
 A manticore is a fearsome predator that resembles a maned red lion with a human head and a scorpion's tail. The head is bearded and has three rows of teeth in the upper and lower jaws, like a shark. The scorpion tail is covered in multiple barbs, and the creature can flick its tail to hurl these barbs at its prey. Manticores eat all of their prey, including the bones, clothing, and equipment, leaving nothing but a bloodstain as evidence of their hunting.  
 

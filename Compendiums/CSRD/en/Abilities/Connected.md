@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Connected
+- "Connected"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Low
-  - Ability/Categories/Social
-title: Connected
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Low
+- Ability/Categories/Social
 ---
+
+  
 ## Connected  
 >**Enabler**
   

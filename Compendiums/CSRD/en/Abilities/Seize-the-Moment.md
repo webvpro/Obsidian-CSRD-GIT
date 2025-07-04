@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Seize the Moment
+- "Seize the Moment"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/4
-  - Ability/Tier/Mid
-  - Ability/Pool/Speed
-  - Ability/Categories/Meta
-title: Seize the Moment
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/4
+- Ability/Tier/Mid
+- Ability/Pool/Speed
+- Ability/Categories/Meta
 ---
+
+  
 ## Seize the Moment  
 >**Enabler**  
 >4+ Speed points

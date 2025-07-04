@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Shield Training
+- "Shield Training"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Mid
-  - Ability/Categories/Protection
-title: Shield Training
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Mid
+- Ability/Categories/Protection
 ---
+
+  
 ## Shield Training  
 >**Enabler**
   

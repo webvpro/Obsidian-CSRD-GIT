@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Cat Sidhe Medallion
+- Cat Sidhe Medallion
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Cat Sidhe Medallion
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Cat Sidhe Medallion  
 >[!info] Stats  
 > **Level:** 1d6+2  

@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Mister Genocide
+- Mister Genocide
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Super Villain
-  - Creature/Level/5
-  - Creature/Armor/1
-  - Creature/Health/15
-title: Mister Genocide
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Super Villain
+- Creature/Level/5
+- Creature/Armor/1
+- Creature/Health/15
 ---
+
+  
 ## Mister Genocide  
 Real name Alfred Webster, Mister Genocide has the unfortunate ability to synthesize deadly poison from his skin. His touch can kill, but if he wishes it, so can his spittle or even his breath.
 Anyone who spends too much time in Mister Genocide's presence becomes ill, even if the villain isn't actively using his power. Thus, his cronies usually wear gas masks and protective clothing. Mister Genocide has promoted himself to the head of the mob in the city where he resides and is always looking to expand his operations, sometimes at the expense of other criminals.

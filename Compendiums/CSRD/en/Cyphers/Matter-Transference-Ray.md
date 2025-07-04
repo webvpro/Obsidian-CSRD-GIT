@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Matter Transference Ray
+- Matter Transference Ray
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantastic
-title: Matter Transference Ray
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantastic
 ---
+
+  
 ## Matter Transference Ray  
 >[!info] Stats  
 > **Level:** 1d6+3  

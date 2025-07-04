@@ -1,15 +1,14 @@
 ---
 aliases:
-  - Ammunition
+- Ammunition
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Scavenger
-  - Cypher/Subtle
-title: Ammunition
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Scavenger
+- Cypher/Subtle
 ---
+
+  
 ## Ammunition  
 >[!info] Stats  
 > **Level:** 1d6+1  

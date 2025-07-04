@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Ghost Trap
+- Ghost Trap
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-title: Ghost Trap
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
 ---
+
+  
 ## Ghost Trap  
 >[!info] Stats  
 > **Level:** 1d6+2  

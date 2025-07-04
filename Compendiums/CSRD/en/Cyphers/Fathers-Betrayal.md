@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Father's Betrayal
+- Father's Betrayal
 tags:
-  - Compendium/CSRD/en/Cyphers/Fathers-Betrayal
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Father's Betrayal
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers/Fathers-Betrayal
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Father's Betrayal  
 >[!info] Stats  
 > **Level:** 1d6+2  

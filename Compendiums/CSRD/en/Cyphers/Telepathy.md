@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Telepathy
+- Telepathy
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantastic
-title: Telepathy
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantastic
 ---
+
+  
 ## Telepathy  
 >[!info] Stats  
 > **Level:** 1d6+2  

@@ -1,13 +1,11 @@
 ---
 aliases:
-  - Chaotic
+- Chaotic
 tags:
-  - Compendiums/CSRD/en/Descriptors
-  - Descriptor
-title: Chaotic
-collection: Descriptors
-kind: Compendiums
+- Compendiums/CSRD/en/Descriptors
+- Descriptor
 ---
+
 ## Chaotic  
 Danger doesn't mean much to you, mainly because you don't think much about repercussions. In fact, you enjoy sowing surprises, just to see what will happen. The more unexpected the result, the happier you are. Sometimes you are particularly manic, and for the sake of your companions, you restrain yourself from taking actions that you know will lead to disaster.
 ### You gain the following characteristics  

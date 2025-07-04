@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Hack the Impossible
+- "Hack the Impossible"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/3
-  - Ability/Tier/Low
-  - Ability/Pool/Intellect
-  - Ability/Categories/Control
-title: Hack the Impossible
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/3
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Control
 ---
+
+  
 ## Hack the Impossible  
 >**Action**  
 >3 Intellect points

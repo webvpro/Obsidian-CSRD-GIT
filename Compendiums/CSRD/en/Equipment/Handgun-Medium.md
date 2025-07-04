@@ -1,24 +1,23 @@
 ---
 aliases:
-  - Handgun, Medium
+- "Handgun, Medium"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Post-Apocalyptic
-  - Equipment/Utility-Gear
-  - Equipment/Value/Expensive
-  - Equipment/Range/Long
-  - Equipment/Weapon/Medium
-  - Equipment/Armament
-  - Equipment/Contemporary
-  - Equipment/Modern
-  - Equipment/Level/3
-  - Equipment/Value/Expensive
-  - Equipment/Range/Long
-  - Equipment/Weapon/Medium
-title: Handgun, Medium
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Post-Apocalyptic
+- Equipment/Utility-Gear
+- Equipment/Value/Expensive
+- Equipment/Range/Long
+- Equipment/Weapon/Medium
+- Equipment/Armament
+- Equipment/Contemporary
+- Equipment/Modern
+- Equipment/Level/3
+- Equipment/Value/Expensive
+- Equipment/Range/Long
+- Equipment/Weapon/Medium
 ---
+
+  
 ## Handgun, Medium  
   
 >  

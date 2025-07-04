@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Gas Bomb
+- Gas Bomb
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Manifest
-title: Gas Bomb
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Manifest
 ---
+
+  
 ## Gas Bomb  
 >[!info] Stats  
 > **Level:** 1d6+2  

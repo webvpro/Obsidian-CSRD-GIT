@@ -1,15 +1,14 @@
 ---
 aliases:
-  - Medication, One Bottle
+- "Medication, One Bottle"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Post-Apocalyptic
-  - Equipment/Utility-Gear
-  - Equipment/Value/Moderate
-title: Medication, One Bottle
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Post-Apocalyptic
+- Equipment/Utility-Gear
+- Equipment/Value/Moderate
 ---
+
+  
 ## Medication, One Bottle  
   
 >Pain relief, allergy, antacid, antibiotic, anti-nausea, or another drug in a bottle  

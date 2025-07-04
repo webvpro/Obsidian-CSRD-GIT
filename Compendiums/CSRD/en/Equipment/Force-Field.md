@@ -1,15 +1,14 @@
 ---
 aliases:
-  - Force Field
+- "Force Field"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Science-Fiction
-  - Equipment/Utility-Gear
-  - Equipment/Value/Exorbitant
-title: Force Field
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Science-Fiction
+- Equipment/Utility-Gear
+- Equipment/Value/Exorbitant
 ---
+
+  
 ## Force Field  
   
 >Not armor, offers +1 to Armor;  

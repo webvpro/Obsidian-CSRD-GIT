@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Pilots Starcraft
+- "Pilots Starcraft"
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/Exploration
-title: Pilots Starcraft
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci
+- Focus/Category/Exploration
 ---
+
+  
 ## Pilots Starcraft  
 You're a crack starship pilot.  
 

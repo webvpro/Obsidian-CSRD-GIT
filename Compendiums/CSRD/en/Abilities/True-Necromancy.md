@@ -1,18 +1,17 @@
 ---
 aliases:
-  - True Necromancy
+- "True Necromancy"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/8
-  - Ability/Tier/High
-  - Ability/Pool/Intellect
-  - Ability/Categories/Companion
-title: True Necromancy
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/8
+- Ability/Tier/High
+- Ability/Pool/Intellect
+- Ability/Categories/Companion
 ---
+
+  
 ## True Necromancy  
 >**Action**  
 >8+ Intellect points

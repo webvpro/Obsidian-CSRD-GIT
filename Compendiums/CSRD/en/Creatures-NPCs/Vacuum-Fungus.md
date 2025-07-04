@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Vacuum Fungus
+- Vacuum Fungus
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/5
-  - Creature/Armor/0
-  - Creature/Health/22
-title: Vacuum Fungus
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/5
+- Creature/Armor/0
+- Creature/Health/22
 ---
+
+  
 ## Vacuum Fungus  
 Vacuum fungus is sometimes found as a greenish ooze on the exterior of spacecraft or space stations, growing in fine lines through the ice of frozen moons, and infesting the center of small asteroids and near-Earth objects (NEOs). Though able to survive in vacuum, the fungus takes on new morphology when sufficient spores find their way into habitable zero-G spaces. Then they fuse together and grow into a bulbous, emerald-hued fruiting body, typically reaching about 1 m (3 feet) in rough diameter, though individuals can grow much larger if not discovered. Sticky and soft to the touch, they are able to grow undetected in the dark corners of cargo holds, in ductworks, hanging from the ceiling of unused crew quarters, and so on. 
 Vacuum fungus may be proof that extra-terrestrial life exists, but that triumph of scientific discovery may seem less important to those who find a clump, because they are incredibly toxic to living creatures.  

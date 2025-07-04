@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Knapsack of Sevens
+- Knapsack of Sevens
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fairy-Tale
-title: Knapsack of Sevens
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fairy-Tale
 ---
+
+  
 ## Knapsack of Sevens  
 >[!info] Stats  
 > **Level:** 1d6  

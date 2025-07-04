@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Cold Resistance
+- Cold Resistance
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantasy
-title: Cold Resistance
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantasy
 ---
+
+  
 ## Cold Resistance  
 >[!info] Stats  
 > **Level:** 1d6+3  

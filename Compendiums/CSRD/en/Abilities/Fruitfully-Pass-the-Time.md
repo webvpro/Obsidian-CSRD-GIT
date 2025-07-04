@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Fruitfully Pass the Time
+- "Fruitfully Pass the Time"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/4
-  - Ability/Tier/NA
-  - Ability/Pool/Intellect
-  - Ability/Categories/NA
-title: Fruitfully Pass the Time
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/4
+- Ability/Tier/NA
+- Ability/Pool/Intellect
+- Ability/Categories/NA
 ---
+
+  
 ## Fruitfully Pass the Time  
 >**Action**  
 >4 Intellect points

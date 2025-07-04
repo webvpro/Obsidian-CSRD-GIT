@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Datajack
+- "Datajack"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/1
-  - Ability/Tier/Low
-  - Ability/Pool/Intellect
-  - Ability/Categories/Task
-title: Datajack
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/1
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Task
 ---
+
+  
 ## Datajack  
 >**Action**  
 >1 Intellect point

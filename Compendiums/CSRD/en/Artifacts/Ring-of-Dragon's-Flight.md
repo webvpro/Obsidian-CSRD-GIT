@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Ring of Dragon's Flight
+- Ring of Dragon's Flight
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fantasy
-title: Ring of Dragon's Flight
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fantasy
 ---
+
+  
 ## Ring of Dragon's Flight  
 >[!info] Stats  
 > **Level:** 1d6+2  

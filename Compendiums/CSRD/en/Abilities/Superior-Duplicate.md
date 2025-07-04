@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Superior Duplicate
+- "Superior Duplicate"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/2
-  - Ability/Tier/Mid
-  - Ability/Pool/Might
-  - Ability/Categories/Companion
-title: Superior Duplicate
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/2
+- Ability/Tier/Mid
+- Ability/Pool/Might
+- Ability/Categories/Companion
 ---
+
+  
 ## Superior Duplicate  
 >**Enabler**  
 >2 Might points

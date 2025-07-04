@@ -1,23 +1,22 @@
 ---
 aliases:
-  - Rifle, Heavy
+- "Rifle, Heavy"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Post-Apocalyptic
-  - Equipment/Utility-Gear
-  - Equipment/Value/Very-Expensive
-  - Equipment/Weapon/Heavy
-  - Equipment/Armament
-  - Equipment/Contemporary
-  - Equipment/Modern
-  - Equipment/Level/3
-  - Equipment/Value/Very-Expensive
-  - Equipment/Weapon/Heavy
-  - Equipment/Range/Very-Long
-title: Rifle, Heavy
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Post-Apocalyptic
+- Equipment/Utility-Gear
+- Equipment/Value/Very-Expensive
+- Equipment/Weapon/Heavy
+- Equipment/Armament
+- Equipment/Contemporary
+- Equipment/Modern
+- Equipment/Level/3
+- Equipment/Value/Very-Expensive
+- Equipment/Weapon/Heavy
+- Equipment/Range/Very-Long
 ---
+
+  
 ## Rifle, Heavy  
   
 >300-foot (90 m) range  

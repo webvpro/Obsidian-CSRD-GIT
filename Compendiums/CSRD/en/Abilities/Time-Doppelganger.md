@@ -1,19 +1,18 @@
 ---
 aliases:
-  - Time Doppelganger
+- "Time Doppelganger"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/6
-  - Ability/Tier/High
-  - Ability/Pool/Intellect
-  - Ability/Categories/Companion
-  - Ability/Categories/Companion
-title: Time Doppelganger
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/6
+- Ability/Tier/High
+- Ability/Pool/Intellect
+- Ability/Categories/Companion
+- Ability/Categories/Companion
 ---
+
+  
 ## Time Doppelganger  
 >**Action**  
 >6+ Intellect points

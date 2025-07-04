@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Jotunn, Fire
+- Jotunn, Fire
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/6
-  - Creature/Armor/3
-  - Creature/Health/30
-title: Jotunn, Fire
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/6
+- Creature/Armor/3
+- Creature/Health/30
 ---
+
+  
 ## Jotunn, Fire  
 Fire jotunns are often called fire giants. Their skin is coal-grey or black; their hair is red or gold and may be metal or actual flames. They prefer hot mountainous climates (particularly volcanoes), wear plate armor, and use greatswords that glow with the natural heat of their bodies.  
 

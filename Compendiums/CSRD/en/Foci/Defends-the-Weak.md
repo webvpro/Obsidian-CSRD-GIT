@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Defends the Weak
+- "Defends the Weak"
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/Support
-title: Defends the Weak
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci
+- Focus/Category/Support
 ---
+
+  
 ## Defends the Weak  
 You stand up for the helpless, the weak, and the unprotected.  
 

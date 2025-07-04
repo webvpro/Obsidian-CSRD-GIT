@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Ray Emitter Numbing
+- Ray Emitter Numbing
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantastic
-title: Ray Emitter Numbing
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantastic
 ---
+
+  
 ## Ray Emitter Numbing  
 >[!info] Stats  
 > **Level:** 1d6+2  

@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Swim
+- "Swim"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/1
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Movement
-title: Swim
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/1
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Movement
 ---
+
+  
 ## Swim  
 >**Action**  
 >1+ Intellect points

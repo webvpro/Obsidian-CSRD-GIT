@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Uses Wild Magic
+- "Uses Wild Magic"
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/
-title: Uses Wild Magic
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci
+- Focus/Category/
 ---
+
+  
 ## Uses Wild Magic  
 spellcaster who learns a variety of spells instead of focusing on just one kind of magic.  
 

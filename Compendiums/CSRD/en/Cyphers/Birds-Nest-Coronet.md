@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Bird's Nest Coronet
+- Bird's Nest Coronet
 tags:
-  - Compendium/CSRD/en/Cyphers/Birds-Nest-Coronet
-  - Cypher
-title: Bird's Nest Coronet
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers/Birds-Nest-Coronet
+- Cypher
 ---
+
+  
 ## Bird's Nest Coronet  
 >[!info] Stats  
 > **Level:** 1d6+3  

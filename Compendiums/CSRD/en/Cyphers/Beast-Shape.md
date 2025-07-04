@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Beast Shape
+- Beast Shape
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantasy
-title: Beast Shape
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantasy
 ---
+
+  
 ## Beast Shape  
 >[!info] Stats  
 > **Level:** 1d6  

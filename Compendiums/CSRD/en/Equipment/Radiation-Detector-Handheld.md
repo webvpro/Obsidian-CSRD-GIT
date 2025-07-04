@@ -1,15 +1,14 @@
 ---
 aliases:
-  - Radiation Detector, Handheld
+- "Radiation Detector, Handheld"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Post-Apocalyptic
-  - Equipment/Utility-Gear
-  - Equipment/Value/Expensive
-title: Radiation Detector, Handheld
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Post-Apocalyptic
+- Equipment/Utility-Gear
+- Equipment/Value/Expensive
 ---
+
+  
 ## Radiation Detector, Handheld  
   
 >Immediate range  

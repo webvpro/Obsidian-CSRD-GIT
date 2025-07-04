@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Community Knowledge
+- "Community Knowledge"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/2
-  - Ability/Tier/Low
-  - Ability/Pool/Intellect
-  - Ability/Categories/Information
-title: Community Knowledge
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/2
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Information
 ---
+
+  
 ## Community Knowledge  
 >**Action**  
 >2 Intellect points

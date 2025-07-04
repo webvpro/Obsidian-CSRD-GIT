@@ -1,14 +1,13 @@
 ---
 aliases:
-  - First Aid
+- First Aid
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Scavenger-Subtle
-title: First Aid
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Scavenger-Subtle
 ---
+
+  
 ## First Aid  
 >[!info] Stats  
 > **Level:** 1d6+1  

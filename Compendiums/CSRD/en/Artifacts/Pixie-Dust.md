@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Pixie Dust
+- Pixie Dust
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fairy-Tale
-title: Pixie Dust
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fairy-Tale
 ---
+
+  
 ## Pixie Dust  
 >[!info] Stats  
 > **Level:** 1d6  

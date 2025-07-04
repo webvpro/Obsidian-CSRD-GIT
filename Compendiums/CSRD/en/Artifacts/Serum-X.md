@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Serum X
+- Serum X
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Superhero
-title: Serum X
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Superhero
 ---
+
+  
 ## Serum X  
 >[!info] Stats  
 > **Level:** 1d6+2  

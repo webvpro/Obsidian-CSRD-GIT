@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Cloak of Opportunity
+- "Cloak of Opportunity"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/5
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Protection
-title: Cloak of Opportunity
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/5
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Protection
 ---
+
+  
 ## Cloak of Opportunity  
 >**Action**  
 >5 Intellect points

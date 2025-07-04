@@ -1,16 +1,15 @@
 ---
 aliases:
-  - Knife (Rusty and Worn)
+- "Knife (Rusty and Worn)"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Fantasy
-  - Equipment/Utility-Gear
-  - Equipment/Value/Inexpensive
-  - Equipment/Weapon/Light
-title: Knife (Rusty and Worn)
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Fantasy
+- Equipment/Utility-Gear
+- Equipment/Value/Inexpensive
+- Equipment/Weapon/Light
 ---
+
+  
 ## Knife (Rusty and Worn)  
   
 >won't last long  

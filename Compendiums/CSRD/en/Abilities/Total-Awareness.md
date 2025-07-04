@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Total Awareness
+- "Total Awareness"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/High
-  - Ability/Categories/Task
-title: Total Awareness
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/High
+- Ability/Categories/Task
 ---
+
+  
 ## Total Awareness  
 >**Enabler**
   

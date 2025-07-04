@@ -1,19 +1,18 @@
 ---
 aliases:
-  - Blackout
+- "Blackout"
 tags:
-  - Compendium/CSRD/en/Abilities/Blackout
-  - Ability
-  - Ability/Action
-  - Ability/Cost/3
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Magic
-  - Ability/Categories/Fantasy/Modern
-title: Blackout
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities/Blackout
+- Ability
+- Ability/Action
+- Ability/Cost/3
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Magic
+- Ability/Categories/Fantasy/Modern
 ---
+
+  
 ## Blackout
 >**Action**  
 >3 Intellect point

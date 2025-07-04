@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Kaiju
+- Kaiju
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/10
-  - Creature/Armor/5
-  - Creature/Health/140
-title: Kaiju
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/10
+- Creature/Armor/5
+- Creature/Health/140
 ---
+
+  
 ## Kaiju  
 Kaiju come in a variety of shapes, but all share one difficult-to-ignore quality: mind-blowing size. Appearances of these colossal creatures are rare events that usually don't last for more than a few days. In that sense, they're akin to hundred-year storms and at least as destructive. When they emerge, they're attracted by artificial structures, the more densely situated and elaborate the better, which they set to smashing with a vengeance. It's hard to judge the size of things so far outside normal scale, but good estimates put most kaiju at over 300 feet (90 m) in height.
 Kaiju rely primarily on their strength and mass, but many have some additional trick or ability that sets them apart from their kin, which usually translates into even more devastation.

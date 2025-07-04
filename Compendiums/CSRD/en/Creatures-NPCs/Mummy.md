@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Mummy
+- Mummy
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/6
-  - Creature/Armor/2
-  - Creature/Health/24
-title: Mummy
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/6
+- Creature/Armor/2
+- Creature/Health/24
 ---
+
+  
 ## Mummy  
 Mummies are intelligent undead, usually royalty or members of the priesthood, risen from their burial places to destroy those who disturbed their rest. Many seek to undo wrongs against them from ages past or re-establish themselves in their former high stations.  
 

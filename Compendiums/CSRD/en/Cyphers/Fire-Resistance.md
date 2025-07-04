@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Fire Resistance
+- Fire Resistance
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantasy
-title: Fire Resistance
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantasy
 ---
+
+  
 ## Fire Resistance  
 >[!info] Stats  
 > **Level:** 1d6+3  

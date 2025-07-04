@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Magic Shield
+- "Magic Shield"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/1
-  - Ability/Tier/Low
-  - Ability/Pool/Intellect
-  - Ability/Categories/Protection
-title: Magic Shield
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/1
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Protection
 ---
+
+  
 ## Magic Shield  
 >**Action**  
 >1 Intellect point

@@ -1,16 +1,15 @@
 ---
 aliases:
-  - Infiltrator
+- "Infiltrator"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Science-Fiction
-  - Equipment/Utility-Gear
-  - Equipment/Value/Very-Expensive
-  - Equipment/Asset
-title: Infiltrator
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Science-Fiction
+- Equipment/Utility-Gear
+- Equipment/Value/Very-Expensive
+- Equipment/Asset
 ---
+
+  
 ## Infiltrator  
   
 >Asset for lockpicking tasks when used with electronic locks  

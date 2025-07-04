@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Sculpts Hard Light
+- "Sculpts Hard Light"
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/
-title: Sculpts Hard Light
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci
+- Focus/Category/
 ---
+
+  
 ## Sculpts Hard Light  
 You create physical objects out of hard light that you can use for offense and defense.  
 

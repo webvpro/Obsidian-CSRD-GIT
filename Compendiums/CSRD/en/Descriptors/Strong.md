@@ -1,13 +1,11 @@
 ---
 aliases:
-  - Strong
+- Strong
 tags:
-  - Compendiums/CSRD/en/Descriptors
-  - Descriptor
-title: Strong
-collection: Descriptors
-kind: Compendiums
+- Compendiums/CSRD/en/Descriptors
+- Descriptor
 ---
+
 ## Strong  
 You're extremely strong and physically powerful, and you use these qualities well, whether through violence or feats of prowess. You likely have a brawny build and impressive muscles.
 ### You gain the following characteristics  

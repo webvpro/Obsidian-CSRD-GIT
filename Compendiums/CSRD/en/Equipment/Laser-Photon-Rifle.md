@@ -1,18 +1,18 @@
 ---
 aliases:
-  - Laser Photon Rifle
+- "Laser Photon Rifle"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Advanced
-  - Equipment/Armament
-  - Equipment/Science-Fiction
-  - Equipment/Level/4
-  - Equipment/Value/Very-Expensive
-  - Equipment/Range/Very-Long
-title: Laser Photon Rifle
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Advanced
+- Equipment/Armament
+- Equipment/Science-Fiction
+- Equipment/Level/4
+- Equipment/Value/Very-Expensive
+
+- Equipment/Range/Very-Long
 ---
+
+  
 ## Laser Photon Rifle  
   
 >Rifle fires coherent light beams;  

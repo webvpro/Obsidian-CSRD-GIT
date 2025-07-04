@@ -1,15 +1,14 @@
 ---
 aliases:
-  - Lighter (Butane or Electric)
+- "Lighter (Butane or Electric)"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Post-Apocalyptic
-  - Equipment/Utility-Gear
-  - Equipment/Value/Moderate
-title: Lighter (Butane or Electric)
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Post-Apocalyptic
+- Equipment/Utility-Gear
+- Equipment/Value/Moderate
 ---
+
+  
 ## Lighter (Butane or Electric)  
   
 >Depletes after 1d100 uses (but may be refilled/recharged)  

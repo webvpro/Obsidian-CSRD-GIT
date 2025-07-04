@@ -1,19 +1,19 @@
 ---
 aliases:
-  - Rifle, Assault
+- "Rifle, Assault"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Armament
-  - Equipment/Contemporary
-  - Equipment/Modern
-  - Equipment/Level/3
-  - Equipment/Value/Very-Expensive
-  - Equipment/Range/Long
-  - Equipment/Weapon/Rapid-Fire
-title: Rifle, Assault
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Armament
+- Equipment/Contemporary
+- Equipment/Modern
+- Equipment/Level/3
+- Equipment/Value/Very-Expensive
+
+- Equipment/Range/Long
+- Equipment/Weapon/Rapid-Fire
 ---
+
+  
 ## Rifle, Assault  
   
 >  

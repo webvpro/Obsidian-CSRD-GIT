@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Light Blaster
+- "Light Blaster"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Science-Fiction
-  - Equipment/Utility-Gear
-  - Equipment/Value/Expensive
-  - Equipment/Weapon/Light
-  - Equipment/Range/Short
-title: Light Blaster
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Science-Fiction
+- Equipment/Utility-Gear
+- Equipment/Value/Expensive
+- Equipment/Weapon/Light
+- Equipment/Range/Short
 ---
+
+  
 ## Light Blaster  
   
 >  

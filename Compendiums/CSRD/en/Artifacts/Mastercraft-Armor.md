@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Mastercraft Armor
+- Mastercraft Armor
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fantasy
-title: Mastercraft Armor
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fantasy
 ---
+
+  
 ## Mastercraft Armor  
 >[!info] Stats  
 > **Level:** 1d6  

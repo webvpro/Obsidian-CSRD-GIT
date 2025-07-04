@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Intense Interaction
+- "Intense Interaction"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/3
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Task
-title: Intense Interaction
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/3
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Task
 ---
+
+  
 ## Intense Interaction  
 >**Action**  
 >3 Intellect points

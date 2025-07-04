@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Detonation Gravity Inversion
+- Detonation Gravity Inversion
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantastic
-title: Detonation Gravity Inversion
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantastic
 ---
+
+  
 ## Detonation Gravity Inversion  
 >[!info] Stats  
 > **Level:** 1d6+1  

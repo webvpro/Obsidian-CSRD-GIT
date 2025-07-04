@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Contingent Activator
+- Contingent Activator
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Subtle
-title: Contingent Activator
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Subtle
 ---
+
+  
 ## Contingent Activator  
 >[!info] Stats  
 > **Level:** 1d6+2  

@@ -1,16 +1,14 @@
 ---
 aliases:
-  - Weak Sim Strong And Post-Singularity AI
+- "Weak Sim Strong And Post-Singularity AI"
 tags:
-  - Compendium/CSRD/en/Rules/Optional/Science-Fiction
-  - AI/Weak
-  - AI/Sim
-  - AI/Strong
-  - AI/Post-Singularity
-title: Weak Sim Strong And Post-Singularity AI
-collection: Rules
-kind: Compendium
+-  Compendium/CSRD/en/Rules/Optional/Science-Fiction
+- AI/Weak
+- AI/Sim
+- AI/Strong
+- AI/Post-Singularity
 ---
+
 ## Weak Sim Strong And Post-Singularity AI
 Though somewhat fuzzy, for the purposes of creating a sci-fi setting, artificial intelligence (AI) can be broken into four categories: Weak, Sim, Strong, and Post-singularity.  
 >[!tip] Weak AI  

@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Aquatic Combatant
+- "Aquatic Combatant"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Mid
-  - Ability/Categories/Cure
-title: Aquatic Combatant
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Mid
+- Ability/Categories/Cure
 ---
+
+  
 ## Aquatic Combatant  
 >**Enabler**
   

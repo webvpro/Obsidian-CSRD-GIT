@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Battlefield Tactician
+- "Battlefield Tactician"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/2
-  - Ability/Tier/High
-  - Ability/Pool/Intellect
-  - Ability/Categories/Senses
-title: Battlefield Tactician
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/2
+- Ability/Tier/High
+- Ability/Pool/Intellect
+- Ability/Categories/Senses
 ---
+
+  
 ## Battlefield Tactician  
 >**Enabler**  
 >2+ Intellect points

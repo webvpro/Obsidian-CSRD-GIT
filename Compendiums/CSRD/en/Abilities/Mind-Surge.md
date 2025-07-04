@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Mind Surge
+- "Mind Surge"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/NA
-  - Ability/Tier/High
-  - Ability/Categories/Cure
-title: Mind Surge
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/NA
+- Ability/Tier/High
+- Ability/Categories/Cure
 ---
+
+  
 ## Mind Surge  
 >**Action**
   

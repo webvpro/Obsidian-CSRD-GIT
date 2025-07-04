@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Perfection
+- Perfection
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Subtle
-title: Perfection
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Subtle
 ---
+
+  
 ## Perfection  
 >[!info] Stats  
 > **Level:** 1d6+2  

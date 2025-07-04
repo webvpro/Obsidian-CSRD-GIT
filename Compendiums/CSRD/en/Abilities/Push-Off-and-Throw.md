@@ -1,19 +1,18 @@
 ---
 aliases:
-  - Push Off and Throw
+- "Push Off and Throw"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/3
-  - Ability/Tier/Mid
-  - Ability/Pool/Speed
-  - Ability/Categories/Meta
-  - Ability/Categories/Special-Attack
-title: Push Off and Throw
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/3
+- Ability/Tier/Mid
+- Ability/Pool/Speed
+- Ability/Categories/Meta
+- Ability/Categories/Special-Attack
 ---
+
+  
 ## Push Off and Throw  
 >**Action**  
 >3 Speed points

@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Incapacitate
+- "Incapacitate"
 tags:
-  - Compendium/CSRD/en/Abilities/Incapacitate
-  - Ability
-  - Ability/Action
-  - Ability/Cost/4
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Magic
-title: Incapacitate
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities/Incapacitate
+- Ability
+- Ability/Action
+- Ability/Cost/4
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Magic
 ---
+
+  
 ## Incapacitate
 >**Action**  
 >4 Intellect points

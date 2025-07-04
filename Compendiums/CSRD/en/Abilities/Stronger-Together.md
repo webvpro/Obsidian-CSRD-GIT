@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Stronger Together
+- "Stronger Together"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Mid
-  - Ability/Categories/Companion
-title: Stronger Together
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Mid
+- Ability/Categories/Companion
 ---
+
+  
 ## Stronger Together  
 >**Enabler**
   

@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Dark Explorer
+- "Dark Explorer"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/High
-  - Ability/Categories/Senses
-  - Ability/Categories/Task
-title: Dark Explorer
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/High
+- Ability/Categories/Senses
+- Ability/Categories/Task
 ---
+
+  
 ## Dark Explorer  
 >**Enabler**
   

@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Sorcerer's Skeleton Key
+- Sorcerer's Skeleton Key
 tags:
-  - Compendium/CSRD/en/Cyphers/Sorcerers-Skeleton-Key
-  - Cypher
-title: Sorcerer's Skeleton Key
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers/Sorcerers-Skeleton-Key
+- Cypher
 ---
+
+  
 ## Sorcerer's Skeleton Key  
 >[!info] Stats  
 > **Level:** 1d6+2  

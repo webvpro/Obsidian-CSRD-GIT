@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Sees Beyond
+- "Sees Beyond"
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/Exploration
-title: Sees Beyond
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci
+- Focus/Category/Exploration
 ---
+
+  
 ## Sees Beyond  
 You have a psychic sense that allows you to see what others cannot.  
 

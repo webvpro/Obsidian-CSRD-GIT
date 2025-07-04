@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Walk Through Walls
+- "Walk Through Walls"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/2
-  - Ability/Tier/Low
-  - Ability/Pool/Intellect
-  - Ability/Categories/Movement
-title: Walk Through Walls
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/2
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Movement
 ---
+
+  
 ## Walk Through Walls  
 >**Action**  
 >2 Intellect points

@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Earthquake
+- "Earthquake"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/7
-  - Ability/Tier/High
-  - Ability/Pool/Might
-  - Ability/Categories/Special-Attack
-title: Earthquake
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/7
+- Ability/Tier/High
+- Ability/Pool/Might
+- Ability/Categories/Special-Attack
 ---
+
+  
 ## Earthquake  
 >**Action**  
 >7 Might points

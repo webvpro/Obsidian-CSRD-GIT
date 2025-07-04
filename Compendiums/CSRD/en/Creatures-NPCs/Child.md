@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Child
+- Child
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/NPC
-  - Creature/Level/1
-  - Creature/Armor/0
-  - Creature/Health/3
-title: Child
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/NPC
+- Creature/Level/1
+- Creature/Armor/0
+- Creature/Health/3
 ---
+
+  
 ## Child  
 Children play the roles of urchins, siblings, daughters, sons, waifs, servants, royal family members, child brides, and more.  
 

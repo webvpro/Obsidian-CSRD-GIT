@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Medium Blaster
+- "Medium Blaster"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Science-Fiction
-  - Equipment/Utility-Gear
-  - Equipment/Value/Expensive
-  - Equipment/Range/Long
-  - Equipment/Weapon/Medium
-title: Medium Blaster
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Science-Fiction
+- Equipment/Utility-Gear
+- Equipment/Value/Expensive
+- Equipment/Range/Long
+- Equipment/Weapon/Medium
 ---
+
+  
 ## Medium Blaster  
   
 >  

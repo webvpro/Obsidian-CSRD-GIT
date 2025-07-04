@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Mastery With Attacks
+- "Mastery With Attacks"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/NA
-  - Ability/Tier/High
-  - Ability/Categories/Attack-Skill
-title: Mastery With Attacks
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/NA
+- Ability/Tier/High
+- Ability/Categories/Attack-Skill
 ---
+
+  
 ## Mastery With Attacks  
 >**Action**
   

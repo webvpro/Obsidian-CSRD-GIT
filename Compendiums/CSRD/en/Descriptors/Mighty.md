@@ -1,13 +1,11 @@
 ---
 aliases:
-  - Mighty
+- Mighty
 tags:
-  - Compendiums/CSRD/en/Descriptors
-  - Descriptor
-title: Mighty
-collection: Descriptors
-kind: Compendiums
+- Compendiums/CSRD/en/Descriptors
+- Descriptor
 ---
+
 ## Mighty  
 You have a very impressive physique. Your strength, power, and very importance are superior. Whether you're truly the mightiest may be up for debate (and you may have a friendly rivalry about this with other superheroes), but there is no question that you are exceptional. These things make you confident, but you know that you have these physical gifts in order to perform heroic deeds, and unseemly conduct is beneath you.
 ### You gain the following characteristics  

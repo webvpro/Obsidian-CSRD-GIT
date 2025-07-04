@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Moon Shape
+- "Moon Shape"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/4
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Transform
-title: Moon Shape
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/4
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Transform
 ---
+
+  
 ## Moon Shape  
 >**Action**  
 >4+ Intellect points

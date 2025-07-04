@@ -1,11 +1,9 @@
 ---
-aliases: Romance Rules Module
-tags:
-  - Compendium/CSRD/en/Rules/Romance-Rules-Module
-title: R
-collection: Rules
-kind: Compendium
+aliases: "Romance Rules Module"
+tags: 
+- Compendium/CSRD/en/Rules/Romance-Rules-Module
 ---
+
 # Romance Rules Module
 Like horror, romance doesn’t automatically suggest a setting. It is more of a mood, or more specifically an approach, to how the game is played. It suggests an emphasis, at least somewhat, on relationships, interactions, and connections.
 

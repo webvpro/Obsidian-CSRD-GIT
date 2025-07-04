@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Sheen
+- Sheen
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantastic
-title: Sheen
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantastic
 ---
+
+  
 ## Sheen  
 >[!info] Stats  
 > **Level:** 1d6  

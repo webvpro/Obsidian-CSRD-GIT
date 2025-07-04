@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Famine
+- Famine
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/6
-  - Creature/Armor/1
-  - Creature/Health/24
-title: Famine
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/6
+- Creature/Armor/1
+- Creature/Health/24
 ---
+
+  
 ## Famine  
 Famine delighted in economic collapse and starvation before the apocalypse. They still spend time destabilizing survivor groups' livelihoods by direct and indirect means. Famine is rail thin, and carries a chain weapon with weighted, disc shaped ends that can also be used as an improvised scale.  
 

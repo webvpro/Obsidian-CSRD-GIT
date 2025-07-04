@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Psychokinetic Attack
+- "Psychokinetic Attack"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/5
-  - Ability/Tier/High
-  - Ability/Pool/Intellect
-  - Ability/Categories/Special-Attack
-title: Psychokinetic Attack
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/5
+- Ability/Tier/High
+- Ability/Pool/Intellect
+- Ability/Categories/Special-Attack
 ---
+
+  
 ## Psychokinetic Attack  
 >**Action**  
 >5 Intellect points

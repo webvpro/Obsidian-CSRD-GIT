@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Chamber of Dreams
+- "Chamber of Dreams"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/8
-  - Ability/Tier/High
-  - Ability/Pool/Intellect
-  - Ability/Categories/Movement
-title: Chamber of Dreams
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/8
+- Ability/Tier/High
+- Ability/Pool/Intellect
+- Ability/Categories/Movement
 ---
+
+  
 ## Chamber of Dreams  
 >**Action**  
 >8 Intellect points

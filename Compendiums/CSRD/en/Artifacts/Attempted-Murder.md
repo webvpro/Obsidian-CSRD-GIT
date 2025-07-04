@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Attempted Murder
+- "Attempted Murder"
 tags:
-  - Compendium/CSRD/en/Artifacts/Attempted-Murder
-  - Artifact
-  - Artifact/Fairy-Tale
-title: Attempted Murder
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts/Attempted-Murder
+- Artifact
+- Artifact/Fairy-Tale
 ---
+
+  
 ## Attempted Murder 
 #### Level 
 >1d6  + 4

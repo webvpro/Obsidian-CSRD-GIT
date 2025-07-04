@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Carving Knife of Sharpness
+- Carving Knife of Sharpness
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fairy-Tale
-title: Carving Knife of Sharpness
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fairy-Tale
 ---
+
+  
 ## Carving Knife of Sharpness  
 >[!info] Stats  
 > **Level:** 1d6+1  

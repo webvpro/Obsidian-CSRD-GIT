@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Solvent
+- Solvent
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Manifest
-title: Solvent
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Manifest
 ---
+
+  
 ## Solvent  
 >[!info] Stats  
 > **Level:** 1d10  

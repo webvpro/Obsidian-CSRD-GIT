@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Stunring
+- "Stunring"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Advanced
-  - Equipment/Armament
-  - Equipment/Science-Fiction
-  - Equipment/Level/4
-  - Equipment/Value/Very-Expensive
-  - Equipment/Weapon/Light
-title: Stunring
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Advanced
+- Equipment/Armament
+- Equipment/Science-Fiction
+- Equipment/Level/4
+- Equipment/Value/Very-Expensive
+- Equipment/Weapon/Light
 ---
+
+  
 ## Stunring  
   
 >As stunstick, but light weapon (difficulty of attack is eased) worn as a set of two rings on the same hand; punch target to use.  

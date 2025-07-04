@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Defend the Innocent
+- "Defend the Innocent"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/2
-  - Ability/Tier/Low
-  - Ability/Pool/Speed
-  - Ability/Categories/Support
-title: Defend the Innocent
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/2
+- Ability/Tier/Low
+- Ability/Pool/Speed
+- Ability/Categories/Support
 ---
+
+  
 ## Defend the Innocent  
 >**Action**  
 >2 Speed points

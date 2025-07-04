@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Armor Reinforcer
+- Armor Reinforcer
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Manifest
-title: Armor Reinforcer
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Manifest
 ---
+
+  
 ## Armor Reinforcer  
 >[!info] Stats  
 > **Level:** 1d6+1  

@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Enduring Shield
+- Enduring Shield
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Subtle
-title: Enduring Shield
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Subtle
 ---
+
+  
 ## Enduring Shield  
 >[!info] Stats  
 > **Level:** 1d6+4  

@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Worm that Walks
+- Worm that Walks
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/7
-  - Creature/Armor/1
-  - Creature/Health/30
-title: Worm that Walks
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/7
+- Creature/Armor/1
+- Creature/Health/30
 ---
+
+  
 ## Worm that Walks  
 This sodden, leather-wrapped humanoid smells of the sea. It moves effortlessly through the air, levitating above the ground while its damp wrappings writhe and squirm as if infested with thousands of worms-because they are. Each worm that walks is a mass of psionic grubs squirming through a slush of salty ooze. Individually the grubs are harmless vermin, but together they're a sentient entity, a single psionic mind formed of thousands of tiny, maggot-like pupae. The tightly wound leather straps covering a worm that walks are just as important for hiding its true nature as for adhesion. Despite being fully encased, the worm that walks senses its environment with a hard-to-fool sixth sense.  
 

@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Expert Driver
+- "Expert Driver"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Mid
-  - Ability/Categories/Task
-title: Expert Driver
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Mid
+- Ability/Categories/Task
 ---
+
+  
 ## Expert Driver  
 >**Enabler**
   

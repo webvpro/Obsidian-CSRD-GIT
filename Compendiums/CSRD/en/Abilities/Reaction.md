@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Reaction
+- "Reaction"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Mid
-  - Ability/Categories/Special-Attack
-title: Reaction
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Mid
+- Ability/Categories/Special-Attack
 ---
+
+  
 ## Reaction  
 >**Enabler**
   

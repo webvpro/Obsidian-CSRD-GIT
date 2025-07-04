@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Cold Burst
+- "Cold Burst"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/5
-  - Ability/Tier/High
-  - Ability/Pool/Intellect
-  - Ability/Categories/Special-Attack
-title: Cold Burst
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/5
+- Ability/Tier/High
+- Ability/Pool/Intellect
+- Ability/Categories/Special-Attack
 ---
+
+  
 ## Cold Burst  
 >**Action**  
 >5+ Intellect points

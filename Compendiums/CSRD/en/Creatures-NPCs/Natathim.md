@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Natathim
+- Natathim
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/3
-  - Creature/Armor/2
-  - Creature/Health/9
-title: Natathim
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/3
+- Creature/Armor/2
+- Creature/Health/9
 ---
+
+  
 ## Natathim  
 Genetically engineered to live in the water oceans discovered beneath the ice crusts of various solar moons, natathim (Homo aquus) have human ancestors, but barely look it. Survival in the frigid, lightless depths of extraterrestrial oceans required extreme adaptation. Predominantly dark blue, their undersides countershade to pure white. Though humanoid, their physiology is streamlined, giving their heads a somewhat fish-like shape, complete with gills and large eyes to collect light in the depths. Their bodies are adorned with fins and frills, including a long shark-like tail, and they have webbed extremities with retractable claws. 
 Depending on the setting, natathim are either human allies with the same (or even more advanced) tech, enemies with the same or more advanced tech, or genetic anomalies treated like laboratory rats burning with genocidal fury at what's been done to them. Alternatively, natathim could be discovered in Earth's deepest oceans, their origin mysterious, but able to interbreed with humans as a method for maintaining their line.  

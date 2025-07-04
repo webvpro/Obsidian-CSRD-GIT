@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Greater Necromancy
+- "Greater Necromancy"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/5
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Companion
-title: Greater Necromancy
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/5
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Companion
 ---
+
+  
 ## Greater Necromancy  
 >**Action**  
 >5+ Intellect points

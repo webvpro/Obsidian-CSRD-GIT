@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Cat's Eye Spectacles
+- Cat's Eye Spectacles
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fantasy
-title: Cat's Eye Spectacles
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fantasy
 ---
+
+  
 ## Cat's Eye Spectacles  
 >[!info] Stats  
 > **Level:** 1d6  

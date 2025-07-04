@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Fast Travel
+- "Fast Travel"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/7
-  - Ability/Tier/High
-  - Ability/Pool/Intellect
-  - Ability/Categories/Movement
-title: Fast Travel
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/7
+- Ability/Tier/High
+- Ability/Pool/Intellect
+- Ability/Categories/Movement
 ---
+
+  
 ## Fast Travel  
 >**Action**  
 >7 Intellect points

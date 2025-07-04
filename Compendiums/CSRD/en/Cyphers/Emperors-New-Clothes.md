@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Emperor's New Clothes
+- "Emperor's New Clothes"
 tags:
-  - Compendium/CSRD/en/Cyphers/Emperors-New-Clothes
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Emperor's New Clothes
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers/Emperors-New-Clothes
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Emperor's New Clothes  
 >[!info] Stats  
 > **Level:** 1d6  

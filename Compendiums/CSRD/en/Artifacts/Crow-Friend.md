@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Crow Friend
+- "Crow Friend"
 tags:
-  - Compendium/CSRD/en/Artifacts/Crow-Friend
-  - Artifact
-  - Artifact/Modern-Fantasy
-title: Crow Friend
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts/Crow-Friend
+- Artifact
+- Artifact/Modern-Fantasy
 ---
+
+  
 ## Crow Friend 
 >1d6 +4
 #### Form

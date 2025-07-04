@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Greatsword
+- "Greatsword"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Fantasy
-  - Equipment/Utility-Gear
-  - Equipment/Value/Very-Expensive
-  - Equipment/Value/50-Gp
-  - Equipment/Weapon/Heavy
-title: Greatsword
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Fantasy
+- Equipment/Utility-Gear
+- Equipment/Value/Very-Expensive
+- Equipment/Value/50-Gp
+- Equipment/Weapon/Heavy
 ---
+
+  
 ## Greatsword  
   
 >A two-handed version of the broadsword.  

@@ -1,19 +1,18 @@
 ---
 aliases:
-  - Drain Machine
+- "Drain Machine"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/3
-  - Ability/Tier/Low
-  - Ability/Pool/Intellect
-  - Ability/Categories/Cure
-  - Ability/Categories/Special-Attack
-title: Drain Machine
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/3
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Cure
+- Ability/Categories/Special-Attack
 ---
+
+  
 ## Drain Machine  
 >**Action**  
 >3+ Intellect points

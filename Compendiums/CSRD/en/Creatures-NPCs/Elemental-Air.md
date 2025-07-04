@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Elemental, Air
+- "Elemental, Air"
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/4
-  - Creature/Armor/0
-  - Creature/Health/24
-title: Elemental, Air
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/4
+- Creature/Armor/0
+- Creature/Health/24
 ---
+
+  
 ## Elemental, Air  
 Air elementals are capricious pieces of air with simple minds. They spontaneously appear in clouds and high mountains, and often resemble an area of mist or a cloudlike humanoid shape.  
 

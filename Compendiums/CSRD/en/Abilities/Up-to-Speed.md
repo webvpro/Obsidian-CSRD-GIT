@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Up to Speed
+- "Up to Speed"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/NA
-  - Ability/Tier/Mid
-  - Ability/Categories/Movement
-title: Up to Speed
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/NA
+- Ability/Tier/Mid
+- Ability/Categories/Movement
 ---
+
+  
 ## Up to Speed  
 >**Action**
   

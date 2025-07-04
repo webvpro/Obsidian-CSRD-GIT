@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Do You Know Who I Am?
+- "Do You Know Who I Am?"
 tags:
-  - Compendium/CSRD/en/Abilities/Do-You-Know-Who-I-Am
-  - Ability
-  - Ability/Action
-  - Ability/Cost/3
-  - Ability/Tier/High
-  - Ability/Pool/Intellect
-  - Ability/Categories/Special-Attack
-title: Do You Know Who I Am?
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities/Do-You-Know-Who-I-Am
+- Ability
+- Ability/Action
+- Ability/Cost/3
+- Ability/Tier/High
+- Ability/Pool/Intellect
+- Ability/Categories/Special-Attack
 ---
+
+  
 ## Do You Know Who I Am?  
 >**Action**  
 >3 Intellect points

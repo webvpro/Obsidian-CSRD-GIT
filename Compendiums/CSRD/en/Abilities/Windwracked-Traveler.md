@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Windwracked Traveler
+- "Windwracked Traveler"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/4
-  - Ability/Tier/High
-  - Ability/Pool/Intellect
-  - Ability/Categories/Movement
-title: Windwracked Traveler
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/4
+- Ability/Tier/High
+- Ability/Pool/Intellect
+- Ability/Categories/Movement
 ---
+
+  
 ## Windwracked Traveler  
 >**Action**  
 >4+ Intellect points

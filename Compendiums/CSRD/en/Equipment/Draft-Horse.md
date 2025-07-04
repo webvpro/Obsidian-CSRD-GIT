@@ -1,15 +1,14 @@
 ---
 aliases:
-  - Draft Horse
+- "Draft Horse"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Fantasy
-  - Equipment/Utility-Gear
-  - Equipment/Value/50-Gp
-title: Draft Horse
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Fantasy
+- Equipment/Utility-Gear
+- Equipment/Value/50-Gp
 ---
+
+  
 ## Draft Horse  
   
 >A strong horse able to carry or pull heavy loads.  

@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Radioactive Bear
+- Radioactive Bear
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/7
-  - Creature/Armor/1
-  - Creature/Health/35
-title: Radioactive Bear
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/7
+- Creature/Armor/1
+- Creature/Health/35
 ---
+
+  
 ## Radioactive Bear  
 Exposure to radiation and other mutagens--or possibly the malign design of some before times military lab or inscrutable AI instance--transformed an already large and aggressive bear into something truly horrific. Standing well over 20 feet (6 m) tall, radioactive bears are drawn to radioactive areas, which empower and sustain them, though not completely. Which is why sometimes they head into uncontaminated areas to hunt large game. They especially prefer people.  
 

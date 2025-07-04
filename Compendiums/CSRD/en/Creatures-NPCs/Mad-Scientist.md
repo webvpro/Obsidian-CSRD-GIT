@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Mad Scientist
+- Mad Scientist
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/NPC
-  - Creature/Level/4
-  - Creature/Armor/0
-  - Creature/Health/15
-title: Mad Scientist
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/NPC
+- Creature/Level/4
+- Creature/Armor/0
+- Creature/Health/15
 ---
+
+  
 ## Mad Scientist  
 A mad scientist is someone who delves into areas of science best left unexamined, abandoning ethics and pushing for what can be created without asking if it should be.  
 

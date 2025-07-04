@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Healing Touch
+- "Healing Touch"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/1
-  - Ability/Tier/Low
-  - Ability/Pool/Intellect
-  - Ability/Categories/Cure
-title: Healing Touch
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/1
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Cure
 ---
+
+  
 ## Healing Touch  
 >**Action**  
 >1 Intellect point

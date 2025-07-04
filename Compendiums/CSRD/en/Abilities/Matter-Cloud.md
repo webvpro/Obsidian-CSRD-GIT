@@ -1,19 +1,18 @@
 ---
 aliases:
-  - Matter Cloud
+- "Matter Cloud"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/5
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Protection
-  - Ability/Categories/Special-Attack
-title: Matter Cloud
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/5
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Protection
+- Ability/Categories/Special-Attack
 ---
+
+  
 ## Matter Cloud  
 >**Action**  
 >5 Intellect points

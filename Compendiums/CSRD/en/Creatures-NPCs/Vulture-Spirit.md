@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Vulture Spirit
+- "Vulture Spirit"
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs/Vulture-Spirit
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/3
-  - Creature/Armor/0
-  - Creature/Health/10
-title: Vulture Spirit
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs/Vulture-Spirit
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/3
+- Creature/Armor/0
+- Creature/Health/10
 ---
+
+  
 ## Vulture Spirit
 Vulture spirits look like tall humans with bald heads and horrible, hunched posture. They blend in, and they like it that way. Vulture spirits subsist on other people’s pain and misery, which has led to a bad reputation that’s hard to shake. 
 

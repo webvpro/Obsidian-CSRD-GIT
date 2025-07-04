@@ -1,19 +1,18 @@
 ---
 aliases:
-  - Crystalline Body
+- "Crystalline Body"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Low
-  - Ability/Categories/Cure
-  - Ability/Categories/Meta
-  - Ability/Categories/Protection
-title: Crystalline Body
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Low
+- Ability/Categories/Cure
+- Ability/Categories/Meta
+- Ability/Categories/Protection
 ---
+
+  
 ## Crystalline Body  
 >**Enabler**
   

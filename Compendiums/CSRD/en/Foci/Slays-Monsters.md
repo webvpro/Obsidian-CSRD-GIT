@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Slays Monsters
+- "Slays Monsters"
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/Striker-Combat
-title: Slays Monsters
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci
+- Focus/Category/Striker-Combat
 ---
+
+  
 ## Slays Monsters  
 You kill monsters.  
 

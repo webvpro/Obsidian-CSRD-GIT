@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Replicant
+- Replicant
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/5
-  - Creature/Armor/0
-  - Creature/Health/18
-title: Replicant
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/5
+- Creature/Armor/0
+- Creature/Health/18
 ---
+
+  
 ## Replicant  
 Virtually identical to adult humans, these biosculpted androids are stronger, faster, and potentially smarter. However, because they are manufactured beings with grafted memories, replicants rarely feel true human emotion, be that love, sadness, or empathy, though those who live long enough to lay down their own memories can develop the capacity to do so. 
 However, few replicants gain the opportunity because they are created for a purpose, which could be to serve as police or guards, as soldiers in a distant war, or as impostors shaped to blend in with people so they can explore on behalf of an alien intelligence or a bootstrapped AI. In most of these cases, these purposes lead to a relatively short span of existence, which usually ends when the replicant chooses to detonate itself rather than be captured.  

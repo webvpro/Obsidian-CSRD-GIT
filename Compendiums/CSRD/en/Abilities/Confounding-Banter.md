@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Confounding Banter
+- "Confounding Banter"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/4
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Protection
-title: Confounding Banter
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/4
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Protection
 ---
+
+  
 ## Confounding Banter  
 >**Action**  
 >4 Intellect points

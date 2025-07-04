@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Lion's Courage
+- Lion's Courage
 tags:
-  - Compendium/CSRD/en/Cyphers/Lions-Courage
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Lion's Courage
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers/Lions-Courage
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Lion's Courage  
 >[!info] Stats  
 > **Level:** 1d6+1  

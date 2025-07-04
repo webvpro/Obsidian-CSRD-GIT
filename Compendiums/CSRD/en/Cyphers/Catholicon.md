@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Catholicon
+- Catholicon
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Manifest
-title: Catholicon
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Manifest
 ---
+
+  
 ## Catholicon  
 >[!info] Stats  
 > **Level:** 1d6+2  

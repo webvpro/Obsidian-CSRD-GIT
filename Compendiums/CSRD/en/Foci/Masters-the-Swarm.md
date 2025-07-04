@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Masters the Swarm
+- "Masters the Swarm"
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/Ally-Use
-title: Masters the Swarm
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci
+- Focus/Category/Ally-Use
 ---
+
+  
 ## Masters the Swarm  
 Insects. Rats. Bats. Even birds. You master one type of small creature that obeys you.  
 

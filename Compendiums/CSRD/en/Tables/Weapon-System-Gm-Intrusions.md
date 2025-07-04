@@ -1,13 +1,11 @@
 ---
 aliases:
-  - Weapon System Gm Intrusions
+- Weapon System Gm Intrusions
 tags:
-  - Compendiums/CSRD/en/Tables
-  - Table/Intrusion/Weapon-System-Gm-Intrusions
-title: Weapon System Gm Intrusions
-collection: Tables
-kind: Compendiums
+- Compendiums/CSRD/en/Tables
+- Table/Intrusion/Weapon-System-Gm-Intrusions
 ---
+
 ## Weapon System Gm Intrusions Table
 |  Roll &nbsp; &nbsp; | Weapon System Gm Intrusions  |
 | ------------- | :----------- |

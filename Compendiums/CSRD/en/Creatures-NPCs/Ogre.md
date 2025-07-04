@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Ogre
+- Ogre
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/4
-  - Creature/Armor/1
-  - Creature/Health/20
-title: Ogre
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/4
+- Creature/Armor/1
+- Creature/Health/20
 ---
+
+  
 ## Ogre  
 A bestial brute, the ogre is a sadistic, 8-foot (2 m) tall, cannibalistic fiend that preys upon other creatures in the woods, mountains, or other wilderness areas. This often pits them against sylvan beings like elves and fey. Ogres dwelling in more civilized lands are also the enemy of humans, but these ogres usually come no closer to civilization than its very fringes.
 Ogres typically dress in ragged, piecemeal clothing or nothing at all.  

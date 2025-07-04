@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Commands Mental Powers
+- "Commands Mental Powers"
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/Influence
-title: Commands Mental Powers
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci
+- Focus/Category/Influence
 ---
+
+  
 ## Commands Mental Powers  
 You have honed the power of your mind to perform amazing psychic deeds.  
 

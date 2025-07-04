@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Stunt Boost
+- Stunt Boost
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Power-Boost
-title: Stunt Boost
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Power-Boost
 ---
+
+  
 ## Stunt Boost  
 >[!info] Stats  
 > **Level:** 1d6+2  

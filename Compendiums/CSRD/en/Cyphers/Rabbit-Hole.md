@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Rabbit Hole
+- Rabbit Hole
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Rabbit Hole
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Rabbit Hole  
 >[!info] Stats  
 > **Level:** 1d6  

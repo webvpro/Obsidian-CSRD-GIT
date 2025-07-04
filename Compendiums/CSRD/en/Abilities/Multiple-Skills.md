@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Multiple Skills
+- "Multiple Skills"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/High
-  - Ability/Categories/Task
-title: Multiple Skills
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/High
+- Ability/Categories/Task
 ---
+
+  
 ## Multiple Skills  
 >**Enabler**
   

@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Hollow Knight
+- Hollow Knight
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/4
-  - Creature/Armor/3
-  - Creature/Health/12
-title: Hollow Knight
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/4
+- Creature/Armor/3
+- Creature/Health/12
 ---
+
+  
 ## Hollow Knight  
 In haunted castles and among the armies mustered by those with power over life and death, sometimes walk hollow knights. These animated suits of armor move just like living people, and many who encounter these dread revenants mistake them for living foes only to realize in horror that there's nothing inside except for the memory of the warrior that once donned the suit. Brought into being by binding the spirit of a dead warrior to its panoply, hollow knights behave in much the same way they did in life-disciplined, loyal, and battle ready. Clad head to toe in full plate armor, with battered shields strapped to their arms and rusty swords gripped in lobster gauntlets, the knights stand ready to face any foe, heedless of the danger, driven to serve the necromancer that made them. Hollow knights might ride on the backs of skeletal steeds and wield lances.  
 

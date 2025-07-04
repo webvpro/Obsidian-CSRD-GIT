@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Lived Among the Fey
+- "Lived Among the Fey"
 tags:
-  - Compendium/CSRD/en/Foci/Lived-Among-the-Fey
-  - Focus/Category/Fairytale
-title: Lived Among the Fey
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci/Lived-Among-the-Fey
+- Focus/Category/Fairytale
 ---
+
+  
 ## Lived Among the Fey
 You spent a lot of time in another world, one that others don’t believe actually exists. What you learned there gives you insight and vision that most people don’t have. You’ve seen things. Beautiful things. Unspeakable things. Some of them came back with you and stay with you to this day.
 

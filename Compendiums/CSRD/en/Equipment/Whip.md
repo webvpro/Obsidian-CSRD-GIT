@@ -1,16 +1,15 @@
 ---
 aliases:
-  - Whip
+- "Whip"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Fantasy
-  - Equipment/Utility-Gear
-  - Equipment/Value/2-Gp
-  - Equipment/Weapon/Light
-title: Whip
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Fantasy
+- Equipment/Utility-Gear
+- Equipment/Value/2-Gp
+- Equipment/Weapon/Light
 ---
+
+  
 ## Whip  
   
 >A leather cord with a handle, used more for tricks and inflicting punishments than for deadly combat.  

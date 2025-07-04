@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Creation
-tags:
-  - Compendium/CSRD/en/Character-Arcs/Creation
-  - Character-Arc
-title: Creation
-collection: Character-Arcs
-kind: Compendium
+aliases: 
+- "Creation"
+tags: 
+- Compendium/CSRD/en/Character-Arcs/Creation
+- Character-Arc
 ---
 ## Creation
 >You want to make something. This might be a magic item, a painting, a novel, or a machine. 

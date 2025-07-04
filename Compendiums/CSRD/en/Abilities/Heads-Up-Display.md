@@ -1,20 +1,19 @@
 ---
 aliases:
-  - Heads-Up Display
+- "Heads-Up Display"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/2
-  - Ability/Tier/Low
-  - Ability/Pool/Intellect
-  - Ability/Categories/Attack-Skill
-  - Ability/Categories/Senses
-  - Ability/Categories/Task
-title: Heads-Up Display
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/2
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Attack-Skill
+- Ability/Categories/Senses
+- Ability/Categories/Task
 ---
+
+  
 ## Heads-Up Display  
 >**Enabler**  
 >2+ Intellect points

@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Dream Becomes Reality
+- "Dream Becomes Reality"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/4
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Craft
-title: Dream Becomes Reality
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/4
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Craft
 ---
+
+  
 ## Dream Becomes Reality  
 >**Action**  
 >4 Intellect points

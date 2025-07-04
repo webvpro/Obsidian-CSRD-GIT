@@ -1,11 +1,8 @@
 ---
 aliases:
-  - Pool
-tags:
-  - Compendium/CSRD/en/Stats/Pool
-title: Pool
-collection: Stats
-kind: Compendium
+  -  "Pool"
+tags: 
+- Compendium/CSRD/en/Stats/Pool
 ---
 ## Pool
 Your Pool is the most basic measurement of a stat. Comparing the Pools of two creatures will give you a general sense of which creature is superior in that stat. For example, a character who has a Might Pool of 16 is stronger (in a basic sense) than a character who has a Might Pool of 12. Most characters start with a Pool of 9 to 12 in most stats—that’s the average range.

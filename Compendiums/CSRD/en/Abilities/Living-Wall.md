@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Living Wall
+- "Living Wall"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/3
-  - Ability/Tier/Mid
-  - Ability/Pool/Might
-  - Ability/Categories/Environment
-title: Living Wall
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/3
+- Ability/Tier/Mid
+- Ability/Pool/Might
+- Ability/Categories/Environment
 ---
+
+  
 ## Living Wall  
 >**Enabler**  
 >3 Might points

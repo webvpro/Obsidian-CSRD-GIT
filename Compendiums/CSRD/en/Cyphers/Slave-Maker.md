@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Slave Maker
+- Slave Maker
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantastic
-title: Slave Maker
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantastic
 ---
+
+  
 ## Slave Maker  
 >[!info] Stats  
 > **Level:** 1d6+2  

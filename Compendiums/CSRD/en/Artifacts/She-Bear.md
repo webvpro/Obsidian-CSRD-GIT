@@ -1,14 +1,13 @@
 ---
 aliases:
-  - She Bear
+- "She Bear"
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fairy-Tale
-title: She Bear
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fairy-Tale
 ---
+
+  
 ## She Bear  
 >[!info] Stats  
 > **Level:** 1d6  

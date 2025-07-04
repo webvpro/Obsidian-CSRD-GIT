@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Mock Organism
+- Mock Organism
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/3
-  - Creature/Armor/2
-  - Creature/Health/18
-title: Mock Organism
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/3
+- Creature/Armor/2
+- Creature/Health/18
 ---
+
+  
 ## Mock Organism  
 Artificial life can be created by selective breeding, synthetic and genetic engineering, or by accidental miscalculation in some unrelated high-energy or food-research program. When artificial life takes a wrong turn, the results run the gamut from disappointing to dangerous. If an artificial entity starts out benign, it's difficult to know if a hidden or slowly developing flaw will tip it over the edge into dangerous dysfunction-or if it just acts oddly because it doesn't know the social cues. Should synthetic beings be treated as people, pets, or monsters to be stamped out and destroyed? That's the eternal question and one that's usually answered by those most afraid of potential dangers that might accompany the creation of something no one intended.  
 

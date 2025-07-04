@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Memory Eraser
+- Memory Eraser
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Post-Apocalyptic
-title: Memory Eraser
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Post-Apocalyptic
 ---
+
+  
 ## Memory Eraser  
 >[!info] Stats  
 > **Level:** 1d6+1  

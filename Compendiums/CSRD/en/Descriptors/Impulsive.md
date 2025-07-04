@@ -1,13 +1,11 @@
 ---
 aliases:
-  - Impulsive
+- Impulsive
 tags:
-  - Compendiums/CSRD/en/Descriptors
-  - Descriptor
-title: Impulsive
-collection: Descriptors
-kind: Compendiums
+- Compendiums/CSRD/en/Descriptors
+- Descriptor
 ---
+
 ## Impulsive  
 You have a hard time tamping down your enthusiasm. Why wait when you can just do it (whatever it is) and get it done? You deal with problems when they arise rather than plan ahead. Putting out the small fires now prevents them from becoming one big fire later. You are the first to take risks, to jump in and lend a hand, to step into dark passages, and to find danger.
 Your impulsiveness likely gets you into trouble. While others might take time to study the items they discover, you use such items without hesitation. After all, the best way to learn what something can do is to use it. When a cautious explorer might look around and check for danger nearby, you have to physically stop yourself from bulling on ahead. Why fuss around when the exciting thing is just ahead?

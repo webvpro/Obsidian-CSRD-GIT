@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Horn of Thunder
+- Horn of Thunder
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fantasy
-title: Horn of Thunder
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fantasy
 ---
+
+  
 ## Horn of Thunder  
 >[!info] Stats  
 > **Level:** 1d6+4  

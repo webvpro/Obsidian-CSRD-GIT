@@ -1,11 +1,9 @@
 ---
-aliases: Cypher Shorts
-tags:
-  - Compendium/CSRD/en/Rules/Cypher-Shorts
-title: C
-collection: Rules
-kind: Compendium
+aliases: "Cypher Shorts"
+tags: 
+- Compendium/CSRD/en/Rules/Cypher-Shorts
 ---
+
 # Cypher Shorts
 
 Cypher Shorts are what we call quick and easy adventures for use with the Cypher System. The idea here is an adventure with very quick character creation and minimal GM prep, designed for a one-shot game that can be finished in a single session of three to four hours. If a typical campaign is an ongoing television series, think of a Cypher Short as a movie.

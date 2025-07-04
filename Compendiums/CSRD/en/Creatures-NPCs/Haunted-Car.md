@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Haunted Car
+- "Haunted Car"
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs/Haunted-Car
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/5
-  - Creature/Armor/2
-  - Creature/Armor/3
-  - Creature/Health/20
-title: Haunted Car
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs/Haunted-Car
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/5
+- Creature/Armor/2
+- Creature/Armor/3
+- Creature/Health/20
 ---
+
+  
 ## Haunted Car  
 Whether you call them haunted, possessed, misenchanted, cursed, or just plain evil, some cars develop a hateful will, the ability to drive themselves, and a love for the smell of blood on asphalt. 
 

@@ -1,16 +1,15 @@
 ---
 aliases:
-  - Sword
+- "Sword"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Fantasy
-  - Equipment/Utility-Gear
-  - Equipment/Value/Expensive
-  - Equipment/Weapon/Medium
-title: Sword
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Fantasy
+- Equipment/Utility-Gear
+- Equipment/Value/Expensive
+- Equipment/Weapon/Medium
 ---
+
+  
 ## Sword  
   
 >  

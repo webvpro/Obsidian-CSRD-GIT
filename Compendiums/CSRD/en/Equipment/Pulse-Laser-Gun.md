@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Pulse Laser Gun
+- "Pulse Laser Gun"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Science-Fiction
-  - Equipment/Utility-Gear
-  - Equipment/Value/Very-Expensive
-  - Equipment/Range/Long
-  - Equipment/Weapon/Medium
-  - Equipment/Weapon/Rapid-Fire
-title: Pulse Laser Gun
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Science-Fiction
+- Equipment/Utility-Gear
+- Equipment/Value/Very-Expensive
+- Equipment/Range/Long
+- Equipment/Weapon/Medium
+- Equipment/Weapon/Rapid-Fire
 ---
+
+  
 ## Pulse Laser Gun  
   
 >  

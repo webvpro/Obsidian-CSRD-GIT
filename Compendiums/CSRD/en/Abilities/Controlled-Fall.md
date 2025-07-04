@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Controlled Fall
+- "Controlled Fall"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Mid
-  - Ability/Categories/Movement
-title: Controlled Fall
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Mid
+- Ability/Categories/Movement
 ---
+
+  
 ## Controlled Fall  
 >**Enabler**
   

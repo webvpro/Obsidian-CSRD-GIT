@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Define Down
+- "Define Down"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/4
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Environment
-title: Define Down
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/4
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Environment
 ---
+
+  
 ## Define Down  
 >**Action**  
 >4 Intellect points

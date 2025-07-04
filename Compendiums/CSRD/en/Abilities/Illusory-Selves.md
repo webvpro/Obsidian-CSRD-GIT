@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Illusory Selves
+- "Illusory Selves"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/4
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Environment
-title: Illusory Selves
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/4
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Environment
 ---
+
+  
 ## Illusory Selves  
 >**Action**  
 >4 Intellect points

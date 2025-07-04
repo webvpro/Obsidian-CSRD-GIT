@@ -1,16 +1,15 @@
 ---
 aliases:
-  - Baseball Bat
+- "Baseball Bat"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Post-Apocalyptic
-  - Equipment/Utility-Gear
-  - Equipment/Value/Moderate
-  - Equipment/Weapon/Medium
-title: Baseball Bat
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Post-Apocalyptic
+- Equipment/Utility-Gear
+- Equipment/Value/Moderate
+- Equipment/Weapon/Medium
 ---
+
+  
 ## Baseball Bat  
   
 >  

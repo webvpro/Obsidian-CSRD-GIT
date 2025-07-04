@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Combat Prowess
+- "Combat Prowess"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Low
-  - Ability/Categories/Meta
-title: Combat Prowess
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Low
+- Ability/Categories/Meta
 ---
+
+  
 ## Combat Prowess  
 >**Enabler**
   

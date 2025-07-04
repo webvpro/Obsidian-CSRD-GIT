@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Thief
+- Thief
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/NPC
-  - Creature/Level/4
-  - Creature/Armor/1
-  - Creature/Health/12
-title: Thief
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/NPC
+- Creature/Level/4
+- Creature/Armor/1
+- Creature/Health/12
 ---
+
+  
 ## Thief  
 A thief takes things that don't belong to them-preferably with their victim remaining unaware of the crime until the thief is safely away. Burglars and pickpockets are the most common sort, but ambitious thieves are known to plan elaborate heists to steal priceless items from prominent targets.  
 

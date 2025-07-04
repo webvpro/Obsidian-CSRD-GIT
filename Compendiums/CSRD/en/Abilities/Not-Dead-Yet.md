@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Not Dead Yet
+- "Not Dead Yet"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/High
-  - Ability/Categories/Cure
-title: Not Dead Yet
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/High
+- Ability/Categories/Cure
 ---
+
+  
 ## Not Dead Yet  
 >**Enabler**
   

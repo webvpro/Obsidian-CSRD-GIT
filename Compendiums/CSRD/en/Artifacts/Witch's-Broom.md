@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Witch's Broom
+- Witch's Broom
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fantasy
-title: Witch's Broom
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fantasy
 ---
+
+  
 ## Witch's Broom  
 >[!info] Stats  
 > **Level:** 1d6+2  

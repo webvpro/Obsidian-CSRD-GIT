@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Ecophagic Swarm
+- Ecophagic Swarm
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/4
-  - Creature/Armor/0
-  - Creature/Health/12
-title: Ecophagic Swarm
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/4
+- Creature/Armor/0
+- Creature/Health/12
 ---
+
+  
 ## Ecophagic Swarm  
 Tiny nanomachines can be incredibly useful tools. But they can also become a terrible threat. Like cells in a living body that develop cancer, these out-of-control self-replicating robots can consume everything in their path while building more of themselves. A typical swarm is about 6 m (20 feet) in diameter, individually consisting of millions of individual minuscule machines. However, several swarms can act together, creating a much larger cloud of death with just one purpose: to eat and replicate. Able to move large distances by gliding through the air, cloud-like swarms take on intriguing shapes and ripple with mathematical patterns as they approach a potential target, beautiful and deadly. 
 	Ecophagic swarms sometimes build weird structures or artifacts in the wake of their feeding, like massive metallic ant or wasp mounds, or something without any reference at all in the natural world.  

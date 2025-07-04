@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Transfer Discs
+- Transfer Discs
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Post-Apocalyptic
-title: Transfer Discs
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Post-Apocalyptic
 ---
+
+  
 ## Transfer Discs  
 >[!info] Stats  
 > **Level:** 1d6+1  

@@ -1,19 +1,18 @@
 ---
 aliases:
-  - One With the Wild
+- "One With the Wild"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/6
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Cure
-  - Ability/Categories/Meta
-title: One With the Wild
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/6
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Cure
+- Ability/Categories/Meta
 ---
+
+  
 ## One With the Wild  
 >**Action**  
 >6 Intellect points

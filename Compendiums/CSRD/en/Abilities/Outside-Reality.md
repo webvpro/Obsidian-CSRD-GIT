@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Outside Reality
+- "Outside Reality"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/6
-  - Ability/Tier/High
-  - Ability/Pool/Intellect
-  - Ability/Categories/Transform
-title: Outside Reality
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/6
+- Ability/Tier/High
+- Ability/Pool/Intellect
+- Ability/Categories/Transform
 ---
+
+  
 ## Outside Reality  
 >**Enabler**  
 >6+ Intellect points

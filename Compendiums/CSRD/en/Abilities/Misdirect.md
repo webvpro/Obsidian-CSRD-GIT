@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Misdirect
+- "Misdirect"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/3
-  - Ability/Tier/Low
-  - Ability/Pool/Speed
-  - Ability/Categories/Special-Attack
-title: Misdirect
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/3
+- Ability/Tier/Low
+- Ability/Pool/Speed
+- Ability/Categories/Special-Attack
 ---
+
+  
 ## Misdirect  
 >**Enabler**  
 >3 Speed points

@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Inferno Wall
+- Inferno Wall
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantastic
-title: Inferno Wall
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantastic
 ---
+
+  
 ## Inferno Wall  
 >[!info] Stats  
 > **Level:** 1d6+2  

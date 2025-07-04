@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Serv-0 Aim
+- "Serv-0 Aim"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Mid
-  - Ability/Categories/Attack-Skill
-  - Ability/Categories/Task
-title: Serv-0 Aim
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Mid
+- Ability/Categories/Attack-Skill
+- Ability/Categories/Task
 ---
+
+  
 ## Serv-0 Aim  
 >**Enabler**
   

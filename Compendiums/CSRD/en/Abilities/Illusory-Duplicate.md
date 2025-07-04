@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Illusory Duplicate
+- "Illusory Duplicate"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/2
-  - Ability/Tier/Low
-  - Ability/Pool/Intellect
-  - Ability/Categories/Environment
-title: Illusory Duplicate
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/2
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Environment
 ---
+
+  
 ## Illusory Duplicate  
 >**Action**  
 >2 Intellect points

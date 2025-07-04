@@ -1,15 +1,14 @@
 ---
 aliases:
-  - Food, Perishable
+- "Food, Perishable"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Post-Apocalyptic
-  - Equipment/Utility-Gear
-  - Equipment/Value/Inexpensive
-title: Food, Perishable
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Post-Apocalyptic
+- Equipment/Utility-Gear
+- Equipment/Value/Inexpensive
 ---
+
+  
 ## Food, Perishable  
   
 >Single helping of fruit, vegetable, recently slaughtered animal, etc  

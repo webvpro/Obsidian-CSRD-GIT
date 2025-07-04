@@ -1,19 +1,18 @@
 ---
 aliases:
-  - Inspiration
+- "Inspiration"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/6
-  - Ability/Tier/High
-  - Ability/Pool/Intellect
-  - Ability/Categories/Cure
-  - Ability/Categories/Support
-title: Inspiration
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/6
+- Ability/Tier/High
+- Ability/Pool/Intellect
+- Ability/Categories/Cure
+- Ability/Categories/Support
 ---
+
+  
 ## Inspiration  
 >**Action**  
 >6 Intellect points

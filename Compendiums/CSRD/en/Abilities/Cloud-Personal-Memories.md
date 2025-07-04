@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Cloud Personal Memories
+- "Cloud Personal Memories"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/3
-  - Ability/Tier/Low
-  - Ability/Pool/Intellect
-  - Ability/Categories/Control
-title: Cloud Personal Memories
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/3
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Control
 ---
+
+  
 ## Cloud Personal Memories  
 >**Action**  
 >3 Intellect points

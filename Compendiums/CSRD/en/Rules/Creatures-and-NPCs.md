@@ -1,11 +1,9 @@
 ---
-aliases: Creatures and NPCs
+aliases: "Creatures and NPCs"
 tags:
   - Compendium/CSRD/en/Rules/Creatures-and-NPCs
-title: C
-collection: Rules
-kind: Compendium
 ---
+
 # Creatures and NPCs
 ## Modern Magic Creatures
 

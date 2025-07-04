@@ -1,14 +1,12 @@
 ---
 aliases:
-  - Special Rolls
+- "Special Rolls"
 tags:
-  - Compendium/CSRD/en/Rules/Special-Rolls
-  - Dice/Results
-  - null
-title: Special Rolls
-collection: Rules
-kind: Compendium
+- Compendium/CSRD/en/Rules/Special-Rolls
+- Dice/Results
+- 
 ---
+
 ## Special Rolls  
 When you roll a natural 19 (the d20 shows “19”) and the roll is a success, you also have a minor effect. In combat, a minor effect inflicts 3 additional points of damage with your attack, or, if you’d prefer a special result, you could decide instead that you knock the foe back, distract them, or something similar. When not in combat, a minor effect could mean that you perform the action with particular grace. For example, when jumping down from a ledge, you land smoothly on your feet, or when trying to persuade someone, you convince them that you’re smarter than you really are. In other words, you not only succeed but also go a bit further. 
 

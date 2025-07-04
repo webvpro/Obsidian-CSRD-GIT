@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Negate Danger
+- "Negate Danger"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/7
-  - Ability/Tier/High
-  - Ability/Pool/Intellect
-  - Ability/Categories/Cure
-title: Negate Danger
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/7
+- Ability/Tier/High
+- Ability/Pool/Intellect
+- Ability/Categories/Cure
 ---
+
+  
 ## Negate Danger  
 >**Action**  
 >7 Intellect points

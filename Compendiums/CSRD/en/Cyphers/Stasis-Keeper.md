@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Stasis Keeper
+- Stasis Keeper
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantastic
-title: Stasis Keeper
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantastic
 ---
+
+  
 ## Stasis Keeper  
 >[!info] Stats  
 > **Level:** 1d6  

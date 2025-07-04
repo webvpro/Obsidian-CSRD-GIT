@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Shroud of Flame
+- "Shroud of Flame"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/1
-  - Ability/Tier/Low
-  - Ability/Pool/Intellect
-  - Ability/Categories/Protection
-title: Shroud of Flame
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/1
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Protection
 ---
+
+  
 ## Shroud of Flame  
 >**Enabler**  
 >1 Intellect point

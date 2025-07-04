@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Silgarho Infusion
+- Silgarho Infusion
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-title: Silgarho Infusion
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
 ---
+
+  
 ## Silgarho Infusion  
 >[!info] Stats  
 > **Level:** 1d6  

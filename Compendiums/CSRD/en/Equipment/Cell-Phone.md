@@ -1,15 +1,14 @@
 ---
 aliases:
-  - Cell Phone
+- "Cell Phone"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Modern
-  - Equipment/Utility-Gear
-  - Equipment/Value/Moderate
-title: Cell Phone
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Modern
+- Equipment/Utility-Gear
+- Equipment/Value/Moderate
 ---
+
+  
 ## Cell Phone  
   
 >  

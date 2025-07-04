@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Repair Unit
+- Repair Unit
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantastic
-title: Repair Unit
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantastic
 ---
+
+  
 ## Repair Unit  
 >[!info] Stats  
 > **Level:** 1d10  

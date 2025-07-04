@@ -1,15 +1,14 @@
 ---
 aliases:
-  - Personal Hygiene Product, Single
+- "Personal Hygiene Product, Single"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Post-Apocalyptic
-  - Equipment/Utility-Gear
-  - Equipment/Value/Moderate
-title: Personal Hygiene Product, Single
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Post-Apocalyptic
+- Equipment/Utility-Gear
+- Equipment/Value/Moderate
 ---
+
+  
 ## Personal Hygiene Product, Single  
   
 >Toilet paper roll, menstrual supply, soap, etc.  

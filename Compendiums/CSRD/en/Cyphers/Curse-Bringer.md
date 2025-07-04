@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Curse Bringer
+- Curse Bringer
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Manifest
-title: Curse Bringer
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Manifest
 ---
+
+  
 ## Curse Bringer  
 >[!info] Stats  
 > **Level:** 1d6+1  

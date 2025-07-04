@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Looks for Trouble
+- "Looks for Trouble"
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/Striker-Combat
-title: Looks for Trouble
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci
+- Focus/Category/Striker-Combat
 ---
+
+  
 ## Looks for Trouble  
 You're a scrapper and love a good fight.  
 

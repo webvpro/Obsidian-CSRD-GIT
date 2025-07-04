@@ -1,25 +1,24 @@
 ---
 aliases:
-  - Binoculars
+- "Binoculars"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Science-Fiction
-  - Equipment/Utility-Gear
-  - Equipment/Value/Moderate
-  - Equipment/Range/Asset-for-Perception-Tasks-At
-  - Equipment/Post-Apocalyptic
-  - Equipment/Utility-Gear
-  - Equipment/Value/Moderate
-  - Equipment/Asset
-  - Equipment/Contemporary
-  - Equipment/Modern
-  - Equipment/Sense-Enhancing-Tools
-  - Equipment/Level/2
-  - Equipment/Value/Moderate
-title: Binoculars
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Science-Fiction
+- Equipment/Utility-Gear
+- Equipment/Value/Moderate
+- Equipment/Range/Asset-for-Perception-Tasks-At
+- Equipment/Post-Apocalyptic
+- Equipment/Utility-Gear
+- Equipment/Value/Moderate
+- Equipment/Asset
+- Equipment/Contemporary
+- Equipment/Modern
+- Equipment/Sense-Enhancing-Tools
+- Equipment/Level/2
+- Equipment/Value/Moderate
 ---
+
+  
 ## Binoculars  
   
 >  

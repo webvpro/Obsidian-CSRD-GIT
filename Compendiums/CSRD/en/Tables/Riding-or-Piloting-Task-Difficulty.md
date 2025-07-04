@@ -1,15 +1,13 @@
 ---
 aliases:
-  - Riding or Piloting
+- "Riding or Piloting"
 tags:
-  - Compendium/CSRD/en/Tables
-  - Table/Task/Difficulty/Riding
-  - Table/Task/Difficulty/Piloting
-  - Table/Task/Difficulty/Driving
-title: Riding or Piloting
-collection: Tables
-kind: Compendium
+-  Compendium/CSRD/en/Tables
+- Table/Task/Difficulty/Riding
+- Table/Task/Difficulty/Piloting
+- Table/Task/Difficulty/Driving
 ---
+
 ## Riding or Piloting Task-Difficulty
 If you’re riding an animal that’s trained to be a mount, or driving or piloting a vehicle, you don’t need to make a roll to do something routine such as going from point A to point B (just as you wouldn’t need to make a roll to walk there). However, staying mounted during a fight or doing something tricky with a vehicle requires a Speed roll to succeed. A saddle or other appropriate gear is an asset and eases the task.
 

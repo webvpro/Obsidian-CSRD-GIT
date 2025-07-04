@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Aine, Fairy Queen of Light an Love
+- "Aine, Fairy Queen of Light an Love"
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/9
-  - Creature/Armor/5
-  - Creature/Health/99
-title: Aine, Fairy Queen of Light an Love
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/9
+- Creature/Armor/5
+- Creature/Health/99
 ---
+
+  
 ## Aine, Fairy Queen of Light an Love  
 Aine is the fairy queen of summer and the sun, and is known by many names: the Fairy Queen of Light and Love, Bright One, Sun Goddess, and Sweetheart of the Fairies. She is a kind, true, and benevolent ruler, and is loved by nearly everyone. Known for making just and fair bargains with humans, she is often sought after for blessings and boons.  
 

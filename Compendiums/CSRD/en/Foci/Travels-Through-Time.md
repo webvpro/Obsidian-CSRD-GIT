@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Travels Through Time
+- "Travels Through Time"
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/Movement-Expertise
-title: Travels Through Time
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci
+- Focus/Category/Movement-Expertise
 ---
+
+  
 ## Travels Through Time  
 You can see through time, try to reach through it, and eventually even travel through it.  
 

@@ -1,16 +1,15 @@
 ---
 aliases:
-  - Pick
+- "Pick"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Fantasy
-  - Equipment/Utility-Gear
-  - Equipment/Value/10-Gp
-  - Equipment/Weapon/Medium
-title: Pick
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Fantasy
+- Equipment/Utility-Gear
+- Equipment/Value/10-Gp
+- Equipment/Weapon/Medium
 ---
+
+  
 ## Pick  
   
 >A hafted weapon with a sideways metal spike on the end, similar to a miner's tool.  

@@ -1,11 +1,10 @@
 ---
 aliases: Glossary
-tags:
-  - Compendium/CSRD/en/Rules/Glossary
-title: G
-collection: Rules
-kind: Compendium
+tags: 
+- Compendium/CSRD/en/Rules/Glossary
 ---
+
+
 ## Glossary  
 >[!example] **Game master (GM)**  
 >The player who doesn’t run a character, but instead guides the flow of the story and runs all the NPCs.

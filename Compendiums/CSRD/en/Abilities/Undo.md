@@ -1,19 +1,18 @@
 ---
 aliases:
-  - Undo
+- "Undo"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/5
-  - Ability/Tier/High
-  - Ability/Pool/Intellect
-  - Ability/Categories/Special-Attack
-  - Ability/Categories/Support
-title: Undo
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/5
+- Ability/Tier/High
+- Ability/Pool/Intellect
+- Ability/Categories/Special-Attack
+- Ability/Categories/Support
 ---
+
+  
 ## Undo  
 >**Action**  
 >5 Intellect points

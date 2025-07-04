@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Age Taker
+- Age Taker
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantastic
-title: Age Taker
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantastic
 ---
+
+  
 ## Age Taker  
 >[!info] Stats  
 > **Level:** 1d6+4  

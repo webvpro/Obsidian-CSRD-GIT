@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Stand Watch
+- "Stand Watch"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/2
-  - Ability/Tier/Low
-  - Ability/Pool/Intellect
-  - Ability/Categories/Task
-title: Stand Watch
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/2
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/Task
 ---
+
+  
 ## Stand Watch  
 >**Action**  
 >2 Intellect points

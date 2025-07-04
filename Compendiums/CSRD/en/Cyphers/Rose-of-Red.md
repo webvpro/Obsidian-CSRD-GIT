@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Rose of Red
+- Rose of Red
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Rose of Red
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Rose of Red  
 >[!info] Stats  
 > **Level:** 1d6+1  

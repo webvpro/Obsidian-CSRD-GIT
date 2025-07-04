@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Two Things at Once
+- "Two Things at Once"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/6
-  - Ability/Tier/High
-  - Ability/Pool/Intellect
-  - Ability/Categories/Meta
-title: Two Things at Once
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/6
+- Ability/Tier/High
+- Ability/Pool/Intellect
+- Ability/Categories/Meta
 ---
+
+  
 ## Two Things at Once  
 >**Enabler**  
 >6 Intellect points

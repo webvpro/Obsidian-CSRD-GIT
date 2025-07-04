@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Mobile Fighter
+- "Mobile Fighter"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/3
-  - Ability/Tier/Mid
-  - Ability/Pool/Speed
-  - Ability/Categories/Movement
-title: Mobile Fighter
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/3
+- Ability/Tier/Mid
+- Ability/Pool/Speed
+- Ability/Categories/Movement
 ---
+
+  
 ## Mobile Fighter  
 >**Enabler**  
 >3 Speed points

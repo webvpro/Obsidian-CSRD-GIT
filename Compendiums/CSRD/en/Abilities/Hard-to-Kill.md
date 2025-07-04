@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Hard to Kill
+- "Hard to Kill"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/High
-  - Ability/Categories/Meta
-  - Ability/Categories/Protection
-title: Hard to Kill
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/High
+- Ability/Categories/Meta
+- Ability/Categories/Protection
 ---
+
+  
 ## Hard to Kill  
 >**Enabler**
   

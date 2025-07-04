@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Gilded Shell
+- Gilded Shell
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Gilded Shell
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Gilded Shell  
 >[!info] Stats  
 > **Level:** 1d6  

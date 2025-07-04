@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Animal Control
+- Animal Control
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantasy
-title: Animal Control
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantasy
 ---
+
+  
 ## Animal Control  
 >[!info] Stats  
 > **Level:** 1d6+2  

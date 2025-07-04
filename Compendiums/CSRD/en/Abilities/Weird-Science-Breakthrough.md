@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Weird Science Breakthrough
+- "Weird Science Breakthrough"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/5
-  - Ability/Tier/High
-  - Ability/Pool/Intellect
-  - Ability/Categories/Meta
-title: Weird Science Breakthrough
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/5
+- Ability/Tier/High
+- Ability/Pool/Intellect
+- Ability/Categories/Meta
 ---
+
+  
 ## Weird Science Breakthrough  
 >**Action**  
 >5+ Intellect points

@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Monoblade
+- Monoblade
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantastic
-title: Monoblade
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantastic
 ---
+
+  
 ## Monoblade  
 >[!info] Stats  
 > **Level:** 1d6+2  

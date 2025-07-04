@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Ultra Enhancement
+- "Ultra Enhancement"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/High
-  - Ability/Categories/Meta
-  - Ability/Categories/Protection
-title: Ultra Enhancement
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/High
+- Ability/Categories/Meta
+- Ability/Categories/Protection
 ---
+
+  
 ## Ultra Enhancement  
 >**Enabler**
   

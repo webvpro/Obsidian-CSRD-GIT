@@ -1,14 +1,12 @@
 ---
 aliases:
-  - Quintar
+- Quintar
 tags:
-  - Compendiums/CSRD/en/Descriptors
-  - Descriptor/Sci-Fi
-  - Descriptor/Species
-title: Quintar
-collection: Descriptors
-kind: Compendiums
+- Compendiums/CSRD/en/Descriptors
+- Descriptor/Sci-Fi
+- Descriptor/Species
 ---
+
 ## Quintar  
 You are a quintar from the planet Quint. You are basically humanoid but taller, thinner, and blue skinned. Your hands end in three very long fingers. Quintar have five genders, but all quintar prefer to be addressed as female when communicating with more binary species. Human emotions and sexuality fascinate them, but not because they don't have such concepts-quintar emotions and sexuality are just very different from those of humans. In general, quintar are more cerebral than other species, valuing knowledge over all else. Quint is relatively Earthlike, with slightly less gravity but a slightly denser atmosphere.
 ### You gain the following characteristics  

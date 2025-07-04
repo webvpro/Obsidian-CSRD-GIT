@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Ravage Bear
+- Ravage Bear
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/4
-  - Creature/Armor/1
-  - Creature/Health/20
-title: Ravage Bear
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/4
+- Creature/Armor/1
+- Creature/Health/20
 ---
+
+  
 ## Ravage Bear  
 A ravage bear is a hideous predator that hunts entirely by sense of smell. It is blind and nearly deaf, but it still tracks and senses prey easily. It is very protective of its young, and if hungry, it is extremely dangerous. Otherwise, it gives most creatures a wide berth.  
 

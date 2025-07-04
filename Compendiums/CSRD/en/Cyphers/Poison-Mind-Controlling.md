@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Poison Mind Controlling
+- Poison Mind Controlling
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fantastic
-title: Poison Mind Controlling
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fantastic
 ---
+
+  
 ## Poison Mind Controlling  
 >[!info] Stats  
 > **Level:** 1d6+2  

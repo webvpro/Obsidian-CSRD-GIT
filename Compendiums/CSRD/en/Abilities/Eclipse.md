@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Eclipse
+- "Eclipse"
 tags:
-  - Compendium/CSRD/en/Abilities/Eclipse
-  - Ability
-  - Ability/Action
-  - Ability/Cost/2
-  - Ability/Tier/Low
-  - Ability/Pool/Intellect
-  - Ability/Categories/
-title: Eclipse
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities/Eclipse
+- Ability
+- Ability/Action
+- Ability/Cost/2
+- Ability/Tier/Low
+- Ability/Pool/Intellect
+- Ability/Categories/
 ---
+
+  
 ## Eclipse  
 >**Action**  
 >2 Intellect points

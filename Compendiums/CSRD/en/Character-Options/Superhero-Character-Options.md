@@ -1,11 +1,8 @@
 ---
-aliases: Superhero Character Options
+aliases: "Superhero Character Options"
 tags:
   - Compendium/CSRD/en/Character-Options/Modern-Magic-Character-Options
   - Character/Options/Superhero
-title: S
-collection: Character-Options
-kind: Compendium
 ---
 ## Superhero Character Options
 ### Descriptors

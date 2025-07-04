@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Abomination
+- Abomination
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/5
-  - Creature/Armor/2
-  - Creature/Health/22
-title: Abomination
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/5
+- Creature/Armor/2
+- Creature/Health/22
 ---
+
+  
 ## Abomination  
 An abomination is a hideous bestial humanoid covered with thickened plates of scarlet flesh. Their eyes shine with the stagnant glow of toxic waste dumps. Standing at least 7 feet (2 m) tall, abominations are drawn to movement. Always famished, they consume living prey in great tearing bites.  
 

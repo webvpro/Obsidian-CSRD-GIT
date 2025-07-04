@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Tissue Regeneration
+- Tissue Regeneration
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Subtle
-title: Tissue Regeneration
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Subtle
 ---
+
+  
 ## Tissue Regeneration  
 >[!info] Stats  
 > **Level:** 1d6+4  

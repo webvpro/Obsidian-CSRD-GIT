@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Infiltrator
+- Infiltrator
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Manifest
-title: Infiltrator
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Manifest
 ---
+
+  
 ## Infiltrator  
 >[!info] Stats  
 > **Level:** 1d6  

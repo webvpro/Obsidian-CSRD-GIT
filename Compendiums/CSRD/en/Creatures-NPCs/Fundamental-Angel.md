@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Fundamental Angel
+- Fundamental Angel
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/7
-  - Creature/Armor/2
-  - Creature/Health/35
-title: Fundamental Angel
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/7
+- Creature/Armor/2
+- Creature/Health/35
 ---
+
+  
 ## Fundamental Angel  
 Fundamental angels are mysterious holy beings that maintain and guard fundamental concepts of the universe, such as time, gravity, and energy. They have powers and agendas deriving from higher states of reality. They are strange, terrifying, and inconstant in form, unlike the relatively benign and comprehensible winged humanoids from religion and myth.
 In the rare times when mortals interfere with these concepts, fundamental angels manifest in the world to set things right. They have intervened to destroy cataclysmic atomic weapons, power sources that skirt the rules of matter and energy, and life forms that betray the principles of creation.

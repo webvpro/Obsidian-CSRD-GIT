@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Lethal Vibration
+- "Lethal Vibration"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/7
-  - Ability/Tier/High
-  - Ability/Pool/Might
-  - Ability/Categories/Special-Attack
-title: Lethal Vibration
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/7
+- Ability/Tier/High
+- Ability/Pool/Might
+- Ability/Categories/Special-Attack
 ---
+
+  
 ## Lethal Vibration  
 >**Action**  
 >7 Might points

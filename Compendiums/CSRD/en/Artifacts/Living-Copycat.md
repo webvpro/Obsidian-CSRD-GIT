@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Living Copycat
+- "Living Copycat"
 tags:
-  - Compendium/CSRD/en/Artifacts/Keys-of-Close-to-You
-  - Artifact
-  - Artifact/Modern-Fantasy
-title: Living Copycat
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts/Keys-of-Close-to-You
+- Artifact
+- Artifact/Modern-Fantasy
 ---
+
+  
 ## Living Copycat 
 >1d6
 #### Form

@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Disintegration Beamer
+- Disintegration Beamer
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact/Weapon
-  - Artifact/Science-Fiction
-title: Disintegration Beamer
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact/Weapon
+- Artifact/Science-Fiction
 ---
+
+  
 ## Disintegration Beamer  
 >[!info] Stats  
 > **Level:** 1d6+2  

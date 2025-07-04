@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Dragontongue Weapon
+- Dragontongue Weapon
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fantasy
-title: Dragontongue Weapon
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fantasy
 ---
+
+  
 ## Dragontongue Weapon  
 >[!info] Stats  
 > **Level:** 1d6+2  

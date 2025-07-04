@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Fire Elemental
+- Fire Elemental
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/4
-  - Creature/Armor/0
-  - Creature/Health/24
-title: Fire Elemental
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/4
+- Creature/Armor/0
+- Creature/Health/24
 ---
+
+  
 ## Fire Elemental  
 Searing flame in a vaguely humanoid shape, a fire elemental exists only to burn that which is not already ash. They sometimes spin into being where great conflagrations burn.  
 

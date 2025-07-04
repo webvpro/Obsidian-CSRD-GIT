@@ -1,20 +1,19 @@
 ---
 aliases:
-  - Rapid Processing
+- "Rapid Processing"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/6
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Meta
-  - Ability/Categories/Protection
-  - Ability/Categories/Task
-title: Rapid Processing
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/6
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Meta
+- Ability/Categories/Protection
+- Ability/Categories/Task
 ---
+
+  
 ## Rapid Processing  
 >**Action**  
 >6 Intellect points

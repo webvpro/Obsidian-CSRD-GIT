@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Will of Legend
+- "Will of Legend"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Low
-  - Ability/Categories/Cure
-title: Will of Legend
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Low
+- Ability/Categories/Cure
 ---
+
+  
 ## Will of Legend  
 >**Enabler**
   

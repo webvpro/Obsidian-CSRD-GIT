@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Soul-Stealing Knife
+- Soul-Stealing Knife
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fantasy
-title: Soul-Stealing Knife
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fantasy
 ---
+
+  
 ## Soul-Stealing Knife  
 >[!info] Stats  
 > **Level:** 1d6  

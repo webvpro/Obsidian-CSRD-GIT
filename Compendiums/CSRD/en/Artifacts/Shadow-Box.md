@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Shadow Box
+- Shadow Box
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Horror
-title: Shadow Box
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Horror
 ---
+
+  
 ## Shadow Box  
 >[!info] Stats  
 > **Level:** +7  

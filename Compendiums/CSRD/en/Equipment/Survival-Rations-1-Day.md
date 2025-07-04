@@ -1,15 +1,14 @@
 ---
 aliases:
-  - Survival Rations (1 Day)
+- "Survival Rations (1 Day)"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Science-Fiction
-  - Equipment/Utility-Gear
-  - Equipment/Value/Inexpensive
-title: Survival Rations (1 Day)
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Science-Fiction
+- Equipment/Utility-Gear
+- Equipment/Value/Inexpensive
 ---
+
+  
 ## Survival Rations (1 Day)  
   
 >  

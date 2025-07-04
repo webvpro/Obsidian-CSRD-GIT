@@ -1,17 +1,16 @@
 ---
 aliases:
-  - The Snow Queen
+- The Snow Queen
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/NA
-  - Creature/Armor/2
-  - Creature/Health/NA
-title: The Snow Queen
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/NA
+- Creature/Armor/2
+- Creature/Health/NA
 ---
+
+  
 ## The Snow Queen  
 The Snow Queen rules over the "snow bees"--snowflakes that look like bees. She keeps an ornate palace surrounded by gardens in the lands of permafrost, but she can be seen elsewhere in the world where snowflakes cluster. Most say she is cold, and they would be right. She has been part of the snow for so long that it's possible she no longer remembers warmth or kindness or love.  
 

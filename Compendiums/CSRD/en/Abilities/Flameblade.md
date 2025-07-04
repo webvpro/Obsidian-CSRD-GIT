@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Flameblade
+- "Flameblade"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/4
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Meta
-title: Flameblade
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/4
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Meta
 ---
+
+  
 ## Flameblade  
 >**Enabler**  
 >4 Intellect points

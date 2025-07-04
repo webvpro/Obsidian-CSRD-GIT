@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Alchemist Bag
+- Alchemist Bag
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fantasy
-title: Alchemist Bag
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fantasy
 ---
+
+  
 ## Alchemist Bag  
 >[!info] Stats  
 > **Level:** 1d6  

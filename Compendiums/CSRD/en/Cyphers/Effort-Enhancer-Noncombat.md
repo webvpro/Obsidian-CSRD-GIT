@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Effort Enhancer Noncombat
+- Effort Enhancer Noncombat
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Subtle
-title: Effort Enhancer Noncombat
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Subtle
 ---
+
+  
 ## Effort Enhancer Noncombat  
 >[!info] Stats  
 > **Level:** 1d6  

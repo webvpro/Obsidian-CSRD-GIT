@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Probability Regulator
+- Probability Regulator
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Science-Fiction
-title: Probability Regulator
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Science-Fiction
 ---
+
+  
 ## Probability Regulator  
 >[!info] Stats  
 > **Level:** 1d6+4  

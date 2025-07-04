@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Staff of the Prophet
+- Staff of the Prophet
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fantasy
-title: Staff of the Prophet
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fantasy
 ---
+
+  
 ## Staff of the Prophet  
 >[!info] Stats  
 > **Level:** 1d6+2  

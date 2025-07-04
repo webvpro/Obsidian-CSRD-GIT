@@ -1,15 +1,14 @@
 ---
 aliases:
-  - Four Horsemen of the Apocalypse Sword
+- "Four Horsemen of the Apocalypse Sword"
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/level/6
-  - Creature/Heath/24
-title: Four Horsemen of the Apocalypse Sword
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/level/6
+- Creature/Heath/24
+- Creature/Armor/3
 ---
+
 ## Four Horsemen of the Apocalypse Sword  
 Sword (also called “War”) is never far from large‑scale conflicts. She glories in battle and warfare, and before the world ended, she was a provocateur, a mercenary, a soldier, and sometimes a general. However, once a war is good and started, she prefers fighting over watching. Then and now, she dresses in red, preferring red military attire and a massive sword—or assault rifle—the color of blood.
 

@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Dust of the Dreamer
+- Dust of the Dreamer
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Dust of the Dreamer
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Dust of the Dreamer  
 >[!info] Stats  
 > **Level:** 1d6  

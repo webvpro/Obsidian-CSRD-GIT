@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Force to Reckon With
+- "Force to Reckon With"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Mid
-  - Ability/Categories/Environment
-title: Force to Reckon With
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Mid
+- Ability/Categories/Environment
 ---
+
+  
 ## Force to Reckon With  
 >**Enabler**
   

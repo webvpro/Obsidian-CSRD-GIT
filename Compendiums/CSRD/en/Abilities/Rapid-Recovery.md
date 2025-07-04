@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Rapid Recovery
+- "Rapid Recovery"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/High
-  - Ability/Categories/Cure
-title: Rapid Recovery
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/High
+- Ability/Categories/Cure
 ---
+
+  
 ## Rapid Recovery  
 >**Enabler**
   

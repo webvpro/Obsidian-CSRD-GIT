@@ -1,13 +1,11 @@
 ---
 aliases:
-  - Rugged
+- Rugged
 tags:
-  - Compendiums/CSRD/en/Descriptors
-  - Descriptor
-title: Rugged
-collection: Descriptors
-kind: Compendiums
+- Compendiums/CSRD/en/Descriptors
+- Descriptor
 ---
+
 ## Rugged  
 You're a nature lover accustomed to living rough, pitting your wits against the elements. Most likely, you're a skilled hunter, gatherer, or naturalist. Years of living in the wild have left their mark with a worn countenance, wild hair, or scars. Your clothing is probably much less refined than the garments worn by city dwellers.
 ### You gain the following characteristics  

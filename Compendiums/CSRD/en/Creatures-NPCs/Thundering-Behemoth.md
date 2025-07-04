@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Thundering Behemoth
+- Thundering Behemoth
 tags:
-  - Compendium/CSRD/en/Creatures-NPCs
-  - Creature
-  - Creature/Kind/Creature
-  - Creature/Level/7
-  - Creature/Armor/2
-  - Creature/Health/35
-title: Thundering Behemoth
-collection: Creatures-NPCs
-kind: Compendium
+- Compendium/CSRD/en/Creatures-NPCs
+- Creature
+- Creature/Kind/Creature
+- Creature/Level/7
+- Creature/Armor/2
+- Creature/Health/35
 ---
+
+  
 ## Thundering Behemoth  
 When life is found on other worlds, it's sometimes large and dangerous, such as the aptly named thundering behemoth. A thundering behemoth might be found on any number of alien planets that feature forests and/or swamps. Towering to treelike heights, these fearless predators are powerful and dangerous hunters, even for those armed with advanced or fantastic weaponry. Behemoths use color-changing frills to help them appear like tall trees while they stand in wait for prey, as still as mighty hardwood trunks, until they break cover and spring an ambush. Behemoths can produce extraordinarily loud noises, sometimes simply roaring, but often replicating the stuttering scream of an attacking spacecraft. They use their strange "roars" to confuse, lead astray, and, if possible, stampede prey into killing grounds such as regions of soft sand, off cliff tops, or as often as not, into the waiting mouth of another behemoth.
 In the sci-fi setting of Numenera, similar creatures are called rumbling dasipelts.  

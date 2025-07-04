@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Staff of Black Iron
+- Staff of Black Iron
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fantasy
-title: Staff of Black Iron
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fantasy
 ---
+
+  
 ## Staff of Black Iron  
 >[!info] Stats  
 > **Level:** 1d6+2  

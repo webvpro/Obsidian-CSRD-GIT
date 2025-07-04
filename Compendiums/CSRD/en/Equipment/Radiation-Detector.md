@@ -1,15 +1,14 @@
 ---
 aliases:
-  - Radiation Detector
+- "Radiation Detector"
 tags:
-  - Compendium/CSRD/en/Equipment
-  - Equipment/Post-Apocalyptic
-  - Equipment/Utility-Gear
-  - Equipment/Value/Expensive
-title: Radiation Detector
-collection: Equipment
-kind: Compendium
+- Compendium/CSRD/en/Equipment
+- Equipment/Post-Apocalyptic
+- Equipment/Utility-Gear
+- Equipment/Value/Expensive
 ---
+
+  
 ## Radiation Detector  
   
 >  

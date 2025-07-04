@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Eat Me
+- Eat Me
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Eat Me
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Eat Me  
 >[!info] Stats  
 > **Level:** 1d6  

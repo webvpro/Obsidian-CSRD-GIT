@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Defuse Situation
+- "Defuse Situation"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/NA
-  - Ability/Tier/High
-  - Ability/Categories/Control
-title: Defuse Situation
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/NA
+- Ability/Tier/High
+- Ability/Categories/Control
 ---
+
+  
 ## Defuse Situation  
 >**Action**
   

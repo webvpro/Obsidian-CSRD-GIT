@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Infuse Spirit
+- "Infuse Spirit"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/High
-  - Ability/Categories/Cure
-title: Infuse Spirit
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/High
+- Ability/Categories/Cure
 ---
+
+  
 ## Infuse Spirit  
 >**Enabler**
   

@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Poisoner's Touch
+- Poisoner's Touch
 tags:
-  - Compendium/CSRD/en/Artifacts
-  - Artifact
-  - Artifact/Fantasy
-title: Poisoner's Touch
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts
+- Artifact
+- Artifact/Fantasy
 ---
+
+  
 ## Poisoner's Touch  
 >[!info] Stats  
 > **Level:** 1d6+1  

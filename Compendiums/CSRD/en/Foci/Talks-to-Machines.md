@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Talks to Machines
+- "Talks to Machines"
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/Influence
-title: Talks to Machines
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci
+- Focus/Category/Influence
 ---
+
+  
 ## Talks to Machines  
 You use your organic brain like a computer, interfacing "wirelessly" with any electronic device. You can control and influence them in ways that others can't.  
 

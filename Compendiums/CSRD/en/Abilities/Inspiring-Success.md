@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Inspiring Success
+- "Inspiring Success"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/6
-  - Ability/Tier/High
-  - Ability/Pool/Intellect
-  - Ability/Categories/Support
-title: Inspiring Success
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/6
+- Ability/Tier/High
+- Ability/Pool/Intellect
+- Ability/Categories/Support
 ---
+
+  
 ## Inspiring Success  
 >**Enabler**  
 >6 Intellect points

@@ -1,13 +1,11 @@
 ---
 aliases:
-  - Player Piloting System Options
+- "Player Piloting System Options"
 tags:
-  - Compendiums/CSRD/en/Tables
-  - Table/PC/Options/Piloting-System
-title: Player Piloting System Options
-collection: Tables
-kind: Compendiums
+- Compendiums/CSRD/en/Tables
+- Table/PC/Options/Piloting-System
 ---
+
 ## Player Piloting System Options
 
 | Piloting Task       | Hindrance   | Effect on Target Craft                                                                                                                                               |

@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Song of the Siren
+- "Song of the Siren"
 tags:
-  - Compendium/CSRD/en/Artifacts/Song-of-the-Siren
-  - Artifact
-  - Artifact/Modern-Fantasy
-title: Song of the Siren
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts/Song-of-the-Siren
+- Artifact
+- Artifact/Modern-Fantasy
 ---
+
+  
 ## Song of the Siren
 
 >1d6 +3

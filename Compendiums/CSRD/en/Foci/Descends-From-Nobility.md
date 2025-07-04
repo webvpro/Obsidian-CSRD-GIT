@@ -1,13 +1,12 @@
 ---
 aliases:
-  - Descends From Nobility
+- "Descends From Nobility"
 tags:
-  - Compendium/CSRD/en/Foci
-  - Focus/Category/Irregular
-title: Descends From Nobility
-collection: Foci
-kind: Compendium
+- Compendium/CSRD/en/Foci
+- Focus/Category/Irregular
 ---
+
+  
 ## Descends From Nobility  
 A descendent of wealth and power, you carry a noble title and the abilities granted by a privileged upbringing.  
 

@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Repel
+- Repel
 tags:
-  - Compendium/CSRD/en/Cyphers
-  - Cypher
-  - Cypher/Subtle
-title: Repel
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers
+- Cypher
+- Cypher/Subtle
 ---
+
+  
 ## Repel  
 >[!info] Stats  
 > **Level:** 1d6+1  

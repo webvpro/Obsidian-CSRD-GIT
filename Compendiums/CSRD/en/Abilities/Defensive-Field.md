@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Defensive Field
+- "Defensive Field"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/High
-  - Ability/Categories/Protection
-title: Defensive Field
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/High
+- Ability/Categories/Protection
 ---
+
+  
 ## Defensive Field  
 >**Enabler**
   

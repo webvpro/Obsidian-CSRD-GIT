@@ -1,18 +1,17 @@
 ---
 aliases:
-  - Grand Deception
+- "Grand Deception"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Action
-  - Ability/Cost/3
-  - Ability/Tier/Mid
-  - Ability/Pool/Intellect
-  - Ability/Categories/Control
-title: Grand Deception
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Action
+- Ability/Cost/3
+- Ability/Tier/Mid
+- Ability/Pool/Intellect
+- Ability/Categories/Control
 ---
+
+  
 ## Grand Deception  
 >**Action**  
 >3 Intellect points

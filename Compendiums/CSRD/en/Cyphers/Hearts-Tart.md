@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Heart's Tart
+- "Heart's Tart"
 tags:
-  - Compendium/CSRD/en/Cyphers/Hearts-Tart
-  - Cypher
-  - Cypher/Fairy-Tale
-title: Heart's Tart
-collection: Cyphers
-kind: Compendium
+- Compendium/CSRD/en/Cyphers/Hearts-Tart
+- Cypher
+- Cypher/Fairy-Tale
 ---
+
+  
 ## Heart's Tart  
 >[!info] Stats  
 > **Level:** 1d6+2  

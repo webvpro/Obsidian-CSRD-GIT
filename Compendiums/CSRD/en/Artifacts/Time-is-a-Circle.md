@@ -1,14 +1,13 @@
 ---
 aliases:
-  - Time is a Circle
+- "Time is a Circle"
 tags:
-  - Compendium/CSRD/en/Artifacts/Time-is-a-Circle
-  - Artifact
-  - Artifact/Modern-Fantasy
-title: Time is a Circle
-collection: Artifacts
-kind: Compendium
+- Compendium/CSRD/en/Artifacts/Time-is-a-Circle
+- Artifact
+- Artifact/Modern-Fantasy
 ---
+
+  
 ## Time is a Circle
 
 >1d6 +4

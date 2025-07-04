@@ -1,17 +1,16 @@
 ---
 aliases:
-  - Ignore the Pain
+- "Ignore the Pain"
 tags:
-  - Compendium/CSRD/en/Abilities
-  - Ability
-  - Ability/Enabler
-  - Ability/Cost/NA
-  - Ability/Tier/Low
-  - Ability/Categories/Cure
-title: Ignore the Pain
-collection: Abilities
-kind: Compendium
+- Compendium/CSRD/en/Abilities
+- Ability
+- Ability/Enabler
+- Ability/Cost/NA
+- Ability/Tier/Low
+- Ability/Categories/Cure
 ---
+
+  
 ## Ignore the Pain  
 >**Enabler**
   

@@ -1,12 +1,9 @@
 ---
-aliases:
-  - Birth
-tags:
-  - Compendium/CSRD/en/Character-Arcs/Birth
-  - Character-Arc
-title: Birth
-collection: Character-Arcs
-kind: Compendium
+aliases: 
+- "Birth"
+tags: 
+- Compendium/CSRD/en/Character-Arcs/Birth
+- Character-Arc
 ---
 ## Birth
 >You are becoming a parent. 
