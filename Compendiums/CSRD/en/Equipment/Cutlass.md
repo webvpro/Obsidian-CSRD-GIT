@@ -7,14 +7,13 @@ tags:
   - Equipment/Utility-Gear
   - Equipment/Value/Expensive
   - Equipment/Weapon/Medium
-title: Cutlass
-collection: Equipment
-kind: Compendium
 ---
-## Cutlass  
-  
->  
-> **Options :** Fantasy, Utility Gear  
-> **Value :** Expensive  
->>[!note] Features  
+  
+    
+## Cutlass    
+    
+>    
+> **Options :** Fantasy, Utility Gear    
+> **Value :** Expensive    
+>>[!note] Features    
 >> - Medium weapon
