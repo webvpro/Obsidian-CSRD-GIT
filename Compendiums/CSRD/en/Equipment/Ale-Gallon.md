@@ -6,12 +6,11 @@ tags:
   - Equipment/Fantasy
   - Equipment/Utility-Gear
   - Equipment/Value/2-Sp
-title: Ale, Gallon
-collection: Equipment
-kind: Compendium
 ---
-## Ale, Gallon  
-  
->  
-> **Options :** Fantasy, Utility Gear  
+  
+    
+## Ale, Gallon    
+    
+>    
+> **Options :** Fantasy, Utility Gear    
 > **Value :** 2 Sp
