@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Craft
-title: Robot Builder
-collection: Abilities
-kind: Compendium
 ---
-## Robot Builder  
->**Enabler**
-  
+  
+    
+## Robot Builder    
+>**Enabler**  
+    
 You are trained in tasks related to building and repairing robots. For the purposes of repair, you can use this skill to heal robots that use similar technology. Enabler.
