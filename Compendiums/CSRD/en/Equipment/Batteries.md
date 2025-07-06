@@ -6,12 +6,11 @@ tags:
   - Equipment/Post-Apocalyptic
   - Equipment/Utility-Gear
   - Equipment/Value/Moderate
-title: Batteries
-collection: Equipment
-kind: Compendium
 ---
-## Batteries  
-  
->4-pack, household (one use or rechargeable)  
-> **Options :** Post-Apocalyptic, Utility Gear  
+  
+    
+## Batteries    
+    
+>4-pack, household (one use or rechargeable)    
+> **Options :** Post-Apocalyptic, Utility Gear    
 > **Value :** Moderate
