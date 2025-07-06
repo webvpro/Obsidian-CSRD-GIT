@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Mid
   - Ability/Categories/Meta
-title: Precise Cut
-collection: Abilities
-kind: Compendium
 ---
-## Precise Cut  
->**Enabler**
-  
+  
+    
+## Precise Cut    
+>**Enabler**  
+    
 You inflict 1 additional point of damage with light weapons. Enabler.
