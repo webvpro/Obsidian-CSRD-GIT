@@ -8,13 +8,12 @@ tags:
   - Equipment/Stellar-Gate
   - Equipment/Level/5
   - Equipment/Value/Priceless
-title: Gate, Star
-collection: Equipment
-kind: Compendium
 ---
-## Gate, Star  
-  
->As planetary gate, but four times as large and connects gate structures that lie between locations within a few thousand light-years.  
-> **Options :** Fantastic, Science Fiction, Stellar Gate  
-> **Level :** 5  
+  
+    
+## Gate, Star    
+    
+>As planetary gate, but four times as large and connects gate structures that lie between locations within a few thousand light-years.    
+> **Options :** Fantastic, Science Fiction, Stellar Gate    
+> **Level :** 5    
 > **Value :** Priceless
