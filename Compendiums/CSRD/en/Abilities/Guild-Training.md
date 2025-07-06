@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Mid
   - Ability/Categories/Meta
-title: Guild Training
-collection: Abilities
-kind: Compendium
 ---
-## Guild Training  
->**Enabler**
-  
+  
+    
+## Guild Training    
+>**Enabler**  
+    
 Your type abilities that have durations last twice as long. Your type abilities that have short ranges reach to long range instead. Your type abilities that inflict damage deal 1 additional point of damage. Enabler.
