@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Task
-title: Stalker
-collection: Abilities
-kind: Compendium
 ---
-## Stalker  
->**Enabler**
-  
+  
+    
+## Stalker    
+>**Enabler**  
+    
 You gain an asset to all types of movement tasks (including climbing, swimming, jumping, and balancing). Enabler.
