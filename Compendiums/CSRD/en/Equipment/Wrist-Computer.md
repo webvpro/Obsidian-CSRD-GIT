@@ -7,14 +7,13 @@ tags:
   - Equipment/Utility-Gear
   - Equipment/Value/Expensive
   - Equipment/Asset
-title: Wrist Computer
-collection: Equipment
-kind: Compendium
 ---
-## Wrist Computer  
-  
->  
-> **Options :** Science Fiction, Utility Gear  
-> **Value :** Expensive  
->>[!note] Features  
+  
+    
+## Wrist Computer    
+    
+>    
+> **Options :** Science Fiction, Utility Gear    
+> **Value :** Expensive    
+>>[!note] Features    
 >> - Asset for most knowledge-based tasks
