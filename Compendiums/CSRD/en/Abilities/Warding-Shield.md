@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Protection
-title: Warding Shield
-collection: Abilities
-kind: Compendium
 ---
-## Warding Shield  
->**Enabler**
-  
+  
+    
+## Warding Shield    
+>**Enabler**  
+    
 You have +1 to Armor while you are using a shield. Enabler.
