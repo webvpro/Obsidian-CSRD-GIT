@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Mid
   - Ability/Categories/Protection
-title: Resilience
-collection: Abilities
-kind: Compendium
 ---
-## Resilience  
->**Enabler**
-  
+  
+    
+## Resilience    
+>**Enabler**  
+    
 You have 1 point of Armor against any kind of physical damage, even physical damage that normally ignores Armor. Enabler.
