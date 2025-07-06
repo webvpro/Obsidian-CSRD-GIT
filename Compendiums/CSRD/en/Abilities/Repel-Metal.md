@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Protection
-title: Repel Metal
-collection: Abilities
-kind: Compendium
 ---
-## Repel Metal  
->**Enabler**
-  
+  
+    
+## Repel Metal    
+>**Enabler**  
+    
 By manipulating magnetism, you are trained in Speed defense tasks against any incoming attack that uses metal. Enabler.
