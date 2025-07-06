@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/Mid
   - Ability/Pool/Intellect
   - Ability/Categories/Information
-title: Sensor Array
-collection: Abilities
-kind: Compendium
 ---
-## Sensor Array  
->**Action**  
->3 Intellect points
-  
+  
+    
+## Sensor Array    
+>**Action**    
+>3 Intellect points  
+    
 You are trained in using starcraft sensory instruments. These instruments allow users to answer general questions about a location, such as "How many people are in the mining colony?" or "Where did the other spacecraft crash?" Action.
