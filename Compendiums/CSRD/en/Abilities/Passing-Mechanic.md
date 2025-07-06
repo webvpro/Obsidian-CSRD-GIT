@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Mid
   - Ability/Categories/Task
-title: Passing Mechanic
-collection: Abilities
-kind: Compendium
 ---
-## Passing Mechanic  
->**Enabler**
-  
+  
+    
+## Passing Mechanic    
+>**Enabler**  
+    
 You are trained in tasks related to the repair and maintenance of a starcraft. Enabler.
