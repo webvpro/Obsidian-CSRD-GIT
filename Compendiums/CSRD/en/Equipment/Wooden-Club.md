@@ -11,20 +11,19 @@ tags:
   - Equipment/Utility-Gear
   - Equipment/Value/Inexpensive
   - Equipment/Weapon/Light
-title: Wooden Club
-collection: Equipment
-kind: Compendium
 ---
-## Wooden Club  
-  
->  
-> **Options :** Fantasy, Utility Gear  
-> **Value :** Inexpensive  
->>[!note] Features  
->> - Light weapon  
-  
->  
-> **Options :** Post-Apocalyptic, Utility Gear  
-> **Value :** Inexpensive  
->>[!note] Features  
+  
+    
+## Wooden Club    
+    
+>    
+> **Options :** Fantasy, Utility Gear    
+> **Value :** Inexpensive    
+>>[!note] Features    
+>> - Light weapon    
+    
+>    
+> **Options :** Post-Apocalyptic, Utility Gear    
+> **Value :** Inexpensive    
+>>[!note] Features    
 >> - Light weapon
