@@ -20,30 +20,29 @@ tags:
   - Equipment/Value/Expensive
   - Equipment/Weapon/Heavy
   - Equipment/Range/Immediate
-title: Shotgun
-collection: Equipment
-kind: Compendium
 ---
-## Shotgun  
-  
->  
-> **Options :** Science Fiction, Utility Gear  
-> **Value :** Expensive  
->>[!note] Features  
->> - Heavy weapon  
->> - Immediate range  
-  
->  
-> **Options :** Post-Apocalyptic, Utility Gear  
-> **Value :** Expensive  
->>[!note] Features  
->> - Heavy weapon  
->> - immediate range  
-  
->  
-> **Options :** Armament, Contemporary, Modern  
-> **Level :** 3  
-> **Value :** Expensive  
->>[!note] Features  
->> - Heavy weapon  
+  
+    
+## Shotgun    
+    
+>    
+> **Options :** Science Fiction, Utility Gear    
+> **Value :** Expensive    
+>>[!note] Features    
+>> - Heavy weapon    
+>> - Immediate range    
+    
+>    
+> **Options :** Post-Apocalyptic, Utility Gear    
+> **Value :** Expensive    
+>>[!note] Features    
+>> - Heavy weapon    
+>> - immediate range    
+    
+>    
+> **Options :** Armament, Contemporary, Modern    
+> **Level :** 3    
+> **Value :** Expensive    
+>>[!note] Features    
+>> - Heavy weapon    
 >> - Immediate range
