@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Mid
   - Ability/Categories/Companion
-title: Fellow Explorer
-collection: Abilities
-kind: Compendium
 ---
-## Fellow Explorer  
->**Enabler**
-  
+  
+    
+## Fellow Explorer    
+>**Enabler**  
+    
 You gain a level 2 follower. One of their modifications must be for tasks related to perception. Enabler.
