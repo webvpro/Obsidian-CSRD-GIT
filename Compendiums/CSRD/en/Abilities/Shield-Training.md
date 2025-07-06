@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Mid
   - Ability/Categories/Protection
-title: Shield Training
-collection: Abilities
-kind: Compendium
 ---
-## Shield Training  
->**Enabler**
-  
+  
+    
+## Shield Training    
+>**Enabler**  
+    
 If you use a shield, Speed defense tasks are eased by two steps instead of one. Enabler.
