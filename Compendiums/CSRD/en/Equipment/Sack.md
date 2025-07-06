@@ -1,16 +1,16 @@
 ---
 aliases:
-- "Sack"
+  - Sack
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/1-Cp
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/1-Cp
 ---
-
-  
-## Sack  
-  
->  
-> **Options :** Fantasy, Utility Gear  
+  
+    
+## Sack    
+    
+>    
+> **Options :** Fantasy, Utility Gear    
 > **Value :** 1 Cp

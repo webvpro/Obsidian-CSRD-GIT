@@ -1,16 +1,16 @@
 ---
 aliases:
-- "Saddle"
+  - Saddle
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/10-Gp
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/10-Gp
 ---
-
-  
-## Saddle  
-  
->  
-> **Options :** Fantasy, Utility Gear  
+  
+    
+## Saddle    
+    
+>    
+> **Options :** Fantasy, Utility Gear    
 > **Value :** 10 Gp

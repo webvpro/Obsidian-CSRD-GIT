@@ -1,16 +1,16 @@
 ---
 aliases:
-- "Scuba Gear"
+  - Scuba Gear
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Modern
-- Equipment/Utility-Gear
-- Equipment/Value/Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Modern
+  - Equipment/Utility-Gear
+  - Equipment/Value/Expensive
 ---
-
-  
-## Scuba Gear  
-  
->  
-> **Options :** Modern, Utility Gear  
+  
+    
+## Scuba Gear    
+    
+>    
+> **Options :** Modern, Utility Gear    
 > **Value :** Expensive

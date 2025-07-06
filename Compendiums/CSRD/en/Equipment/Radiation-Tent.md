@@ -1,23 +1,23 @@
 ---
 aliases:
-- "Radiation Tent"
+  - Radiation Tent
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Post-Apocalyptic
-- Equipment/Utility-Gear
-- Equipment/Value/Expensive
-- Equipment/Post-Apocalyptic
-- Equipment/Utility-Gear
-- Equipment/Value/Expensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Post-Apocalyptic
+  - Equipment/Utility-Gear
+  - Equipment/Value/Expensive
+  - Equipment/Post-Apocalyptic
+  - Equipment/Utility-Gear
+  - Equipment/Value/Expensive
 ---
-
-  
-## Radiation Tent  
-  
->Prevents radiation damage for three days  
-> **Options :** Post-Apocalyptic, Utility Gear  
-> **Value :** Expensive  
-  
->Prevents damage from environmental radiation  
-> **Options :** Post-Apocalyptic, Utility Gear  
+  
+    
+## Radiation Tent    
+    
+>Prevents radiation damage for three days    
+> **Options :** Post-Apocalyptic, Utility Gear    
+> **Value :** Expensive    
+    
+>Prevents damage from environmental radiation    
+> **Options :** Post-Apocalyptic, Utility Gear    
 > **Value :** Expensive

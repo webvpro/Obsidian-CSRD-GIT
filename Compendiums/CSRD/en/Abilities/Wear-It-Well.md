@@ -1,17 +1,17 @@
 ---
 aliases:
-- "Wear It Well"
+  - Wear It Well
 tags:
-- Compendium/CSRD/en/Abilities
-- Ability
-- Ability/Enabler
-- Ability/Cost/NA
-- Ability/Tier/High
-- Ability/Categories/Protection
+  - Compendium/CSRD/en/Abilities
+  - Ability
+  - Ability/Enabler
+  - Ability/Cost/NA
+  - Ability/Tier/High
+  - Ability/Categories/Protection
 ---
-
-  
-## Wear It Well  
->**Enabler**
-  
+  
+    
+## Wear It Well    
+>**Enabler**  
+    
 When you wear armor of any kind, you gain an additional +1 to Armor. Enabler.

@@ -1,19 +1,19 @@
 ---
 aliases:
-- "Baseball Bat"
+  - Baseball Bat
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Post-Apocalyptic
-- Equipment/Utility-Gear
-- Equipment/Value/Moderate
-- Equipment/Weapon/Medium
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Post-Apocalyptic
+  - Equipment/Utility-Gear
+  - Equipment/Value/Moderate
+  - Equipment/Weapon/Medium
 ---
-
-  
-## Baseball Bat  
-  
->  
-> **Options :** Post-Apocalyptic, Utility Gear  
-> **Value :** Moderate  
->>[!note] Features  
+  
+    
+## Baseball Bat    
+    
+>    
+> **Options :** Post-Apocalyptic, Utility Gear    
+> **Value :** Moderate    
+>>[!note] Features    
 >> - Medium weapon

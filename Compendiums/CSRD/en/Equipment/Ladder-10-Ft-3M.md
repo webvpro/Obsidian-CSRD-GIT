@@ -1,16 +1,16 @@
 ---
 aliases:
-- "Ladder 10 Ft 3M"
+  - Ladder 10 Ft 3M
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/1-Sp
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/1-Sp
 ---
-
-  
-## Ladder 10 Ft 3M  
-  
->  
-> **Options :** Fantasy, Utility Gear  
+  
+    
+## Ladder 10 Ft 3M    
+    
+>    
+> **Options :** Fantasy, Utility Gear    
 > **Value :** 1 Sp

@@ -1,16 +1,16 @@
 ---
 aliases:
-- "Burlap Sack"
+  - Burlap Sack
 tags:
-- Compendium/CSRD/en/Equipment
-- Equipment/Fantasy
-- Equipment/Utility-Gear
-- Equipment/Value/Inexpensive
+  - Compendium/CSRD/en/Equipment
+  - Equipment/Fantasy
+  - Equipment/Utility-Gear
+  - Equipment/Value/Inexpensive
 ---
-
-  
-## Burlap Sack  
-  
->  
-> **Options :** Fantasy, Utility Gear  
+  
+    
+## Burlap Sack    
+    
+>    
+> **Options :** Fantasy, Utility Gear    
 > **Value :** Inexpensive
