@@ -6,12 +6,11 @@ tags:
   - Equipment/Fantasy
   - Equipment/Utility-Gear
   - Equipment/Value/5-Cp
-title: Pole, Wooden
-collection: Equipment
-kind: Compendium
 ---
-## Pole, Wooden  
-  
->  
-> **Options :** Fantasy, Utility Gear  
+  
+    
+## Pole, Wooden    
+    
+>    
+> **Options :** Fantasy, Utility Gear    
 > **Value :** 5 Cp
