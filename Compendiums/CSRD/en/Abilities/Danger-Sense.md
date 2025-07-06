@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/Low
   - Ability/Pool/Speed
   - Ability/Categories/Task
-title: Danger Sense
-collection: Abilities
-kind: Compendium
 ---
-## Danger Sense  
->**Enabler**  
->1 Speed point
-  
+  
+    
+## Danger Sense    
+>**Enabler**    
+>1 Speed point  
+    
 Your initiative task is eased. You pay the cost each time the ability is used. Enabler.
