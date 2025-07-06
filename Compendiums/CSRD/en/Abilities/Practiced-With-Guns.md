@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Attack-Skill
-title: Practiced With Guns
-collection: Abilities
-kind: Compendium
 ---
-## Practiced With Guns  
->**Enabler**
-  
+  
+    
+## Practiced With Guns    
+>**Enabler**  
+    
 You are practiced with guns and suffer no penalty when using one. Enabler.
