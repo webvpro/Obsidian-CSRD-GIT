@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/High
   - Ability/Pool/Intellect
   - Ability/Categories/Meta
-title: Two Things at Once
-collection: Abilities
-kind: Compendium
 ---
-## Two Things at Once  
->**Enabler**  
->6 Intellect points
-  
+  
+    
+## Two Things at Once    
+>**Enabler**    
+>6 Intellect points  
+    
 The ultimate test: you divide your attention and take two separate actions this round. Enabler.
