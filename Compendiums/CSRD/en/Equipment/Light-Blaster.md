@@ -8,15 +8,14 @@ tags:
   - Equipment/Value/Expensive
   - Equipment/Weapon/Light
   - Equipment/Range/Short
-title: Light Blaster
-collection: Equipment
-kind: Compendium
 ---
-## Light Blaster  
-  
->  
-> **Options :** Science Fiction, Utility Gear  
-> **Value :** Expensive  
->>[!note] Features  
->> - Light weapon  
+  
+    
+## Light Blaster    
+    
+>    
+> **Options :** Science Fiction, Utility Gear    
+> **Value :** Expensive    
+>>[!note] Features    
+>> - Light weapon    
 >> - Short range
