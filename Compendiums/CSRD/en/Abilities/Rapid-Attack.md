@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/Mid
   - Ability/Pool/Speed
   - Ability/Categories/Special-Attack
-title: Rapid Attack
-collection: Abilities
-kind: Compendium
 ---
-## Rapid Attack  
->**Enabler**  
->3 Speed points
-  
+  
+    
+## Rapid Attack    
+>**Enabler**    
+>3 Speed points  
+    
 Once per round, you can make an additional attack with your chosen weapon. Enabler.
