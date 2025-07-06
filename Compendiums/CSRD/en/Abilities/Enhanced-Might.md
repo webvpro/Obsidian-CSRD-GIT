@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Mid
   - Ability/Categories/Meta
-title: Enhanced Might
-collection: Abilities
-kind: Compendium
 ---
-## Enhanced Might  
->**Enabler**
-  
+  
+    
+## Enhanced Might    
+>**Enabler**  
+    
 You gain 3 points to your Might Pool. Enabler.

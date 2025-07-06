@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Protection
-title: Hardiness
-collection: Abilities
-kind: Compendium
 ---
-## Hardiness  
->**Enabler**
-  
+  
+    
+## Hardiness    
+>**Enabler**  
+    
 You are trained in Might defense tasks. Enabler.

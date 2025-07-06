@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/Low
   - Ability/Pool/Intellect
   - Ability/Categories/Meta
-title: Coaxing Power
-collection: Abilities
-kind: Compendium
 ---
-## Coaxing Power  
->**Action**  
->2 Intellect points
-  
+  
+    
+## Coaxing Power    
+>**Action**    
+>2 Intellect points  
+    
 You boost the power or function of a machine so that it operates at one level higher than normal for one hour. Action to initiate.

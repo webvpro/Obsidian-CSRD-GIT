@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Protection
-title: Ward
-collection: Abilities
-kind: Compendium
 ---
-## Ward  
->**Enabler**
-  
+  
+    
+## Ward    
+>**Enabler**  
+    
 You have a shield of energy around you at all times that helps deflect attacks. You gain +1 to Armor. Enabler.

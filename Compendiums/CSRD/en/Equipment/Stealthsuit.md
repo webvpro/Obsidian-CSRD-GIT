@@ -8,13 +8,12 @@ tags:
   - Equipment/Science-Fiction
   - Equipment/Level/4
   - Equipment/Value/Very-Expensive
-title: Stealthsuit
-collection: Equipment
-kind: Compendium
 ---
-## Stealthsuit  
-  
->Provides two assets to stealth tasks.  
-> **Options :** Advanced, Apparel & Armor, Science Fiction  
-> **Level :** 4  
+  
+    
+## Stealthsuit    
+    
+>Provides two assets to stealth tasks.    
+> **Options :** Advanced, Apparel & Armor, Science Fiction    
+> **Level :** 4    
 > **Value :** Very Expensive

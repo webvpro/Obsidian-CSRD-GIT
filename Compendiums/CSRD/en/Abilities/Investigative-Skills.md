@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Task
-title: Investigative Skills
-collection: Abilities
-kind: Compendium
 ---
-## Investigative Skills  
->**Enabler**
-  
+  
+    
+## Investigative Skills    
+>**Enabler**  
+    
 You are trained in two skills in which you are not already trained. Choose two of the following: perception, identifying, lockpicking, assessing danger, or tinkering with devices. You can select this ability multiple times. Each time you select it, you must choose two different skills. Enabler.

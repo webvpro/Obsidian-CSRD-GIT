@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Protection
-title: Unarmored Fighter
-collection: Abilities
-kind: Compendium
 ---
-## Unarmored Fighter  
->**Enabler**
-  
+  
+    
+## Unarmored Fighter    
+>**Enabler**  
+    
 While unarmored, you are trained in Speed defense tasks. Enabler.

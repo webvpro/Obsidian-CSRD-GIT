@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/Low
   - Ability/Pool/Speed
   - Ability/Categories/Protection
-title: Block
-collection: Abilities
-kind: Compendium
 ---
-## Block  
->**Action**  
->3 Speed points
-  
+  
+    
+## Block    
+>**Action**    
+>3 Speed points  
+    
 You automatically block the next melee attack made against you within the next minute. Action to initiate.

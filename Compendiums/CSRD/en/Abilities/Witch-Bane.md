@@ -9,11 +9,9 @@ tags:
   - Ability/Tier/low
   - Ability/Pool/Speed
   - Ability/Categories/
-title: Witch Bane
-collection: Abilities
-kind: Compendium
 ---
-## Witch Bane                                                     
->**Enabler**  
-  
-You inflict 1 additional point of damage with weapons. When you inflict damage to witches (or other intelligent creatures who cast spells), you inflict 3 additional points of damage. Enabler.
+    
+## Witch Bane                                                       
+>**Enabler**    
+    
+You inflict 1 additional point of damage with weapons. When you inflict damage to witches (or other intelligent creatures who cast spells), you inflict 3 additional points of damage. Enabler.  

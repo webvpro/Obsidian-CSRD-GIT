@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/Low
   - Ability/Pool/Speed
   - Ability/Categories/Special-Attack
-title: Quick Throw
-collection: Abilities
-kind: Compendium
 ---
-## Quick Throw  
->**Action**  
->2 Speed points
-  
+  
+    
+## Quick Throw    
+>**Action**    
+>2 Speed points  
+    
 After using a thrown light weapon, you draw another light weapon and make another thrown attack against the same target or a different one. Action.

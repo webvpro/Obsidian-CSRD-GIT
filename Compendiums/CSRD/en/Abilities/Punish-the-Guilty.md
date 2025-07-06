@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/Mid
   - Ability/Pool/Might
   - Ability/Categories/Meta
-title: Punish the Guilty
-collection: Abilities
-kind: Compendium
 ---
-## Punish the Guilty  
->**Action**  
->2 Might points
-  
+  
+    
+## Punish the Guilty    
+>**Action**    
+>2 Might points  
+    
 For the next ten minutes, if you attack someone you have designated as guilty with your Designation ability, you inflict 2 additional points of damage. Action to initiate.

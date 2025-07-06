@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Task
-title: Trained Swimmer
-collection: Abilities
-kind: Compendium
 ---
-## Trained Swimmer  
->**Enabler**
-  
+  
+    
+## Trained Swimmer    
+>**Enabler**  
+    
 While underwater, you are trained in escaping, perception, sneaking, and swimming tasks, as well as in tasks to identify aquatic creatures and geography. Enabler.

@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/Mid
   - Ability/Pool/Intellect
   - Ability/Categories/Meta
-title: Roaming Third Eye
-collection: Abilities
-kind: Compendium
 ---
-## Roaming Third Eye  
->**Enabler**  
->3 Intellect points
-  
+  
+    
+## Roaming Third Eye    
+>**Enabler**    
+>3 Intellect points  
+    
 When you use your Third Eye ability, you can place the sensor anywhere within long range. In addition, until that ability ends, you can use an action to move the sensor anywhere within short range of its starting position. Enabler.

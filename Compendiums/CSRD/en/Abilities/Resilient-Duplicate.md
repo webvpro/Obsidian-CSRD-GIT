@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Companion
-title: Resilient Duplicate
-collection: Abilities
-kind: Compendium
 ---
-## Resilient Duplicate  
->**Enabler**
-  
+  
+    
+## Resilient Duplicate    
+>**Enabler**  
+    
 Increase the health of any duplicate you create (such as with Duplicate) by 5. Enabler.

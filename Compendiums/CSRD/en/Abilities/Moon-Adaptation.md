@@ -9,16 +9,15 @@ tags:
   - Ability/Tier/Mid
   - Ability/Pool/Intellect
   - Ability/Categories/Magic/Modern
-title: Moon Adaptation
-collection: Abilities
-kind: Compendium
 ---
-## Moon Adaptation
->**Enabler**  
-You can survive indefinitely in a vacuum environment (such as the moon or space).	
-Although Moon Adaptation protects you from the airless environment of the moon, people traveling with you aren’t so lucky—unless you teleport directly to a pressurized location such as a moon base or an abandoned NASA vehicle.
-
-
-
-
-
+  
+    
+## Moon Adaptation  
+>**Enabler**    
+You can survive indefinitely in a vacuum environment (such as the moon or space).	  
+Although Moon Adaptation protects you from the airless environment of the moon, people traveling with you aren’t so lucky—unless you teleport directly to a pressurized location such as a moon base or an abandoned NASA vehicle.  
+  
+  
+  
+  
+  

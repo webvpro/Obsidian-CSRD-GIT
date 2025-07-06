@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/Low
   - Ability/Pool/Might
   - Ability/Categories/Protection
-title: Field of Destruction
-collection: Abilities
-kind: Compendium
 ---
-## Field of Destruction  
->**Enabler**  
->4 Might points
-  
+  
+    
+## Field of Destruction    
+>**Enabler**    
+>4 Might points  
+    
 When you cause an object to descend one or more steps on the object damage track, you gain 1 additional point of Armor for one minute. Enabler.

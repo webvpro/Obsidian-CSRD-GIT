@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/NA
   - Ability/Categories/NA
-title: Cypher Casting
-collection: Abilities
-kind: Compendium
 ---
-## Cypher Casting  
->**Enabler**
-  
+  
+    
+## Cypher Casting    
+>**Enabler**  
+    
 You can cast any of your subtle cyphers on another creature instead of yourself. You must touch the creature to affect it. Enabler.

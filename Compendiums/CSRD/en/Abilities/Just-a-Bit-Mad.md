@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Protection
-title: Just a Bit Mad
-collection: Abilities
-kind: Compendium
 ---
-## Just a Bit Mad  
->**Enabler**
-  
+  
+    
+## Just a Bit Mad    
+>**Enabler**  
+    
 You are trained in Intellect defense tasks. Enabler.

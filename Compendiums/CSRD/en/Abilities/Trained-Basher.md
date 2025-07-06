@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Mid
   - Ability/Categories/Task
-title: Trained Basher
-collection: Abilities
-kind: Compendium
 ---
-## Trained Basher  
->**Enabler**
-  
+  
+    
+## Trained Basher    
+>**Enabler**  
+    
 You are trained in using the stone fists from your Golem Body as a medium weapon. Enabler.

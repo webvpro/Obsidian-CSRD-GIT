@@ -7,12 +7,11 @@ tags:
   - Equipment/Utility-Gear
   - Equipment/Value/Moderate
   - Equipment/Value/1-Gp
-title: Bedroll
-collection: Equipment
-kind: Compendium
 ---
-## Bedroll  
-  
->  
-> **Options :** Fantasy, Utility Gear  
+  
+    
+## Bedroll    
+    
+>    
+> **Options :** Fantasy, Utility Gear    
 > **Value :** Moderate, 1 Gp

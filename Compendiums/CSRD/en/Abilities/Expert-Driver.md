@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Mid
   - Ability/Categories/Task
-title: Expert Driver
-collection: Abilities
-kind: Compendium
 ---
-## Expert Driver  
->**Enabler**
-  
+  
+    
+## Expert Driver    
+>**Enabler**  
+    
 You are specialized in all tasks related to driving a car, truck, or motorcycle, including mechanical repair tasks. Enabler.

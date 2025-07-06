@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/High
   - Ability/Pool/Intellect
   - Ability/Categories/Support
-title: Transcend the Script
-collection: Abilities
-kind: Compendium
 ---
-## Transcend the Script  
->**Action**  
->5 Intellect points
-  
+  
+    
+## Transcend the Script    
+>**Action**    
+>5 Intellect points  
+    
 Whether they are lines you wrote, acted, reported on, or otherwise incorporated into your talent, you compose an oratory on the fly that is so wonderful that even you believe it. For each ally who hears it (and you too), a task attempted within the next hour is eased by two steps. Action.

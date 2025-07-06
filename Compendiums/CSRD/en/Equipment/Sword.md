@@ -7,14 +7,13 @@ tags:
   - Equipment/Utility-Gear
   - Equipment/Value/Expensive
   - Equipment/Weapon/Medium
-title: Sword
-collection: Equipment
-kind: Compendium
 ---
-## Sword  
-  
->  
-> **Options :** Fantasy, Utility Gear  
-> **Value :** Expensive  
->>[!note] Features  
+  
+    
+## Sword    
+    
+>    
+> **Options :** Fantasy, Utility Gear    
+> **Value :** Expensive    
+>>[!note] Features    
 >> - Medium weapon

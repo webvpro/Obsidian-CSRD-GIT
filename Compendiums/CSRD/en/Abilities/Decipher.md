@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/Low
   - Ability/Pool/Intellect
   - Ability/Categories/Information
-title: Decipher
-collection: Abilities
-kind: Compendium
 ---
-## Decipher  
->**Action**  
->1 Intellect point
-  
+  
+    
+## Decipher    
+>**Action**    
+>1 Intellect point  
+    
 If you spend one minute examining a piece of writing or code in a language you do not understand, you can make an Intellect roll of difficulty 3 (or higher, based on the complexity of the language or code) to get the gist of the message. Action to initiate.

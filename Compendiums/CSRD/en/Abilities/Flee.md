@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/High
   - Ability/Pool/Intellect
   - Ability/Categories/Control
-title: Flee
-collection: Abilities
-kind: Compendium
 ---
-## Flee  
->**Action**  
->6 Intellect points
-  
+  
+    
+## Flee    
+>**Action**    
+>6 Intellect points  
+    
 All non-allies within short distance who can hear your dreadful, intimidating words flee from you at top speed for one minute. Action.

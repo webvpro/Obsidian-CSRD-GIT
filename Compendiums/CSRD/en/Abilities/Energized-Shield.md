@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Mid
   - Ability/Categories/Meta
-title: Energized Shield
-collection: Abilities
-kind: Compendium
 ---
-## Energized Shield  
->**Enabler**
-  
+  
+    
+## Energized Shield    
+>**Enabler**  
+    
 Your force shield from your Force Field Shield ability  now pulses with dangerous energy whenever you manifest it. Each time you use your shield as a melee or ranged weapon, it inflicts an additional 3 points of damage. Enabler.

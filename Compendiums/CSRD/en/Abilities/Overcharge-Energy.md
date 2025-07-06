@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Mid
   - Ability/Categories/Meta
-title: Overcharge Energy
-collection: Abilities
-kind: Compendium
 ---
-## Overcharge Energy  
->**Enabler**
-  
+  
+    
+## Overcharge Energy    
+>**Enabler**  
+    
 When you use Release Energy, it inflicts an additional 2 points of damage. Enabler.

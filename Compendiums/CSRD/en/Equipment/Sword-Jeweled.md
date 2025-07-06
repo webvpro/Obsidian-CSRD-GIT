@@ -7,14 +7,13 @@ tags:
   - Equipment/Utility-Gear
   - Equipment/Value/Very-Expensive
   - Equipment/Weapon/Medium
-title: Sword (Jeweled)
-collection: Equipment
-kind: Compendium
 ---
-## Sword (Jeweled)  
-  
->  
-> **Options :** Fantasy, Utility Gear  
-> **Value :** Very Expensive  
->>[!note] Features  
+  
+    
+## Sword (Jeweled)    
+    
+>    
+> **Options :** Fantasy, Utility Gear    
+> **Value :** Very Expensive    
+>>[!note] Features    
 >> - Medium weapon

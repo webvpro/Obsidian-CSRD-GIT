@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Task
-title: Tracker
-collection: Abilities
-kind: Compendium
 ---
-## Tracker  
->**Enabler**
-  
+  
+    
+## Tracker    
+>**Enabler**  
+    
 You are trained in following and identifying tracks. Enabler.

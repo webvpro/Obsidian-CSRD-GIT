@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/Mid
   - Ability/Pool/Might
   - Ability/Categories/Special-Attack
-title: Dazing Attack
-collection: Abilities
-kind: Compendium
 ---
-## Dazing Attack  
->**Action**  
->3 Might points
-  
+  
+    
+## Dazing Attack    
+>**Action**    
+>3 Might points  
+    
 You hit your foe in just the right spot, dazing them so that tasks they attempt on their next turn are hindered. This attack inflicts normal damage. Action.

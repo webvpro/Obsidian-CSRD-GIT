@@ -7,14 +7,13 @@ tags:
   - Equipment/Utility-Gear
   - Equipment/Value/5-Gp
   - Equipment/Weapon/Medium
-title: Trident
-collection: Equipment
-kind: Compendium
 ---
-## Trident  
-  
->A three-pronged spear, often used for spear fishing.  
-> **Options :** Fantasy, Utility Gear  
-> **Value :** 5 Gp  
->>[!note] Features  
+  
+    
+## Trident    
+    
+>A three-pronged spear, often used for spear fishing.    
+> **Options :** Fantasy, Utility Gear    
+> **Value :** 5 Gp    
+>>[!note] Features    
 >> - Medium weapon

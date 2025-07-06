@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Mid
   - Ability/Categories/Meta
-title: From the Shadows
-collection: Abilities
-kind: Compendium
 ---
-## From the Shadows  
->**Enabler**
-  
+  
+    
+## From the Shadows    
+>**Enabler**  
+    
 If you successfully attack a creature that was previously unaware of your presence, you deal 3 additional points of damage. Enabler.

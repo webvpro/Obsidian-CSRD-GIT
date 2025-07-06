@@ -6,12 +6,11 @@ tags:
   - Equipment/Post-Apocalyptic
   - Equipment/Utility-Gear
   - Equipment/Value/Moderate
-title: Personal Hygiene Product, Single
-collection: Equipment
-kind: Compendium
 ---
-## Personal Hygiene Product, Single  
-  
->Toilet paper roll, menstrual supply, soap, etc.  
-> **Options :** Post-Apocalyptic, Utility Gear  
+  
+    
+## Personal Hygiene Product, Single    
+    
+>Toilet paper roll, menstrual supply, soap, etc.    
+> **Options :** Post-Apocalyptic, Utility Gear    
 > **Value :** Moderate

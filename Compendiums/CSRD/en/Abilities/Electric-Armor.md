@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/Mid
   - Ability/Pool/Intellect
   - Ability/Categories/Protection
-title: Electric Armor
-collection: Abilities
-kind: Compendium
 ---
-## Electric Armor  
->**Enabler**  
->4 Intellect points
-  
+  
+    
+## Electric Armor    
+>**Enabler**    
+>4 Intellect points  
+    
 When you wish it, electricity crackles across your body for ten minutes, granting you +1 Armor. While electrified, you have an additional +2 Armor versus electrical damage specifically, and you inflict 2 points of damage on any creature that touches you or attacks you with a melee weapon that conducts electricity. Enabler.

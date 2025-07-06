@@ -8,13 +8,12 @@ tags:
   - Equipment/Science-Fiction
   - Equipment/Level/2
   - Equipment/Value/Exorbitant
-title: Auton, Military Drone
-collection: Equipment
-kind: Compendium
 ---
-## Auton, Military Drone  
-  
->As defense auton or warrior auton, but miniaturized and able to fly in gravity to support owner.  
-> **Options :** Advanced, Robots & Ai, Science Fiction  
-> **Level :** 2  
+  
+    
+## Auton, Military Drone    
+    
+>As defense auton or warrior auton, but miniaturized and able to fly in gravity to support owner.    
+> **Options :** Advanced, Robots & Ai, Science Fiction    
+> **Level :** 2    
 > **Value :** Exorbitant

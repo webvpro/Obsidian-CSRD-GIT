@@ -8,15 +8,14 @@ tags:
   - Equipment/Value/Moderate
   - Equipment/Asset
   - Equipment/Weapon/Light
-title: Knife, Multipurpose
-collection: Equipment
-kind: Compendium
 ---
-## Knife, Multipurpose  
-  
->  
-> **Options :** Post-Apocalyptic, Utility Gear  
-> **Value :** Moderate  
->>[!note] Features  
->> - Asset to minor repair tasks  
+  
+    
+## Knife, Multipurpose    
+    
+>    
+> **Options :** Post-Apocalyptic, Utility Gear    
+> **Value :** Moderate    
+>>[!note] Features    
+>> - Asset to minor repair tasks    
 >> - Light weapon

@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Protection
-title: Skill With Defense
-collection: Abilities
-kind: Compendium
 ---
-## Skill With Defense  
->**Enabler**
-  
+  
+    
+## Skill With Defense    
+>**Enabler**  
+    
 Choose one type of defense task in which you are not already trained: Might, Speed, or Intellect. You are trained in defense tasks of that type. Enabler.

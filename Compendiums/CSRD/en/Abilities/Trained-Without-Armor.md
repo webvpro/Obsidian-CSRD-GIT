@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Protection
-title: Trained Without Armor
-collection: Abilities
-kind: Compendium
 ---
-## Trained Without Armor  
->**Enabler**
-  
+  
+    
+## Trained Without Armor    
+>**Enabler**  
+    
 You are trained in Speed defense tasks when not wearing armor. Enabler.

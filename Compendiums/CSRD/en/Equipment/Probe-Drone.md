@@ -8,13 +8,12 @@ tags:
   - Equipment/Sense-Enhancing-Tools
   - Equipment/Level/6
   - Equipment/Value/Exorbitant
-title: Probe Drone
-collection: Equipment
-kind: Compendium
 ---
-## Probe Drone  
-  
->More advanced version of a contemporary research drone that can be deployed to other planets and even star systems to gather environmental and tactical information, which is transmitted back. If forced to defend itself, this level 6 robot has Armor 3 and two long-range energy blasts each round that inflict 8 points of damage each.  
-> **Options :** Fantastic, Science Fiction, Sense-Enhancing Tools  
-> **Level :** 6  
+  
+    
+## Probe Drone    
+    
+>More advanced version of a contemporary research drone that can be deployed to other planets and even star systems to gather environmental and tactical information, which is transmitted back. If forced to defend itself, this level 6 robot has Armor 3 and two long-range energy blasts each round that inflict 8 points of damage each.    
+> **Options :** Fantastic, Science Fiction, Sense-Enhancing Tools    
+> **Level :** 6    
 > **Value :** Exorbitant

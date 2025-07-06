@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/Mid
   - Ability/Pool/Intellect
   - Ability/Categories/Companion
-title: Greater Necromancy
-collection: Abilities
-kind: Compendium
 ---
-## Greater Necromancy  
->**Action**  
->5+ Intellect points
-  
+  
+    
+## Greater Necromancy    
+>**Action**    
+>5+ Intellect points  
+    
 This ability works like the Necromancy ability except that it creates a level 3 creature. Action to animate.

@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/Mid
   - Ability/Pool/Might
   - Ability/Categories/Special-Attack
-title: Throw
-collection: Abilities
-kind: Compendium
 ---
-## Throw  
->**Enabler**  
->2 Might points
-  
+  
+    
+## Throw    
+>**Enabler**    
+>2 Might points  
+    
 When you are using Enlarge and deal damage to a creature of your size or smaller with an unarmed attack, you can choose to throw that creature up to 1d20 feet away from you. The creature lands prone. Enabler.

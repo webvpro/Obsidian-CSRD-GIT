@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/Low
   - Ability/Pool/Intellect
   - Ability/Categories/Support
-title: Encouraging Presence
-collection: Abilities
-kind: Compendium
 ---
-## Encouraging Presence  
->**Action**  
->2 Intellect points
-  
+  
+    
+## Encouraging Presence    
+>**Action**    
+>2 Intellect points  
+    
 For one minute, allies within short range gain an asset on defense rolls. Action.

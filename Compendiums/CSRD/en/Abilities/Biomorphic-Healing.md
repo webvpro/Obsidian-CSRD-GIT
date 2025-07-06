@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/Mid
   - Ability/Pool/Might
   - Ability/Categories/Cure
-title: Biomorphic Healing
-collection: Abilities
-kind: Compendium
 ---
-## Biomorphic Healing  
->**Action**  
->4+ Might points
-  
+  
+    
+## Biomorphic Healing    
+>**Action**    
+>4+ Might points  
+    
 You consciously send out a pulse of your biomorphic field (a strange energy your body generates) and focus it on a living creature within short range. The target gains a free and immediate one-action recovery roll. You can't use this ability again on that creature until after its next ten-hour rest. Action.

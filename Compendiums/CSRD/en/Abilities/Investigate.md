@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Task
-title: Investigate
-collection: Abilities
-kind: Compendium
 ---
-## Investigate  
->**Enabler**
-  
+  
+    
+## Investigate    
+>**Enabler**  
+    
 You are trained in perception, cryptography, deceiving, and breaking into computers. Enabler.

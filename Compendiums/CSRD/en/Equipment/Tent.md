@@ -13,17 +13,16 @@ tags:
   - Equipment/Level/3
   - Equipment/Value/Moderate
   - Equipment/Value/Expensive
-title: Tent
-collection: Equipment
-kind: Compendium
 ---
-## Tent  
-  
->This has enough room for two humans or three smaller people.  
-> **Options :** Fantasy, Utility Gear  
-> **Value :** Moderate, 2 Gp  
-  
->Moderately priced tents are for one or two people; expensive tents can sleep four to six people.  
-> **Options :** Contemporary, Modern, Utility Gear  
-> **Level :** 3  
+  
+    
+## Tent    
+    
+>This has enough room for two humans or three smaller people.    
+> **Options :** Fantasy, Utility Gear    
+> **Value :** Moderate, 2 Gp    
+    
+>Moderately priced tents are for one or two people; expensive tents can sleep four to six people.    
+> **Options :** Contemporary, Modern, Utility Gear    
+> **Level :** 3    
 > **Value :** Moderate, Expensive

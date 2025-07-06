@@ -8,13 +8,12 @@ tags:
   - Equipment/Modern
   - Equipment/Level/3
   - Equipment/Value/Expensive
-title: Computer Laptop
-collection: Equipment
-kind: Compendium
 ---
-## Computer Laptop  
-  
->A data processing and data-access tool that enables all sorts of creative and comprehension tasks.  
-> **Options :** Communication, Contemporary, Modern  
-> **Level :** 3  
+  
+    
+## Computer Laptop    
+    
+>A data processing and data-access tool that enables all sorts of creative and comprehension tasks.    
+> **Options :** Communication, Contemporary, Modern    
+> **Level :** 3    
 > **Value :** Expensive

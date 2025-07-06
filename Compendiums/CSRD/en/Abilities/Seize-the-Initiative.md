@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/High
   - Ability/Pool/Intellect
   - Ability/Categories/Meta
-title: Seize the Initiative
-collection: Abilities
-kind: Compendium
 ---
-## Seize the Initiative  
->**Enabler**  
->5 Intellect points
-  
+  
+    
+## Seize the Initiative    
+>**Enabler**    
+>5 Intellect points  
+    
 Within one minute of successfully using your Draw Conclusion ability, you can take one additional, immediate action, which you can take out of turn. After using this ability, you can't use it again until after your next ten-hour recovery roll. Enabler.

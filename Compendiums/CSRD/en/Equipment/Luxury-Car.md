@@ -7,13 +7,12 @@ tags:
   - Equipment/Utility-Gear
   - Equipment/Level/5
   - Equipment/Value/Exorbitant
-title: Luxury Car
-collection: Equipment
-kind: Compendium
 ---
-## Luxury Car  
-  
->  
-> **Options :** Modern, Utility Gear  
-> **Level :** 5  
+  
+    
+## Luxury Car    
+    
+>    
+> **Options :** Modern, Utility Gear    
+> **Level :** 5    
 > **Value :** Exorbitant

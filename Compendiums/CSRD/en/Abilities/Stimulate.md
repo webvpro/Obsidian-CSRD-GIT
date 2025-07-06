@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/High
   - Ability/Pool/Intellect
   - Ability/Categories/Support
-title: Stimulate
-collection: Abilities
-kind: Compendium
 ---
-## Stimulate  
->**Action**  
->6 Intellect points
-  
+  
+    
+## Stimulate    
+>**Action**    
+>6 Intellect points  
+    
 Your words encourage a target you touch who can understand you. The next action it takes is eased by three steps. Action.

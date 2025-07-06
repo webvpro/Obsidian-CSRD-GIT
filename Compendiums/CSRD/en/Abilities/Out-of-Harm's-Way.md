@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Protection
-title: Out of Harm's Way
-collection: Abilities
-kind: Compendium
 ---
-## Out of Harm's Way  
->**Enabler**
-  
+  
+    
+## Out of Harm's Way    
+>**Enabler**  
+    
 No matter how careful, an investigator sometimes ends up in a scrap. Knowing how to survive is more than half the battle. You are trained in Speed defense tasks. Enabler.

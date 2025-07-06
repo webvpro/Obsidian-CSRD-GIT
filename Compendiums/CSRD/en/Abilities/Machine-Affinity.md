@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Task
-title: Machine Affinity
-collection: Abilities
-kind: Compendium
 ---
-## Machine Affinity  
->**Enabler**
-  
+  
+    
+## Machine Affinity    
+>**Enabler**  
+    
 You are trained in tasks involving electrical machines. Enabler.

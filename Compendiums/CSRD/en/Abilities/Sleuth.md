@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Task
-title: Sleuth
-collection: Abilities
-kind: Compendium
 ---
-## Sleuth  
->**Enabler**
-  
+  
+    
+## Sleuth    
+>**Enabler**  
+    
 Finding the clues is the first step in solving a mystery. You are trained in perception. Enabler.

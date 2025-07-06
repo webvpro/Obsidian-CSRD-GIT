@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Mid
   - Ability/Categories/Meta
-title: Robot Improvement
-collection: Abilities
-kind: Compendium
 ---
-## Robot Improvement  
->**Enabler**
-  
+  
+    
+## Robot Improvement    
+>**Enabler**  
+    
 Your artificial assistant from the Robot Assistant ability increases to level 4. Enabler.

@@ -6,12 +6,11 @@ tags:
   - Equipment/Fantasy
   - Equipment/Utility-Gear
   - Equipment/Value/2-Sp
-title: Waterskin
-collection: Equipment
-kind: Compendium
 ---
-## Waterskin  
-  
->  
-> **Options :** Fantasy, Utility Gear  
+  
+    
+## Waterskin    
+    
+>    
+> **Options :** Fantasy, Utility Gear    
 > **Value :** 2 Sp

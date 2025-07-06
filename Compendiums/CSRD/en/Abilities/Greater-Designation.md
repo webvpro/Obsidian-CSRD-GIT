@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Mid
   - Ability/Categories/Meta
-title: Greater Designation
-collection: Abilities
-kind: Compendium
 ---
-## Greater Designation  
->**Action**
-  
+  
+    
+## Greater Designation    
+>**Action**  
+    
 You can assign an innocent or guilty label to all creatures within immediate range when you use Designation. The one label applies to all affected creatures. This lasts until you use Greater Designation again. Action.

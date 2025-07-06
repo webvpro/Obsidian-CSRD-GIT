@@ -9,16 +9,15 @@ tags:
   - Equipment/Range/Long
   - Equipment/Weapon/Medium
   - Equipment/Weapon/Rapid-Fire
-title: Pulse Laser Gun
-collection: Equipment
-kind: Compendium
 ---
-## Pulse Laser Gun  
-  
->  
-> **Options :** Science Fiction, Utility Gear  
-> **Value :** Very Expensive  
->>[!note] Features  
->> - Long range  
->> - Medium weapon  
+  
+    
+## Pulse Laser Gun    
+    
+>    
+> **Options :** Science Fiction, Utility Gear    
+> **Value :** Very Expensive    
+>>[!note] Features    
+>> - Long range    
+>> - Medium weapon    
 >> - Rapid-fire weapon

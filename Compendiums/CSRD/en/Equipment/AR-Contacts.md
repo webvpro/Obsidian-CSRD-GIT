@@ -8,13 +8,12 @@ tags:
   - Equipment/Science-Fiction
   - Equipment/Level/4
   - Equipment/Value/Expensive-X2
-title: AR Contacts
-collection: Equipment
-kind: Compendium
 ---
-## AR Contacts  
-  
->As AR glasses, but are lenses fitted to the eye. Also called "smartacs."  
-> **Options :** Advanced, Communication, Science Fiction  
-> **Level :** 4  
+  
+    
+## AR Contacts    
+    
+>As AR glasses, but are lenses fitted to the eye. Also called "smartacs."    
+> **Options :** Advanced, Communication, Science Fiction    
+> **Level :** 4    
 > **Value :** Expensive X2

@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/High
   - Ability/Categories/Task
-title: Learned a Few Things
-collection: Abilities
-kind: Compendium
 ---
-## Learned a Few Things  
->**Enabler**
-  
+  
+    
+## Learned a Few Things    
+>**Enabler**  
+    
 You are trained in two areas of knowledge of your choice, or specialized in one area of knowledge of your choice. Enabler.

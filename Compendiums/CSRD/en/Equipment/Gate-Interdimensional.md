@@ -8,13 +8,12 @@ tags:
   - Equipment/Stellar-Gate
   - Equipment/Level/7
   - Equipment/Value/Priceless
-title: Gate, Interdimensional
-collection: Equipment
-kind: Compendium
 ---
-## Gate, Interdimensional  
-  
->As planetary gate, but connects gate structures that lie in alternate dimensions.  
-> **Options :** Fantastic, Science Fiction, Stellar Gate  
-> **Level :** 7  
+  
+    
+## Gate, Interdimensional    
+    
+>As planetary gate, but connects gate structures that lie in alternate dimensions.    
+> **Options :** Fantastic, Science Fiction, Stellar Gate    
+> **Level :** 7    
 > **Value :** Priceless

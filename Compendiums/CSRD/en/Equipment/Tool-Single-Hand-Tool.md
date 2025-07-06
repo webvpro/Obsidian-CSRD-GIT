@@ -6,12 +6,11 @@ tags:
   - Equipment/Post-Apocalyptic
   - Equipment/Utility-Gear
   - Equipment/Value/Inexpensive
-title: Tool, Single Hand Tool
-collection: Equipment
-kind: Compendium
 ---
-## Tool, Single Hand Tool  
-  
->Hammer, tape measure, manual drill, or other single hand tool  
-> **Options :** Post-Apocalyptic, Utility Gear  
+  
+    
+## Tool, Single Hand Tool    
+    
+>Hammer, tape measure, manual drill, or other single hand tool    
+> **Options :** Post-Apocalyptic, Utility Gear    
 > **Value :** Inexpensive

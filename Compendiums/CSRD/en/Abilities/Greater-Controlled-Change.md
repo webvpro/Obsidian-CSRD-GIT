@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Mid
   - Ability/Categories/Transform
-title: Greater Controlled Change
-collection: Abilities
-kind: Compendium
 ---
-## Greater Controlled Change  
->**Enabler**
-  
+  
+    
+## Greater Controlled Change    
+>**Enabler**  
+    
 It's easier to change into and out of the shape granted by your Beast Form ability. Transforming either way is now a difficulty 2 Intellect task. Enabler.

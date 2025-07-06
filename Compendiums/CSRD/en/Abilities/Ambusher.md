@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Mid
   - Ability/Categories/Special-Attack
-title: Ambusher
-collection: Abilities
-kind: Compendium
 ---
-## Ambusher  
->**Enabler**
-  
+  
+    
+## Ambusher    
+>**Enabler**  
+    
 When you attack a creature that has not yet acted during the first round of combat, your attack is eased. Enabler.

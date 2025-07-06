@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Task
-title: Assassin Skills
-collection: Abilities
-kind: Compendium
 ---
-## Assassin Skills  
->**Enabler**
-  
+  
+    
+## Assassin Skills    
+>**Enabler**  
+    
 You are trained in stealth and disguise tasks. Enabler.

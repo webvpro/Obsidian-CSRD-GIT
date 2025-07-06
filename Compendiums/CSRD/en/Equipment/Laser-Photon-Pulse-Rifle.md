@@ -10,17 +10,16 @@ tags:
   - Equipment/Value/Very-Expensive-X2
   - Equipment/Range/Long
   - Equipment/Weapon/Rapid-Fire
-title: Laser Photon Pulse Rifle
-collection: Equipment
-kind: Compendium
 ---
-## Laser Photon Pulse Rifle  
-  
->Rifle fires coherent light beams;  
-> **Options :** Advanced, Armament, Science Fiction  
-> **Level :** 4  
-> **Value :** Very Expensive X2  
->>[!note] Features  
->> - Heavy Weapon  
->> - Long range  
+  
+    
+## Laser Photon Pulse Rifle    
+    
+>Rifle fires coherent light beams;    
+> **Options :** Advanced, Armament, Science Fiction    
+> **Level :** 4    
+> **Value :** Very Expensive X2    
+>>[!note] Features    
+>> - Heavy Weapon    
+>> - Long range    
 >> - Rapid-fire weapon

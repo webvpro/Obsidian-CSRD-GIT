@@ -4,40 +4,39 @@ aliases:
 tags:
   - Compendium/CSRD/en/Foci
   - Focus/Category/Tank-Combat
-title: Fuses Flesh and Steel
-collection: Foci
-kind: Compendium
 ---
-## Fuses Flesh and Steel  
-Your body is part machine.  
-
->[!info] Intrusions  
->- People in most societies are afraid of someone who is revealed to have mechanical parts.  
-
-
->[!tip]- Tier 1 Abilities  
-> [[Enhanced-Body|Enhanced Body]]  
-
-
->[!tip]- Tier 2 Abilities  
-> [[Interface|Interface]]  
-
-
->[!tip]- Tier 3 Abilities  
-> **Choose One**  
->- [[Sensing-Package|Sensing Package]]  
->- [[Weaponization|Weaponization]]  
-
-
->[!tip]- Tier 4 Abilities  
-> [[Fusion|Fusion]]  
-
-
->[!tip]- Tier 5 Abilities  
-> [[Deep-Reserves|Deep Reserves]]  
-
-
->[!tip]- Tier 6 Abilities  
-> **Choose One**  
->- [[Mind-Surge|Mind Surge]]  
->- [[Ultra-Enhancement|Ultra Enhancement]]
+  
+    
+## Fuses Flesh and Steel    
+Your body is part machine.    
+  
+>[!info] Intrusions    
+>- People in most societies are afraid of someone who is revealed to have mechanical parts.    
+  
+  
+>[!tip]- Tier 1 Abilities    
+> [Enhanced Body](Enhanced-Body.md)    
+  
+  
+>[!tip]- Tier 2 Abilities    
+> [Interface](Interface.md)    
+  
+  
+>[!tip]- Tier 3 Abilities    
+> **Choose One**    
+>- [Sensing Package](Sensing-Package.md)    
+>- [Weaponization](Weaponization.md)    
+  
+  
+>[!tip]- Tier 4 Abilities    
+> [Fusion](Fusion.md)    
+  
+  
+>[!tip]- Tier 5 Abilities    
+> [Deep Reserves](Deep-Reserves.md)    
+  
+  
+>[!tip]- Tier 6 Abilities    
+> **Choose One**    
+>- [Mind Surge](Mind-Surge.md)    
+>- [Ultra Enhancement](Ultra-Enhancement.md)

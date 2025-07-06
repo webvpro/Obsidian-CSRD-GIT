@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/NA
   - Ability/Categories/NA
-title: Patient Recovery
-collection: Abilities
-kind: Compendium
 ---
-## Patient Recovery  
->**Enabler**
-  
+  
+    
+## Patient Recovery    
+>**Enabler**  
+    
 You gain an extra ten-minute recovery roll each day. Enabler.

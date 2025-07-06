@@ -9,15 +9,14 @@ tags:
   - Ability/Tier/Mid
   - Ability/Pool/Intellect
   - Ability/Categories/Magic/Modern
-title: Ritual Guidance
-collection: Abilities
-kind: Compendium
 ---
-## Ritual Guidance
->**Enabler**  
-When you participate in a magical ritual with two or more members of your coven, ritual tasks for all participants are eased by two steps. Enabler
-
-
-
-
-
+  
+    
+## Ritual Guidance  
+>**Enabler**    
+When you participate in a magical ritual with two or more members of your coven, ritual tasks for all participants are eased by two steps. Enabler  
+  
+  
+  
+  
+  

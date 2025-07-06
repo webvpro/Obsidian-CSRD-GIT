@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/Low
   - Ability/Pool/Intellect
   - Ability/Categories/Special-Attack
-title: Frost Touch
-collection: Abilities
-kind: Compendium
 ---
-## Frost Touch  
->**Action**  
->1 Intellect point
-  
+  
+    
+## Frost Touch    
+>**Action**    
+>1 Intellect point  
+    
 Your hands become so cold that the next time you touch a creature, you inflict 3 points of damage. Alternatively, you can use this ability on a weapon, and for ten minutes, it inflicts 1 additional point of damage from the cold. Action for touch; enabler for weapon.

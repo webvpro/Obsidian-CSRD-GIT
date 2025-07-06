@@ -7,14 +7,13 @@ tags:
   - Equipment/Utility-Gear
   - Equipment/Value/Moderate
   - Equipment/Weapon/Medium
-title: Baseball Bat
-collection: Equipment
-kind: Compendium
 ---
-## Baseball Bat  
-  
->  
-> **Options :** Post-Apocalyptic, Utility Gear  
-> **Value :** Moderate  
->>[!note] Features  
+  
+    
+## Baseball Bat    
+    
+>    
+> **Options :** Post-Apocalyptic, Utility Gear    
+> **Value :** Moderate    
+>>[!note] Features    
 >> - Medium weapon

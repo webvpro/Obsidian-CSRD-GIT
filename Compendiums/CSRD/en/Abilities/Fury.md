@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/Mid
   - Ability/Pool/Might
   - Ability/Categories/Meta
-title: Fury
-collection: Abilities
-kind: Compendium
 ---
-## Fury  
->**Action**  
->3 Might points
-  
+  
+    
+## Fury    
+>**Action**    
+>3 Might points  
+    
 For the next minute, all melee attacks you make inflict 2 additional points of damage. Action to initiate.

@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Protection
-title: Sturdy
-collection: Abilities
-kind: Compendium
 ---
-## Sturdy  
->**Enabler**
-  
+  
+    
+## Sturdy    
+>**Enabler**  
+    
 You are trained in Might defense tasks. Enabler.

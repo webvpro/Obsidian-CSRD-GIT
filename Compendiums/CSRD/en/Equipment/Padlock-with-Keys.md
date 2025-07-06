@@ -15,22 +15,21 @@ tags:
   - Equipment/Utility-Gear
   - Equipment/Level/3
   - Equipment/Value/Inexpensive
-title: Padlock with Keys
-collection: Equipment
-kind: Compendium
 ---
-## Padlock with Keys  
-  
->  
-> **Options :** Post-Apocalyptic, Utility Gear  
-> **Value :** Inexpensive  
-  
->  
-> **Options :** Post-Apocalyptic, Utility Gear  
-> **Level :** 5  
-> **Value :** Moderate  
-  
->Padlocks aren't too difficult to remove, especially with bolt cutters, but they do slow down would-be thieves.  
-> **Options :** Contemporary, Modern, Utility Gear  
-> **Level :** 3  
+  
+    
+## Padlock with Keys    
+    
+>    
+> **Options :** Post-Apocalyptic, Utility Gear    
+> **Value :** Inexpensive    
+    
+>    
+> **Options :** Post-Apocalyptic, Utility Gear    
+> **Level :** 5    
+> **Value :** Moderate    
+    
+>Padlocks aren't too difficult to remove, especially with bolt cutters, but they do slow down would-be thieves.    
+> **Options :** Contemporary, Modern, Utility Gear    
+> **Level :** 3    
 > **Value :** Inexpensive

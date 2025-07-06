@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Attack-Skill
-title: Practiced With Medium Weapons
-collection: Abilities
-kind: Compendium
 ---
-## Practiced With Medium Weapons  
->**Enabler**
-  
+  
+    
+## Practiced With Medium Weapons    
+>**Enabler**  
+    
 You can use light and medium weapons without penalty. If you wield a heavy weapon, attacks with it are hindered. Enabler.

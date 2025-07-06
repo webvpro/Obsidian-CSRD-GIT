@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Task
-title: Careful Aim
-collection: Abilities
-kind: Compendium
 ---
-## Careful Aim  
->**Enabler**
-  
+  
+    
+## Careful Aim    
+>**Enabler**  
+    
 You are trained in attacks with all weapons that you throw. Enabler.

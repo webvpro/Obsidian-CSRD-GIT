@@ -14,22 +14,21 @@ tags:
   - Equipment/Value/Very-Expensive
   - Equipment/Weapon/Heavy
   - Equipment/Range/Very-Long
-title: Rifle, Heavy
-collection: Equipment
-kind: Compendium
 ---
-## Rifle, Heavy  
-  
->300-foot (90 m) range  
-> **Options :** Post-Apocalyptic, Utility Gear  
-> **Value :** Very Expensive  
->>[!note] Features  
->> - Heavy weapon  
-  
->  
-> **Options :** Armament, Contemporary, Modern  
-> **Level :** 3  
-> **Value :** Very Expensive  
->>[!note] Features  
->> - Heavy weapon  
+  
+    
+## Rifle, Heavy    
+    
+>300-foot (90 m) range    
+> **Options :** Post-Apocalyptic, Utility Gear    
+> **Value :** Very Expensive    
+>>[!note] Features    
+>> - Heavy weapon    
+    
+>    
+> **Options :** Armament, Contemporary, Modern    
+> **Level :** 3    
+> **Value :** Very Expensive    
+>>[!note] Features    
+>> - Heavy weapon    
 >> - Very long range

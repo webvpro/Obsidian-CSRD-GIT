@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Mid
   - Ability/Categories/Meta
-title: Enhanced Speed
-collection: Abilities
-kind: Compendium
 ---
-## Enhanced Speed  
->**Enabler**
-  
+  
+    
+## Enhanced Speed    
+>**Enabler**  
+    
 You gain 3 points to your Speed Pool. Enabler.

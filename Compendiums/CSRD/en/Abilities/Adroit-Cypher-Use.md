@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/High
   - Ability/Categories/Meta
-title: Adroit Cypher Use
-collection: Abilities
-kind: Compendium
 ---
-## Adroit Cypher Use  
->**Enabler**
-  
+  
+    
+## Adroit Cypher Use    
+>**Enabler**  
+    
 You can bear four cyphers at a time. Enabler.

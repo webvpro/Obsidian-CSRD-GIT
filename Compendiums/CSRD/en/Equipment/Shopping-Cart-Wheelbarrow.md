@@ -6,12 +6,11 @@ tags:
   - Equipment/Post-Apocalyptic
   - Equipment/Utility-Gear
   - Equipment/Value/Inexpensive
-title: Shopping Cart Wheelbarrow
-collection: Equipment
-kind: Compendium
 ---
-## Shopping Cart Wheelbarrow  
-  
->  
-> **Options :** Post-Apocalyptic, Utility Gear  
+  
+    
+## Shopping Cart Wheelbarrow    
+    
+>    
+> **Options :** Post-Apocalyptic, Utility Gear    
 > **Value :** Inexpensive

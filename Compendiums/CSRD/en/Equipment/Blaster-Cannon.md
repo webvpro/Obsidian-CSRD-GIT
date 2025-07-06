@@ -6,12 +6,11 @@ tags:
   - Equipment/Science-Fiction
   - Equipment/Utility-Gear
   - Equipment/Value/Exorbitant
-title: Blaster Cannon
-collection: Equipment
-kind: Compendium
 ---
-## Blast Cannon  
-  
->10 points of damage, 500-foot (150 m) range, requires a tripod and two people to operate  
-> **Options :** Science Fiction, Utility Gear  
+  
+    
+## Blast Cannon    
+    
+>10 points of damage, 500-foot (150 m) range, requires a tripod and two people to operate    
+> **Options :** Science Fiction, Utility Gear    
 > **Value :** Exorbitant

@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Protection
-title: Quick Block
-collection: Abilities
-kind: Compendium
 ---
-## Quick Block  
->**Enabler**
-  
+  
+    
+## Quick Block    
+>**Enabler**  
+    
 If you use a light or medium weapon, you are trained in Speed defense tasks. Enabler.

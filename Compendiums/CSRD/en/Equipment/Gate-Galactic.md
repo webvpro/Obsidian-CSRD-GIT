@@ -8,13 +8,12 @@ tags:
   - Equipment/Stellar-Gate
   - Equipment/Level/6
   - Equipment/Value/Priceless
-title: Gate, Galactic
-collection: Equipment
-kind: Compendium
 ---
-## Gate, Galactic  
-  
->As planetary gate, but six times as large and connects gate structures that lie between locations within a single galaxy.  
-> **Options :** Fantastic, Science Fiction, Stellar Gate  
-> **Level :** 6  
+  
+    
+## Gate, Galactic    
+    
+>As planetary gate, but six times as large and connects gate structures that lie between locations within a single galaxy.    
+> **Options :** Fantastic, Science Fiction, Stellar Gate    
+> **Level :** 6    
 > **Value :** Priceless

@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Meta
-title: Precision
-collection: Abilities
-kind: Compendium
 ---
-## Precision  
->**Enabler**
-  
+  
+    
+## Precision    
+>**Enabler**  
+    
 You deal 2 additional points of damage with attacks using weapons that you throw. Enabler.

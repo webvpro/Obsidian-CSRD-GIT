@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/NA
   - Ability/Categories/NA
-title: Apocalyptic Stare
-collection: Abilities
-kind: Compendium
 ---
-## Apocalyptic Stare  
->**Enabler**
-  
+  
+    
+## Apocalyptic Stare    
+>**Enabler**  
+    
 Your demeanor is of someone who shouldn't be trifled with. You are trained in intimidation. Enabler.

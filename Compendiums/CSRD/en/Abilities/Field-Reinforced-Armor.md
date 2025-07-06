@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/High
   - Ability/Categories/Protection
-title: Field-Reinforced Armor
-collection: Abilities
-kind: Compendium
 ---
-## Field-Reinforced Armor  
->**Enabler**
-  
+  
+    
+## Field-Reinforced Armor    
+>**Enabler**  
+    
 You gain +1 to Armor while wearing the power armor from your Powered Armor ability. Enabler.

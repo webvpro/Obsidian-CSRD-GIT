@@ -6,12 +6,11 @@ tags:
   - Equipment/Modern
   - Equipment/Utility-Gear
   - Equipment/Value/Expensive
-title: Scuba Gear
-collection: Equipment
-kind: Compendium
 ---
-## Scuba Gear  
-  
->  
-> **Options :** Modern, Utility Gear  
+  
+    
+## Scuba Gear    
+    
+>    
+> **Options :** Modern, Utility Gear    
 > **Value :** Expensive

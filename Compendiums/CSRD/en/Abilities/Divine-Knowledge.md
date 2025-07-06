@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Task
-title: Divine Knowledge
-collection: Abilities
-kind: Compendium
 ---
-## Divine Knowledge  
->**Enabler**
-  
+  
+    
+## Divine Knowledge    
+>**Enabler**  
+    
 You are trained in all tasks related to knowledge of godly beings. Enabler.

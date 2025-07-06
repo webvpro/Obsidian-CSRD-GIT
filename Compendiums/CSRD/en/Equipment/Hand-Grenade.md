@@ -9,16 +9,15 @@ tags:
   - Equipment/Level/3
   - Equipment/Value/Moderate
   - Equipment/Weapon/Thrown
-title: Hand Grenade
-collection: Equipment
-kind: Compendium
 ---
-## Hand Grenade  
-  
->explodes to inflict 6 points of damage in an immediate radius.  
-> **Options :** Armament, Contemporary, Modern  
-> **Level :** 3  
-> **Value :** Moderate  
->>[!note] Features  
->> - Can be thrown a short distance  
+  
+    
+## Hand Grenade    
+    
+>explodes to inflict 6 points of damage in an immediate radius.    
+> **Options :** Armament, Contemporary, Modern    
+> **Level :** 3    
+> **Value :** Moderate    
+>>[!note] Features    
+>> - Can be thrown a short distance    
 >> - Single use

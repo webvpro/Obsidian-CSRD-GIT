@@ -6,12 +6,11 @@ tags:
   - Equipment/Fantasy
   - Equipment/Utility-Gear
   - Equipment/Value/25-Gp
-title: Lockpicks
-collection: Equipment
-kind: Compendium
 ---
-## Lockpicks  
-  
->Also known as thieves' tools, this set provides everything a skilled person needs to pick locks and disarm traps.  
-> **Options :** Fantasy, Utility Gear  
+  
+    
+## Lockpicks    
+    
+>Also known as thieves' tools, this set provides everything a skilled person needs to pick locks and disarm traps.    
+> **Options :** Fantasy, Utility Gear    
 > **Value :** 25 Gp

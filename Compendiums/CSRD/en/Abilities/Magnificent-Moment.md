@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/High
   - Ability/Categories/Task
-title: Magnificent Moment
-collection: Abilities
-kind: Compendium
 ---
-## Magnificent Moment  
->**Enabler**
-  
+  
+    
+## Magnificent Moment    
+>**Enabler**  
+    
 If you make an attack or attempt a task with the immediate action you gain by using Seize the Moment, the attack or task is eased. Enabler.

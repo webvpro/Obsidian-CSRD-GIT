@@ -10,12 +10,11 @@ tags:
   - Ability/Pool/Intellect
   - Ability/Categories/Meta
   - Ability/Categories/Task
-title: Coordinated Effort
-collection: Abilities
-kind: Compendium
 ---
-## Coordinated Effort  
->**Action**  
->3 Intellect points
-  
+  
+    
+## Coordinated Effort    
+>**Action**    
+>3 Intellect points  
+    
 When you and the duplicate from your Duplicate ability would attack the same creature, you can choose to make one attack roll with an asset. If you hit, you inflict damage with both attacks and treat the attacks as if they were one attack for the purpose of subtracting Armor from the damage. Action.

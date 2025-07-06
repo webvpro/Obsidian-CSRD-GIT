@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/Mid
   - Ability/Pool/Intellect
   - Ability/Categories/Special-Attack
-title: Dark Matter Strike
-collection: Abilities
-kind: Compendium
 ---
-## Dark Matter Strike  
->**Enabler**  
->4 Intellect points
-  
+  
+    
+## Dark Matter Strike    
+>**Enabler**    
+>4 Intellect points  
+    
 When you attack a foe within long range, dark matter condenses around your target and entangles its limbs, holding it in place and easing your attack by two steps. The ability works for whatever kind of attack you use (melee, ranged, energy, and so on). Enabler.

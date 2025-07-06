@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Mid
   - Ability/Categories/Movement
-title: Runner
-collection: Abilities
-kind: Compendium
 ---
-## Runner  
->**Enabler**
-  
+  
+    
+## Runner    
+>**Enabler**  
+    
 Your standard movement increases from short to long. Enabler.

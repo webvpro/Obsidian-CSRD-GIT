@@ -9,11 +9,10 @@ tags:
   - Ability/Tier/Mid
   - Ability/Categories/Meta
   - Ability/Categories/Protection
-title: Tower of Will
-collection: Abilities
-kind: Compendium
 ---
-## Tower of Will  
->**Enabler**
-  
+  
+    
+## Tower of Will    
+>**Enabler**  
+    
 You are trained in Intellect defense tasks and gain +3 points to your Intellect Pool. Enabler.

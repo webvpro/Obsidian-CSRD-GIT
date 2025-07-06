@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/NA
   - Ability/Categories/NA
-title: Advantages of Being Small
-collection: Abilities
-kind: Compendium
 ---
-## Advantages of Being Small  
->**Enabler**
-  
+  
+    
+## Advantages of Being Small    
+>**Enabler**  
+    
 You've learned how to leverage your strength and accuracy in proportion to your size. Your damage is no longer halved when using Shrink, and climbing and jumping tasks are eased. Enabler.

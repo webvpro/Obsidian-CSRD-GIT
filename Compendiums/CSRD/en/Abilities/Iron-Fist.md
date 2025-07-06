@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Mid
   - Ability/Categories/Meta
-title: Iron Fist
-collection: Abilities
-kind: Compendium
 ---
-## Iron Fist  
->**Enabler**
-  
+  
+    
+## Iron Fist    
+>**Enabler**  
+    
 Your unarmed attacks deal 4 points of damage. Enabler.

@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Protection
-title: Resist Underwater Hazards
-collection: Abilities
-kind: Compendium
 ---
-## Resist Underwater Hazards  
->**Enabler**
-  
+  
+    
+## Resist Underwater Hazards    
+>**Enabler**  
+    
 Whether you're resisting crushing waters while exploring the depths or a sting from a poisonous fish, all defense tasks while submerged in water are eased. Enabler.

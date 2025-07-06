@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/Low
   - Ability/Pool/Might
   - Ability/Categories/Task
-title: Muscles of Iron
-collection: Abilities
-kind: Compendium
 ---
-## Muscles of Iron  
->**Enabler**  
->2 Might points
-  
+  
+    
+## Muscles of Iron    
+>**Enabler**    
+>2 Might points  
+    
 For the next ten minutes, all Might-based actions other than attack rolls that you attempt are eased. If you already have this ability from another source, the effect of this ability lasts for one hour instead of ten minutes. Enabler.

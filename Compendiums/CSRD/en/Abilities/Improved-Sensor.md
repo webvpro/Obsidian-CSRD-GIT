@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/Mid
   - Ability/Pool/Intellect
   - Ability/Categories/Meta
-title: Improved Sensor
-collection: Abilities
-kind: Compendium
 ---
-## Improved Sensor  
->**Enabler**  
->2 Intellect points
-  
+  
+    
+## Improved Sensor    
+>**Enabler**    
+>2 Intellect points  
+    
 When you use Sensor, you can place the sensor anywhere you choose within long range. Enabler.

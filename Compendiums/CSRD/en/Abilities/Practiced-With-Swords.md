@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Attack-Skill
-title: Practiced With Swords
-collection: Abilities
-kind: Compendium
 ---
-## Practiced With Swords  
->**Enabler**
-  
+  
+    
+## Practiced With Swords    
+>**Enabler**  
+    
 You are practiced with swords and can use them without penalty. Enabler.

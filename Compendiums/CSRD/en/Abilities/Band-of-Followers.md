@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/High
   - Ability/Categories/Companion
-title: Band of Followers
-collection: Abilities
-kind: Compendium
 ---
-## Band of Followers  
->**Enabler**
-  
+  
+    
+## Band of Followers    
+>**Enabler**  
+    
 You gain four level 3 followers. They are not restricted on their modifications. Enabler.

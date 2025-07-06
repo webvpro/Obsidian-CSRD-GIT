@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/High
   - Ability/Pool/Might
   - Ability/Categories/Cure
-title: Vigilant
-collection: Abilities
-kind: Compendium
 ---
-## Vigilant  
->**Enabler**  
->5 Might points
-  
+  
+    
+## Vigilant    
+>**Enabler**    
+>5 Might points  
+    
 When affected by an attack or effect that would daze or stun you, you are not dazed or stunned. Enabler.

@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Mid
   - Ability/Categories/Task
-title: Nightstrike
-collection: Abilities
-kind: Compendium
 ---
-## Nightstrike  
->**Enabler**
-  
+  
+    
+## Nightstrike    
+>**Enabler**  
+    
 When you attack a foe in dim light or darkness, you get a free level of Effort on the attack. Enabler.

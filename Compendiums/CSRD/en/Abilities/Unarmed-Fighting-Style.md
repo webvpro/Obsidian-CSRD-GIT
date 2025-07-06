@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Attack-Skill
-title: Unarmed Fighting Style
-collection: Abilities
-kind: Compendium
 ---
-## Unarmed Fighting Style  
->**Enabler**
-  
+  
+    
+## Unarmed Fighting Style    
+>**Enabler**  
+    
 You are trained in unarmed attacks. Enabler.

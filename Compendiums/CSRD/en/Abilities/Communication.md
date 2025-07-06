@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/Low
   - Ability/Pool/Intellect
   - Ability/Categories/Information
-title: Communication
-collection: Abilities
-kind: Compendium
 ---
-## Communication  
->**Action**  
->2 Intellect points
-  
+  
+    
+## Communication    
+>**Action**    
+>2 Intellect points  
+    
 You can convey a basic concept to a creature that normally can't speak or understand speech. The creature can also give you a very basic answer to a simple question. Action.

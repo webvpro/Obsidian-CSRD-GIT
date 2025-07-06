@@ -7,13 +7,12 @@ tags:
   - Equipment/Utility-Gear
   - Equipment/Level/4
   - Equipment/Value/Exorbitant
-title: Small Spaceship
-collection: Equipment
-kind: Compendium
 ---
-## Small Spaceship  
-  
->  
-> **Options :** Science Fiction, Utility Gear  
-> **Level :** 4  
+  
+    
+## Small Spaceship    
+    
+>    
+> **Options :** Science Fiction, Utility Gear    
+> **Level :** 4    
 > **Value :** Exorbitant

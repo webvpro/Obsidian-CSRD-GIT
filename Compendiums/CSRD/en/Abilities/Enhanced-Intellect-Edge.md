@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Mid
   - Ability/Categories/Meta
-title: Enhanced Intellect Edge
-collection: Abilities
-kind: Compendium
 ---
-## Enhanced Intellect Edge  
->**Enabler**
-  
+  
+    
+## Enhanced Intellect Edge    
+>**Enabler**  
+    
 You gain +1 to your Intellect Edge. Enabler.

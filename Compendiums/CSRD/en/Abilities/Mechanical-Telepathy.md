@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/Mid
   - Ability/Pool/Intellect
   - Ability/Categories/Information
-title: Mechanical Telepathy
-collection: Abilities
-kind: Compendium
 ---
-## Mechanical Telepathy  
->**Action**  
->3 Intellect points
-  
+  
+    
+## Mechanical Telepathy    
+>**Action**    
+>3 Intellect points  
+    
 By touching a thinking machine, you gain access to its surface "thoughts." Action.

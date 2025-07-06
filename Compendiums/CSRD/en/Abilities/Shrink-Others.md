@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/NA
   - Ability/Categories/NA
-title: Shrink Others
-collection: Abilities
-kind: Compendium
 ---
-## Shrink Others  
->**Enabler**
-  
+  
+    
+## Shrink Others    
+>**Enabler**  
+    
 You can use Shrink on other willing creatures within an immediate distance. In addition to the normal options for using Effort, you can choose to use Effort to affect more targets; each level of Effort affects one additional target. Unless these creatures have an ability to change their size, they remain small until the one-minute duration of Shrink ends for them. Enabler.

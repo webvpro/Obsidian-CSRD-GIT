@@ -7,13 +7,12 @@ tags:
   - Equipment/Utility-Gear
   - Equipment/Level/6
   - Equipment/Value/Exorbitant
-title: Sports Car
-collection: Equipment
-kind: Compendium
 ---
-## Sports Car  
-  
->  
-> **Options :** Modern, Utility Gear  
-> **Level :** 6  
+  
+    
+## Sports Car    
+    
+>    
+> **Options :** Modern, Utility Gear    
+> **Level :** 6    
 > **Value :** Exorbitant

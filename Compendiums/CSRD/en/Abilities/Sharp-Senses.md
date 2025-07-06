@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Task
-title: Sharp Senses
-collection: Abilities
-kind: Compendium
 ---
-## Sharp Senses  
->**Enabler**
-  
+  
+    
+## Sharp Senses    
+>**Enabler**  
+    
 You are trained in all tasks involving perception. Enabler.

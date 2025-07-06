@@ -9,14 +9,13 @@ tags:
   - Ability/Tier/High
   - Ability/Pool/Intellect
   - Ability/Categories/Magic/Modern
-title: Deer in the Headlights
-collection: Abilities
-kind: Compendium
 ---
-## Deer in the Headlights
->**Enabler**  
-When you cast an attack spell while driving, you can modify the spell as if you had applied two levels of Intellect Effort to it. Enabler.
-
-
-
-
+  
+    
+## Deer in the Headlights  
+>**Enabler**    
+When you cast an attack spell while driving, you can modify the spell as if you had applied two levels of Intellect Effort to it. Enabler.  
+  
+  
+  
+  

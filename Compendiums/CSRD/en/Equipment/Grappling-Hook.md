@@ -6,12 +6,11 @@ tags:
   - Equipment/Fantasy
   - Equipment/Utility-Gear
   - Equipment/Value/2-Gp
-title: Grappling Hook
-collection: Equipment
-kind: Compendium
 ---
-## Grappling Hook  
-  
->  
-> **Options :** Fantasy, Utility Gear  
+  
+    
+## Grappling Hook    
+    
+>    
+> **Options :** Fantasy, Utility Gear    
 > **Value :** 2 Gp

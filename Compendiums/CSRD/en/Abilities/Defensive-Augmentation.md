@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/High
   - Ability/Categories/Protection
-title: Defensive Augmentation
-collection: Abilities
-kind: Compendium
 ---
-## Defensive Augmentation  
->**Enabler**
-  
+  
+    
+## Defensive Augmentation    
+>**Enabler**  
+    
 By upgrading your nervous and immune systems, you are trained in Might defense and Speed defense tasks. Enabler.

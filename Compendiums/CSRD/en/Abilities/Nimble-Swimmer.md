@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Mid
   - Ability/Categories/Protection
-title: Nimble Swimmer
-collection: Abilities
-kind: Compendium
 ---
-## Nimble Swimmer  
->**Enabler**
-  
+  
+    
+## Nimble Swimmer    
+>**Enabler**  
+    
 You are trained in all defense actions while underwater. Enabler.

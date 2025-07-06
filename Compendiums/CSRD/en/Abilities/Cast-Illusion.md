@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Mid
   - Ability/Categories/Meta
-title: Cast Illusion
-collection: Abilities
-kind: Compendium
 ---
-## Cast Illusion  
->**Enabler**
-  
+  
+    
+## Cast Illusion    
+>**Enabler**  
+    
 You can increase the range at which you create and maintain your immediate-range illusions (such as from Minor Illusion) to anywhere within short range that you can perceive. Enabler.

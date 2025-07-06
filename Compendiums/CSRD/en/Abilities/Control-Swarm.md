@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/Low
   - Ability/Pool/Intellect
   - Ability/Categories/Companion
-title: Control Swarm
-collection: Abilities
-kind: Compendium
 ---
-## Control Swarm  
->**Action**  
->2 Intellect points
-  
+  
+    
+## Control Swarm    
+>**Action**    
+>2 Intellect points  
+    
 Your swarm creatures from your Influence Swarm ability within short range do as you telepathically command for ten minutes. Even common insects (level 0) in large enough numbers can swarm about a single creature and hinder its tasks. Action to initiate.

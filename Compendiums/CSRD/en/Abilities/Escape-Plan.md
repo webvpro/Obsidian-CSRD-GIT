@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/High
   - Ability/Categories/Meta
-title: Escape Plan
-collection: Abilities
-kind: Compendium
 ---
-## Escape Plan  
->**Enabler**
-  
+  
+    
+## Escape Plan    
+>**Enabler**  
+    
 When you kill a foe, you can attempt a stealth task to immediately hide from anyone around, assuming that a suitable hiding place is nearby. Enabler.

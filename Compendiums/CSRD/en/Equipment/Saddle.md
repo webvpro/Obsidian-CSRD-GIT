@@ -6,12 +6,11 @@ tags:
   - Equipment/Fantasy
   - Equipment/Utility-Gear
   - Equipment/Value/10-Gp
-title: Saddle
-collection: Equipment
-kind: Compendium
 ---
-## Saddle  
-  
->  
-> **Options :** Fantasy, Utility Gear  
+  
+    
+## Saddle    
+    
+>    
+> **Options :** Fantasy, Utility Gear    
 > **Value :** 10 Gp

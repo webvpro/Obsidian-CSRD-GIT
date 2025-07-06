@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Mid
   - Ability/Categories/Support
-title: Applying Your Knowledge
-collection: Abilities
-kind: Compendium
 ---
-## Applying Your Knowledge  
->**Action**
-  
+  
+    
+## Applying Your Knowledge    
+>**Action**  
+    
 When you help another character undertake any action that you're untrained in, you are treated as if you are trained in it. Action.

@@ -6,12 +6,11 @@ tags:
   - Equipment/Fantasy
   - Equipment/Utility-Gear
   - Equipment/Value/4-Cp
-title: Ale, Mug
-collection: Equipment
-kind: Compendium
 ---
-## Ale, Mug  
-  
->  
-> **Options :** Fantasy, Utility Gear  
+  
+    
+## Ale, Mug    
+    
+>    
+> **Options :** Fantasy, Utility Gear    
 > **Value :** 4 Cp

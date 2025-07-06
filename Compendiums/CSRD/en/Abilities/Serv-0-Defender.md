@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Protection
-title: Serv-0 Defender
-collection: Abilities
-kind: Compendium
 ---
-## Serv-0 Defender  
->**Enabler**
-  
+  
+    
+## Serv-0 Defender    
+>**Enabler**  
+    
 Your Serv-0 aids you in combat by blocking attacks. It gains a modification in Speed defense. Enabler.
