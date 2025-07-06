@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Task
-title: Trained Excavator
-collection: Abilities
-kind: Compendium
 ---
-## Trained Excavator  
->**Enabler**
-  
+  
+    
+## Trained Excavator    
+>**Enabler**  
+    
 You are trained in perception, climbing, and salvaging tasks. Enabler.
