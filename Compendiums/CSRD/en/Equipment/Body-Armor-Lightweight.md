@@ -9,15 +9,14 @@ tags:
   - Equipment/Level/4
   - Equipment/Value/Expensive
   - Equipment/Armor/Heavy
-title: Body Armor, Lightweight
-collection: Equipment
-kind: Compendium
 ---
-## Body Armor, Lightweight  
-  
->Functions as heavy armor (+3 Armor), encumbers as if wearing medium armor.  
-> **Options :** Advanced, Apparel & Armor, Science Fiction  
-> **Level :** 4  
-> **Value :** Expensive  
->>[!note] Features  
+  
+    
+## Body Armor, Lightweight    
+    
+>Functions as heavy armor (+3 Armor), encumbers as if wearing medium armor.    
+> **Options :** Advanced, Apparel & Armor, Science Fiction    
+> **Level :** 4    
+> **Value :** Expensive    
+>>[!note] Features    
 >> - Heavy armor
