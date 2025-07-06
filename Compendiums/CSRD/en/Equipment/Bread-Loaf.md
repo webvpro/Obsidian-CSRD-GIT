@@ -6,12 +6,11 @@ tags:
   - Equipment/Fantasy
   - Equipment/Utility-Gear
   - Equipment/Value/2-Cp
-title: Bread, Loaf
-collection: Equipment
-kind: Compendium
 ---
-## Bread, Loaf  
-  
->  
-> **Options :** Fantasy, Utility Gear  
+  
+    
+## Bread, Loaf    
+    
+>    
+> **Options :** Fantasy, Utility Gear    
 > **Value :** 2 Cp
