@@ -9,16 +9,15 @@ tags:
   - Equipment/Level/4
   - Equipment/Value/Very-Expensive
   - Equipment/Range/Very-Long
-title: Laser Photon Rifle
-collection: Equipment
-kind: Compendium
 ---
-## Laser Photon Rifle  
-  
->Rifle fires coherent light beams;  
-> **Options :** Advanced, Armament, Science Fiction  
-> **Level :** 4  
-> **Value :** Very Expensive  
->>[!note] Features  
->> - Medium Weapon  
+  
+    
+## Laser Photon Rifle    
+    
+>Rifle fires coherent light beams;    
+> **Options :** Advanced, Armament, Science Fiction    
+> **Level :** 4    
+> **Value :** Very Expensive    
+>>[!note] Features    
+>> - Medium Weapon    
 >> - Very long range
