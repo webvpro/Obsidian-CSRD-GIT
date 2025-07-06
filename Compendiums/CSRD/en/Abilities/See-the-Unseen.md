@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Senses
-title: See the Unseen
-collection: Abilities
-kind: Compendium
 ---
-## See the Unseen  
->**Enabler**
-  
+  
+    
+## See the Unseen    
+>**Enabler**  
+    
 You can automatically perceive creatures and objects that are normally invisible, out of phase, or only partially in this universe. When looking for things more conventionally hidden, the task is eased. Enabler.
