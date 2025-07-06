@@ -7,14 +7,13 @@ tags:
   - Equipment/Utility-Gear
   - Equipment/Value/Very-Expensive
   - Equipment/Asset
-title: Handheld Scanner
-collection: Equipment
-kind: Compendium
 ---
-## Handheld Scanner  
-  
->  
-> **Options :** Science Fiction, Utility Gear  
-> **Value :** Very Expensive  
->>[!note] Features  
+  
+    
+## Handheld Scanner    
+    
+>    
+> **Options :** Science Fiction, Utility Gear    
+> **Value :** Very Expensive    
+>>[!note] Features    
 >> - Asset for identifying tasks
