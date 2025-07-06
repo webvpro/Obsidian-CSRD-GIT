@@ -7,12 +7,11 @@ tags:
   - Equipment/Utility-Gear
   - Equipment/Value/Moderate
   - Equipment/Value/25-Gp
-title: Hourglass
-collection: Equipment
-kind: Compendium
 ---
-## Hourglass  
-  
->  
-> **Options :** Fantasy, Utility Gear  
+  
+    
+## Hourglass    
+    
+>    
+> **Options :** Fantasy, Utility Gear    
 > **Value :** Moderate, 25 Gp
