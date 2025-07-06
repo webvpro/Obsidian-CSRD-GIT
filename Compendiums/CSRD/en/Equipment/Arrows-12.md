@@ -6,14 +6,13 @@ tags:
   - Equipment/Fantasy
   - Equipment/Utility-Gear
   - Equipment/Value/Inexpensive
-title: Arrows (12)
-collection: Equipment
-kind: Compendium
 ---
-## Arrows (12)  
-  
->  
-> **Options :** Fantasy, Utility Gear  
-> **Value :** Inexpensive  
->>[!note] Features  
+  
+    
+## Arrows (12)    
+    
+>    
+> **Options :** Fantasy, Utility Gear    
+> **Value :** Inexpensive    
+>>[!note] Features    
 >> - Ammunition
