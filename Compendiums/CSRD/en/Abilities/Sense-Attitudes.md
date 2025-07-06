@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Task
-title: Sense Attitudes
-collection: Abilities
-kind: Compendium
 ---
-## Sense Attitudes  
->**Enabler**
-  
+  
+    
+## Sense Attitudes    
+>**Enabler**  
+    
 You are trained in sensing lies and whether a person is likely to (or already does) believe your lies. Enabler.
