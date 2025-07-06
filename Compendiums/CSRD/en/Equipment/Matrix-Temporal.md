@@ -8,13 +8,12 @@ tags:
   - Equipment/Space-Time-Vehicles
   - Equipment/Level/8
   - Equipment/Value/Priceless
-title: Matrix, Temporal
-collection: Equipment
-kind: Compendium
 ---
-## Matrix, Temporal  
-  
->An arbitrarily shaped vehicle or structure, bigger on the inside than out, that allows a pilot to travel into different locations in time and space, though arbitrary destinations are sometimes achieved despite apparent navigation successes by the pilot. Enormous power requirements require recharge period of several days between each use.  
-> **Options :** Fantastic, Science Fiction, Space-Time Vehicles  
-> **Level :** 8  
+  
+    
+## Matrix, Temporal    
+    
+>An arbitrarily shaped vehicle or structure, bigger on the inside than out, that allows a pilot to travel into different locations in time and space, though arbitrary destinations are sometimes achieved despite apparent navigation successes by the pilot. Enormous power requirements require recharge period of several days between each use.    
+> **Options :** Fantastic, Science Fiction, Space-Time Vehicles    
+> **Level :** 8    
 > **Value :** Priceless
