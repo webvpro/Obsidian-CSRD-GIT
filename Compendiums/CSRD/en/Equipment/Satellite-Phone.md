@@ -8,13 +8,12 @@ tags:
   - Equipment/Modern
   - Equipment/Level/4
   - Equipment/Value/Very-Expensive
-title: Satellite Phone
-collection: Equipment
-kind: Compendium
 ---
-## Satellite Phone  
-  
->As smartphone (though far bulkier), but with ability to connect directly to an orbiting satellite communication network, providing planetary range.  
-> **Options :** Communication, Contemporary, Modern  
-> **Level :** 4  
+  
+    
+## Satellite Phone    
+    
+>As smartphone (though far bulkier), but with ability to connect directly to an orbiting satellite communication network, providing planetary range.    
+> **Options :** Communication, Contemporary, Modern    
+> **Level :** 4    
 > **Value :** Very Expensive
