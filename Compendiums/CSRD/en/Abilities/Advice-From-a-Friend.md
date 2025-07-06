@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/Low
   - Ability/Pool/Intellect
   - Ability/Categories/Support
-title: Advice From a Friend
-collection: Abilities
-kind: Compendium
 ---
-## Advice From a Friend  
->**Action**  
->1 Intellect point
-  
+  
+    
+## Advice From a Friend    
+>**Action**    
+>1 Intellect point  
+    
 You know your friend's strengths and weaknesses, and how to motivate them to succeed. When you give an ally a suggestion involving their next action, the character is trained in that action for one round. Action.
