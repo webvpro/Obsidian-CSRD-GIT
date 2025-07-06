@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/High
   - Ability/Pool/Speed
   - Ability/Categories/Special-Attack
-title: Spring Away
-collection: Abilities
-kind: Compendium
 ---
-## Spring Away  
->**Enabler**  
->5 Speed points
-  
+  
+    
+## Spring Away    
+>**Enabler**    
+>5 Speed points  
+    
 Whenever you succeed on a Speed defense roll, you can immediately move up to a short distance. You cannot use this ability more than once in a given round. Enabler.
