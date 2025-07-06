@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/High
   - Ability/Categories/Protection
-title: Microgravity Avoidance
-collection: Abilities
-kind: Compendium
 ---
-## Microgravity Avoidance  
->**Enabler**
-  
+  
+    
+## Microgravity Avoidance    
+>**Enabler**  
+    
 By taking advantage of microgravity conditions, you gain an asset to Speed defense tasks while in zero-gravity or low-gravity conditions. Enabler.
