@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/Low
   - Ability/Pool/Intellect
   - Ability/Categories/Support
-title: Poison Touch
-collection: Abilities
-kind: Compendium
 ---
-## Poison Touch  
->**Action**  
->2 Intellect points
-  
-You touch a creature and lines of poison crawl through their skin. They take 3 points of Speed damage (ignores Armor) and are hindered on their next turn. Action.
+  
+    
+## Poison Touch    
+>**Action**    
+>2 Intellect points  
+    
+You touch a creature and lines of poison crawl through their skin. They take 3 points of Speed damage (ignores Armor) and are hindered on their next turn. Action.  
