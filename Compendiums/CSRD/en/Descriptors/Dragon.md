@@ -31,10 +31,18 @@ From the following list of options, choose how you became involved in the first 
 >3. You got stuck in your dragon form while molting, and the other PCs helped remove your shed skin.
 >4. You’re gathering ingredients for a difficult spell that will increase the range and intensity of your fire-breathing attacks.
 ### Dragon Advancement
-[[Danger-Sense|Danger Sense]] 
-[[Defensive-Field|Defensive Field]] 
-[[Enhanced-Might|Enhanced Might]] 
-[[Enhanced-Might-Edge|Enhanced Might Edge]] 
-[[Enlarge|Enlarge]]
-[[#Spitting Flames (1+ Might point)|Training in Spitting Flames]]
+  
+[Danger Sense](Danger-Sense.md) 
+  
+[Defensive Field](Defensive-Field.md) 
+  
+[Enhanced Might](Enhanced-Might.md) 
+  
+[Enhanced Might Edge](Enhanced-Might-Edge.md) 
+  
+[Enlarge](Enlarge.md)
+  
+[Training in Spitting Flames](Dragon.md#Spitting%20Flames%20(1+%20Might%20point))
+  
 
+  
