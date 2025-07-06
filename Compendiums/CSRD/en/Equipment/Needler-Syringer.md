@@ -10,16 +10,15 @@ tags:
   - Equipment/Value/Expensive
   - Equipment/Weapon/Light
   - Equipment/Range/Long
-title: Needler Syringer
-collection: Equipment
-kind: Compendium
 ---
-## Needler Syringer  
-  
->Injects soporific that dazes target on a successful Might defense roll for one minute, or puts them into a light sleep for one minute on a failed roll.  
-> **Options :** Advanced, Armament, Science Fiction  
-> **Level :** 3  
-> **Value :** Expensive  
->>[!note] Features  
->> - Light weapon  
+  
+    
+## Needler Syringer    
+    
+>Injects soporific that dazes target on a successful Might defense roll for one minute, or puts them into a light sleep for one minute on a failed roll.    
+> **Options :** Advanced, Armament, Science Fiction    
+> **Level :** 3    
+> **Value :** Expensive    
+>>[!note] Features    
+>> - Light weapon    
 >> - Long range
