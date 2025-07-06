@@ -9,11 +9,10 @@ tags:
   - Ability/Tier/High
   - Ability/Categories/Meta
   - Ability/Categories/Protection
-title: Hard to Kill
-collection: Abilities
-kind: Compendium
 ---
-## Hard to Kill  
->**Enabler**
-  
+  
+    
+## Hard to Kill    
+>**Enabler**  
+    
 You can choose to reroll any defense task you make but never more than once per round. Enabler.
