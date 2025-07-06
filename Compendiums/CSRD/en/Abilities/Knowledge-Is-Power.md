@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Mid
   - Ability/Categories/Task
-title: Knowledge Is Power
-collection: Abilities
-kind: Compendium
 ---
-## Knowledge Is Power  
->**Enabler**
-  
+  
+    
+## Knowledge Is Power    
+>**Enabler**  
+    
 Choose two noncombat skills in which you are not trained. You are trained in those skills. Enabler.
