@@ -7,14 +7,13 @@ tags:
   - Equipment/Utility-Gear
   - Equipment/Value/2-Gp
   - Equipment/Weapon/Light
-title: Whip
-collection: Equipment
-kind: Compendium
 ---
-## Whip  
-  
->A leather cord with a handle, used more for tricks and inflicting punishments than for deadly combat.  
-> **Options :** Fantasy, Utility Gear  
-> **Value :** 2 Gp  
->>[!note] Features  
+  
+    
+## Whip    
+    
+>A leather cord with a handle, used more for tricks and inflicting punishments than for deadly combat.    
+> **Options :** Fantasy, Utility Gear    
+> **Value :** 2 Gp    
+>>[!note] Features    
 >> - Light weapon
