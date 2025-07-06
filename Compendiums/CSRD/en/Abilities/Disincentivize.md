@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/Low
   - Ability/Pool/Intellect
   - Ability/Categories/Special-Attack
-title: Disincentivize
-collection: Abilities
-kind: Compendium
 ---
-## Disincentivize  
->**Enabler**  
->1 Intellect point
-  
+  
+    
+## Disincentivize    
+>**Enabler**    
+>1 Intellect point  
+    
 You hinder all actions attempted by any number of targets within short range who can understand you. You choose which targets are affected. Affected targets' actions are hindered for one round. Enabler.
