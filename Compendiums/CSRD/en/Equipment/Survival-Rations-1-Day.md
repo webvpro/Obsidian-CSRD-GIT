@@ -6,12 +6,11 @@ tags:
   - Equipment/Science-Fiction
   - Equipment/Utility-Gear
   - Equipment/Value/Inexpensive
-title: Survival Rations (1 Day)
-collection: Equipment
-kind: Compendium
 ---
-## Survival Rations (1 Day)  
-  
->  
-> **Options :** Science Fiction, Utility Gear  
+  
+    
+## Survival Rations (1 Day)    
+    
+>    
+> **Options :** Science Fiction, Utility Gear    
 > **Value :** Inexpensive
