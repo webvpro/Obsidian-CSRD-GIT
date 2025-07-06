@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Protection
-title: Flesh of Stone
-collection: Abilities
-kind: Compendium
 ---
-## Flesh of Stone  
->**Enabler**
-  
+  
+    
+## Flesh of Stone    
+>**Enabler**  
+    
 You have +1 to Armor if you do not wear physical armor. Enabler.
