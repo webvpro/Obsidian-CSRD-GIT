@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Task
-title: Life Lessons
-collection: Abilities
-kind: Compendium
 ---
-## Life Lessons  
->**Enabler**
-  
+  
+    
+## Life Lessons    
+>**Enabler**  
+    
 Choose any two noncombat skills. You are trained in those skills. Enabler.
