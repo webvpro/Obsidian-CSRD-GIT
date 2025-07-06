@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/High
   - Ability/Pool/Intellect
   - Ability/Categories/Social
-title: Group Friendship
-collection: Abilities
-kind: Compendium
 ---
-## Group Friendship  
->**Action**  
->4 Intellect points
-  
+  
+    
+## Group Friendship    
+>**Action**    
+>4 Intellect points  
+    
 You convince a sentient creature to regard you (and up to ten creatures that you designate within immediate distance of you) positively, as they would a potential friend. Action.
