@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Task
-title: Straightforward
-collection: Abilities
-kind: Compendium
 ---
-## Straightforward  
->**Enabler**
-  
+  
+    
+## Straightforward    
+>**Enabler**  
+    
 You are trained in one of the following tasks (choose one): breaking things, climbing, jumping, or running. Enabler.
