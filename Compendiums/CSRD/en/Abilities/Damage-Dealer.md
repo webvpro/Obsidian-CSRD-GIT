@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/High
   - Ability/Categories/Meta
-title: Damage Dealer
-collection: Abilities
-kind: Compendium
 ---
-## Damage Dealer  
->**Enabler**
-  
+  
+    
+## Damage Dealer    
+>**Enabler**  
+    
 You inflict an additional 3 points of damage with your chosen weapon. Enabler.
