@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Task
-title: Opening Statement
-collection: Abilities
-kind: Compendium
 ---
-## Opening Statement  
->**Enabler**
-  
+  
+    
+## Opening Statement    
+>**Enabler**  
+    
 You're trained in tasks related to persuasion, deception, and detecting the falsehoods of others. Enabler.
