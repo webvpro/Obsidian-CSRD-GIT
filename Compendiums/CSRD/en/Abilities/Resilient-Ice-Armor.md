@@ -9,11 +9,10 @@ tags:
   - Ability/Tier/Mid
   - Ability/Categories/Meta
   - Ability/Categories/Protection
-title: Resilient Ice Armor
-collection: Abilities
-kind: Compendium
 ---
-## Resilient Ice Armor  
->**Enabler**
-  
+  
+    
+## Resilient Ice Armor    
+>**Enabler**  
+    
 The sheen of ice you generate using your Ice Armor ability gives you an additional +1 to Armor. Enabler.
