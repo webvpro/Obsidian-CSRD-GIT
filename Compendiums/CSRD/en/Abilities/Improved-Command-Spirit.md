@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/High
   - Ability/Categories/Meta
-title: Improved Command Spirit
-collection: Abilities
-kind: Compendium
 ---
-## Improved Command Spirit  
->**Enabler**
-  
+  
+    
+## Improved Command Spirit    
+>**Enabler**  
+    
 When you use your Command Spirit ability, you can command a spirit or animate undead creature of up to level 7.Enabler.
