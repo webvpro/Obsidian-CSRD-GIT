@@ -6,12 +6,11 @@ tags:
   - Equipment/Fantasy
   - Equipment/Utility-Gear
   - Equipment/Value/1-Cp
-title: Sack
-collection: Equipment
-kind: Compendium
 ---
-## Sack  
-  
->  
-> **Options :** Fantasy, Utility Gear  
+  
+    
+## Sack    
+    
+>    
+> **Options :** Fantasy, Utility Gear    
 > **Value :** 1 Cp
