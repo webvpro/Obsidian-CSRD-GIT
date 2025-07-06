@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Mid
   - Ability/Categories/Attack-Skill
-title: Practiced With All Weapons
-collection: Abilities
-kind: Compendium
 ---
-## Practiced With All Weapons  
->**Enabler**
-  
+  
+    
+## Practiced With All Weapons    
+>**Enabler**  
+    
 You become practiced with light, medium, and heavy weapons and suffer no penalty when using any kind of weapon. Enabler.
