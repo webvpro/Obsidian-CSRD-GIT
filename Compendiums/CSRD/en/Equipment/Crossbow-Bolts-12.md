@@ -6,14 +6,13 @@ tags:
   - Equipment/Fantasy
   - Equipment/Utility-Gear
   - Equipment/Value/Inexpensive
-title: Crossbow Bolts (12)
-collection: Equipment
-kind: Compendium
 ---
-## Crossbow Bolts (12)  
-  
->  
-> **Options :** Fantasy, Utility Gear  
-> **Value :** Inexpensive  
->>[!note] Features  
+  
+    
+## Crossbow Bolts (12)    
+    
+>    
+> **Options :** Fantasy, Utility Gear    
+> **Value :** Inexpensive    
+>>[!note] Features    
 >> - Ammunition
