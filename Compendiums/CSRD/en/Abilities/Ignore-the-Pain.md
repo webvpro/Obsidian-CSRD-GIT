@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Cure
-title: Ignore the Pain
-collection: Abilities
-kind: Compendium
 ---
-## Ignore the Pain  
->**Enabler**
-  
+  
+    
+## Ignore the Pain    
+>**Enabler**  
+    
 You ignore the impaired condition and treat the debilitated condition as impaired. Enabler.
