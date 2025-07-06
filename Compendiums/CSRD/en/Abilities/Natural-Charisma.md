@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Task
-title: Natural Charisma
-collection: Abilities
-kind: Compendium
 ---
-## Natural Charisma  
->**Enabler**
-  
+  
+    
+## Natural Charisma    
+>**Enabler**  
+    
 You are trained in all social interactions, whether they involve charm, learning a person's secrets, or intimidating others. Enabler.
