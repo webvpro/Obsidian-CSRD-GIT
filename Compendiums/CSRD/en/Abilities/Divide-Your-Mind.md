@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/High
   - Ability/Pool/Intellect
   - Ability/Categories/Meta
-title: Divide Your Mind
-collection: Abilities
-kind: Compendium
 ---
-## Divide Your Mind  
->**Action**  
->7 Intellect points
-  
+  
+    
+## Divide Your Mind    
+>**Action**    
+>7 Intellect points  
+    
 You split your consciousness into two parts. For one minute, you can take two actions on each of your turns, but only one of them can be to use a special ability. Action.
