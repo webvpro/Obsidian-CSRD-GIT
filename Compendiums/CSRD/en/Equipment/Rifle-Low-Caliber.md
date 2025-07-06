@@ -10,16 +10,15 @@ tags:
   - Equipment/Value/Moderate
   - Equipment/Range/Long
   - Equipment/Weapon/Medium
-title: Rifle, Low Caliber
-collection: Equipment
-kind: Compendium
 ---
-## Rifle, Low Caliber  
-  
->Medium weapon but requires both hands (4 damage).  
-> **Options :** Armament, Contemporary, Modern  
-> **Level :** 2  
-> **Value :** Moderate  
->>[!note] Features  
->> - Long range  
+  
+    
+## Rifle, Low Caliber    
+    
+>Medium weapon but requires both hands (4 damage).    
+> **Options :** Armament, Contemporary, Modern    
+> **Level :** 2    
+> **Value :** Moderate    
+>>[!note] Features    
+>> - Long range    
 >> - Medium weapon
