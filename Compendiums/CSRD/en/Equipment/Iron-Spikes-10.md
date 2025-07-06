@@ -6,12 +6,11 @@ tags:
   - Equipment/Fantasy
   - Equipment/Utility-Gear
   - Equipment/Value/1-Gp
-title: Iron Spikes (10)
-collection: Equipment
-kind: Compendium
 ---
-## Iron Spikes (10)  
-  
->  
-> **Options :** Fantasy, Utility Gear  
+  
+    
+## Iron Spikes (10)    
+    
+>    
+> **Options :** Fantasy, Utility Gear    
 > **Value :** 1 Gp
