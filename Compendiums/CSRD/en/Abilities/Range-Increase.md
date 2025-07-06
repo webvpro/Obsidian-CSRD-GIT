@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Meta
-title: Range Increase
-collection: Abilities
-kind: Compendium
 ---
-## Range Increase  
->**Enabler**
-  
+  
+    
+## Range Increase    
+>**Enabler**  
+    
 Ranges for you increase by one step. Immediate becomes short, short becomes long, long becomes very long, and very long becomes 1,000 feet (300 m). Enabler.
