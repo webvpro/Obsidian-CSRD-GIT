@@ -9,11 +9,10 @@ tags:
   - Ability/Tier/Mid
   - Ability/Categories/Attack-Skill
   - Ability/Categories/Task
-title: Serv-0 Aim
-collection: Abilities
-kind: Compendium
 ---
-## Serv-0 Aim  
->**Enabler**
-  
+  
+    
+## Serv-0 Aim    
+>**Enabler**  
+    
 Your Serv-0 aids you in ranged combat. It gains a modification in ranged attacks. Enabler.
