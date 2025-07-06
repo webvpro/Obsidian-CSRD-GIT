@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/Low
   - Ability/Pool/Might
   - Ability/Categories/Task
-title: Feat of Strength
-collection: Abilities
-kind: Compendium
 ---
-## Feat of Strength  
->**Enabler**  
->1 Might point
-  
+  
+    
+## Feat of Strength    
+>**Enabler**    
+>1 Might point  
+    
 Any task that depends on brute force is eased. Examples include smashing down a barred door, tearing open a locked container, lifting or moving a heavy object, or striking someone with a melee weapon. Enabler.
