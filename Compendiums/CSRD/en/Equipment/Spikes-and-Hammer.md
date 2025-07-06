@@ -6,12 +6,11 @@ tags:
   - Equipment/Fantasy
   - Equipment/Utility-Gear
   - Equipment/Value/Moderate
-title: Spikes and Hammer
-collection: Equipment
-kind: Compendium
 ---
-## Spikes and Hammer  
-  
->10 spikes  
-> **Options :** Fantasy, Utility Gear  
+  
+    
+## Spikes and Hammer    
+    
+>10 spikes    
+> **Options :** Fantasy, Utility Gear    
 > **Value :** Moderate
