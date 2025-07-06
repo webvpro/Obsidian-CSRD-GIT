@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/NA
   - Ability/Categories/NA
-title: Practiced in Light Armor
-collection: Abilities
-kind: Compendium
 ---
-## Practiced in Light Armor  
->**Enabler**
-  
+  
+    
+## Practiced in Light Armor    
+>**Enabler**  
+    
 You can wear light armor for long periods of time without tiring and can compensate for slowed reactions from wearing light armor. You reduce the Speed cost for wearing light armor by 1. You start the game with a type of light armor available in the area, such as a leather jacket. Enabler.
