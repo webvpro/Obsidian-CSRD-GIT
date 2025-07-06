@@ -10,12 +10,11 @@ tags:
   - Ability/Pool/Intellect
   - Ability/Categories/Special-Attack
   - Ability/Categories/Support
-title: Undo
-collection: Abilities
-kind: Compendium
 ---
-## Undo  
->**Action**  
->5 Intellect points
-  
+  
+    
+## Undo    
+>**Action**    
+>5 Intellect points  
+    
 You turn back time a few seconds, effectively undoing a single creature's most recent action. That creature can then immediately repeat the same action or try something different. Action.
