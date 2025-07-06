@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/High
   - Ability/Categories/Cure
-title: Mind Surge
-collection: Abilities
-kind: Compendium
 ---
-## Mind Surge  
->**Action**
-  
+  
+    
+## Mind Surge    
+>**Action**  
+    
 In addition to your normal recovery rolls each day, you can-at any time between ten-hour rests-recover 1d6 + 6 points to your Intellect Pool. Action.
