@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Protection
-title: Safe Fall
-collection: Abilities
-kind: Compendium
 ---
-## Safe Fall  
->**Enabler**
-  
+  
+    
+## Safe Fall    
+>**Enabler**  
+    
 You reduce the damage from a fall by 5 points. Enabler.
