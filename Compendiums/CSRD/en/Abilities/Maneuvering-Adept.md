@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/High
   - Ability/Categories/Meta
-title: Maneuvering Adept
-collection: Abilities
-kind: Compendium
 ---
-## Maneuvering Adept  
->**Enabler**
-  
+  
+    
+## Maneuvering Adept    
+>**Enabler**  
+    
 If you apply at least one level of Effort to a task involving climbing, jumping, balancing, or some other kind of maneuvering, you get a free level of Effort. Enabler.
