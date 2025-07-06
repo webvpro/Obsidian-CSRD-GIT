@@ -10,12 +10,11 @@ tags:
   - Ability/Pool/Intellect
   - Ability/Categories/Cure
   - Ability/Categories/Meta
-title: Drain Creature
-collection: Abilities
-kind: Compendium
 ---
-## Drain Creature  
->**Action**  
->3+ Intellect points
-  
+  
+    
+## Drain Creature    
+>**Action**    
+>3+ Intellect points  
+    
 You can drain energy from a living creature you touch, inflicting 3 points of damage and restoring 3 points to your Might or Speed Pool. Action.
