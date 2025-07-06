@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Task
-title: Balance
-collection: Abilities
-kind: Compendium
 ---
-## Balance  
->**Enabler**
-  
+  
+    
+## Balance    
+>**Enabler**  
+    
 You are trained in balancing. Enabler.
