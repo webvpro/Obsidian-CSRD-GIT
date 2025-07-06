@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/Low
   - Ability/Pool/Intellect
   - Ability/Categories/Protection
-title: Deflect Attacks
-collection: Abilities
-kind: Compendium
 ---
-## Deflect Attacks  
->**Action**  
->1 Intellect point
-  
+  
+    
+## Deflect Attacks    
+>**Action**    
+>1 Intellect point  
+    
 Using your mind, you protect yourself from incoming attacks. For the next ten minutes, you are trained in Speed defense tasks. Action to initiate.
