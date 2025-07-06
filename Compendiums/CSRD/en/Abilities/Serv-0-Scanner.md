@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/Mid
   - Ability/Pool/Intellect
   - Ability/Categories/Information
-title: Serv-0 Scanner
-collection: Abilities
-kind: Compendium
 ---
-## Serv-0 Scanner  
->**Enabler**  
->2 Intellect points
-  
+  
+    
+## Serv-0 Scanner    
+>**Enabler**    
+>2 Intellect points  
+    
 Your Serv-0 gains the Scan ability. Enabler.
