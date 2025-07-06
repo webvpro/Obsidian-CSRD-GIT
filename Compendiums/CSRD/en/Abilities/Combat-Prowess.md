@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Meta
-title: Combat Prowess
-collection: Abilities
-kind: Compendium
 ---
-## Combat Prowess  
->**Enabler**
-  
+  
+    
+## Combat Prowess    
+>**Enabler**  
+    
 You add +1 damage to one type of weapon attack of your choice: melee weapon attacks or ranged weapon attacks. Enabler.
