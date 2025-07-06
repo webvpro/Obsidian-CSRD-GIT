@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/High
   - Ability/Pool/Speed
   - Ability/Categories/Protection
-title: Parry
-collection: Abilities
-kind: Compendium
 ---
-## Parry  
->**Enabler**  
->5 Speed points
-  
+  
+    
+## Parry    
+>**Enabler**    
+>5 Speed points  
+    
 You can deflect incoming attacks quickly. When you activate this ability, for the next ten rounds you ease all Speed defense rolls. Enabler.
