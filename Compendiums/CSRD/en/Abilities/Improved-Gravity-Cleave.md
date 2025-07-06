@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/High
   - Ability/Pool/Intellect
   - Ability/Categories/Meta
-title: Improved Gravity Cleave
-collection: Abilities
-kind: Compendium
 ---
-## Improved Gravity Cleave  
->**Action**  
->9 Intellect points
-  
+  
+    
+## Improved Gravity Cleave    
+>**Action**    
+>9 Intellect points  
+    
 You can harm a group of targets within long range by rapidly increasing gravity's pull on one portion of each target and decreasing it on another, inflicting 6 points of damage. The targets must be within immediate range of each other. Action.
