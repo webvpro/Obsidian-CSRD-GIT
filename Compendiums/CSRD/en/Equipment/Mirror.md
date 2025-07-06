@@ -6,12 +6,11 @@ tags:
   - Equipment/Fantasy
   - Equipment/Utility-Gear
   - Equipment/Value/5Gp
-title: Mirror
-collection: Equipment
-kind: Compendium
 ---
-## Mirror  
-  
->  
-> **Options :** Fantasy, Utility Gear  
+  
+    
+## Mirror    
+    
+>    
+> **Options :** Fantasy, Utility Gear    
 > **Value :** 5Gp
