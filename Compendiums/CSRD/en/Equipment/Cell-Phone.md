@@ -6,12 +6,11 @@ tags:
   - Equipment/Modern
   - Equipment/Utility-Gear
   - Equipment/Value/Moderate
-title: Cell Phone
-collection: Equipment
-kind: Compendium
 ---
-## Cell Phone  
-  
->  
-> **Options :** Modern, Utility Gear  
+  
+    
+## Cell Phone    
+    
+>    
+> **Options :** Modern, Utility Gear    
 > **Value :** Moderate
