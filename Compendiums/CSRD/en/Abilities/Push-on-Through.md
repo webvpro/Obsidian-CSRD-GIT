@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/Low
   - Ability/Pool/Might
   - Ability/Categories/Cure
-title: Push on Through
-collection: Abilities
-kind: Compendium
 ---
-## Push on Through  
->**Enabler**  
->2 Might points
-  
+  
+    
+## Push on Through    
+>**Enabler**    
+>2 Might points  
+    
 You ignore the effects of terrain while moving for one hour. Enabler.
