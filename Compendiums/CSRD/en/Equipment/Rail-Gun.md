@@ -9,16 +9,15 @@ tags:
   - Equipment/Level/5
   - Equipment/Value/Exorbitant
   - Equipment/Range/Long
-title: Rail Gun
-collection: Equipment
-kind: Compendium
 ---
-## Rail Gun  
-  
->Long-barreled rifle with computer sight assistance fires magnetically accelerated slugs; heavy-plus weapon (8 points of damage, both hands), range is 3,050 m (10,000 feet).  
-> **Options :** Advanced, Armament, Science Fiction  
-> **Level :** 5  
-> **Value :** Exorbitant  
->>[!note] Features  
->> - Heavy Weapon  
+  
+    
+## Rail Gun    
+    
+>Long-barreled rifle with computer sight assistance fires magnetically accelerated slugs; heavy-plus weapon (8 points of damage, both hands), range is 3,050 m (10,000 feet).    
+> **Options :** Advanced, Armament, Science Fiction    
+> **Level :** 5    
+> **Value :** Exorbitant    
+>>[!note] Features    
+>> - Heavy Weapon    
 >> - Long range
