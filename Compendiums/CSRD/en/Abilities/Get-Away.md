@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/Low
   - Ability/Pool/Speed
   - Ability/Categories/Movement
-title: Get Away
-collection: Abilities
-kind: Compendium
 ---
-## Get Away  
->**Enabler**  
->2 Speed points
-  
+  
+    
+## Get Away    
+>**Enabler**    
+>2 Speed points  
+    
 After your action on your turn, you move up to a short distance or get behind or beneath cover within immediate range. Enabler.
