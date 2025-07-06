@@ -5,9 +5,7 @@ tags:
   - Compendium/CSRD/en/Cantrips/Cooking-Cantrip
   - Cantrip/Pool/Intellect
   - Cantrip/Cost/1
-title: Cooking Cantrip
-collection: Cantrips
-kind: Compendium
 ---
-## Cooking Cantrip   (1 Intellect point)
-You accelerate the preparation and cooking of one dish, reducing the time until it’s ready by about ten minutes. (Time-consuming cooking, such as a large turkey, requires multiple castings.) Under normal circumstances, this doesn’t burn, overcook, or otherwise ruin the dish. Action. 
+  
+## Cooking Cantrip   (1 Intellect point)  
+You accelerate the preparation and cooking of one dish, reducing the time until it’s ready by about ten minutes. (Time-consuming cooking, such as a large turkey, requires multiple castings.) Under normal circumstances, this doesn’t burn, overcook, or otherwise ruin the dish. Action.   
