@@ -8,13 +8,12 @@ tags:
   - Equipment/Science-Fiction
   - Equipment/Level/5
   - Equipment/Value/Very-Expensive
-title: Cloak, Chameleon
-collection: Equipment
-kind: Compendium
 ---
-## Cloak, Chameleon  
-  
->Renders wearer essentially invisible save for hardly-noticeable distortions for up to ten minutes. Provides one asset and one free level of Effort to stealth tasks.  
-> **Options :** Apparel & Armor, Fantastic, Science Fiction  
-> **Level :** 5  
+  
+    
+## Cloak, Chameleon    
+    
+>Renders wearer essentially invisible save for hardly-noticeable distortions for up to ten minutes. Provides one asset and one free level of Effort to stealth tasks.    
+> **Options :** Apparel & Armor, Fantastic, Science Fiction    
+> **Level :** 5    
 > **Value :** Very Expensive
