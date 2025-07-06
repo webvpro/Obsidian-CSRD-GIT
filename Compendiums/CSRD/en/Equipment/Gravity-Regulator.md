@@ -8,13 +8,12 @@ tags:
   - Equipment/Utility-Gear
   - Equipment/Level/5
   - Equipment/Value/Very-Expensive
-title: Gravity Regulator
-collection: Equipment
-kind: Compendium
 ---
-## Gravity Regulator  
-  
->Belt-mounted device that regulates gravity to 1 G for wearer if within zero G to 3 G.  
-> **Options :** Fantastic, Science Fiction, Utility Gear  
-> **Level :** 5  
+  
+    
+## Gravity Regulator    
+    
+>Belt-mounted device that regulates gravity to 1 G for wearer if within zero G to 3 G.    
+> **Options :** Fantastic, Science Fiction, Utility Gear    
+> **Level :** 5    
 > **Value :** Very Expensive
