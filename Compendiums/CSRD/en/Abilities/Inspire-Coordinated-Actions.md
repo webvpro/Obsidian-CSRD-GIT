@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/High
   - Ability/Pool/Intellect
   - Ability/Categories/Support
-title: Inspire Coordinated Actions
-collection: Abilities
-kind: Compendium
 ---
-## Inspire Coordinated Actions  
->**Action**  
->9 Intellect points
-  
+  
+    
+## Inspire Coordinated Actions    
+>**Action**    
+>9 Intellect points  
+    
 If your allies can see and easily understand you, you can instruct each of them to take one specific action (the same action for all of them). If any of them choose to take that exact action, they can do so as an additional action immediately. This doesn't interfere with them taking their normal actions on their turns. Action.
