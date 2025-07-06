@@ -8,15 +8,14 @@ tags:
   - Equipment/Value/Moderate
   - Equipment/Weapon/Light
   - Equipment/Range/Short
-title: Throwing Knife
-collection: Equipment
-kind: Compendium
 ---
-## Throwing Knife  
-  
->  
-> **Options :** Fantasy, Utility Gear  
-> **Value :** Moderate  
->>[!note] Features  
->> - Light weapon  
+  
+    
+## Throwing Knife    
+    
+>    
+> **Options :** Fantasy, Utility Gear    
+> **Value :** Moderate    
+>>[!note] Features    
+>> - Light weapon    
 >> - Short range
