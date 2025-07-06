@@ -6,12 +6,11 @@ tags:
   - Equipment/Fantasy
   - Equipment/Utility-Gear
   - Equipment/Value/75-Gp
-title: Riding Horse
-collection: Equipment
-kind: Compendium
 ---
-## Riding Horse  
-  
->A horse trained for riding and able to carry a typical adult human. Riding horses tend to panic in combat.  
-> **Options :** Fantasy, Utility Gear  
+  
+    
+## Riding Horse    
+    
+>A horse trained for riding and able to carry a typical adult human. Riding horses tend to panic in combat.    
+> **Options :** Fantasy, Utility Gear    
 > **Value :** 75 Gp
