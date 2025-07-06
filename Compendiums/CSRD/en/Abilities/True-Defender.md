@@ -10,12 +10,11 @@ tags:
   - Ability/Pool/Might
   - Ability/Pool/Intellect
   - Ability/Categories/Support
-title: True Defender
-collection: Abilities
-kind: Compendium
 ---
-## True Defender  
->**Action**  
->6 Might or Intellect points
-  
+  
+    
+## True Defender    
+>**Action**    
+>6 Might or Intellect points  
+    
 This ability functions as the Devoted Defender ability, except the benefit applies to up to three characters you choose. If you choose just one character, you become specialized in the tasks described under the Devoted Defender ability. Action to initiate.
