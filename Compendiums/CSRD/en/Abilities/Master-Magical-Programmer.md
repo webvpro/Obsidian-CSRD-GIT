@@ -8,13 +8,12 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/NA
   - Ability/Categories/NA
-title: Master Magical Programmer
-collection: Abilities
-kind: Compendium
 ---
-## Master Magical Programmer 
->**Enabler**
-  
-You are specialized in crafting magical apps and in using (and exploiting) computer software. Enabler.
-
-
+  
+    
+## Master Magical Programmer   
+>**Enabler**  
+    
+You are specialized in crafting magical apps and in using (and exploiting) computer software. Enabler.  
+  
+  
