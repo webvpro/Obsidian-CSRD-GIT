@@ -9,11 +9,9 @@ tags:
   - Ability/Tier/low
   - Ability/Pool/Speed
   - Ability/Categories/
-title: Witch Lore
-collection: Abilities
-kind: Compendium
 ---
-## Witch Lore                                                     
->**Enabler**  
-  
-You are trained in the traditional names, habits, suspected lairs, and related topics regarding the witches of your world. You know enough of at least one quasi-magical language (such as Latin or Ancient Greek) that you can make yourself understood to them. Enabler.
+    
+## Witch Lore                                                       
+>**Enabler**    
+    
+You are trained in the traditional names, habits, suspected lairs, and related topics regarding the witches of your world. You know enough of at least one quasi-magical language (such as Latin or Ancient Greek) that you can make yourself understood to them. Enabler.  
