@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Mid
   - Ability/Categories/Meta
-title: Outwit
-collection: Abilities
-kind: Compendium
 ---
-## Outwit  
->**Enabler**
-  
+  
+    
+## Outwit    
+>**Enabler**  
+    
 When you make a Speed defense roll, you can use your Intellect in place of your Speed. Enabler.
