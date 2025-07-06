@@ -15,23 +15,22 @@ tags:
   - Equipment/Value/Expensive
   - Equipment/Weapon/Light
   - Equipment/Range/Short
-title: Handgun, Light
-collection: Equipment
-kind: Compendium
 ---
-## Handgun, Light  
-  
->  
-> **Options :** Post-Apocalyptic, Utility Gear  
-> **Value :** Expensive  
->>[!note] Features  
->> - Light weapon  
->> - Short range  
-  
->  
-> **Options :** Armament, Contemporary, Modern  
-> **Level :** 2  
-> **Value :** Expensive  
->>[!note] Features  
->> - Light weapon  
+  
+    
+## Handgun, Light    
+    
+>    
+> **Options :** Post-Apocalyptic, Utility Gear    
+> **Value :** Expensive    
+>>[!note] Features    
+>> - Light weapon    
+>> - Short range    
+    
+>    
+> **Options :** Armament, Contemporary, Modern    
+> **Level :** 2    
+> **Value :** Expensive    
+>>[!note] Features    
+>> - Light weapon    
 >> - Short range
