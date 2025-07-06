@@ -8,13 +8,12 @@ tags:
   - Equipment/Utility-Gear
   - Equipment/Level/3
   - Equipment/Value/Expensive
-title: Tools, Specialized
-collection: Equipment
-kind: Compendium
 ---
-## Tools, Specialized  
-  
->A set of specialized tools are custom-selected for a specific task, such as carpentry mechanical repair, or electronics. Specialized tools provide an asset to the task they're suited for.  
-> **Options :** Contemporary, Modern, Utility Gear  
-> **Level :** 3  
+  
+    
+## Tools, Specialized    
+    
+>A set of specialized tools are custom-selected for a specific task, such as carpentry mechanical repair, or electronics. Specialized tools provide an asset to the task they're suited for.    
+> **Options :** Contemporary, Modern, Utility Gear    
+> **Level :** 3    
 > **Value :** Expensive
