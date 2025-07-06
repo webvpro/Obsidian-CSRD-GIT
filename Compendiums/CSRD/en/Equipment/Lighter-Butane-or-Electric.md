@@ -6,12 +6,11 @@ tags:
   - Equipment/Post-Apocalyptic
   - Equipment/Utility-Gear
   - Equipment/Value/Moderate
-title: Lighter (Butane or Electric)
-collection: Equipment
-kind: Compendium
 ---
-## Lighter (Butane or Electric)  
-  
->Depletes after 1d100 uses (but may be refilled/recharged)  
-> **Options :** Post-Apocalyptic, Utility Gear  
+  
+    
+## Lighter (Butane or Electric)    
+    
+>Depletes after 1d100 uses (but may be refilled/recharged)    
+> **Options :** Post-Apocalyptic, Utility Gear    
 > **Value :** Moderate
