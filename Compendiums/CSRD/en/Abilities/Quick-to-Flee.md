@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Task
-title: Quick to Flee
-collection: Abilities
-kind: Compendium
 ---
-## Quick to Flee  
->**Enabler**
-  
+  
+    
+## Quick to Flee    
+>**Enabler**  
+    
 You are trained in stealth and movement tasks. Enabler.
