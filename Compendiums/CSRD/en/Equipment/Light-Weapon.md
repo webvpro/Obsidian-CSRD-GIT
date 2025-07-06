@@ -7,14 +7,13 @@ tags:
   - Equipment/Utility-Gear
   - Equipment/Value/Moderate
   - Equipment/Weapon/Light
-title: Light Weapon
-collection: Equipment
-kind: Compendium
 ---
-## Light Weapon  
-  
->  
-> **Options :** Post-Apocalyptic, Utility Gear  
-> **Value :** Moderate  
->>[!note] Features  
+  
+    
+## Light Weapon    
+    
+>    
+> **Options :** Post-Apocalyptic, Utility Gear    
+> **Value :** Moderate    
+>>[!note] Features    
 >> - Light weapon
