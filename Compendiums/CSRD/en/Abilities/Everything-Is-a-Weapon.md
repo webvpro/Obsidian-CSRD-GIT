@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Mid
   - Ability/Categories/Special-Attack
-title: Everything Is a Weapon
-collection: Abilities
-kind: Compendium
 ---
-## Everything Is a Weapon  
->**Enabler**
-  
+  
+    
+## Everything Is a Weapon    
+>**Enabler**  
+    
 You can take any small object-a coin, a pen, a bottle, a stone, and so on-and throw it with such force and precision that it inflicts damage as a light weapon. Enabler.
