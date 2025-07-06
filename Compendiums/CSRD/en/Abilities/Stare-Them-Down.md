@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Protection
-title: Stare Them Down
-collection: Abilities
-kind: Compendium
 ---
-## Stare Them Down  
->**Enabler**
-  
+  
+    
+## Stare Them Down    
+>**Enabler**  
+    
 One doesn't play games of chicken with other maniac drivers without gaining mental strength. You're trained in Intellect defense tasks. Enabler.
