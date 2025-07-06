@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Mid
   - Ability/Categories/Protection
-title: Fusion Armor
-collection: Abilities
-kind: Compendium
 ---
-## Fusion Armor  
->**Enabler**
-  
+  
+    
+## Fusion Armor    
+>**Enabler**  
+    
 A procedure gives you biometal implants in major portions of your body, you grow metal-hard skin, the blessings of an angel protect you, or something similar happens. These changes give you +1 to Armor even when you're not wearing physical armor. Enabler.
