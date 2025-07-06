@@ -7,14 +7,13 @@ tags:
   - Equipment/Utility-Gear
   - Equipment/Value/Expensive
   - Equipment/Armor/Medium
-title: Riot Gear
-collection: Equipment
-kind: Compendium
 ---
-## Riot Gear  
-  
->  
-> **Options :** Post-Apocalyptic, Utility Gear  
-> **Value :** Expensive  
->>[!note] Features  
+  
+    
+## Riot Gear    
+    
+>    
+> **Options :** Post-Apocalyptic, Utility Gear    
+> **Value :** Expensive    
+>>[!note] Features    
 >> - Medium armor
