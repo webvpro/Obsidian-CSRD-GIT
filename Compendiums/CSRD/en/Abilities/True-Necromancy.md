@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/High
   - Ability/Pool/Intellect
   - Ability/Categories/Companion
-title: True Necromancy
-collection: Abilities
-kind: Compendium
 ---
-## True Necromancy  
->**Action**  
->8+ Intellect points
-  
+  
+    
+## True Necromancy    
+>**Action**    
+>8+ Intellect points  
+    
 This ability works like the Necromancy ability except that it creates a level 5 creature. Action to animate.
