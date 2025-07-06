@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Task
-title: Trained Interlocutor
-collection: Abilities
-kind: Compendium
 ---
-## Trained Interlocutor  
->**Enabler**
-  
+  
+    
+## Trained Interlocutor    
+>**Enabler**  
+    
 Through wit, charm, humor, and grace (or sometimes rudeness, threatening posture, and obscenity), you're better able to talk others into what you want. You are trained in all interactions. Enabler.
