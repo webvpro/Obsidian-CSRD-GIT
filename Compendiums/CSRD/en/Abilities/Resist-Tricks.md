@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Task
-title: Resist Tricks
-collection: Abilities
-kind: Compendium
 ---
-## Resist Tricks  
->**Enabler**
-  
+  
+    
+## Resist Tricks    
+>**Enabler**  
+    
 You're trained in solving puzzles and recognizing tricks from years of game playing. Enabler.
