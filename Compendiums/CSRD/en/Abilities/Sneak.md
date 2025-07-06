@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Low
   - Ability/Categories/Task
-title: Sneak
-collection: Abilities
-kind: Compendium
 ---
-## Sneak  
->**Enabler**
-  
+  
+    
+## Sneak    
+>**Enabler**  
+    
 You are trained in stealth and initiative tasks. Enabler.
