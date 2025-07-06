@@ -10,12 +10,11 @@ tags:
   - Ability/Pool/Intellect
   - Ability/Categories/Craft
   - Ability/Categories/Meta
-title: Modify Artifact Power
-collection: Abilities
-kind: Compendium
 ---
-## Modify Artifact Power  
->**Action**  
->6 Intellect points
-  
+  
+    
+## Modify Artifact Power    
+>**Action**    
+>6 Intellect points  
+    
 You permanently add +1 to the level of an artifact of up to level 5. The difficulty of this task is equal to the modified higher level of the artifact. If the task is failed, the artifact makes a depletion roll and is not advanced in level. Once modified, the artifact can't be similarly boosted again. Action.
