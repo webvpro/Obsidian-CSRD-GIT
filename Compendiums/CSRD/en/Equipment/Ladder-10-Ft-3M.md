@@ -6,12 +6,11 @@ tags:
   - Equipment/Fantasy
   - Equipment/Utility-Gear
   - Equipment/Value/1-Sp
-title: Ladder 10 Ft 3M
-collection: Equipment
-kind: Compendium
 ---
-## Ladder 10 Ft 3M  
-  
->  
-> **Options :** Fantasy, Utility Gear  
+  
+    
+## Ladder 10 Ft 3M    
+    
+>    
+> **Options :** Fantasy, Utility Gear    
 > **Value :** 1 Sp
