@@ -9,12 +9,11 @@ tags:
   - Ability/Tier/High
   - Ability/Pool/Speed
   - Ability/Categories/Special-Attack
-title: Dirty Fighter
-collection: Abilities
-kind: Compendium
 ---
-## Dirty Fighter  
->**Action**  
->2 Speed points
-  
+  
+    
+## Dirty Fighter    
+>**Action**    
+>2 Speed points  
+    
 You distract, blind, annoy, hamper, or otherwise interfere with a foe, hindering their attacks and defenses for one minute. Action.
