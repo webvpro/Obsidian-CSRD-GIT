@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/Mid
   - Ability/Categories/Meta
-title: Capable Warrior
-collection: Abilities
-kind: Compendium
 ---
-## Capable Warrior  
->**Enabler**
-  
+  
+    
+## Capable Warrior    
+>**Enabler**  
+    
 Your attacks deal 1 additional point of damage. Enabler.
