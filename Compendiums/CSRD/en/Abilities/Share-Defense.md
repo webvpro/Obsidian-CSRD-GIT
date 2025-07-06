@@ -8,11 +8,10 @@ tags:
   - Ability/Cost/NA
   - Ability/Tier/High
   - Ability/Categories/Support
-title: Share Defense
-collection: Abilities
-kind: Compendium
 ---
-## Share Defense  
->**Enabler**
-  
+  
+    
+## Share Defense    
+>**Enabler**  
+    
 If your training in a defense task is greater than that of an ally within short range, your advice and insight allow them to substitute your training for that defense task. Enabler.
