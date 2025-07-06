@@ -9,11 +9,10 @@ tags:
   - Ability/Tier/High
   - Ability/Categories/Meta
   - Ability/Categories/Protection
-title: Ultra Enhancement
-collection: Abilities
-kind: Compendium
 ---
-## Ultra Enhancement  
->**Enabler**
-  
+  
+    
+## Ultra Enhancement    
+>**Enabler**  
+    
 You gain +1 to Armor and +5 to each of your three stat Pools. Enabler.
