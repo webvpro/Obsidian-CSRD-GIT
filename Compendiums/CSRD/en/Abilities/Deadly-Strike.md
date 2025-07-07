@@ -10,10 +10,10 @@ tags:
   - Ability/Pool/Might
   - Ability/Categories/Special-Attack
 ---
-  
-    
-## Deadly Strike    
->**Action**    
->5 Might points  
-    
+    
+      
+## Deadly Strike      
+>**Action**      
+>5 Might points    
+      
 If you strike a foe of level 3 or lower with a weapon you're practiced with, you kill the target instantly. Action.
