@@ -9,9 +9,9 @@ tags:
   - Ability/Tier/Low
   - Ability/Categories/Task
 ---
-  
-    
-## Wilderness Lore    
->**Enabler**  
-    
+    
+      
+## Wilderness Lore      
+>**Enabler**    
+      
 You are trained in wilderness navigation and in identifying plants and creatures. Enabler.
