@@ -10,13 +10,13 @@ tags:
   - Equipment/Value/Inexpensive
   - Equipment/Weapon/Light
 ---
-  
-    
-## Knife, Simple    
-    
->breaks on attack roll of 1-2.    
-> **Options :** Armament, Contemporary, Modern    
-> **Level :** 1    
-> **Value :** Inexpensive    
->>[!note] Features    
+    
+      
+## Knife, Simple      
+      
+>breaks on attack roll of 1-2.      
+> **Options :** Armament, Contemporary, Modern      
+> **Level :** 1      
+> **Value :** Inexpensive      
+>>[!note] Features      
 >> - Light weapon
