@@ -11,15 +11,15 @@ tags:
   - Equipment/Range/Long
   - Equipment/Weapon/Rapid-Fire
 ---
-  
-    
-## Rifle, Assault    
-    
->    
-> **Options :** Armament, Contemporary, Modern    
-> **Level :** 3    
-> **Value :** Very Expensive    
->>[!note] Features    
->> - Heavy Weapon    
->> - Long range    
+    
+      
+## Rifle, Assault      
+      
+>      
+> **Options :** Armament, Contemporary, Modern      
+> **Level :** 3      
+> **Value :** Very Expensive      
+>>[!note] Features      
+>> - Heavy Weapon      
+>> - Long range      
 >> - Rapid-fire weapon
