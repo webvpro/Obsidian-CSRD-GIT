@@ -9,9 +9,9 @@ tags:
   - Ability/Tier/Low
   - Ability/Categories/Task
 ---
-  
-    
-## Careful Aim    
->**Enabler**  
-    
+    
+      
+## Careful Aim      
+>**Enabler**    
+      
 You are trained in attacks with all weapons that you throw. Enabler.
