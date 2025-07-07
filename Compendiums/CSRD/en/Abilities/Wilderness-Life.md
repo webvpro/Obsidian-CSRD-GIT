@@ -9,9 +9,9 @@ tags:
   - Ability/Tier/Low
   - Ability/Categories/Task
 ---
-  
-    
-## Wilderness Life    
->**Enabler**  
-    
+    
+      
+## Wilderness Life      
+>**Enabler**    
+      
 You are trained in two of the following: climbing, swimming, navigation, or identifying plants and creatures. Enabler.
