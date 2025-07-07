@@ -10,13 +10,13 @@ tags:
   - Equipment/Value/Expensive
   - Equipment/Weapon/Medium
 ---
-  
-    
-## Power Fist    
-    
->Power-assist gauntlet; medium weapon (but inflicts 6 points of damage from power-assist).    
-> **Options :** Advanced, Armament, Science Fiction    
-> **Level :** 3    
-> **Value :** Expensive    
->>[!note] Features    
+    
+      
+## Power Fist      
+      
+>Power-assist gauntlet; medium weapon (but inflicts 6 points of damage from power-assist).      
+> **Options :** Advanced, Armament, Science Fiction      
+> **Level :** 3      
+> **Value :** Expensive      
+>>[!note] Features      
 >> - Medium weapon
