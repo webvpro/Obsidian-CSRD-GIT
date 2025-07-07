@@ -10,9 +10,9 @@ tags:
   - Ability/Categories/Meta
   - Ability/Categories/Protection
 ---
-  
-    
-## Hard to Kill    
->**Enabler**  
-    
+    
+      
+## Hard to Kill      
+>**Enabler**    
+      
 You can choose to reroll any defense task you make but never more than once per round. Enabler.
