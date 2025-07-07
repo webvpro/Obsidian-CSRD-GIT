@@ -10,13 +10,13 @@ tags:
   - Equipment/Value/Expensive
   - Equipment/Weapon/Heavy
 ---
-  
-    
-## Broad Sword, Replica    
-    
->    
-> **Options :** Armament, Contemporary, Modern    
-> **Level :** 2    
-> **Value :** Expensive    
->>[!note] Features    
+    
+      
+## Broad Sword, Replica      
+      
+>      
+> **Options :** Armament, Contemporary, Modern      
+> **Level :** 2      
+> **Value :** Expensive      
+>>[!note] Features      
 >> - Heavy weapon

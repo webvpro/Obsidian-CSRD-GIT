@@ -10,13 +10,13 @@ tags:
   - Equipment/Value/Expensive
   - Equipment/Weapon/Light
 ---
-  
-    
-## Stun "Gun"    
-    
->Handheld device with two prongs that must contact target; light weapon (2 points of electrical damage, difficulty of attack is eased, and on additional failed Might defense roll, target is dazed 1 round).    
-> **Options :** Armament, Contemporary, Modern    
-> **Level :** 3    
-> **Value :** Expensive    
->>[!note] Features    
+    
+      
+## Stun "Gun"      
+      
+>Handheld device with two prongs that must contact target; light weapon (2 points of electrical damage, difficulty of attack is eased, and on additional failed Might defense roll, target is dazed 1 round).      
+> **Options :** Armament, Contemporary, Modern      
+> **Level :** 3      
+> **Value :** Expensive      
+>>[!note] Features      
 >> - Light weapon

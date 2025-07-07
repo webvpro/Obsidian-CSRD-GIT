@@ -9,9 +9,9 @@ tags:
   - Ability/Tier/NA
   - Ability/Categories/NA
 ---
-  
-    
-## Patient Recovery    
->**Enabler**  
-    
+    
+      
+## Patient Recovery      
+>**Enabler**    
+      
 You gain an extra ten-minute recovery roll each day. Enabler.

@@ -9,9 +9,9 @@ tags:
   - Ability/Tier/Low
   - Ability/Categories/Task
 ---
-  
-    
-## Blameless    
->**Enabler**  
-    
+    
+      
+## Blameless      
+>**Enabler**    
+      
 You are trained in one of the following: deception, stealth, or disguise. Enabler.

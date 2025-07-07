@@ -14,19 +14,19 @@ tags:
   - Equipment/Value/Expensive
   - Equipment/Armor/Medium
 ---
-  
-    
-## Kevlar Vest    
-    
->    
-> **Options :** Post-Apocalyptic, Utility Gear    
-> **Value :** Expensive    
->>[!note] Features    
->> - Medium armor    
-    
->Functions as medium armor (+2 Armor).    
-> **Options :** Apparel & Armor, Contemporary, Modern    
-> **Level :** 3    
-> **Value :** Expensive    
->>[!note] Features    
+    
+      
+## Kevlar Vest      
+      
+>      
+> **Options :** Post-Apocalyptic, Utility Gear      
+> **Value :** Expensive      
+>>[!note] Features      
+>> - Medium armor      
+      
+>Functions as medium armor (+2 Armor).      
+> **Options :** Apparel & Armor, Contemporary, Modern      
+> **Level :** 3      
+> **Value :** Expensive      
+>>[!note] Features      
 >> - Medium armor

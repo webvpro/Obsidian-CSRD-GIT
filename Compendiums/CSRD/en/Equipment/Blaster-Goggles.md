@@ -11,14 +11,14 @@ tags:
   - Equipment/Weapon/Light
   - Equipment/Range/Long
 ---
-  
-    
-## Blaster, Goggles    
-    
->Thick goggles that project twin energetic plasma-particle beams; It ignores 1 point of Armor value (except from force fields).    
-> **Options :** Armament, Fantastic, Science Fiction    
-> **Level :** 4    
-> **Value :** Very Expensive    
->>[!note] Features    
->> - Light weapon    
+    
+      
+## Blaster, Goggles      
+      
+>Thick goggles that project twin energetic plasma-particle beams; It ignores 1 point of Armor value (except from force fields).      
+> **Options :** Armament, Fantastic, Science Fiction      
+> **Level :** 4      
+> **Value :** Very Expensive      
+>>[!note] Features      
+>> - Light weapon      
 >> - Long range

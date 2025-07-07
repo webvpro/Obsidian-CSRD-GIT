@@ -9,9 +9,9 @@ tags:
   - Ability/Tier/Mid
   - Ability/Categories/Meta
 ---
-  
-    
-## Capable Warrior    
->**Enabler**  
-    
+    
+      
+## Capable Warrior      
+>**Enabler**    
+      
 Your attacks deal 1 additional point of damage. Enabler.

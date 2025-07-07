@@ -9,10 +9,10 @@ tags:
   - Ability/Tier/NA
   - Ability/Categories/NA
 ---
-  
-    
-## App Tinkerer    
->**Enabler**  
-    
-If you spend at least one day tinkering with a magical app in your possession, it functions at one level higher than normal. This applies to all magical apps in your possession, but they retain this bonus only for you. Enabler.  
-  
+    
+      
+## App Tinkerer      
+>**Enabler**    
+      
+If you spend at least one day tinkering with a magical app in your possession, it functions at one level higher than normal. This applies to all magical apps in your possession, but they retain this bonus only for you. Enabler.    
+    

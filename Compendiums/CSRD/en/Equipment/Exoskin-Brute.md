@@ -9,11 +9,11 @@ tags:
   - Equipment/Level/4
   - Equipment/Value/Very-Expensive
 ---
-  
-    
-## Exoskin, Brute    
-    
->As grav-assist exoskin, but high-tensile effectors ease all tasks related to Might.    
-> **Options :** Advanced, Apparel & Armor, Science Fiction    
-> **Level :** 4    
+    
+      
+## Exoskin, Brute      
+      
+>As grav-assist exoskin, but high-tensile effectors ease all tasks related to Might.      
+> **Options :** Advanced, Apparel & Armor, Science Fiction      
+> **Level :** 4      
 > **Value :** Very Expensive

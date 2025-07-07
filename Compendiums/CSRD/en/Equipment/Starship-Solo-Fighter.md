@@ -9,11 +9,11 @@ tags:
   - Equipment/Level/2
   - Equipment/Value/Exorbitant
 ---
-  
-    
-## Starship, Solo Fighter    
-    
->A small double-occupant starship with two weapon systems that fire blasters. Minimum size vehicle capable of FTL travel.    
-> **Options :** Fantastic, Science Fiction, Spacecraft    
-> **Level :** 2    
+    
+      
+## Starship, Solo Fighter      
+      
+>A small double-occupant starship with two weapon systems that fire blasters. Minimum size vehicle capable of FTL travel.      
+> **Options :** Fantastic, Science Fiction, Spacecraft      
+> **Level :** 2      
 > **Value :** Exorbitant

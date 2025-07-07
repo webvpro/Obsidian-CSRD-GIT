@@ -9,9 +9,9 @@ tags:
   - Ability/Tier/Low
   - Ability/Categories/Protection
 ---
-  
-    
-## Hard to Distract    
->**Enabler**  
-    
+    
+      
+## Hard to Distract      
+>**Enabler**    
+      
 You are trained in Intellect defense tasks. Enabler.

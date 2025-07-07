@@ -11,14 +11,14 @@ tags:
   - Equipment/Weapon/Heavy
   - Equipment/Range/Long
 ---
-  
-    
-## Vacuum Rifle, Assault  
-    
->As contemporary handgun, but uses special rounds designed to fire in a zero-oxygen environment, and that are self-propelling so firing this gun in zero or low gravity doesn't spin wielder backward.    
-> **Options :** Advanced, Armament, Science Fiction    
-> **Level :** 3    
-> **Value :** Very Expensive    
->>[!note] Features    
->> - Heavy weapon    
+    
+      
+## Vacuum Rifle, Assault    
+      
+>As contemporary handgun, but uses special rounds designed to fire in a zero-oxygen environment, and that are self-propelling so firing this gun in zero or low gravity doesn't spin wielder backward.      
+> **Options :** Advanced, Armament, Science Fiction      
+> **Level :** 3      
+> **Value :** Very Expensive      
+>>[!note] Features      
+>> - Heavy weapon      
 >> - Long range

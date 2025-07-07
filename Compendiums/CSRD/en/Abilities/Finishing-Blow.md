@@ -10,10 +10,10 @@ tags:
   - Ability/Pool/Might
   - Ability/Categories/Special-Attack
 ---
-  
-    
-## Finishing Blow    
->**Enabler**    
->5 Might points  
-    
+    
+      
+## Finishing Blow      
+>**Enabler**      
+>5 Might points    
+      
 If your foe is prone, stunned, or somehow helpless or incapacitated when you strike, you inflict 7 additional points of damage on a successful hit. Enabler.

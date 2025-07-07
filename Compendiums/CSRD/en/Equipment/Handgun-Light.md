@@ -16,21 +16,21 @@ tags:
   - Equipment/Weapon/Light
   - Equipment/Range/Short
 ---
-  
-    
-## Handgun, Light    
-    
->    
-> **Options :** Post-Apocalyptic, Utility Gear    
-> **Value :** Expensive    
->>[!note] Features    
->> - Light weapon    
->> - Short range    
-    
->    
-> **Options :** Armament, Contemporary, Modern    
-> **Level :** 2    
-> **Value :** Expensive    
->>[!note] Features    
->> - Light weapon    
+    
+      
+## Handgun, Light      
+      
+>      
+> **Options :** Post-Apocalyptic, Utility Gear      
+> **Value :** Expensive      
+>>[!note] Features      
+>> - Light weapon      
+>> - Short range      
+      
+>      
+> **Options :** Armament, Contemporary, Modern      
+> **Level :** 2      
+> **Value :** Expensive      
+>>[!note] Features      
+>> - Light weapon      
 >> - Short range

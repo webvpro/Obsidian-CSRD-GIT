@@ -9,9 +9,9 @@ tags:
   - Ability/Tier/Low
   - Ability/Categories/Task
 ---
-  
-    
-## Make Judgment    
->**Enabler**  
-    
+    
+      
+## Make Judgment      
+>**Enabler**    
+      
 You are trained in discerning the truth of a situation, seeing through lies, or otherwise overcoming deception. Enabler.

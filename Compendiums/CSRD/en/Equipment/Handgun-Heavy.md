@@ -16,21 +16,21 @@ tags:
   - Equipment/Weapon/Heavy
   - Equipment/Range/Long
 ---
-  
-    
-## Handgun, Heavy    
-    
->    
-> **Options :** Post-Apocalyptic, Utility Gear    
-> **Value :** Very Expensive    
->>[!note] Features    
->> - Heavy weapon    
->> - Long range    
-    
->    
-> **Options :** Armament, Contemporary, Modern    
-> **Level :** 3    
-> **Value :** Very Expensive    
->>[!note] Features    
->> - Heavy weapon    
+    
+      
+## Handgun, Heavy      
+      
+>      
+> **Options :** Post-Apocalyptic, Utility Gear      
+> **Value :** Very Expensive      
+>>[!note] Features      
+>> - Heavy weapon      
+>> - Long range      
+      
+>      
+> **Options :** Armament, Contemporary, Modern      
+> **Level :** 3      
+> **Value :** Very Expensive      
+>>[!note] Features      
+>> - Heavy weapon      
 >> - Long range

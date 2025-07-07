@@ -10,10 +10,10 @@ tags:
   - Ability/Pool/Intellect
   - Ability/Categories/NA
 ---
-  
-    
-## Boost Manifest Cypher    
->**Action**    
->2 Intellect points  
-    
+    
+      
+## Boost Manifest Cypher      
+>**Action**      
+>2 Intellect points    
+      
 The manifest cypher you activate with your next action functions as if it were 2 levels higher. Action.

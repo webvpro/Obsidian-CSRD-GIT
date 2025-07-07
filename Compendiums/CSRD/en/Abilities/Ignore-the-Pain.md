@@ -9,9 +9,9 @@ tags:
   - Ability/Tier/Low
   - Ability/Categories/Cure
 ---
-  
-    
-## Ignore the Pain    
->**Enabler**  
-    
+    
+      
+## Ignore the Pain      
+>**Enabler**    
+      
 You ignore the impaired condition and treat the debilitated condition as impaired. Enabler.

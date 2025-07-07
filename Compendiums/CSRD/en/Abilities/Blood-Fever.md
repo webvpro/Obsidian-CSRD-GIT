@@ -10,9 +10,9 @@ tags:
   - Ability/Categories/Attack-Skill
   - Ability/Categories/Protection
 ---
-  
-    
-## Blood Fever    
->**Enabler**  
-    
+    
+      
+## Blood Fever      
+>**Enabler**    
+      
 When you have no points in one or two Pools, you gain an asset to attacks or defense rolls (your choice). Enabler.

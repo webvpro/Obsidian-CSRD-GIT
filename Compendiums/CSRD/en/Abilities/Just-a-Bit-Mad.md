@@ -9,9 +9,9 @@ tags:
   - Ability/Tier/Low
   - Ability/Categories/Protection
 ---
-  
-    
-## Just a Bit Mad    
->**Enabler**  
-    
+    
+      
+## Just a Bit Mad      
+>**Enabler**    
+      
 You are trained in Intellect defense tasks. Enabler.
