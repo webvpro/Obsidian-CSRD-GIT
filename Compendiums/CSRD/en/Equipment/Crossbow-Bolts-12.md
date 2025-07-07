@@ -7,12 +7,12 @@ tags:
   - Equipment/Utility-Gear
   - Equipment/Value/Inexpensive
 ---
-  
-    
-## Crossbow Bolts (12)    
-    
->    
-> **Options :** Fantasy, Utility Gear    
-> **Value :** Inexpensive    
->>[!note] Features    
+    
+      
+## Crossbow Bolts (12)      
+      
+>      
+> **Options :** Fantasy, Utility Gear      
+> **Value :** Inexpensive      
+>>[!note] Features      
 >> - Ammunition
