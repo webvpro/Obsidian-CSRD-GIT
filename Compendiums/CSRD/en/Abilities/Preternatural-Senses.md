@@ -10,9 +10,9 @@ tags:
   - Ability/Categories/Cure
   - Ability/Categories/Task
 ---
-  
-    
-## Preternatural Senses    
->**Enabler**  
-    
+    
+      
+## Preternatural Senses      
+>**Enabler**    
+      
 While you are conscious and able to use an action, you cannot be surprised. In addition, you are trained in initiative actions. Enabler.
