@@ -10,10 +10,10 @@ tags:
   - Ability/Pool/Speed
   - Ability/Categories/Meta
 ---
-  
-    
-## Deadly Aim    
->**Action**    
->3 Speed points  
-    
+    
+      
+## Deadly Aim      
+>**Action**      
+>3 Speed points    
+      
 For the next minute, all ranged attacks you make inflict 2 additional points of damage. Action to initiate.
