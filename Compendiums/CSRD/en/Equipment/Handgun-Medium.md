@@ -16,21 +16,21 @@ tags:
   - Equipment/Range/Long
   - Equipment/Weapon/Medium
 ---
-  
-    
-## Handgun, Medium    
-    
->    
-> **Options :** Post-Apocalyptic, Utility Gear    
-> **Value :** Expensive    
->>[!note] Features    
->> - Long range    
->> - Medium weapon    
-    
->    
-> **Options :** Armament, Contemporary, Modern    
-> **Level :** 3    
-> **Value :** Expensive    
->>[!note] Features    
->> - Long range    
+    
+      
+## Handgun, Medium      
+      
+>      
+> **Options :** Post-Apocalyptic, Utility Gear      
+> **Value :** Expensive      
+>>[!note] Features      
+>> - Long range      
+>> - Medium weapon      
+      
+>      
+> **Options :** Armament, Contemporary, Modern      
+> **Level :** 3      
+> **Value :** Expensive      
+>>[!note] Features      
+>> - Long range      
 >> - Medium weapon
