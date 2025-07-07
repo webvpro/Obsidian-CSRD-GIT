@@ -11,14 +11,14 @@ tags:
   - Equipment/Weapon/Light
   - Equipment/Range/Long
 ---
-  
-    
-## Blaster, Light    
-    
->Handgun that projects an energetic plasma-particle beam; It ignores 1 point of Armor value (except from force fields).    
-> **Options :** Armament, Fantastic, Science Fiction    
-> **Level :** 4    
-> **Value :** Expensive    
->>[!note] Features    
->> - Light weapon    
+    
+      
+## Blaster, Light      
+      
+>Handgun that projects an energetic plasma-particle beam; It ignores 1 point of Armor value (except from force fields).      
+> **Options :** Armament, Fantastic, Science Fiction      
+> **Level :** 4      
+> **Value :** Expensive      
+>>[!note] Features      
+>> - Light weapon      
 >> - Long range
